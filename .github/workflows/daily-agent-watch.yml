@@ -1,35 +1,33 @@
-name: Daily AI Agent Watch
+name: 📈 Daily AI Agent & Quant Report
 
 on:
   schedule:
+    # 每天北京时间早上 8:00 (UTC 0:00) 自动触发
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # 允许网页端手动点击运行
 
 permissions:
   contents: write
 
 jobs:
-  fetch-and-summarize:
+  fetch-clean-and-summarize:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: 📥 Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set date environment variable
+      - name: 🕒 Set date environment variable
         run: echo "DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
 
-      - name: Create daily-data directory
+      - name: 📁 Create daily-data directory
         run: mkdir -p daily-data
 
-      # 抓取 GitHub star 总数最高的前10个项目
-      - name: Fetch GitHub top stars Agent projects
+      # ---------- 数据抓取 ----------
+      - name: 🕷️ Fetch GitHub top stars Agent projects
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 修复 422 错误：GitHub Search API 限制 OR 最多连接 5 个条件。
-          # 这里精简为 5 个核心关键词组合。
           QUERY='"AI agent" OR "autonomous agent" OR "multi-agent" OR "LLM agent" OR agentic stars:>100'
-          
           curl --fail -L -sS -G \
             -H "Authorization: Bearer $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
@@ -39,20 +37,12 @@ jobs:
             --data-urlencode "per_page=10" \
             "https://api.github.com/search/repositories" \
             -o "daily-data/github-stars-top10-${{ env.DATE }}.json"
-            
-          if [ ! -s "daily-data/github-stars-top10-${{ env.DATE }}.json" ]; then
-            echo "Error: GitHub stars data file is empty"
-            exit 1
-          fi
 
-      # 抓取 GitHub 最近更新的前10个项目
-      - name: Fetch GitHub recently updated Agent projects
+      - name: 🕷️ Fetch GitHub recently updated Agent projects
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 同样保持最多 5 个 OR 条件
           QUERY='"AI agent" OR "autonomous agent" OR "multi-agent" OR "LLM agent" OR agentic stars:>100'
-          
           curl --fail -L -sS -G \
             -H "Authorization: Bearer $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
@@ -62,36 +52,87 @@ jobs:
             --data-urlencode "per_page=10" \
             "https://api.github.com/search/repositories" \
             -o "daily-data/github-updated-top10-${{ env.DATE }}.json"
-            
-          if [ ! -s "daily-data/github-updated-top10-${{ env.DATE }}.json" ]; then
-            echo "Error: GitHub updated data file is empty"
-            exit 1
-          fi
 
-      # 抓取 HuggingFace 按点赞数排序的前10个模型
-      - name: Fetch HuggingFace trending Agent models
+      - name: 🕷️ Fetch HuggingFace trending Agent models
         run: |
-          curl --fail -L -sS -A "Mozilla/5.0 (compatible; OpenClawBot)" \
+          curl --fail -L -sS -A "Mozilla/5.0 (compatible; QuantBot/1.0)" \
             "https://huggingface.co/api/models?search=agent&sort=likes&direction=-1&limit=10" \
             -o "daily-data/huggingface-likes-top10-${{ env.DATE }}.json"
-            
-          if [ ! -s "daily-data/huggingface-likes-top10-${{ env.DATE }}.json" ]; then
-            echo "Error: HuggingFace data file is empty"
+
+      # ---------- 数据清洗 ----------
+      - name: 🗜️ Clean and compress JSON data
+        run: |
+          jq '.items[] | {name: .name, full_name: .full_name, stars: .stargazers_count, desc: .description, url: .html_url}' daily-data/github-stars-top10-${{ env.DATE }}.json > daily-data/stars-clean.json
+          jq '.items[] | {name: .name, full_name: .full_name, updated: .updated_at, desc: .description, url: .html_url}' daily-data/github-updated-top10-${{ env.DATE }}.json > daily-data/updated-clean.json
+          jq '.[] | {id: .id, likes: .likes}' daily-data/huggingface-likes-top10-${{ env.DATE }}.json > daily-data/hf-clean.json
+
+      # ---------- 生成报告（适配 Anthropic 格式）----------
+      - name: 🧠 Generate report via Anthropic API
+        env:
+          # 从 secrets 读取配置
+          API_KEY: ${{ secrets.ANTHROPIC_AUTH_TOKEN }}
+          BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
+          MODEL: ${{ secrets.ANTHROPIC_MODEL }}  # 可选，若未设置则使用默认值
+        run: |
+          # 如果 MODEL 未设置，使用默认值
+          if [ -z "$MODEL" ]; then
+            MODEL="claude-haiku-4-5"  # 根据你提供的示例模型名
+          fi
+
+          # 构建完整 API URL（确保添加 /v1/messages 路径）
+          API_URL="${BASE_URL}/v1/messages"
+
+          # 读取压缩后的数据（使用 ANSI-C 引用保留换行）
+          STARS_DATA=$(cat daily-data/stars-clean.json)
+          UPDATED_DATA=$(cat daily-data/updated-clean.json)
+          HF_DATA=$(cat daily-data/hf-clean.json)
+
+          # 构建带换行的数据负载
+          DATA_PAYLOAD=$'【GitHub热门项目】\n'"$STARS_DATA"$'\n\n【GitHub活跃项目】\n'"$UPDATED_DATA"$'\n\n【HuggingFace热门模型】\n'"$HF_DATA"
+
+          # 使用 jq 构造符合 Anthropic 消息格式的 payload
+          jq -n \
+            --arg model "$MODEL" \
+            --arg system "你是一个顶级的量化研究员和AI分析师。请结合数据生成兼顾'商业落地'与'顶刊(UTD24)学术科研'视角的每日AI Agent市场报告。包含：1.今日之星(亮点) 2.热门赛道 3.创业洞察(平台级机会) 4.UTD级别科研洞察(机制缺口、实证数据面板构建、量化情绪因子提取工具评估) 5.Top10榜单。严格输出Markdown。" \
+            --arg user_content "请基于以下高度压缩的数据生成 ${DATE} 的研报：\n\n$DATA_PAYLOAD" \
+            '{
+              "model": $model,
+              "max_tokens": 4096,
+              "system": $system,
+              "messages": [
+                {"role": "user", "content": $user_content}
+              ]
+            }' > payload.json
+
+          # 发送 POST 请求
+          curl --fail -sS -X POST "$API_URL" \
+               -H "x-api-key: $API_KEY" \
+               -H "anthropic-version: 2023-06-01" \
+               -H "content-type: application/json" \
+               -d @payload.json | jq -r '.content[0].text' > "daily-report-${{ env.DATE }}.md"
+
+          # 防御性检查
+          if [ ! -s "daily-report-${{ env.DATE }}.md" ]; then
+            echo "❌ 生成的报告为空，请检查 API 调用日志。"
             exit 1
           fi
 
-      # 提交并推送数据
-      - name: Commit and push data
+          echo "✅ 研报已成功生成！"
+
+      # ---------- 提交报告 ----------
+      - name: 🚀 Commit and push report
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add daily-data/
+          
+          git add daily-report-${{ env.DATE }}.md daily-data/
+          
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Daily update ${{ env.DATE }}"
+            git commit -m "📝 Auto-gen Daily AI Agent & Quant Report ${{ env.DATE }}"
             git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
             git push
           fi
