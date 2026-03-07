@@ -26,9 +26,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 直接拼接完整的查询字符串，不再使用 sed 替换空格。
-          # curl 的 --data-urlencode 会自动且正确地将空格转换为 %20，将引号转换为 %22。
-          QUERY='"AI agent" OR agentic OR "claude code" OR "open claw" OR "autonomous agent" OR "multi-agent" OR "AI assistant" OR "LLM agent" stars:>100'
+          # 修复 422 错误：GitHub Search API 限制 OR 最多连接 5 个条件。
+          # 这里精简为 5 个核心关键词组合。
+          QUERY='"AI agent" OR "autonomous agent" OR "multi-agent" OR "LLM agent" OR agentic stars:>100'
           
           curl --fail -L -sS -G \
             -H "Authorization: Bearer $GITHUB_TOKEN" \
@@ -50,7 +50,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          QUERY='"AI agent" OR agentic OR "claude code" OR "open claw" OR "autonomous agent" OR "multi-agent" OR "AI assistant" OR "LLM agent" stars:>100'
+          # 同样保持最多 5 个 OR 条件
+          QUERY='"AI agent" OR "autonomous agent" OR "multi-agent" OR "LLM agent" OR agentic stars:>100'
           
           curl --fail -L -sS -G \
             -H "Authorization: Bearer $GITHUB_TOKEN" \
