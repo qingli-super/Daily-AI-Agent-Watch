@@ -136,7 +136,7 @@ jobs:
             exit 1
           fi
           
-          echo "$REPORT_CONTENT" > "daily-report-${{ env.DATE }}.md"
+          echo "$REPORT_CONTENT" > "ai_agent_daily-report-${{ env.DATE }}.md"
           echo "✅ 精简版研报已生成！"
 
       # ---------- 提交报告（修复 Detached HEAD 推送报错）----------
