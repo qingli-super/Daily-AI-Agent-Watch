@@ -1,70 +1,70 @@
 {
-  "name": "openagents",
-  "full_name": "OpenAgentsInc/openagents",
-  "updated": "2026-03-07T14:07:44Z",
-  "desc": "Autopilot and the agent network",
-  "url": "https://github.com/OpenAgentsInc/openagents"
+  "name": "opencrabs",
+  "full_name": "adolfousier/opencrabs",
+  "updated": "2026-03-07T14:27:02Z",
+  "desc": "The self-hosted AI agent. Rust. Single binary. Fully autonomous. Built with Ratatui",
+  "url": "https://github.com/adolfousier/opencrabs"
 }
 {
-  "name": "models",
-  "full_name": "arimxyer/models",
-  "updated": "2026-03-07T14:05:04Z",
-  "desc": "CLI and TUI for browsing AI models, benchmarks, and coding agents. Compare 2000+ models across 85+ providers, explore ~400 benchmark entries from Artificial Analysis, and track 12+ coding agents with version detection.",
-  "url": "https://github.com/arimxyer/models"
-}
-{
-  "name": "yutu",
-  "full_name": "eat-pray-ai/yutu",
-  "updated": "2026-03-07T14:04:35Z",
-  "desc": "The AI agent that grows your YouTube channel on autopilot.",
-  "url": "https://github.com/eat-pray-ai/yutu"
+  "name": "agentfactory",
+  "full_name": "panaversity/agentfactory",
+  "updated": "2026-03-07T14:26:29Z",
+  "desc": "Build Digital FTEs that work 24/7. Your domain expertise—whether in sales, legal, finance, or healthcare—becomes an autonomous AI agent that never sleeps.",
+  "url": "https://github.com/panaversity/agentfactory"
 }
 {
   "name": "neo",
   "full_name": "neomjs/neo",
-  "updated": "2026-03-07T14:04:15Z",
+  "updated": "2026-03-07T14:23:26Z",
   "desc": "The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time.",
   "url": "https://github.com/neomjs/neo"
 }
 {
-  "name": "mlflow",
-  "full_name": "mlflow/mlflow",
-  "updated": "2026-03-07T14:03:44Z",
-  "desc": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.",
-  "url": "https://github.com/mlflow/mlflow"
+  "name": "CloudBase-MCP",
+  "full_name": "TencentCloudBase/CloudBase-MCP",
+  "updated": "2026-03-07T14:23:19Z",
+  "desc": "   CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. ",
+  "url": "https://github.com/TencentCloudBase/CloudBase-MCP"
 }
 {
-  "name": "idea-reality-mcp",
-  "full_name": "mnemox-ai/idea-reality-mcp",
-  "updated": "2026-03-07T14:03:31Z",
-  "desc": "Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI & Product Hunt — returns a 0-100 reality signal. MCP tool. Try: mnemox.ai/check",
-  "url": "https://github.com/mnemox-ai/idea-reality-mcp"
+  "name": "memsearch",
+  "full_name": "zilliztech/memsearch",
+  "updated": "2026-03-07T14:22:22Z",
+  "desc": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+  "url": "https://github.com/zilliztech/memsearch"
 }
 {
-  "name": "Vision-Agents",
-  "full_name": "GetStream/Vision-Agents",
-  "updated": "2026-03-07T13:59:38Z",
-  "desc": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
-  "url": "https://github.com/GetStream/Vision-Agents"
+  "name": "Operit",
+  "full_name": "AAswordman/Operit",
+  "updated": "2026-03-07T14:18:29Z",
+  "desc": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大的AI Agent",
+  "url": "https://github.com/AAswordman/Operit"
 }
 {
-  "name": "GitNexus",
-  "full_name": "abhigyanpatwari/GitNexus",
-  "updated": "2026-03-07T14:05:12Z",
-  "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-  "url": "https://github.com/abhigyanpatwari/GitNexus"
+  "name": "mission-control",
+  "full_name": "builderz-labs/mission-control",
+  "updated": "2026-03-07T14:21:11Z",
+  "desc": "The open-source dashboard for AI agent orchestration. Manage agent fleets, track tasks, monitor costs, and orchestrate workflows — with direct CLI integration, GitHub sync, and real-time monitoring.",
+  "url": "https://github.com/builderz-labs/mission-control"
 }
 {
-  "name": "gh-aw",
-  "full_name": "github/gh-aw",
-  "updated": "2026-03-07T13:56:57Z",
-  "desc": "GitHub Agentic Workflows",
-  "url": "https://github.com/github/gh-aw"
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-03-07T14:16:42Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
-  "name": "agent",
-  "full_name": "stakpak/agent",
-  "updated": "2026-03-07T13:56:03Z",
-  "desc": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
-  "url": "https://github.com/stakpak/agent"
+  "name": "loomkin",
+  "full_name": "bleuropa/loomkin",
+  "updated": "2026-03-07T14:13:18Z",
+  "desc": "What if AI agents could form teams as fluidly as humans? Spawn specialists in milliseconds, share discoveries in real-time, review each other's work, and remember everything across sessions. Watch it all unfold in a live mission control UI. Open source.",
+  "url": "https://github.com/bleuropa/loomkin"
+}
+{
+  "name": "agent-orchestrator",
+  "full_name": "ComposioHQ/agent-orchestrator",
+  "updated": "2026-03-07T14:12:10Z",
+  "desc": " Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
+  "url": "https://github.com/ComposioHQ/agent-orchestrator"
 }

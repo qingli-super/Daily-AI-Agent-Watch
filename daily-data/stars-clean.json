@@ -1,70 +1,70 @@
 {
-  "name": "langflow",
-  "full_name": "langflow-ai/langflow",
-  "stars": 145334,
-  "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-  "url": "https://github.com/langflow-ai/langflow"
-}
-{
-  "name": "dify",
-  "full_name": "langgenius/dify",
-  "stars": 131530,
-  "desc": "Production-ready platform for agentic workflow development.",
-  "url": "https://github.com/langgenius/dify"
-}
-{
-  "name": "system-prompts-and-models-of-ai-tools",
-  "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-  "stars": 129190,
-  "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-  "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
-}
-{
-  "name": "langchain",
-  "full_name": "langchain-ai/langchain",
-  "stars": 128537,
-  "desc": "The agent engineering platform",
-  "url": "https://github.com/langchain-ai/langchain"
-}
-{
-  "name": "opencode",
-  "full_name": "anomalyco/opencode",
-  "stars": 117680,
-  "desc": "The open source coding agent.",
-  "url": "https://github.com/anomalyco/opencode"
-}
-{
   "name": "awesome-llm-apps",
   "full_name": "Shubhamsaboo/awesome-llm-apps",
-  "stars": 100320,
+  "stars": 100330,
   "desc": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
   "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
 }
 {
   "name": "gemini-cli",
   "full_name": "google-gemini/gemini-cli",
-  "stars": 96777,
+  "stars": 96779,
   "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
   "url": "https://github.com/google-gemini/gemini-cli"
 }
 {
-  "name": "skills",
-  "full_name": "anthropics/skills",
-  "stars": 86388,
-  "desc": "Public repository for Agent Skills",
-  "url": "https://github.com/anthropics/skills"
-}
-{
   "name": "browser-use",
   "full_name": "browser-use/browser-use",
-  "stars": 79836,
+  "stars": 79837,
   "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
   "url": "https://github.com/browser-use/browser-use"
 }
 {
-  "name": "claude-code",
-  "full_name": "anthropics/claude-code",
-  "stars": 74867,
-  "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-  "url": "https://github.com/anthropics/claude-code"
+  "name": "lobehub",
+  "full_name": "lobehub/lobehub",
+  "stars": 73233,
+  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+  "url": "https://github.com/lobehub/lobehub"
+}
+{
+  "name": "Prompt-Engineering-Guide",
+  "full_name": "dair-ai/Prompt-Engineering-Guide",
+  "stars": 71228,
+  "desc": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+  "url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
+}
+{
+  "name": "MetaGPT",
+  "full_name": "FoundationAgents/MetaGPT",
+  "stars": 64848,
+  "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+  "url": "https://github.com/FoundationAgents/MetaGPT"
+}
+{
+  "name": "OpenBB",
+  "full_name": "OpenBB-finance/OpenBB",
+  "stars": 62666,
+  "desc": "Financial data platform for analysts, quants and AI agents.",
+  "url": "https://github.com/OpenBB-finance/OpenBB"
+}
+{
+  "name": "ai-agents-for-beginners",
+  "full_name": "microsoft/ai-agents-for-beginners",
+  "stars": 53259,
+  "desc": "12 Lessons to Get Started Building AI Agents",
+  "url": "https://github.com/microsoft/ai-agents-for-beginners"
+}
+{
+  "name": "Flowise",
+  "full_name": "FlowiseAI/Flowise",
+  "stars": 50472,
+  "desc": "Build AI Agents, Visually",
+  "url": "https://github.com/FlowiseAI/Flowise"
+}
+{
+  "name": "mem0",
+  "full_name": "mem0ai/mem0",
+  "stars": 48965,
+  "desc": "Universal memory layer for AI Agents",
+  "url": "https://github.com/mem0ai/mem0"
 }
