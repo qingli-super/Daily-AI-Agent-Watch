@@ -1,9 +1,10 @@
-name: 📈 Daily AI Agent & Quant Report (精简版)
+name: 📈 Daily AI Agent & Quant Report
 
 on:
   schedule:
+    # 每天北京时间早上 8:00 (UTC 0:00) 自动触发
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # 允许网页端手动点击运行测试
 
 permissions:
   contents: write
@@ -58,54 +59,45 @@ jobs:
             "https://huggingface.co/api/models?search=agent&sort=likes&direction=-1&limit=10" \
             -o "daily-data/huggingface-likes-top10-${{ env.DATE }}.json"
 
-      # ---------- 数据清洗 ----------
+      # ---------- 数据清洗与压缩 (省钱防 Token 爆炸) ----------
       - name: 🗜️ Clean and compress JSON data
         run: |
           jq '.items[] | {name: .name, full_name: .full_name, stars: .stargazers_count, desc: .description, url: .html_url}' daily-data/github-stars-top10-${{ env.DATE }}.json > daily-data/stars-clean.json
           jq '.items[] | {name: .name, full_name: .full_name, updated: .updated_at, desc: .description, url: .html_url}' daily-data/github-updated-top10-${{ env.DATE }}.json > daily-data/updated-clean.json
           jq '.[] | {id: .id, likes: .likes}' daily-data/huggingface-likes-top10-${{ env.DATE }}.json > daily-data/hf-clean.json
 
-      # ---------- 生成报告（精简版）----------
+      # ---------- 生成报告 (纯净 HTTP API 调用) ----------
       - name: 🧠 Generate concise report via Anthropic API
         env:
+          # 格式如：https://api.awesomeapi.com/v1/messages 或官方地址
+          API_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
           API_KEY: ${{ secrets.ANTHROPIC_AUTH_TOKEN }}
-          BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
-          MODEL: ${{ secrets.ANTHROPIC_MODEL }}
         run: |
-          # 如果 MODEL 未设置，使用默认值
-          if [ -z "$MODEL" ]; then
-            MODEL="claude-haiku-4-5"
-          fi
-
-          # 构建完整 API URL（确保添加 /v1/messages 路径）
-          API_URL="${BASE_URL}/v1/messages"
-
-          # 读取压缩后的数据
           STARS_DATA=$(cat daily-data/stars-clean.json)
           UPDATED_DATA=$(cat daily-data/updated-clean.json)
           HF_DATA=$(cat daily-data/hf-clean.json)
 
-          # 构建带换行的数据负载（使用 ANSI-C 引用）
-          DATA_PAYLOAD=$'【GitHub热门项目】\n'"$STARS_DATA"$'\n\n【GitHub活跃项目】\n'"$UPDATED_DATA"$'\n\n【HuggingFace热门模型】\n'"$HF_DATA"
+          DATA_PAYLOAD="【GitHub热门项目】\n$STARS_DATA\n\n【GitHub活跃项目】\n$UPDATED_DATA\n\n【HuggingFace热门模型】\n$HF_DATA"
+          
+          # System Prompt 强化了“精简、重点、干货”的要求
+          SYS_PROMPT="你是一个顶级的量化研究员和AI分析师。请结合数据生成每日AI Agent市场报告。要求：极度精简、拒绝废话、直击要害。包含：1.今日之星(只挑1-2个最亮眼的) 2.热门赛道一句话总结 3.创业洞察(最务实的切入点) 4.UTD级别科研洞察(机制缺口、实证数据面板构建、量化情绪因子提取工具) 5.精简的Top10榜单。严格输出Markdown，总字数控制在1500字以内。"
+          USER_PROMPT="请基于以下高度压缩的数据生成 ${DATE} 的重点研报：\n\n$DATA_PAYLOAD"
 
-          # 精简版 system prompt：强制输出重点，限制字数
-          SYSTEM_PROMPT="你是一个顶级量化研究员和AI分析师。请基于数据生成每日AI Agent市场速览，**要求：输出必须高度精简，总字数不超过300字**。聚焦于以下核心板块，每个板块只用1-2句话点明最关键信号：\n- 今日之星：最值得关注的一个项目或事件，并说明理由\n- 热门赛道：最火的一个细分方向及代表项目\n- 创业机会：一个明确的平台级机会及差异化切入点\n- UTD科研机会：一个最相关的学术研究缺口或可构建的数据面板\n**不要罗列数据表格，不要重复项目列表，直接给出结论**。"
-
-          # 使用 jq 构造符合 Anthropic 消息格式的 payload，max_tokens 设为 400
+          # 构建 JSON 请求体 (降低 max_tokens 强制模型精炼)
           jq -n \
-            --arg model "$MODEL" \
-            --arg system "$SYSTEM_PROMPT" \
-            --arg user_content "请基于以下数据生成 ${DATE} 的精简版研报：\n\n$DATA_PAYLOAD" \
+            --arg model "claude-3-5-sonnet-latest" \
+            --arg system "$SYS_PROMPT" \
+            --arg user_content "$USER_PROMPT" \
             '{
               "model": $model,
-              "max_tokens": 400,
+              "max_tokens": 1500,
               "system": $system,
               "messages": [
                 {"role": "user", "content": $user_content}
               ]
             }' > payload.json
 
-          # 发送 POST 请求
+          # 发送 API 请求并提取 Markdown 结果
           curl --fail -sS -X POST "$API_URL" \
                -H "x-api-key: $API_KEY" \
                -H "anthropic-version: 2023-06-01" \
@@ -113,14 +105,15 @@ jobs:
                -d @payload.json | jq -r '.content[0].text' > "daily-report-${{ env.DATE }}.md"
 
           # 防御性检查
-          if [ ! -s "daily-report-${{ env.DATE }}.md" ]; then
-            echo "❌ 生成的报告为空，请检查 API 调用日志。"
+          if grep -q "null" "daily-report-${{ env.DATE }}.md" || [ ! -s "daily-report-${{ env.DATE }}.md" ]; then
+            echo "❌ API 调用失败或返回为空。请检查 API URL 和 Key 配置。"
+            cat "daily-report-${{ env.DATE }}.md"
             exit 1
           fi
+          
+          echo "✅ 精简版硬核研报已成功生成！"
 
-          echo "✅ 精简版研报已生成！"
-
-      # ---------- 提交报告 ----------
+      # ---------- 提交报告 (修复了 Detached HEAD 冲突隐患) ----------
       - name: 🚀 Commit and push report
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -133,7 +126,14 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "📝 Daily AI Agent Report ${{ env.DATE }} (精简版)"
+            git commit -m "📝 Auto-gen Daily AI Agent & Quant Report ${{ env.DATE }}"
+            
+            # 设置带 token 的 remote URL
             git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-            git push
+            
+            # 拉取最新代码并变基，防止冲突
+            git pull --rebase origin main
+            
+            # 明确推送到远程的 main 分支，彻底解决环境游离问题
+            git push origin HEAD:main
           fi
