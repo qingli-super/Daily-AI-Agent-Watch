@@ -18,20 +18,24 @@ jobs:
 
       - name: Fetch GitHub trending Agent projects
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub Actions自动提供
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # 定义要搜索的关键词（可根据需要调整）
           KEYWORDS='"AI agent" OR "agentic" OR "claude-code" OR "open-claw" OR "autonomous agent" OR "multi-agent"'
-          
-          # 使用GitHub API搜索，按star排序，取前20
-          curl -H "Authorization: token $GITHUB_TOKEN" \
-            "https://api.github.com/search/repositories?q=$KEYWORDS+stars:>100&sort=stars&order=desc&per_page=20" \
+          # 使用 --data-urlencode 自动编码参数，-G 将参数附加到 GET 请求的 URL 上
+          curl --fail -G -H "Authorization: token $GITHUB_TOKEN" \
+            --data-urlencode "q=$KEYWORDS stars:>100" \
+            --data-urlencode "sort=stars" \
+            --data-urlencode "order=desc" \
+            --data-urlencode "per_page=20" \
+            "https://api.github.com/search/repositories" \
             > daily-data/github-$(date +'%Y%m%d').json
 
       - name: Fetch HuggingFace trending Agent models
         run: |
           # HuggingFace API搜索agent相关模型，按点赞数排序
-          curl "https://huggingface.co/api/models?search=agent&sort=likes&direction=-1&limit=20" \
+          curl --fail -A "Mozilla/5.0 (compatible; OpenClawBot)" \
+            "https://huggingface.co/api/models?search=agent&sort=likes&direction=-1&limit=20" \
             > daily-data/huggingface-$(date +'%Y%m%d').json
 
       - name: Commit and push data
@@ -39,6 +43,6 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add daily-data/
-          # 如果没有新文件，git commit会失败，所以用 exit 0 忽略
-          git commit -m "Daily update $(date +'%Y%m%d')" || exit 0
+          # 如果没有新文件，git commit 会失败，所以用条件判断避免错误退出
+          git diff --quiet && git diff --staged --quiet || git commit -m "Daily update $(date +'%Y%m%d')"
           git push
