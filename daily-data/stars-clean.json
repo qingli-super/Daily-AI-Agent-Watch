@@ -1,0 +1,70 @@
+{
+  "name": "langflow",
+  "full_name": "langflow-ai/langflow",
+  "stars": 145334,
+  "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+  "url": "https://github.com/langflow-ai/langflow"
+}
+{
+  "name": "dify",
+  "full_name": "langgenius/dify",
+  "stars": 131530,
+  "desc": "Production-ready platform for agentic workflow development.",
+  "url": "https://github.com/langgenius/dify"
+}
+{
+  "name": "system-prompts-and-models-of-ai-tools",
+  "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "stars": 129190,
+  "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+  "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+}
+{
+  "name": "langchain",
+  "full_name": "langchain-ai/langchain",
+  "stars": 128537,
+  "desc": "The agent engineering platform",
+  "url": "https://github.com/langchain-ai/langchain"
+}
+{
+  "name": "opencode",
+  "full_name": "anomalyco/opencode",
+  "stars": 117680,
+  "desc": "The open source coding agent.",
+  "url": "https://github.com/anomalyco/opencode"
+}
+{
+  "name": "awesome-llm-apps",
+  "full_name": "Shubhamsaboo/awesome-llm-apps",
+  "stars": 100320,
+  "desc": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+  "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+}
+{
+  "name": "gemini-cli",
+  "full_name": "google-gemini/gemini-cli",
+  "stars": 96777,
+  "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+  "url": "https://github.com/google-gemini/gemini-cli"
+}
+{
+  "name": "skills",
+  "full_name": "anthropics/skills",
+  "stars": 86388,
+  "desc": "Public repository for Agent Skills",
+  "url": "https://github.com/anthropics/skills"
+}
+{
+  "name": "browser-use",
+  "full_name": "browser-use/browser-use",
+  "stars": 79836,
+  "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+  "url": "https://github.com/browser-use/browser-use"
+}
+{
+  "name": "claude-code",
+  "full_name": "anthropics/claude-code",
+  "stars": 74867,
+  "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+  "url": "https://github.com/anthropics/claude-code"
+}

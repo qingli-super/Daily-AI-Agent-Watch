@@ -1,0 +1,70 @@
+{
+  "name": "openagents",
+  "full_name": "OpenAgentsInc/openagents",
+  "updated": "2026-03-07T14:07:44Z",
+  "desc": "Autopilot and the agent network",
+  "url": "https://github.com/OpenAgentsInc/openagents"
+}
+{
+  "name": "models",
+  "full_name": "arimxyer/models",
+  "updated": "2026-03-07T14:05:04Z",
+  "desc": "CLI and TUI for browsing AI models, benchmarks, and coding agents. Compare 2000+ models across 85+ providers, explore ~400 benchmark entries from Artificial Analysis, and track 12+ coding agents with version detection.",
+  "url": "https://github.com/arimxyer/models"
+}
+{
+  "name": "yutu",
+  "full_name": "eat-pray-ai/yutu",
+  "updated": "2026-03-07T14:04:35Z",
+  "desc": "The AI agent that grows your YouTube channel on autopilot.",
+  "url": "https://github.com/eat-pray-ai/yutu"
+}
+{
+  "name": "neo",
+  "full_name": "neomjs/neo",
+  "updated": "2026-03-07T14:04:15Z",
+  "desc": "The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time.",
+  "url": "https://github.com/neomjs/neo"
+}
+{
+  "name": "mlflow",
+  "full_name": "mlflow/mlflow",
+  "updated": "2026-03-07T14:03:44Z",
+  "desc": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.",
+  "url": "https://github.com/mlflow/mlflow"
+}
+{
+  "name": "idea-reality-mcp",
+  "full_name": "mnemox-ai/idea-reality-mcp",
+  "updated": "2026-03-07T14:03:31Z",
+  "desc": "Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI & Product Hunt — returns a 0-100 reality signal. MCP tool. Try: mnemox.ai/check",
+  "url": "https://github.com/mnemox-ai/idea-reality-mcp"
+}
+{
+  "name": "Vision-Agents",
+  "full_name": "GetStream/Vision-Agents",
+  "updated": "2026-03-07T13:59:38Z",
+  "desc": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
+  "url": "https://github.com/GetStream/Vision-Agents"
+}
+{
+  "name": "GitNexus",
+  "full_name": "abhigyanpatwari/GitNexus",
+  "updated": "2026-03-07T14:05:12Z",
+  "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+  "url": "https://github.com/abhigyanpatwari/GitNexus"
+}
+{
+  "name": "gh-aw",
+  "full_name": "github/gh-aw",
+  "updated": "2026-03-07T13:56:57Z",
+  "desc": "GitHub Agentic Workflows",
+  "url": "https://github.com/github/gh-aw"
+}
+{
+  "name": "agent",
+  "full_name": "stakpak/agent",
+  "updated": "2026-03-07T13:56:03Z",
+  "desc": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+  "url": "https://github.com/stakpak/agent"
+}
