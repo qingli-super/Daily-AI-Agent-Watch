@@ -1,10 +1,9 @@
-name: 📈 Daily AI Agent & Quant Report
+name: 📈 Daily AI Agent & Quant Report (精简版)
 
 on:
   schedule:
-    # 每天北京时间早上 8:00 (UTC 0:00) 自动触发
     - cron: '0 0 * * *'
-  workflow_dispatch: # 允许网页端手动点击运行
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -66,38 +65,40 @@ jobs:
           jq '.items[] | {name: .name, full_name: .full_name, updated: .updated_at, desc: .description, url: .html_url}' daily-data/github-updated-top10-${{ env.DATE }}.json > daily-data/updated-clean.json
           jq '.[] | {id: .id, likes: .likes}' daily-data/huggingface-likes-top10-${{ env.DATE }}.json > daily-data/hf-clean.json
 
-      # ---------- 生成报告（适配 Anthropic 格式）----------
-      - name: 🧠 Generate report via Anthropic API
+      # ---------- 生成报告（精简版）----------
+      - name: 🧠 Generate concise report via Anthropic API
         env:
-          # 从 secrets 读取配置
           API_KEY: ${{ secrets.ANTHROPIC_AUTH_TOKEN }}
           BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
-          MODEL: ${{ secrets.ANTHROPIC_MODEL }}  # 可选，若未设置则使用默认值
+          MODEL: ${{ secrets.ANTHROPIC_MODEL }}
         run: |
           # 如果 MODEL 未设置，使用默认值
           if [ -z "$MODEL" ]; then
-            MODEL="claude-haiku-4-5"  # 根据你提供的示例模型名
+            MODEL="claude-haiku-4-5"
           fi
 
           # 构建完整 API URL（确保添加 /v1/messages 路径）
           API_URL="${BASE_URL}/v1/messages"
 
-          # 读取压缩后的数据（使用 ANSI-C 引用保留换行）
+          # 读取压缩后的数据
           STARS_DATA=$(cat daily-data/stars-clean.json)
           UPDATED_DATA=$(cat daily-data/updated-clean.json)
           HF_DATA=$(cat daily-data/hf-clean.json)
 
-          # 构建带换行的数据负载
+          # 构建带换行的数据负载（使用 ANSI-C 引用）
           DATA_PAYLOAD=$'【GitHub热门项目】\n'"$STARS_DATA"$'\n\n【GitHub活跃项目】\n'"$UPDATED_DATA"$'\n\n【HuggingFace热门模型】\n'"$HF_DATA"
 
-          # 使用 jq 构造符合 Anthropic 消息格式的 payload
+          # 精简版 system prompt：强制输出重点，限制字数
+          SYSTEM_PROMPT="你是一个顶级量化研究员和AI分析师。请基于数据生成每日AI Agent市场速览，**要求：输出必须高度精简，总字数不超过300字**。聚焦于以下核心板块，每个板块只用1-2句话点明最关键信号：\n- 今日之星：最值得关注的一个项目或事件，并说明理由\n- 热门赛道：最火的一个细分方向及代表项目\n- 创业机会：一个明确的平台级机会及差异化切入点\n- UTD科研机会：一个最相关的学术研究缺口或可构建的数据面板\n**不要罗列数据表格，不要重复项目列表，直接给出结论**。"
+
+          # 使用 jq 构造符合 Anthropic 消息格式的 payload，max_tokens 设为 400
           jq -n \
             --arg model "$MODEL" \
-            --arg system "你是一个顶级的量化研究员和AI分析师。请结合数据生成兼顾'商业落地'与'顶刊(UTD24)学术科研'视角的每日AI Agent市场报告。包含：1.今日之星(亮点) 2.热门赛道 3.创业洞察(平台级机会) 4.UTD级别科研洞察(机制缺口、实证数据面板构建、量化情绪因子提取工具评估) 5.Top10榜单。严格输出Markdown。" \
-            --arg user_content "请基于以下高度压缩的数据生成 ${DATE} 的研报：\n\n$DATA_PAYLOAD" \
+            --arg system "$SYSTEM_PROMPT" \
+            --arg user_content "请基于以下数据生成 ${DATE} 的精简版研报：\n\n$DATA_PAYLOAD" \
             '{
               "model": $model,
-              "max_tokens": 4096,
+              "max_tokens": 400,
               "system": $system,
               "messages": [
                 {"role": "user", "content": $user_content}
@@ -117,7 +118,7 @@ jobs:
             exit 1
           fi
 
-          echo "✅ 研报已成功生成！"
+          echo "✅ 精简版研报已生成！"
 
       # ---------- 提交报告 ----------
       - name: 🚀 Commit and push report
@@ -132,7 +133,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "📝 Auto-gen Daily AI Agent & Quant Report ${{ env.DATE }}"
+            git commit -m "📝 Daily AI Agent Report ${{ env.DATE }} (精简版)"
             git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
             git push
           fi
