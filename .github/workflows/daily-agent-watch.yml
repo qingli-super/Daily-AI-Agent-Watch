@@ -1,0 +1,44 @@
+name: Daily AI Agent Watch
+
+on:
+  schedule:
+    # 每天 UTC 0点运行（北京时间早上8点）
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  fetch-and-summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Create daily-data directory if not exists
+        run: mkdir -p daily-data
+
+      - name: Fetch GitHub trending Agent projects
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub Actions自动提供
+        run: |
+          # 定义要搜索的关键词（可根据需要调整）
+          KEYWORDS='"AI agent" OR "agentic" OR "claude-code" OR "open-claw" OR "autonomous agent" OR "multi-agent"'
+          
+          # 使用GitHub API搜索，按star排序，取前20
+          curl -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/search/repositories?q=$KEYWORDS+stars:>100&sort=stars&order=desc&per_page=20" \
+            > daily-data/github-$(date +'%Y%m%d').json
+
+      - name: Fetch HuggingFace trending Agent models
+        run: |
+          # HuggingFace API搜索agent相关模型，按点赞数排序
+          curl "https://huggingface.co/api/models?search=agent&sort=likes&direction=-1&limit=20" \
+            > daily-data/huggingface-$(date +'%Y%m%d').json
+
+      - name: Commit and push data
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add daily-data/
+          # 如果没有新文件，git commit会失败，所以用 exit 0 忽略
+          git commit -m "Daily update $(date +'%Y%m%d')" || exit 0
+          git push
