@@ -1,70 +1,70 @@
 {
-  "name": "opencrabs",
-  "full_name": "adolfousier/opencrabs",
-  "updated": "2026-03-07T14:27:02Z",
-  "desc": "The self-hosted AI agent. Rust. Single binary. Fully autonomous. Built with Ratatui",
-  "url": "https://github.com/adolfousier/opencrabs"
+  "name": "botdrop-android",
+  "full_name": "zhixianio/botdrop-android",
+  "updated": "2026-03-10T01:52:59Z",
+  "desc": "Run AI agents on your Android phone — no terminal, no CLI, just a guided setup.",
+  "url": "https://github.com/zhixianio/botdrop-android"
 }
 {
-  "name": "agentfactory",
-  "full_name": "panaversity/agentfactory",
-  "updated": "2026-03-07T14:26:29Z",
-  "desc": "Build Digital FTEs that work 24/7. Your domain expertise—whether in sales, legal, finance, or healthcare—becomes an autonomous AI agent that never sleeps.",
-  "url": "https://github.com/panaversity/agentfactory"
+  "name": "Athena-Public",
+  "full_name": "winstonkoh87/Athena-Public",
+  "updated": "2026-03-10T01:52:49Z",
+  "desc": "The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.",
+  "url": "https://github.com/winstonkoh87/Athena-Public"
 }
 {
-  "name": "neo",
-  "full_name": "neomjs/neo",
-  "updated": "2026-03-07T14:23:26Z",
-  "desc": "The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time.",
-  "url": "https://github.com/neomjs/neo"
+  "name": "Sage",
+  "full_name": "ZHangZHengEric/Sage",
+  "updated": "2026-03-10T01:51:55Z",
+  "desc": "Multi-Agent System Framework For Complex Tasks",
+  "url": "https://github.com/ZHangZHengEric/Sage"
 }
 {
-  "name": "CloudBase-MCP",
-  "full_name": "TencentCloudBase/CloudBase-MCP",
-  "updated": "2026-03-07T14:23:19Z",
-  "desc": "   CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. ",
-  "url": "https://github.com/TencentCloudBase/CloudBase-MCP"
+  "name": "studio",
+  "full_name": "decocms/studio",
+  "updated": "2026-03-10T01:50:59Z",
+  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+  "url": "https://github.com/decocms/studio"
 }
 {
-  "name": "memsearch",
-  "full_name": "zilliztech/memsearch",
-  "updated": "2026-03-07T14:22:22Z",
-  "desc": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-  "url": "https://github.com/zilliztech/memsearch"
+  "name": "mlflow",
+  "full_name": "mlflow/mlflow",
+  "updated": "2026-03-10T01:50:44Z",
+  "desc": "The open source AI engineering platform. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI agents, LLM applications, and ML models while controlling costs and managing access to models and data.",
+  "url": "https://github.com/mlflow/mlflow"
 }
 {
-  "name": "Operit",
-  "full_name": "AAswordman/Operit",
-  "updated": "2026-03-07T14:18:29Z",
-  "desc": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大的AI Agent",
-  "url": "https://github.com/AAswordman/Operit"
+  "name": "lobehub",
+  "full_name": "lobehub/lobehub",
+  "updated": "2026-03-10T01:53:32Z",
+  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+  "url": "https://github.com/lobehub/lobehub"
 }
 {
-  "name": "mission-control",
-  "full_name": "builderz-labs/mission-control",
-  "updated": "2026-03-07T14:21:11Z",
-  "desc": "The open-source dashboard for AI agent orchestration. Manage agent fleets, track tasks, monitor costs, and orchestrate workflows — with direct CLI integration, GitHub sync, and real-time monitoring.",
-  "url": "https://github.com/builderz-labs/mission-control"
+  "name": "solace-agent-mesh",
+  "full_name": "SolaceLabs/solace-agent-mesh",
+  "updated": "2026-03-10T01:49:03Z",
+  "desc": "An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-step workflows.",
+  "url": "https://github.com/SolaceLabs/solace-agent-mesh"
 }
 {
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-03-07T14:16:42Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
+  "name": "animaworks",
+  "full_name": "xuiltul/animaworks",
+  "updated": "2026-03-10T01:48:01Z",
+  "desc": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/GPT/Gemini/Ollama).",
+  "url": "https://github.com/xuiltul/animaworks"
 }
 {
-  "name": "loomkin",
-  "full_name": "bleuropa/loomkin",
-  "updated": "2026-03-07T14:13:18Z",
-  "desc": "What if AI agents could form teams as fluidly as humans? Spawn specialists in milliseconds, share discoveries in real-time, review each other's work, and remember everything across sessions. Watch it all unfold in a live mission control UI. Open source.",
-  "url": "https://github.com/bleuropa/loomkin"
+  "name": "otter-camp",
+  "full_name": "samhotchkiss/otter-camp",
+  "updated": "2026-03-10T01:46:33Z",
+  "desc": "🦦 otter.camp — Work management for AI agent teams",
+  "url": "https://github.com/samhotchkiss/otter-camp"
 }
 {
-  "name": "agent-orchestrator",
-  "full_name": "ComposioHQ/agent-orchestrator",
-  "updated": "2026-03-07T14:12:10Z",
-  "desc": " Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
-  "url": "https://github.com/ComposioHQ/agent-orchestrator"
+  "name": "adk-java",
+  "full_name": "google/adk-java",
+  "updated": "2026-03-10T01:46:00Z",
+  "desc": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "url": "https://github.com/google/adk-java"
 }
