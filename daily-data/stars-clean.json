@@ -1,14 +1,14 @@
 {
   "name": "awesome-llm-apps",
   "full_name": "Shubhamsaboo/awesome-llm-apps",
-  "stars": 104463,
+  "stars": 104465,
   "desc": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
   "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
 }
 {
   "name": "firecrawl",
   "full_name": "firecrawl/firecrawl",
-  "stars": 103912,
+  "stars": 103917,
   "desc": "🔥 The Web Data API for AI - Power AI agents with clean web data",
   "url": "https://github.com/firecrawl/firecrawl"
 }
@@ -22,14 +22,14 @@
 {
   "name": "browser-use",
   "full_name": "browser-use/browser-use",
-  "stars": 85976,
+  "stars": 85978,
   "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
   "url": "https://github.com/browser-use/browser-use"
 }
 {
   "name": "lobehub",
   "full_name": "lobehub/lobehub",
-  "stars": 74722,
+  "stars": 74721,
   "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
   "url": "https://github.com/lobehub/lobehub"
 }
@@ -50,7 +50,7 @@
 {
   "name": "autoresearch",
   "full_name": "karpathy/autoresearch",
-  "stars": 65347,
+  "stars": 65357,
   "desc": "AI agents running research on single-GPU nanochat training automatically",
   "url": "https://github.com/karpathy/autoresearch"
 }
@@ -64,7 +64,7 @@
 {
   "name": "deer-flow",
   "full_name": "bytedance/deer-flow",
-  "stars": 57598,
+  "stars": 57604,
   "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
   "url": "https://github.com/bytedance/deer-flow"
 }

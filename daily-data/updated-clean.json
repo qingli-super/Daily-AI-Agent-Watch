@@ -1,70 +1,70 @@
 {
-  "name": "opencli",
-  "full_name": "jackwener/opencli",
-  "updated": "2026-04-04T13:32:46Z",
-  "desc": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-  "url": "https://github.com/jackwener/opencli"
+  "name": "osaurus",
+  "full_name": "osaurus-ai/osaurus",
+  "updated": "2026-04-04T13:46:32Z",
+  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+  "url": "https://github.com/osaurus-ai/osaurus"
 }
 {
-  "name": "BookWorm",
-  "full_name": "foxminchan/BookWorm",
-  "updated": "2026-04-04T13:32:12Z",
-  "desc": "The practical implementation of Aspire using Microservices, AI-Agents",
-  "url": "https://github.com/foxminchan/BookWorm"
-}
-{
-  "name": "OfficeCLI",
-  "full_name": "iOfficeAI/OfficeCLI",
-  "updated": "2026-04-04T13:31:18Z",
-  "desc": "OfficeCLI is the first and best command-line tool purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-  "url": "https://github.com/iOfficeAI/OfficeCLI"
-}
-{
-  "name": "neo",
-  "full_name": "neomjs/neo",
-  "updated": "2026-04-04T13:30:21Z",
-  "desc": "The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time.",
-  "url": "https://github.com/neomjs/neo"
-}
-{
-  "name": "agentica",
-  "full_name": "shibing624/agentica",
-  "updated": "2026-04-04T13:28:00Z",
-  "desc": "Agentica: Lightweight async-first Python framework for AI agents. 轻量级异步优先的AI Agent框架，支持工具调用、RAG、多智能体和MCP。",
-  "url": "https://github.com/shibing624/agentica"
-}
-{
-  "name": "openclaw-dashboard",
-  "full_name": "mudrii/openclaw-dashboard",
-  "updated": "2026-04-04T13:32:11Z",
-  "desc": "A beautiful, zero-dependency command center for OpenClaw AI agents",
-  "url": "https://github.com/mudrii/openclaw-dashboard"
-}
-{
-  "name": "deer-flow",
-  "full_name": "bytedance/deer-flow",
-  "updated": "2026-04-04T13:27:01Z",
-  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-  "url": "https://github.com/bytedance/deer-flow"
-}
-{
-  "name": "lobehub",
-  "full_name": "lobehub/lobehub",
-  "updated": "2026-04-04T13:30:50Z",
-  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-  "url": "https://github.com/lobehub/lobehub"
-}
-{
-  "name": "agent-orchestrator",
-  "full_name": "ComposioHQ/agent-orchestrator",
-  "updated": "2026-04-04T13:26:22Z",
-  "desc": " Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
-  "url": "https://github.com/ComposioHQ/agent-orchestrator"
+  "name": "agent-device",
+  "full_name": "callstackincubator/agent-device",
+  "updated": "2026-04-04T13:46:05Z",
+  "desc": "CLI to control iOS and Android devices for AI agents",
+  "url": "https://github.com/callstackincubator/agent-device"
 }
 {
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-04T13:24:35Z",
+  "updated": "2026-04-04T13:47:33Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
   "url": "https://github.com/marcusquinn/aidevops"
+}
+{
+  "name": "deer-flow",
+  "full_name": "bytedance/deer-flow",
+  "updated": "2026-04-04T13:46:40Z",
+  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+  "url": "https://github.com/bytedance/deer-flow"
+}
+{
+  "name": "squad",
+  "full_name": "bradygaster/squad",
+  "updated": "2026-04-04T13:44:41Z",
+  "desc": "Squad: AI agent teams for any project",
+  "url": "https://github.com/bradygaster/squad"
+}
+{
+  "name": "BookWorm",
+  "full_name": "foxminchan/BookWorm",
+  "updated": "2026-04-04T13:43:01Z",
+  "desc": "The practical implementation of Aspire using Microservices, AI-Agents",
+  "url": "https://github.com/foxminchan/BookWorm"
+}
+{
+  "name": "oxideterm",
+  "full_name": "AnalyseDeCircuit/oxideterm",
+  "updated": "2026-04-04T13:41:15Z",
+  "desc": "All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.",
+  "url": "https://github.com/AnalyseDeCircuit/oxideterm"
+}
+{
+  "name": "hive",
+  "full_name": "morapelker/hive",
+  "updated": "2026-04-04T13:39:59Z",
+  "desc": "Project/Worktree manager, deeply integrated with AI agents to increase productivity and multitask efficiently",
+  "url": "https://github.com/morapelker/hive"
+}
+{
+  "name": "mem0",
+  "full_name": "mem0ai/mem0",
+  "updated": "2026-04-04T13:41:14Z",
+  "desc": "Universal memory layer for AI Agents",
+  "url": "https://github.com/mem0ai/mem0"
+}
+{
+  "name": "ouroboros",
+  "full_name": "Q00/ouroboros",
+  "updated": "2026-04-04T13:39:39Z",
+  "desc": "Stop prompting. Start specifying.",
+  "url": "https://github.com/Q00/ouroboros"
 }
