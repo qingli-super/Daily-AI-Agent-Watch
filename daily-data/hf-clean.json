@@ -4,37 +4,37 @@
 }
 {
   "id": "agentica-org/DeepScaleR-1.5B-Preview",
-  "likes": 577
+  "likes": 575
 }
 {
   "id": "agents-course/notebooks",
-  "likes": 532
+  "likes": 543
 }
 {
   "id": "openbmb/AgentCPM-Explore",
-  "likes": 326
+  "likes": 328
 }
 {
   "id": "fishaudio/fish-agent-v0.1-3b",
-  "likes": 272
+  "likes": 274
 }
 {
   "id": "openbmb/AgentCPM-Report",
-  "likes": 245
+  "likes": 247
 }
 {
   "id": "agentica-org/DeepSWE-Preview",
-  "likes": 192
+  "likes": 193
+}
+{
+  "id": "openbmb/AgentCPM-GUI",
+  "likes": 133
 }
 {
   "id": "Nexusflow/Athene-V2-Agent",
   "likes": 132
 }
 {
-  "id": "openbmb/AgentCPM-GUI",
-  "likes": 132
-}
-{
   "id": "Adilbai/stock-trading-rl-agent",
-  "likes": 116
+  "likes": 130
 }
