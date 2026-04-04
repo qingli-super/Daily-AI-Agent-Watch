@@ -131,9 +131,18 @@ jobs:
           REPORT_CONTENT=$(jq -r '.content[0].text // .choices[0].message.content // empty' response.json 2>/dev/null)
 
           if [ -z "$REPORT_CONTENT" ]; then
-            echo "❌ 生成的报告为空或 API 报错！API 原始返回内容如下："
+            echo "⚠️ API 返回为空或报错，降级为本地模板报告。API 原始返回内容如下："
             cat response.json
-            exit 1
+            TOP_STAR=$(jq -r '.[0].full_name // .[0].name // "N/A"' daily-data/stars-clean.json 2>/dev/null || echo "N/A")
+            TOP_UPDATED=$(jq -r '.[0].full_name // .[0].name // "N/A"' daily-data/updated-clean.json 2>/dev/null || echo "N/A")
+            TOP_HF=$(jq -r '.[0].id // "N/A"' daily-data/hf-clean.json 2>/dev/null || echo "N/A")
+            REPORT_CONTENT=$(printf '%s\n' \
+              "今日自动报告（降级模式）：" \
+              "- GitHub 热门：${TOP_STAR}" \
+              "- GitHub 活跃：${TOP_UPDATED}" \
+              "- HuggingFace 热门：${TOP_HF}" \
+              "" \
+              "说明：本次大模型接口不可用（可能为 token/网关配置问题），已使用本地数据生成简版报告。")
           fi
           
           echo "$REPORT_CONTENT" > "ai_agent_daily-report-${{ env.DATE }}.md"
