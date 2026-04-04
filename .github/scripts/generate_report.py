@@ -90,7 +90,7 @@ def infer_hot_track_semantic(corpus: list[str]) -> str:
 def make_report(date: str, stars: list[dict[str, Any]], updated: list[dict[str, Any]], hf: list[dict[str, Any]]) -> str:
     top_star = pick_top_star(stars, updated)
     top_star_name = top_star.get("full_name") or top_star.get("name") or "N/A"
-    top_star_desc = (top_star.get("desc") or "该项目在可落地场景与工程可复用性上表现突出。").strip()
+    top_star_desc = (top_star.get("desc") or "").strip()
     top_star_stars = safe_int(top_star.get("stars"))
 
     top_hf = max(hf, key=lambda x: safe_int(x.get("likes"))) if hf else {}
@@ -122,10 +122,16 @@ def make_report(date: str, stars: list[dict[str, Any]], updated: list[dict[str, 
         "Agent 基础设施平台": "建议跟踪“单位任务成本、时延分位数、成功率”，构建可运营的Agent SLA。",
     }
 
+    star_line = f"今日之星：{top_star_name}（⭐{top_star_stars}）。"
+    if top_star_desc:
+        star_line += f" 项目描述：{top_star_desc}"
+    else:
+        star_line += " 项目描述：暂无公开描述。"
+
     lines = [
         f"今日AI Agent速览（{date}）",
         "",
-        f"今日之星：{top_star_name}（⭐{top_star_stars}）。它的核心价值是把复杂能力产品化，降低普通团队使用门槛。{top_star_desc[:60]}",
+        star_line,
         f"热门赛道：{hot_track}，从榜单信号看，市场在追求“可执行、可集成、可规模化”的真实生产力工具。",
         f"创业机会：{opportunity_map.get(hot_track, opportunity_map['多智能体协作与自动化'])}",
         f"科研与量化洞察：{insight_map.get(hot_track, insight_map['多智能体协作与自动化'])} 另，HuggingFace热度模型为 {top_hf_name}。",
@@ -136,7 +142,8 @@ def make_report(date: str, stars: list[dict[str, Any]], updated: list[dict[str, 
 def make_fallback(date: str, stars: list[dict[str, Any]], updated: list[dict[str, Any]], hf: list[dict[str, Any]]) -> str:
     top_star = pick_top_star(stars, updated)
     top_star_name = top_star.get("full_name") or top_star.get("name") or "N/A"
-    top_updated_name = updated[0].get("full_name") if updated else "N/A"
+    top_active = updated[0] if updated else top_star
+    top_updated_name = top_active.get("full_name") or top_active.get("name") or "N/A"
     top_hf_name = (max(hf, key=lambda x: safe_int(x.get("likes"))).get("id") if hf else "N/A")
     lines = [
         f"今日AI Agent速览（{date}，降级模式）",
