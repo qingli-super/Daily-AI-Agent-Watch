@@ -86,67 +86,20 @@ jobs:
             exit 1
           fi
 
-      # ---------- 生成报告（修复防漏错机制 + 修复模型名称）----------
-      - name: 🧠 Generate concise report via Anthropic API
-        env:
-          API_KEY: ${{ secrets.ANTHROPIC_AUTH_TOKEN }}
-          BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
-          MODEL: ${{ secrets.ANTHROPIC_MODEL }}
+      # ---------- 生成报告（本地NLP语义理解 + 回退机制）----------
+      - name: 🐍 Install Python NLP dependencies
         run: |
-          # 【修复】使用官方正确的最新 Haiku 模型名称
-          if [ -z "$MODEL" ]; then
-            MODEL="claude-3-5-haiku-20241022" 
-          fi
-          API_URL="${BASE_URL}/v1/messages"
+          python -m pip install --upgrade pip
+          pip install "sentence-transformers==3.0.1"
 
-          STARS_DATA=$(cat daily-data/stars-clean.json)
-          UPDATED_DATA=$(cat daily-data/updated-clean.json)
-          HF_DATA=$(cat daily-data/hf-clean.json)
-
-          DATA_PAYLOAD=$'【GitHub热门项目】\n'"$STARS_DATA"$'\n\n【GitHub活跃项目】\n'"$UPDATED_DATA"$'\n\n【HuggingFace热门模型】\n'"$HF_DATA"
-
-          SYSTEM_PROMPT="你是一位兼具硬核数据敏锐度与顶级商业嗅觉的AI量化分析师。请基于输入数据，提炼每日AI Agent市场速览。 **核心要求：输出必须高度精简（总字数严控在300字以内），且语言风格必须【通俗易懂、深入浅出】，将复杂的学术和技术概念转化为非技术人群也能秒懂的大白话，拒绝生涩难懂的黑话。** 请聚焦以下核心板块，每个板块只用1-2句精炼的话点明关键信号： - 今日之星：选出最值得关注的1个项目，用大白话解释它到底牛在哪里、解决了什么实际问题。 - 热门赛道：指出最火的细分方向及代表项目，一句话点透它的核心应用场景。 - 创业机会：发现一个明确的平台级机会或差异化切入点，说明它能帮企业或普通人解决什么痛点。 - 科研与量化洞察（UTD级别）：指明一个最相关的学术研究缺口或可构建的数据指标，用通俗的语言解释研究它的商业或实战价值。 **严格红线：禁止罗列数据表格，禁止“报菜名”式的项目列表，直接抛出最具信息密度的结论。**。"
-
-          jq -n \
-            --arg model "$MODEL" \
-            --arg system "$SYSTEM_PROMPT" \
-            --arg user_content "请基于以下数据生成 ${DATE} 的精简版研报：\n\n$DATA_PAYLOAD" \
-            '{
-              "model": $model,
-              "max_tokens": 300,
-              "system": $system,
-              "messages": [
-                {"role": "user", "content": $user_content}
-              ]
-            }' > payload.json
-
-          # 【修复】先保存为 response.json，如果出错可以查看真实原因
-          curl -sS -X POST "$API_URL" \
-               -H "x-api-key: $API_KEY" \
-               -H "anthropic-version: 2023-06-01" \
-               -H "content-type: application/json" \
-               -d @payload.json -o response.json
-
-          # 解析内容，兼容原生 Anthropic 和部分 OpenAI 代理格式
-          REPORT_CONTENT=$(jq -r '.content[0].text // .choices[0].message.content // empty' response.json 2>/dev/null)
-
-          if [ -z "$REPORT_CONTENT" ]; then
-            echo "⚠️ API 返回为空或报错，降级为本地模板报告。API 原始返回内容如下："
-            cat response.json
-            TOP_STAR=$(jq -r '.[0].full_name // .[0].name // "N/A"' daily-data/stars-clean.json 2>/dev/null || echo "N/A")
-            TOP_UPDATED=$(jq -r '.[0].full_name // .[0].name // "N/A"' daily-data/updated-clean.json 2>/dev/null || echo "N/A")
-            TOP_HF=$(jq -r '.[0].id // "N/A"' daily-data/hf-clean.json 2>/dev/null || echo "N/A")
-            REPORT_CONTENT=$(printf '%s\n' \
-              "今日自动报告（降级模式）：" \
-              "- GitHub 热门：${TOP_STAR}" \
-              "- GitHub 活跃：${TOP_UPDATED}" \
-              "- HuggingFace 热门：${TOP_HF}" \
-              "" \
-              "说明：本次大模型接口不可用（可能为 token/网关配置问题），已使用本地数据生成简版报告。")
-          fi
-          
-          echo "$REPORT_CONTENT" > "ai_agent_daily-report-${{ env.DATE }}.md"
-          echo "✅ 精简版研报已生成！"
+      - name: 🧠 Generate concise report via local NLP
+        run: |
+          python .github/scripts/generate_report.py \
+            --date "${{ env.DATE }}" \
+            --stars "daily-data/stars-clean.json" \
+            --updated "daily-data/updated-clean.json" \
+            --hf "daily-data/hf-clean.json" \
+            --output "ai_agent_daily-report-${{ env.DATE }}.md"
 
       # ---------- 提交报告（修复 Detached HEAD 推送报错）----------
       - name: 🚀 Commit and push report
