@@ -142,7 +142,7 @@ jobs:
               "- GitHub 活跃：${TOP_UPDATED}" \
               "- HuggingFace 热门：${TOP_HF}" \
               "" \
-              "说明：本次大模型接口不可用（可能为 token / 网关配置问题），已使用本地数据生成简版报告。")
+              "说明：本次大模型接口不可用（可能为 token/网关配置问题），已使用本地数据生成简版报告。")
           fi
           
           echo "$REPORT_CONTENT" > "ai_agent_daily-report-${{ env.DATE }}.md"
