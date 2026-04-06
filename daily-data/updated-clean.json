@@ -1,70 +1,70 @@
 {
+  "name": "blockrun-mcp",
+  "full_name": "BlockRunAI/blockrun-mcp",
+  "updated": "2026-04-06T02:23:43Z",
+  "desc": "Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments.",
+  "url": "https://github.com/BlockRunAI/blockrun-mcp"
+}
+{
+  "name": "rivonclaw",
+  "full_name": "gaoyangz77/rivonclaw",
+  "updated": "2026-04-06T02:23:24Z",
+  "desc": "RivonClaw is an easy-mode runtime and UI layer built on top of OpenClaw, designed to turn long-lived AI agents into personal digital butlers. Instead of configuring skills or workflows, users interact through natural-language rules and feedback, allowing a single agent to evolve, adapt, and better understand its owner over time.",
+  "url": "https://github.com/gaoyangz77/rivonclaw"
+}
+{
   "name": "deer-flow",
   "full_name": "bytedance/deer-flow",
-  "updated": "2026-04-05T02:23:38Z",
+  "updated": "2026-04-06T02:22:46Z",
   "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
   "url": "https://github.com/bytedance/deer-flow"
 }
 {
-  "name": "voicetree",
-  "full_name": "voicetreelab/voicetree",
-  "updated": "2026-04-05T02:19:01Z",
-  "desc": "The spatial IDE for recursive multi-agent orchestration. It's like an Obsidian graph-view that you work directly inside of. ",
-  "url": "https://github.com/voicetreelab/voicetree"
+  "name": "flyto-core",
+  "full_name": "flytohub/flyto-core",
+  "updated": "2026-04-06T02:22:18Z",
+  "desc": "The open-source execution engine for AI agents. 412 modules, MCP-native, triggers, queue, versioning, metering.",
+  "url": "https://github.com/flytohub/flyto-core"
 }
 {
-  "name": "sim",
-  "full_name": "simstudioai/sim",
-  "updated": "2026-04-05T02:19:18Z",
-  "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-  "url": "https://github.com/simstudioai/sim"
+  "name": "worktrunk",
+  "full_name": "max-sixty/worktrunk",
+  "updated": "2026-04-06T02:22:09Z",
+  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+  "url": "https://github.com/max-sixty/worktrunk"
 }
 {
-  "name": "osaurus",
-  "full_name": "osaurus-ai/osaurus",
-  "updated": "2026-04-05T02:20:18Z",
-  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
-  "url": "https://github.com/osaurus-ai/osaurus"
+  "name": "lobehub",
+  "full_name": "lobehub/lobehub",
+  "updated": "2026-04-06T02:20:58Z",
+  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+  "url": "https://github.com/lobehub/lobehub"
 }
 {
-  "name": "CodePilot",
-  "full_name": "op7418/CodePilot",
-  "updated": "2026-04-05T02:13:42Z",
-  "desc": "A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
-  "url": "https://github.com/op7418/CodePilot"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-04-06T02:19:36Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "pup",
-  "full_name": "datadog-labs/pup",
-  "updated": "2026-04-05T02:06:02Z",
-  "desc": "Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products.",
-  "url": "https://github.com/datadog-labs/pup"
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-04-06T02:17:45Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
 }
 {
-  "name": "vibe-remote",
-  "full_name": "cyhhao/vibe-remote",
-  "updated": "2026-04-05T02:04:41Z",
-  "desc": "Your AI agent army, commanded from Slack/Discord/Wechat/Lark. Stream Claude Code, OpenCode, or Codex in real-time — from anywhere.",
-  "url": "https://github.com/cyhhao/vibe-remote"
+  "name": "superset",
+  "full_name": "superset-sh/superset",
+  "updated": "2026-04-06T02:12:29Z",
+  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+  "url": "https://github.com/superset-sh/superset"
 }
 {
-  "name": "gptme",
-  "full_name": "gptme/gptme",
-  "updated": "2026-04-05T02:01:59Z",
-  "desc": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
-  "url": "https://github.com/gptme/gptme"
-}
-{
-  "name": "goclaw",
-  "full_name": "nextlevelbuilder/goclaw",
-  "updated": "2026-04-05T02:00:35Z",
-  "desc": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-  "url": "https://github.com/nextlevelbuilder/goclaw"
-}
-{
-  "name": "pipelock",
-  "full_name": "luckyPipewrench/pipelock",
-  "updated": "2026-04-05T02:03:27Z",
-  "desc": "Firewall for AI agents. DLP scanning, SSRF protection, bidirectional MCP scanning, tool poisoning detection, and prompt injection blocking.",
-  "url": "https://github.com/luckyPipewrench/pipelock"
+  "name": "agents-observe",
+  "full_name": "simple10/agents-observe",
+  "updated": "2026-04-06T02:07:49Z",
+  "desc": "Real-time observability of claude code sessions & multi-agents.",
+  "url": "https://github.com/simple10/agents-observe"
 }
