@@ -1,70 +1,70 @@
 {
-  "name": "blockrun-mcp",
-  "full_name": "BlockRunAI/blockrun-mcp",
-  "updated": "2026-04-06T02:23:43Z",
-  "desc": "Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments.",
-  "url": "https://github.com/BlockRunAI/blockrun-mcp"
-}
-{
-  "name": "rivonclaw",
-  "full_name": "gaoyangz77/rivonclaw",
-  "updated": "2026-04-06T02:23:24Z",
-  "desc": "RivonClaw is an easy-mode runtime and UI layer built on top of OpenClaw, designed to turn long-lived AI agents into personal digital butlers. Instead of configuring skills or workflows, users interact through natural-language rules and feedback, allowing a single agent to evolve, adapt, and better understand its owner over time.",
-  "url": "https://github.com/gaoyangz77/rivonclaw"
-}
-{
-  "name": "deer-flow",
-  "full_name": "bytedance/deer-flow",
-  "updated": "2026-04-06T02:22:46Z",
-  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-  "url": "https://github.com/bytedance/deer-flow"
-}
-{
-  "name": "flyto-core",
-  "full_name": "flytohub/flyto-core",
-  "updated": "2026-04-06T02:22:18Z",
-  "desc": "The open-source execution engine for AI agents. 412 modules, MCP-native, triggers, queue, versioning, metering.",
-  "url": "https://github.com/flytohub/flyto-core"
+  "name": "ag2",
+  "full_name": "ag2ai/ag2",
+  "updated": "2026-04-07T02:10:53Z",
+  "desc": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+  "url": "https://github.com/ag2ai/ag2"
 }
 {
   "name": "worktrunk",
   "full_name": "max-sixty/worktrunk",
-  "updated": "2026-04-06T02:22:09Z",
+  "updated": "2026-04-07T02:09:57Z",
   "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
   "url": "https://github.com/max-sixty/worktrunk"
 }
 {
-  "name": "lobehub",
-  "full_name": "lobehub/lobehub",
-  "updated": "2026-04-06T02:20:58Z",
-  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-  "url": "https://github.com/lobehub/lobehub"
-}
-{
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-06T02:19:36Z",
+  "updated": "2026-04-07T02:09:35Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
   "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-04-06T02:17:45Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
+  "name": "opencrabs",
+  "full_name": "adolfousier/opencrabs",
+  "updated": "2026-04-07T02:09:06Z",
+  "desc": "The self-improving all channels AI agent. Self-healing. Fully autonomous. Single Rust binary.",
+  "url": "https://github.com/adolfousier/opencrabs"
 }
 {
-  "name": "superset",
-  "full_name": "superset-sh/superset",
-  "updated": "2026-04-06T02:12:29Z",
-  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-  "url": "https://github.com/superset-sh/superset"
+  "name": "mac-code",
+  "full_name": "walter-grace/mac-code",
+  "updated": "2026-04-07T02:07:42Z",
+  "desc": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month. ",
+  "url": "https://github.com/walter-grace/mac-code"
 }
 {
-  "name": "agents-observe",
-  "full_name": "simple10/agents-observe",
-  "updated": "2026-04-06T02:07:49Z",
-  "desc": "Real-time observability of claude code sessions & multi-agents.",
-  "url": "https://github.com/simple10/agents-observe"
+  "name": "cc-mini",
+  "full_name": "e10nMa2k/cc-mini",
+  "updated": "2026-04-07T02:06:49Z",
+  "desc": "Ultra-light Harness scaffolding for AI agents, a mini version of claude code ",
+  "url": "https://github.com/e10nMa2k/cc-mini"
+}
+{
+  "name": "ruflo",
+  "full_name": "ruvnet/ruflo",
+  "updated": "2026-04-07T02:06:35Z",
+  "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+  "url": "https://github.com/ruvnet/ruflo"
+}
+{
+  "name": "ComfyUI_Skills_OpenClaw",
+  "full_name": "HuangYuChuh/ComfyUI_Skills_OpenClaw",
+  "updated": "2026-04-07T02:06:29Z",
+  "desc": "A powerful ComfyUI workflow skill for OpenClaw and other AI agents that support skills.",
+  "url": "https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw"
+}
+{
+  "name": "postgresai",
+  "full_name": "postgres-ai/postgresai",
+  "updated": "2026-04-07T02:04:58Z",
+  "desc": "postgresai – Postgres observability built for humans and AI agents",
+  "url": "https://github.com/postgres-ai/postgresai"
+}
+{
+  "name": "agent-browser",
+  "full_name": "vercel-labs/agent-browser",
+  "updated": "2026-04-07T02:10:13Z",
+  "desc": "Browser automation CLI for AI agents",
+  "url": "https://github.com/vercel-labs/agent-browser"
 }
