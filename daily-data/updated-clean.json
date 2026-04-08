@@ -1,70 +1,70 @@
 {
-  "name": "ag2",
-  "full_name": "ag2ai/ag2",
-  "updated": "2026-04-07T02:10:53Z",
-  "desc": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-  "url": "https://github.com/ag2ai/ag2"
+  "name": "voicetree",
+  "full_name": "voicetreelab/voicetree",
+  "updated": "2026-04-08T02:11:58Z",
+  "desc": "The spatial IDE for recursive multi-agent orchestration. It's like an Obsidian graph-view that you work directly inside of. ",
+  "url": "https://github.com/voicetreelab/voicetree"
 }
 {
-  "name": "worktrunk",
-  "full_name": "max-sixty/worktrunk",
-  "updated": "2026-04-07T02:09:57Z",
-  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-  "url": "https://github.com/max-sixty/worktrunk"
+  "name": "agent-sandbox",
+  "full_name": "kubernetes-sigs/agent-sandbox",
+  "updated": "2026-04-08T02:11:39Z",
+  "desc": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
+  "url": "https://github.com/kubernetes-sigs/agent-sandbox"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-07T02:09:35Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "DashClaw",
+  "full_name": "ucsandman/DashClaw",
+  "updated": "2026-04-08T02:10:45Z",
+  "desc": "🛡️Decision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.",
+  "url": "https://github.com/ucsandman/DashClaw"
 }
 {
-  "name": "opencrabs",
-  "full_name": "adolfousier/opencrabs",
-  "updated": "2026-04-07T02:09:06Z",
-  "desc": "The self-improving all channels AI agent. Self-healing. Fully autonomous. Single Rust binary.",
-  "url": "https://github.com/adolfousier/opencrabs"
+  "name": "studio",
+  "full_name": "decocms/studio",
+  "updated": "2026-04-08T02:10:25Z",
+  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+  "url": "https://github.com/decocms/studio"
 }
 {
-  "name": "mac-code",
-  "full_name": "walter-grace/mac-code",
-  "updated": "2026-04-07T02:07:42Z",
-  "desc": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month. ",
-  "url": "https://github.com/walter-grace/mac-code"
+  "name": "oh-my-claudecode",
+  "full_name": "Yeachan-Heo/oh-my-claudecode",
+  "updated": "2026-04-08T02:11:22Z",
+  "desc": "Teams-first Multi-agent orchestration for Claude Code",
+  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
 }
 {
-  "name": "cc-mini",
-  "full_name": "e10nMa2k/cc-mini",
-  "updated": "2026-04-07T02:06:49Z",
-  "desc": "Ultra-light Harness scaffolding for AI agents, a mini version of claude code ",
-  "url": "https://github.com/e10nMa2k/cc-mini"
+  "name": "deer-flow",
+  "full_name": "bytedance/deer-flow",
+  "updated": "2026-04-08T02:12:03Z",
+  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+  "url": "https://github.com/bytedance/deer-flow"
 }
 {
-  "name": "ruflo",
-  "full_name": "ruvnet/ruflo",
-  "updated": "2026-04-07T02:06:35Z",
-  "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-  "url": "https://github.com/ruvnet/ruflo"
+  "name": "49Agents",
+  "full_name": "49Agents/49Agents",
+  "updated": "2026-04-08T02:08:35Z",
+  "desc": "Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluster via Tailscale OR connect to app.49agents.com (coming soon)",
+  "url": "https://github.com/49Agents/49Agents"
 }
 {
-  "name": "ComfyUI_Skills_OpenClaw",
-  "full_name": "HuangYuChuh/ComfyUI_Skills_OpenClaw",
-  "updated": "2026-04-07T02:06:29Z",
-  "desc": "A powerful ComfyUI workflow skill for OpenClaw and other AI agents that support skills.",
-  "url": "https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw"
+  "name": "stoneforge",
+  "full_name": "stoneforge-ai/stoneforge",
+  "updated": "2026-04-08T02:08:20Z",
+  "desc": "A web dashboard and runtime for orchestrating AI coding agents",
+  "url": "https://github.com/stoneforge-ai/stoneforge"
 }
 {
-  "name": "postgresai",
-  "full_name": "postgres-ai/postgresai",
-  "updated": "2026-04-07T02:04:58Z",
-  "desc": "postgresai – Postgres observability built for humans and AI agents",
-  "url": "https://github.com/postgres-ai/postgresai"
+  "name": "composio",
+  "full_name": "ComposioHQ/composio",
+  "updated": "2026-04-08T02:08:05Z",
+  "desc": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+  "url": "https://github.com/ComposioHQ/composio"
 }
 {
-  "name": "agent-browser",
-  "full_name": "vercel-labs/agent-browser",
-  "updated": "2026-04-07T02:10:13Z",
-  "desc": "Browser automation CLI for AI agents",
-  "url": "https://github.com/vercel-labs/agent-browser"
+  "name": "loongclaw",
+  "full_name": "loongclaw-ai/loongclaw",
+  "updated": "2026-04-08T02:07:49Z",
+  "desc": "Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉",
+  "url": "https://github.com/loongclaw-ai/loongclaw"
 }
