@@ -1,70 +1,70 @@
 {
-  "name": "superset",
-  "full_name": "superset-sh/superset",
-  "updated": "2026-04-09T02:06:18Z",
-  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-  "url": "https://github.com/superset-sh/superset"
+  "name": "gptme",
+  "full_name": "gptme/gptme",
+  "updated": "2026-04-10T02:24:55Z",
+  "desc": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
+  "url": "https://github.com/gptme/gptme"
 }
 {
-  "name": "last30days-skill",
-  "full_name": "mvanhorn/last30days-skill",
-  "updated": "2026-04-09T02:06:18Z",
-  "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-  "url": "https://github.com/mvanhorn/last30days-skill"
+  "name": "nanobot",
+  "full_name": "HKUDS/nanobot",
+  "updated": "2026-04-10T02:25:18Z",
+  "desc": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+  "url": "https://github.com/HKUDS/nanobot"
 }
 {
-  "name": "LockKnife",
-  "full_name": "ImKKingshuk/LockKnife",
-  "updated": "2026-04-09T02:05:10Z",
-  "desc": "LockKnife: The Ultimate Android Security Research Tool. A unified TUI workspace and headless CLI for deep Android security research, built for researchers and hackers. Powered by Python orchestration and a Rust-accelerated core, enabling AI agent–driven hacking, credential recovery/cracking, APK analysis, intelligence gathering, runtime inspection.",
-  "url": "https://github.com/ImKKingshuk/LockKnife"
+  "name": "worktrunk",
+  "full_name": "max-sixty/worktrunk",
+  "updated": "2026-04-10T02:22:45Z",
+  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+  "url": "https://github.com/max-sixty/worktrunk"
 }
 {
-  "name": "NeuronFS",
-  "full_name": "rhino-acoustic/NeuronFS",
-  "updated": "2026-04-09T02:04:46Z",
-  "desc": "mkdir beats vector DB. B-tree NeuronFS: 0-byte folders govern AI — ₩0 infrastructure, ~200x token efficiency. OS-native constraint engine for LLM agents.",
-  "url": "https://github.com/rhino-acoustic/NeuronFS"
+  "name": "ai-rules",
+  "full_name": "fjb040911/ai-rules",
+  "updated": "2026-04-10T02:21:58Z",
+  "desc": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
+  "url": "https://github.com/fjb040911/ai-rules"
 }
 {
-  "name": "gemini-cli",
-  "full_name": "google-gemini/gemini-cli",
-  "updated": "2026-04-09T02:02:37Z",
-  "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-  "url": "https://github.com/google-gemini/gemini-cli"
+  "name": "fff.nvim",
+  "full_name": "dmtrKovalenko/fff.nvim",
+  "updated": "2026-04-10T02:24:49Z",
+  "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+  "url": "https://github.com/dmtrKovalenko/fff.nvim"
 }
 {
-  "name": "OfficeCLI",
-  "full_name": "iOfficeAI/OfficeCLI",
-  "updated": "2026-04-09T02:02:33Z",
-  "desc": "OfficeCLI is the first and best command-line tool purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-  "url": "https://github.com/iOfficeAI/OfficeCLI"
+  "name": "qwen-code",
+  "full_name": "QwenLM/qwen-code",
+  "updated": "2026-04-10T02:21:03Z",
+  "desc": "An open-source AI agent that lives in your terminal.",
+  "url": "https://github.com/QwenLM/qwen-code"
 }
 {
-  "name": "costrict",
-  "full_name": "zgsm-ai/costrict",
-  "updated": "2026-04-09T02:02:11Z",
-  "desc": "Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion. ",
-  "url": "https://github.com/zgsm-ai/costrict"
+  "name": "agentic_coding_flywheel_setup",
+  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
+  "updated": "2026-04-10T02:20:42Z",
+  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
+  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
 }
 {
-  "name": "turbo-flow",
-  "full_name": "marcuspat/turbo-flow",
-  "updated": "2026-04-09T02:01:40Z",
-  "desc": "Advanced Agentic Development Environment Supporting Devpods, Rackspace Spot Instances, Github Codespaces, Google Cloud Shell, and more!  Features 600+ AI subagents, Claude Flow, SPARC methodology, and automatic context loading! Deploy intelligent multi-agent swarms, coordinate autonomous workflows.",
-  "url": "https://github.com/marcuspat/turbo-flow"
+  "name": "routa",
+  "full_name": "phodal/routa",
+  "updated": "2026-04-10T02:19:59Z",
+  "desc": "Build Your Agent Team for Real-World AI Development - Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.",
+  "url": "https://github.com/phodal/routa"
 }
 {
-  "name": "goose",
-  "full_name": "aaif-goose/goose",
-  "updated": "2026-04-09T02:06:57Z",
-  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-  "url": "https://github.com/aaif-goose/goose"
+  "name": "lobehub",
+  "full_name": "lobehub/lobehub",
+  "updated": "2026-04-10T02:19:20Z",
+  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+  "url": "https://github.com/lobehub/lobehub"
 }
 {
-  "name": "pup",
-  "full_name": "datadog-labs/pup",
-  "updated": "2026-04-09T02:00:43Z",
-  "desc": "Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products.",
-  "url": "https://github.com/datadog-labs/pup"
+  "name": "lobu",
+  "full_name": "lobu-ai/lobu",
+  "updated": "2026-04-10T02:17:57Z",
+  "desc": " Add autonomous agents to your product. Multi-tenant OpenClaw 🦞",
+  "url": "https://github.com/lobu-ai/lobu"
 }
