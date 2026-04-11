@@ -1,70 +1,70 @@
 {
-  "name": "gptme",
-  "full_name": "gptme/gptme",
-  "updated": "2026-04-10T02:24:55Z",
-  "desc": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
-  "url": "https://github.com/gptme/gptme"
+  "name": "oh-my-agent",
+  "full_name": "first-fluke/oh-my-agent",
+  "updated": "2026-04-11T02:04:19Z",
+  "desc": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, OpenCode, and more.",
+  "url": "https://github.com/first-fluke/oh-my-agent"
 }
 {
-  "name": "nanobot",
-  "full_name": "HKUDS/nanobot",
-  "updated": "2026-04-10T02:25:18Z",
-  "desc": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-  "url": "https://github.com/HKUDS/nanobot"
+  "name": "codedb",
+  "full_name": "justrach/codedb",
+  "updated": "2026-04-11T02:03:49Z",
+  "desc": "Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.",
+  "url": "https://github.com/justrach/codedb"
 }
 {
-  "name": "worktrunk",
-  "full_name": "max-sixty/worktrunk",
-  "updated": "2026-04-10T02:22:45Z",
-  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-  "url": "https://github.com/max-sixty/worktrunk"
+  "name": "microsandbox",
+  "full_name": "superradcompany/microsandbox",
+  "updated": "2026-04-11T02:02:34Z",
+  "desc": "🧱 local, programmable sandboxes for AI agents",
+  "url": "https://github.com/superradcompany/microsandbox"
 }
 {
-  "name": "ai-rules",
-  "full_name": "fjb040911/ai-rules",
-  "updated": "2026-04-10T02:21:58Z",
-  "desc": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-  "url": "https://github.com/fjb040911/ai-rules"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-04-11T02:02:27Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "fff.nvim",
-  "full_name": "dmtrKovalenko/fff.nvim",
-  "updated": "2026-04-10T02:24:49Z",
-  "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-  "url": "https://github.com/dmtrKovalenko/fff.nvim"
+  "name": "goose",
+  "full_name": "aaif-goose/goose",
+  "updated": "2026-04-11T02:05:32Z",
+  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "url": "https://github.com/aaif-goose/goose"
 }
 {
-  "name": "qwen-code",
-  "full_name": "QwenLM/qwen-code",
-  "updated": "2026-04-10T02:21:03Z",
-  "desc": "An open-source AI agent that lives in your terminal.",
-  "url": "https://github.com/QwenLM/qwen-code"
+  "name": "koog",
+  "full_name": "JetBrains/koog",
+  "updated": "2026-04-11T01:58:00Z",
+  "desc": "Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+  "url": "https://github.com/JetBrains/koog"
 }
 {
-  "name": "agentic_coding_flywheel_setup",
-  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
-  "updated": "2026-04-10T02:20:42Z",
-  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
-  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+  "name": "OpenSandbox",
+  "full_name": "alibaba/OpenSandbox",
+  "updated": "2026-04-11T01:57:31Z",
+  "desc": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+  "url": "https://github.com/alibaba/OpenSandbox"
 }
 {
-  "name": "routa",
-  "full_name": "phodal/routa",
-  "updated": "2026-04-10T02:19:59Z",
-  "desc": "Build Your Agent Team for Real-World AI Development - Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.",
-  "url": "https://github.com/phodal/routa"
+  "name": "pikiclaw",
+  "full_name": "xiaotonng/pikiclaw",
+  "updated": "2026-04-11T01:54:59Z",
+  "desc": "Put the world's smartest AI agents & plugins in your pocket",
+  "url": "https://github.com/xiaotonng/pikiclaw"
 }
 {
-  "name": "lobehub",
-  "full_name": "lobehub/lobehub",
-  "updated": "2026-04-10T02:19:20Z",
-  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-  "url": "https://github.com/lobehub/lobehub"
+  "name": "workflow",
+  "full_name": "vercel/workflow",
+  "updated": "2026-04-11T02:04:52Z",
+  "desc": "Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript",
+  "url": "https://github.com/vercel/workflow"
 }
 {
-  "name": "lobu",
-  "full_name": "lobu-ai/lobu",
-  "updated": "2026-04-10T02:17:57Z",
-  "desc": " Add autonomous agents to your product. Multi-tenant OpenClaw 🦞",
-  "url": "https://github.com/lobu-ai/lobu"
+  "name": "pydantic-ai",
+  "full_name": "pydantic/pydantic-ai",
+  "updated": "2026-04-11T01:50:15Z",
+  "desc": "AI Agent Framework, the Pydantic way",
+  "url": "https://github.com/pydantic/pydantic-ai"
 }
