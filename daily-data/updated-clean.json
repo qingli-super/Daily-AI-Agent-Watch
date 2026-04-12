@@ -1,70 +1,70 @@
 {
   "name": "oh-my-agent",
   "full_name": "first-fluke/oh-my-agent",
-  "updated": "2026-04-11T02:04:19Z",
-  "desc": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, OpenCode, and more.",
+  "updated": "2026-04-12T02:25:20Z",
+  "desc": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
   "url": "https://github.com/first-fluke/oh-my-agent"
 }
 {
-  "name": "codedb",
-  "full_name": "justrach/codedb",
-  "updated": "2026-04-11T02:03:49Z",
-  "desc": "Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.",
-  "url": "https://github.com/justrach/codedb"
+  "name": "agentcore-samples",
+  "full_name": "awslabs/agentcore-samples",
+  "updated": "2026-04-12T02:25:00Z",
+  "desc": "Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.",
+  "url": "https://github.com/awslabs/agentcore-samples"
 }
 {
-  "name": "microsandbox",
-  "full_name": "superradcompany/microsandbox",
-  "updated": "2026-04-11T02:02:34Z",
-  "desc": "🧱 local, programmable sandboxes for AI agents",
-  "url": "https://github.com/superradcompany/microsandbox"
+  "name": "qwen-code",
+  "full_name": "QwenLM/qwen-code",
+  "updated": "2026-04-12T02:24:19Z",
+  "desc": "An open-source AI agent that lives in your terminal.",
+  "url": "https://github.com/QwenLM/qwen-code"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-11T02:02:27Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "ai-platform-engineering",
+  "full_name": "cnoe-io/ai-platform-engineering",
+  "updated": "2026-04-12T02:23:28Z",
+  "desc": "CAIPE: Community AI Platform Engineering Multi-Agent Systems",
+  "url": "https://github.com/cnoe-io/ai-platform-engineering"
 }
 {
-  "name": "goose",
-  "full_name": "aaif-goose/goose",
-  "updated": "2026-04-11T02:05:32Z",
-  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-  "url": "https://github.com/aaif-goose/goose"
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-04-12T02:24:52Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
-  "name": "koog",
-  "full_name": "JetBrains/koog",
-  "updated": "2026-04-11T01:58:00Z",
-  "desc": "Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
-  "url": "https://github.com/JetBrains/koog"
+  "name": "dingtalk-workspace-cli",
+  "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
+  "updated": "2026-04-12T02:19:57Z",
+  "desc": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
+  "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli"
 }
 {
-  "name": "OpenSandbox",
-  "full_name": "alibaba/OpenSandbox",
-  "updated": "2026-04-11T01:57:31Z",
-  "desc": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-  "url": "https://github.com/alibaba/OpenSandbox"
+  "name": "sim",
+  "full_name": "simstudioai/sim",
+  "updated": "2026-04-12T02:20:21Z",
+  "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+  "url": "https://github.com/simstudioai/sim"
 }
 {
-  "name": "pikiclaw",
-  "full_name": "xiaotonng/pikiclaw",
-  "updated": "2026-04-11T01:54:59Z",
-  "desc": "Put the world's smartest AI agents & plugins in your pocket",
-  "url": "https://github.com/xiaotonng/pikiclaw"
+  "name": "ClaudeR",
+  "full_name": "IMNMV/ClaudeR",
+  "updated": "2026-04-12T02:17:29Z",
+  "desc": "Connect RStudio to Claude Code, Codex, Gemini, and other LLM agents via MCP. Multi-agent orchestration, automated manuscript   auditing, and zero-config setup with uvx",
+  "url": "https://github.com/IMNMV/ClaudeR"
 }
 {
-  "name": "workflow",
-  "full_name": "vercel/workflow",
-  "updated": "2026-04-11T02:04:52Z",
-  "desc": "Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript",
-  "url": "https://github.com/vercel/workflow"
+  "name": "pup",
+  "full_name": "datadog-labs/pup",
+  "updated": "2026-04-12T02:16:34Z",
+  "desc": "Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products.",
+  "url": "https://github.com/datadog-labs/pup"
 }
 {
-  "name": "pydantic-ai",
-  "full_name": "pydantic/pydantic-ai",
-  "updated": "2026-04-11T01:50:15Z",
-  "desc": "AI Agent Framework, the Pydantic way",
-  "url": "https://github.com/pydantic/pydantic-ai"
+  "name": "fireworks-tech-graph",
+  "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
+  "updated": "2026-04-12T02:28:24Z",
+  "desc": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
+  "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph"
 }
