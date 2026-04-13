@@ -1,70 +1,70 @@
 {
-  "name": "oh-my-agent",
-  "full_name": "first-fluke/oh-my-agent",
-  "updated": "2026-04-12T02:25:20Z",
-  "desc": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
-  "url": "https://github.com/first-fluke/oh-my-agent"
+  "name": "CloudBase-MCP",
+  "full_name": "TencentCloudBase/CloudBase-MCP",
+  "updated": "2026-04-13T02:32:53Z",
+  "desc": "   CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. ",
+  "url": "https://github.com/TencentCloudBase/CloudBase-MCP"
 }
 {
-  "name": "agentcore-samples",
-  "full_name": "awslabs/agentcore-samples",
-  "updated": "2026-04-12T02:25:00Z",
-  "desc": "Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.",
-  "url": "https://github.com/awslabs/agentcore-samples"
+  "name": "ultracontext",
+  "full_name": "ultracontext/ultracontext",
+  "updated": "2026-04-13T02:31:08Z",
+  "desc": "Open Source Context infrastructure for AI agents. Auto-capture and share your agents' context everywhere.",
+  "url": "https://github.com/ultracontext/ultracontext"
 }
 {
-  "name": "qwen-code",
-  "full_name": "QwenLM/qwen-code",
-  "updated": "2026-04-12T02:24:19Z",
-  "desc": "An open-source AI agent that lives in your terminal.",
-  "url": "https://github.com/QwenLM/qwen-code"
+  "name": "lobehub",
+  "full_name": "lobehub/lobehub",
+  "updated": "2026-04-13T02:29:49Z",
+  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+  "url": "https://github.com/lobehub/lobehub"
 }
 {
-  "name": "ai-platform-engineering",
-  "full_name": "cnoe-io/ai-platform-engineering",
-  "updated": "2026-04-12T02:23:28Z",
-  "desc": "CAIPE: Community AI Platform Engineering Multi-Agent Systems",
-  "url": "https://github.com/cnoe-io/ai-platform-engineering"
+  "name": "oh-my-claudecode",
+  "full_name": "Yeachan-Heo/oh-my-claudecode",
+  "updated": "2026-04-13T02:33:06Z",
+  "desc": "Teams-first Multi-agent orchestration for Claude Code",
+  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
 }
 {
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-04-12T02:24:52Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-04-13T02:29:01Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "dingtalk-workspace-cli",
-  "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
-  "updated": "2026-04-12T02:19:57Z",
-  "desc": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
-  "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli"
+  "name": "inkos",
+  "full_name": "Narcooo/inkos",
+  "updated": "2026-04-13T02:28:52Z",
+  "desc": "Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels with human review gates",
+  "url": "https://github.com/Narcooo/inkos"
 }
 {
-  "name": "sim",
-  "full_name": "simstudioai/sim",
-  "updated": "2026-04-12T02:20:21Z",
-  "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-  "url": "https://github.com/simstudioai/sim"
+  "name": "nanobot",
+  "full_name": "HKUDS/nanobot",
+  "updated": "2026-04-13T02:26:19Z",
+  "desc": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+  "url": "https://github.com/HKUDS/nanobot"
 }
 {
-  "name": "ClaudeR",
-  "full_name": "IMNMV/ClaudeR",
-  "updated": "2026-04-12T02:17:29Z",
-  "desc": "Connect RStudio to Claude Code, Codex, Gemini, and other LLM agents via MCP. Multi-agent orchestration, automated manuscript   auditing, and zero-config setup with uvx",
-  "url": "https://github.com/IMNMV/ClaudeR"
+  "name": "loong",
+  "full_name": "eastreams/loong",
+  "updated": "2026-04-13T02:26:11Z",
+  "desc": "Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉",
+  "url": "https://github.com/eastreams/loong"
 }
 {
-  "name": "pup",
-  "full_name": "datadog-labs/pup",
-  "updated": "2026-04-12T02:16:34Z",
-  "desc": "Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products.",
-  "url": "https://github.com/datadog-labs/pup"
+  "name": "LobsterAI",
+  "full_name": "netease-youdao/LobsterAI",
+  "updated": "2026-04-13T02:23:32Z",
+  "desc": "Your 24/7 all-scenario AI agent that gets work done for you.",
+  "url": "https://github.com/netease-youdao/LobsterAI"
 }
 {
-  "name": "fireworks-tech-graph",
-  "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
-  "updated": "2026-04-12T02:28:24Z",
-  "desc": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-  "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph"
+  "name": "oh-my-gemini-cli",
+  "full_name": "Joonghyun-Lee-Frieren/oh-my-gemini-cli",
+  "updated": "2026-04-13T02:21:57Z",
+  "desc": "Context-engineering-powered multi-agent team workflow pack for Gemini CLI.",
+  "url": "https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli"
 }
