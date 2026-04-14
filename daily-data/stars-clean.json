@@ -1,70 +1,70 @@
 {
   "name": "firecrawl",
   "full_name": "firecrawl/firecrawl",
-  "stars": 108185,
+  "stars": 108714,
   "desc": "🔥 The Web Data API for AI - Power AI agents with clean web data",
   "url": "https://github.com/firecrawl/firecrawl"
 }
 {
   "name": "awesome-llm-apps",
   "full_name": "Shubhamsaboo/awesome-llm-apps",
-  "stars": 105241,
+  "stars": 105319,
   "desc": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
   "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
 }
 {
   "name": "gemini-cli",
   "full_name": "google-gemini/gemini-cli",
-  "stars": 101038,
+  "stars": 101153,
   "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
   "url": "https://github.com/google-gemini/gemini-cli"
 }
 {
   "name": "browser-use",
   "full_name": "browser-use/browser-use",
-  "stars": 87461,
+  "stars": 87648,
   "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
   "url": "https://github.com/browser-use/browser-use"
 }
 {
   "name": "lobehub",
   "full_name": "lobehub/lobehub",
-  "stars": 75097,
+  "stars": 75144,
   "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
   "url": "https://github.com/lobehub/lobehub"
 }
 {
   "name": "Prompt-Engineering-Guide",
   "full_name": "dair-ai/Prompt-Engineering-Guide",
-  "stars": 73200,
+  "stars": 73253,
   "desc": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
   "url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
 }
 {
   "name": "autoresearch",
   "full_name": "karpathy/autoresearch",
-  "stars": 71062,
+  "stars": 71673,
   "desc": "AI agents running research on single-GPU nanochat training automatically",
   "url": "https://github.com/karpathy/autoresearch"
 }
 {
   "name": "MetaGPT",
   "full_name": "FoundationAgents/MetaGPT",
-  "stars": 66976,
+  "stars": 67027,
   "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
   "url": "https://github.com/FoundationAgents/MetaGPT"
 }
 {
   "name": "OpenBB",
   "full_name": "OpenBB-finance/OpenBB",
-  "stars": 65780,
+  "stars": 65837,
   "desc": "Financial data platform for analysts, quants and AI agents.",
   "url": "https://github.com/OpenBB-finance/OpenBB"
 }
 {
   "name": "deer-flow",
   "full_name": "bytedance/deer-flow",
-  "stars": 60830,
+  "stars": 61188,
   "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
   "url": "https://github.com/bytedance/deer-flow"
 }

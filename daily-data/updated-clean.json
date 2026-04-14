@@ -1,70 +1,70 @@
 {
-  "name": "CloudBase-MCP",
-  "full_name": "TencentCloudBase/CloudBase-MCP",
-  "updated": "2026-04-13T02:32:53Z",
-  "desc": "   CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. ",
-  "url": "https://github.com/TencentCloudBase/CloudBase-MCP"
+  "name": "routa",
+  "full_name": "phodal/routa",
+  "updated": "2026-04-14T02:26:42Z",
+  "desc": "Build Your Agent Team for Real-World AI Development - Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.",
+  "url": "https://github.com/phodal/routa"
 }
 {
-  "name": "ultracontext",
-  "full_name": "ultracontext/ultracontext",
-  "updated": "2026-04-13T02:31:08Z",
-  "desc": "Open Source Context infrastructure for AI agents. Auto-capture and share your agents' context everywhere.",
-  "url": "https://github.com/ultracontext/ultracontext"
+  "name": "agent-kanban",
+  "full_name": "saltbo/agent-kanban",
+  "updated": "2026-04-14T02:25:44Z",
+  "desc": "An agent-first task board, Mission control for your AI workforce.",
+  "url": "https://github.com/saltbo/agent-kanban"
 }
 {
-  "name": "lobehub",
-  "full_name": "lobehub/lobehub",
-  "updated": "2026-04-13T02:29:49Z",
-  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-  "url": "https://github.com/lobehub/lobehub"
+  "name": "jentic-public-apis",
+  "full_name": "jentic/jentic-public-apis",
+  "updated": "2026-04-14T02:25:30Z",
+  "desc": "The open knowledge layer for AI agents and APIs",
+  "url": "https://github.com/jentic/jentic-public-apis"
 }
 {
-  "name": "oh-my-claudecode",
-  "full_name": "Yeachan-Heo/oh-my-claudecode",
-  "updated": "2026-04-13T02:33:06Z",
-  "desc": "Teams-first Multi-agent orchestration for Claude Code",
-  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+  "name": "AISquare-Studio-QA",
+  "full_name": "AISquare-Studio/AISquare-Studio-QA",
+  "updated": "2026-04-14T02:25:28Z",
+  "desc": "Setting up QA testing agents using playwright and crewAI",
+  "url": "https://github.com/AISquare-Studio/AISquare-Studio-QA"
 }
 {
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-13T02:29:01Z",
+  "updated": "2026-04-14T02:23:03Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
   "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "inkos",
-  "full_name": "Narcooo/inkos",
-  "updated": "2026-04-13T02:28:52Z",
-  "desc": "Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels with human review gates",
-  "url": "https://github.com/Narcooo/inkos"
+  "name": "rivonclaw",
+  "full_name": "gaoyangz77/rivonclaw",
+  "updated": "2026-04-14T02:22:47Z",
+  "desc": "RivonClaw is an easy-mode runtime and UI layer built on top of OpenClaw, designed to turn long-lived AI agents into personal digital butlers. Instead of configuring skills or workflows, users interact through natural-language rules and feedback, allowing a single agent to evolve, adapt, and better understand its owner over time.",
+  "url": "https://github.com/gaoyangz77/rivonclaw"
 }
 {
-  "name": "nanobot",
-  "full_name": "HKUDS/nanobot",
-  "updated": "2026-04-13T02:26:19Z",
-  "desc": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-  "url": "https://github.com/HKUDS/nanobot"
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "updated": "2026-04-14T02:21:41Z",
+  "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "url": "https://github.com/mvanhorn/last30days-skill"
 }
 {
-  "name": "loong",
-  "full_name": "eastreams/loong",
-  "updated": "2026-04-13T02:26:11Z",
-  "desc": "Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉",
-  "url": "https://github.com/eastreams/loong"
+  "name": "claude-code-my-workflow",
+  "full_name": "pedrohcgs/claude-code-my-workflow",
+  "updated": "2026-04-14T02:21:15Z",
+  "desc": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.",
+  "url": "https://github.com/pedrohcgs/claude-code-my-workflow"
 }
 {
-  "name": "LobsterAI",
-  "full_name": "netease-youdao/LobsterAI",
-  "updated": "2026-04-13T02:23:32Z",
-  "desc": "Your 24/7 all-scenario AI agent that gets work done for you.",
-  "url": "https://github.com/netease-youdao/LobsterAI"
+  "name": "hermes-control-interface",
+  "full_name": "xaspx/hermes-control-interface",
+  "updated": "2026-04-14T02:22:41Z",
+  "desc": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
+  "url": "https://github.com/xaspx/hermes-control-interface"
 }
 {
-  "name": "oh-my-gemini-cli",
-  "full_name": "Joonghyun-Lee-Frieren/oh-my-gemini-cli",
-  "updated": "2026-04-13T02:21:57Z",
-  "desc": "Context-engineering-powered multi-agent team workflow pack for Gemini CLI.",
-  "url": "https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli"
+  "name": "OpenCLI",
+  "full_name": "jackwener/OpenCLI",
+  "updated": "2026-04-14T02:26:27Z",
+  "desc": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+  "url": "https://github.com/jackwener/OpenCLI"
 }
