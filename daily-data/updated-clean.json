@@ -1,70 +1,70 @@
 {
-  "name": "routa",
-  "full_name": "phodal/routa",
-  "updated": "2026-04-14T02:26:42Z",
-  "desc": "Build Your Agent Team for Real-World AI Development - Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.",
-  "url": "https://github.com/phodal/routa"
+  "name": "nx",
+  "full_name": "nrwl/nx",
+  "updated": "2026-04-15T02:24:37Z",
+  "desc": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.",
+  "url": "https://github.com/nrwl/nx"
+}
+{
+  "name": "PUAX",
+  "full_name": "linkerlin/PUAX",
+  "updated": "2026-04-15T02:22:16Z",
+  "desc": "用来驯服AI Agent的效果绝佳的 PUA Prompt！",
+  "url": "https://github.com/linkerlin/PUAX"
+}
+{
+  "name": "blockrun-mcp",
+  "full_name": "BlockRunAI/blockrun-mcp",
+  "updated": "2026-04-15T02:24:59Z",
+  "desc": "Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments.",
+  "url": "https://github.com/BlockRunAI/blockrun-mcp"
 }
 {
   "name": "agent-kanban",
   "full_name": "saltbo/agent-kanban",
-  "updated": "2026-04-14T02:25:44Z",
+  "updated": "2026-04-15T02:18:48Z",
   "desc": "An agent-first task board, Mission control for your AI workforce.",
   "url": "https://github.com/saltbo/agent-kanban"
 }
 {
-  "name": "jentic-public-apis",
-  "full_name": "jentic/jentic-public-apis",
-  "updated": "2026-04-14T02:25:30Z",
-  "desc": "The open knowledge layer for AI agents and APIs",
-  "url": "https://github.com/jentic/jentic-public-apis"
+  "name": "mcp-gateway-registry",
+  "full_name": "agentic-community/mcp-gateway-registry",
+  "updated": "2026-04-15T02:18:46Z",
+  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
+  "url": "https://github.com/agentic-community/mcp-gateway-registry"
 }
 {
-  "name": "AISquare-Studio-QA",
-  "full_name": "AISquare-Studio/AISquare-Studio-QA",
-  "updated": "2026-04-14T02:25:28Z",
-  "desc": "Setting up QA testing agents using playwright and crewAI",
-  "url": "https://github.com/AISquare-Studio/AISquare-Studio-QA"
+  "name": "voicetree",
+  "full_name": "voicetreelab/voicetree",
+  "updated": "2026-04-15T02:18:02Z",
+  "desc": "The spatial IDE for recursive multi-agent orchestration. It's like an Obsidian graph-view that you work directly inside of. ",
+  "url": "https://github.com/voicetreelab/voicetree"
 }
 {
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-14T02:23:03Z",
+  "updated": "2026-04-15T02:16:26Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
   "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "rivonclaw",
-  "full_name": "gaoyangz77/rivonclaw",
-  "updated": "2026-04-14T02:22:47Z",
-  "desc": "RivonClaw is an easy-mode runtime and UI layer built on top of OpenClaw, designed to turn long-lived AI agents into personal digital butlers. Instead of configuring skills or workflows, users interact through natural-language rules and feedback, allowing a single agent to evolve, adapt, and better understand its owner over time.",
-  "url": "https://github.com/gaoyangz77/rivonclaw"
+  "name": "stoneforge",
+  "full_name": "stoneforge-ai/stoneforge",
+  "updated": "2026-04-15T02:16:18Z",
+  "desc": "A web dashboard and runtime for orchestrating AI coding agents",
+  "url": "https://github.com/stoneforge-ai/stoneforge"
 }
 {
-  "name": "last30days-skill",
-  "full_name": "mvanhorn/last30days-skill",
-  "updated": "2026-04-14T02:21:41Z",
-  "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-  "url": "https://github.com/mvanhorn/last30days-skill"
+  "name": "superset",
+  "full_name": "superset-sh/superset",
+  "updated": "2026-04-15T02:17:45Z",
+  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+  "url": "https://github.com/superset-sh/superset"
 }
 {
-  "name": "claude-code-my-workflow",
-  "full_name": "pedrohcgs/claude-code-my-workflow",
-  "updated": "2026-04-14T02:21:15Z",
-  "desc": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.",
-  "url": "https://github.com/pedrohcgs/claude-code-my-workflow"
-}
-{
-  "name": "hermes-control-interface",
-  "full_name": "xaspx/hermes-control-interface",
-  "updated": "2026-04-14T02:22:41Z",
-  "desc": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
-  "url": "https://github.com/xaspx/hermes-control-interface"
-}
-{
-  "name": "OpenCLI",
-  "full_name": "jackwener/OpenCLI",
-  "updated": "2026-04-14T02:26:27Z",
-  "desc": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-  "url": "https://github.com/jackwener/OpenCLI"
+  "name": "oh-my-gemini-cli",
+  "full_name": "Joonghyun-Lee-Frieren/oh-my-gemini-cli",
+  "updated": "2026-04-15T02:16:00Z",
+  "desc": "Context-engineering-powered multi-agent team workflow pack for Gemini CLI.",
+  "url": "https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli"
 }
