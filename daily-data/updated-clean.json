@@ -1,70 +1,70 @@
 {
-  "name": "nx",
-  "full_name": "nrwl/nx",
-  "updated": "2026-04-15T02:24:37Z",
-  "desc": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.",
-  "url": "https://github.com/nrwl/nx"
+  "name": "activepieces",
+  "full_name": "activepieces/activepieces",
+  "updated": "2026-04-16T02:31:22Z",
+  "desc": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+  "url": "https://github.com/activepieces/activepieces"
 }
 {
-  "name": "PUAX",
-  "full_name": "linkerlin/PUAX",
-  "updated": "2026-04-15T02:22:16Z",
-  "desc": "用来驯服AI Agent的效果绝佳的 PUA Prompt！",
-  "url": "https://github.com/linkerlin/PUAX"
+  "name": "memind",
+  "full_name": "openmemind/memind",
+  "updated": "2026-04-16T02:31:17Z",
+  "desc": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
+  "url": "https://github.com/openmemind/memind"
 }
 {
-  "name": "blockrun-mcp",
-  "full_name": "BlockRunAI/blockrun-mcp",
-  "updated": "2026-04-15T02:24:59Z",
-  "desc": "Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments.",
-  "url": "https://github.com/BlockRunAI/blockrun-mcp"
+  "name": "pskoett-ai-skills",
+  "full_name": "pskoett/pskoett-ai-skills",
+  "updated": "2026-04-16T02:29:30Z",
+  "desc": "Skills for AI agents",
+  "url": "https://github.com/pskoett/pskoett-ai-skills"
 }
 {
-  "name": "agent-kanban",
-  "full_name": "saltbo/agent-kanban",
-  "updated": "2026-04-15T02:18:48Z",
-  "desc": "An agent-first task board, Mission control for your AI workforce.",
-  "url": "https://github.com/saltbo/agent-kanban"
+  "name": "actionbook",
+  "full_name": "actionbook/actionbook",
+  "updated": "2026-04-16T02:26:13Z",
+  "desc": "Actionbook provides up-to-date action manuals, so your AI agent operates any website 10x faster without guessing.",
+  "url": "https://github.com/actionbook/actionbook"
 }
 {
-  "name": "mcp-gateway-registry",
-  "full_name": "agentic-community/mcp-gateway-registry",
-  "updated": "2026-04-15T02:18:46Z",
-  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
-  "url": "https://github.com/agentic-community/mcp-gateway-registry"
+  "name": "OpenMAIC",
+  "full_name": "THU-MAIC/OpenMAIC",
+  "updated": "2026-04-16T02:27:01Z",
+  "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+  "url": "https://github.com/THU-MAIC/OpenMAIC"
 }
 {
-  "name": "voicetree",
-  "full_name": "voicetreelab/voicetree",
-  "updated": "2026-04-15T02:18:02Z",
-  "desc": "The spatial IDE for recursive multi-agent orchestration. It's like an Obsidian graph-view that you work directly inside of. ",
-  "url": "https://github.com/voicetreelab/voicetree"
+  "name": "commonly",
+  "full_name": "Team-Commonly/commonly",
+  "updated": "2026-04-16T02:25:10Z",
+  "desc": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
+  "url": "https://github.com/Team-Commonly/commonly"
+}
+{
+  "name": "lobehub",
+  "full_name": "lobehub/lobehub",
+  "updated": "2026-04-16T02:25:11Z",
+  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+  "url": "https://github.com/lobehub/lobehub"
+}
+{
+  "name": "bizclaw",
+  "full_name": "nguyenduchoai/bizclaw",
+  "updated": "2026-04-16T02:24:22Z",
+  "desc": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được.",
+  "url": "https://github.com/nguyenduchoai/bizclaw"
+}
+{
+  "name": "routa",
+  "full_name": "phodal/routa",
+  "updated": "2026-04-16T02:23:37Z",
+  "desc": "Build Your Agent Team for Real-World AI Development - Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.",
+  "url": "https://github.com/phodal/routa"
 }
 {
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-15T02:16:26Z",
+  "updated": "2026-04-16T02:21:39Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
   "url": "https://github.com/marcusquinn/aidevops"
-}
-{
-  "name": "stoneforge",
-  "full_name": "stoneforge-ai/stoneforge",
-  "updated": "2026-04-15T02:16:18Z",
-  "desc": "A web dashboard and runtime for orchestrating AI coding agents",
-  "url": "https://github.com/stoneforge-ai/stoneforge"
-}
-{
-  "name": "superset",
-  "full_name": "superset-sh/superset",
-  "updated": "2026-04-15T02:17:45Z",
-  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-  "url": "https://github.com/superset-sh/superset"
-}
-{
-  "name": "oh-my-gemini-cli",
-  "full_name": "Joonghyun-Lee-Frieren/oh-my-gemini-cli",
-  "updated": "2026-04-15T02:16:00Z",
-  "desc": "Context-engineering-powered multi-agent team workflow pack for Gemini CLI.",
-  "url": "https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli"
 }
