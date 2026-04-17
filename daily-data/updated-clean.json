@@ -1,70 +1,70 @@
 {
-  "name": "activepieces",
-  "full_name": "activepieces/activepieces",
-  "updated": "2026-04-16T02:31:22Z",
-  "desc": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-  "url": "https://github.com/activepieces/activepieces"
+  "name": "llm-wiki",
+  "full_name": "nvk/llm-wiki",
+  "updated": "2026-04-17T02:27:26Z",
+  "desc": "LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compilation, querying, and artifact generation. ",
+  "url": "https://github.com/nvk/llm-wiki"
 }
 {
-  "name": "memind",
-  "full_name": "openmemind/memind",
-  "updated": "2026-04-16T02:31:17Z",
-  "desc": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
-  "url": "https://github.com/openmemind/memind"
+  "name": "agent-governance-toolkit",
+  "full_name": "microsoft/agent-governance-toolkit",
+  "updated": "2026-04-17T02:25:15Z",
+  "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+  "url": "https://github.com/microsoft/agent-governance-toolkit"
 }
 {
-  "name": "pskoett-ai-skills",
-  "full_name": "pskoett/pskoett-ai-skills",
-  "updated": "2026-04-16T02:29:30Z",
-  "desc": "Skills for AI agents",
-  "url": "https://github.com/pskoett/pskoett-ai-skills"
+  "name": "notebooklm-py",
+  "full_name": "teng-lin/notebooklm-py",
+  "updated": "2026-04-17T02:24:28Z",
+  "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+  "url": "https://github.com/teng-lin/notebooklm-py"
 }
 {
-  "name": "actionbook",
-  "full_name": "actionbook/actionbook",
-  "updated": "2026-04-16T02:26:13Z",
-  "desc": "Actionbook provides up-to-date action manuals, so your AI agent operates any website 10x faster without guessing.",
-  "url": "https://github.com/actionbook/actionbook"
+  "name": "openase",
+  "full_name": "PacificStudio/openase",
+  "updated": "2026-04-17T02:24:05Z",
+  "desc": "Ticket-Driven Automated Software Engineering. OpenASE is an all-in-one platform that turns tickets into working code — AI agents automatically pick up tickets, execute workflows on your machines, and deliver results with full traceability.",
+  "url": "https://github.com/PacificStudio/openase"
 }
 {
-  "name": "OpenMAIC",
-  "full_name": "THU-MAIC/OpenMAIC",
-  "updated": "2026-04-16T02:27:01Z",
-  "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-  "url": "https://github.com/THU-MAIC/OpenMAIC"
+  "name": "OpenCLI",
+  "full_name": "jackwener/OpenCLI",
+  "updated": "2026-04-17T02:26:30Z",
+  "desc": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+  "url": "https://github.com/jackwener/OpenCLI"
 }
 {
-  "name": "commonly",
-  "full_name": "Team-Commonly/commonly",
-  "updated": "2026-04-16T02:25:10Z",
-  "desc": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
-  "url": "https://github.com/Team-Commonly/commonly"
-}
-{
-  "name": "lobehub",
-  "full_name": "lobehub/lobehub",
-  "updated": "2026-04-16T02:25:11Z",
-  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-  "url": "https://github.com/lobehub/lobehub"
-}
-{
-  "name": "bizclaw",
-  "full_name": "nguyenduchoai/bizclaw",
-  "updated": "2026-04-16T02:24:22Z",
-  "desc": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được.",
-  "url": "https://github.com/nguyenduchoai/bizclaw"
-}
-{
-  "name": "routa",
-  "full_name": "phodal/routa",
-  "updated": "2026-04-16T02:23:37Z",
-  "desc": "Build Your Agent Team for Real-World AI Development - Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.",
-  "url": "https://github.com/phodal/routa"
+  "name": "ArcReel",
+  "full_name": "ArcReel/ArcReel",
+  "updated": "2026-04-17T02:23:00Z",
+  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+  "url": "https://github.com/ArcReel/ArcReel"
 }
 {
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-16T02:21:39Z",
+  "updated": "2026-04-17T02:22:25Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
   "url": "https://github.com/marcusquinn/aidevops"
+}
+{
+  "name": "UCAgent",
+  "full_name": "XS-MLVP/UCAgent",
+  "updated": "2026-04-17T02:22:01Z",
+  "desc": "UnityChip Verification AI-Agent",
+  "url": "https://github.com/XS-MLVP/UCAgent"
+}
+{
+  "name": "adk-python",
+  "full_name": "google/adk-python",
+  "updated": "2026-04-17T02:21:32Z",
+  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "url": "https://github.com/google/adk-python"
+}
+{
+  "name": "LobsterAI",
+  "full_name": "netease-youdao/LobsterAI",
+  "updated": "2026-04-17T02:24:26Z",
+  "desc": "Your 24/7 all-scenario AI agent that gets work done for you.",
+  "url": "https://github.com/netease-youdao/LobsterAI"
 }
