@@ -1,70 +1,70 @@
 {
-  "name": "llm-wiki",
-  "full_name": "nvk/llm-wiki",
-  "updated": "2026-04-17T02:27:26Z",
-  "desc": "LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compilation, querying, and artifact generation. ",
-  "url": "https://github.com/nvk/llm-wiki"
+  "name": "signetai",
+  "full_name": "Signet-AI/signetai",
+  "updated": "2026-04-18T02:09:46Z",
+  "desc": "Local-first identity, memory, and secrets for AI agents. Portable state across models and harnesses.",
+  "url": "https://github.com/Signet-AI/signetai"
 }
 {
-  "name": "agent-governance-toolkit",
-  "full_name": "microsoft/agent-governance-toolkit",
-  "updated": "2026-04-17T02:25:15Z",
-  "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-  "url": "https://github.com/microsoft/agent-governance-toolkit"
+  "name": "HiClaw",
+  "full_name": "agentscope-ai/HiClaw",
+  "updated": "2026-04-18T02:08:57Z",
+  "desc": "An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.",
+  "url": "https://github.com/agentscope-ai/HiClaw"
 }
 {
-  "name": "notebooklm-py",
-  "full_name": "teng-lin/notebooklm-py",
-  "updated": "2026-04-17T02:24:28Z",
-  "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
-  "url": "https://github.com/teng-lin/notebooklm-py"
+  "name": "agency-swarm",
+  "full_name": "VRSEN/agency-swarm",
+  "updated": "2026-04-18T02:06:05Z",
+  "desc": "Reliable Multi-Agent Orchestration Framework",
+  "url": "https://github.com/VRSEN/agency-swarm"
 }
 {
-  "name": "openase",
-  "full_name": "PacificStudio/openase",
-  "updated": "2026-04-17T02:24:05Z",
-  "desc": "Ticket-Driven Automated Software Engineering. OpenASE is an all-in-one platform that turns tickets into working code — AI agents automatically pick up tickets, execute workflows on your machines, and deliver results with full traceability.",
-  "url": "https://github.com/PacificStudio/openase"
+  "name": "agentsocialbench",
+  "full_name": "kingofspace0wzz/agentsocialbench",
+  "updated": "2026-04-18T02:05:30Z",
+  "desc": "AgentSocialBench is the first benchmark for evaluating privacy preservation in human-centered agentic social networks — settings where teams of AI agents serve individual users across multiple domains, coordinate on shared tasks, and must protect sensitive personal information throughout.",
+  "url": "https://github.com/kingofspace0wzz/agentsocialbench"
 }
 {
-  "name": "OpenCLI",
-  "full_name": "jackwener/OpenCLI",
-  "updated": "2026-04-17T02:26:30Z",
-  "desc": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-  "url": "https://github.com/jackwener/OpenCLI"
+  "name": "tyclaw.rs",
+  "full_name": "tuyoogame/tyclaw.rs",
+  "updated": "2026-04-18T02:04:10Z",
+  "desc": "企业级AI Agent的Rust实现，支持沙箱隔离，审计安全，使用统计，钉钉接入等实用功能。",
+  "url": "https://github.com/tuyoogame/tyclaw.rs"
 }
 {
-  "name": "ArcReel",
-  "full_name": "ArcReel/ArcReel",
-  "updated": "2026-04-17T02:23:00Z",
-  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-  "url": "https://github.com/ArcReel/ArcReel"
+  "name": "qwen-code",
+  "full_name": "QwenLM/qwen-code",
+  "updated": "2026-04-18T02:03:38Z",
+  "desc": "An open-source AI agent that lives in your terminal.",
+  "url": "https://github.com/QwenLM/qwen-code"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-17T02:22:25Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "KohakuTerrarium",
+  "full_name": "Kohaku-Lab/KohakuTerrarium",
+  "updated": "2026-04-18T02:03:10Z",
+  "desc": "KohakuTerrarium is a general-purpose AI agent framework and batteries-included app for building, running, and composing self-contained agents and multi-agent teams, with built-in tools, sub-agents, persistent sessions, TUI, and web UI.",
+  "url": "https://github.com/Kohaku-Lab/KohakuTerrarium"
 }
 {
-  "name": "UCAgent",
-  "full_name": "XS-MLVP/UCAgent",
-  "updated": "2026-04-17T02:22:01Z",
-  "desc": "UnityChip Verification AI-Agent",
-  "url": "https://github.com/XS-MLVP/UCAgent"
+  "name": "Observal",
+  "full_name": "BlazeUp-AI/Observal",
+  "updated": "2026-04-18T02:02:48Z",
+  "desc": "Observal is an AI agent registry with first in class observabilty and eval framework",
+  "url": "https://github.com/BlazeUp-AI/Observal"
 }
 {
-  "name": "adk-python",
-  "full_name": "google/adk-python",
-  "updated": "2026-04-17T02:21:32Z",
-  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "url": "https://github.com/google/adk-python"
+  "name": "DashClaw",
+  "full_name": "ucsandman/DashClaw",
+  "updated": "2026-04-18T02:00:16Z",
+  "desc": "🛡️Decision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.",
+  "url": "https://github.com/ucsandman/DashClaw"
 }
 {
-  "name": "LobsterAI",
-  "full_name": "netease-youdao/LobsterAI",
-  "updated": "2026-04-17T02:24:26Z",
-  "desc": "Your 24/7 all-scenario AI agent that gets work done for you.",
-  "url": "https://github.com/netease-youdao/LobsterAI"
+  "name": "OpenBB",
+  "full_name": "OpenBB-finance/OpenBB",
+  "updated": "2026-04-18T02:10:02Z",
+  "desc": "Financial data platform for analysts, quants and AI agents.",
+  "url": "https://github.com/OpenBB-finance/OpenBB"
 }

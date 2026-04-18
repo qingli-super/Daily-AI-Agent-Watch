@@ -8,19 +8,19 @@
 }
 {
   "id": "agents-course/notebooks",
-  "likes": 545
+  "likes": 547
 }
 {
   "id": "openbmb/AgentCPM-Explore",
-  "likes": 328
+  "likes": 412
+}
+{
+  "id": "openbmb/AgentCPM-Report",
+  "likes": 298
 }
 {
   "id": "fishaudio/fish-agent-v0.1-3b",
   "likes": 273
-}
-{
-  "id": "openbmb/AgentCPM-Report",
-  "likes": 247
 }
 {
   "id": "agentica-org/DeepSWE-Preview",
