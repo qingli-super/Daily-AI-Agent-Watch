@@ -1,70 +1,70 @@
 {
-  "name": "mcp-gateway-registry",
-  "full_name": "agentic-community/mcp-gateway-registry",
-  "updated": "2026-04-19T02:31:54Z",
-  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
-  "url": "https://github.com/agentic-community/mcp-gateway-registry"
+  "name": "UCAgent",
+  "full_name": "XS-MLVP/UCAgent",
+  "updated": "2026-04-20T02:32:30Z",
+  "desc": "UnityChip Verification AI-Agent",
+  "url": "https://github.com/XS-MLVP/UCAgent"
 }
 {
-  "name": "AGiXT",
-  "full_name": "Josh-XT/AGiXT",
-  "updated": "2026-04-19T02:31:33Z",
-  "desc": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.",
-  "url": "https://github.com/Josh-XT/AGiXT"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-04-20T02:31:44Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "rivonclaw",
-  "full_name": "gaoyangz77/rivonclaw",
-  "updated": "2026-04-19T02:29:52Z",
-  "desc": "RivonClaw is an easy-mode runtime and UI layer built on top of OpenClaw, designed to turn long-lived AI agents into personal digital butlers. Instead of configuring skills or workflows, users interact through natural-language rules and feedback, allowing a single agent to evolve, adapt, and better understand its owner over time.",
-  "url": "https://github.com/gaoyangz77/rivonclaw"
+  "name": "worktrunk",
+  "full_name": "max-sixty/worktrunk",
+  "updated": "2026-04-20T02:31:14Z",
+  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+  "url": "https://github.com/max-sixty/worktrunk"
 }
 {
-  "name": "notebooklm-py",
-  "full_name": "teng-lin/notebooklm-py",
-  "updated": "2026-04-19T02:28:09Z",
-  "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
-  "url": "https://github.com/teng-lin/notebooklm-py"
+  "name": "eliza",
+  "full_name": "elizaOS/eliza",
+  "updated": "2026-04-20T02:29:38Z",
+  "desc": "Autonomous agents for everyone",
+  "url": "https://github.com/elizaOS/eliza"
 }
 {
-  "name": "agentic_coding_flywheel_setup",
-  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
-  "updated": "2026-04-19T02:27:17Z",
-  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
-  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+  "name": "ClawSwarm",
+  "full_name": "1Panel-dev/ClawSwarm",
+  "updated": "2026-04-20T02:29:32Z",
+  "desc": "🔥 Open-source multi-agent orchestration system for OpenClaw, enabling swarm intelligence via unified group chat.",
+  "url": "https://github.com/1Panel-dev/ClawSwarm"
 }
 {
-  "name": "OfficeCLI",
-  "full_name": "iOfficeAI/OfficeCLI",
-  "updated": "2026-04-19T02:31:28Z",
-  "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-  "url": "https://github.com/iOfficeAI/OfficeCLI"
+  "name": "qwen-code",
+  "full_name": "QwenLM/qwen-code",
+  "updated": "2026-04-20T02:29:44Z",
+  "desc": "An open-source AI agent that lives in your terminal.",
+  "url": "https://github.com/QwenLM/qwen-code"
 }
 {
-  "name": "deer-flow",
-  "full_name": "bytedance/deer-flow",
-  "updated": "2026-04-19T02:23:31Z",
-  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-  "url": "https://github.com/bytedance/deer-flow"
+  "name": "opc",
+  "full_name": "iamtouchskyer/opc",
+  "updated": "2026-04-20T02:27:57Z",
+  "desc": "OPC — One Person Company. A full team in a single Claude Code skill. Adaptive agent orchestrator with 11 built-in roles, 4 modes, and adversarial quality control.",
+  "url": "https://github.com/iamtouchskyer/opc"
 }
 {
-  "name": "context",
-  "full_name": "neuledge/context",
-  "updated": "2026-04-19T02:22:46Z",
-  "desc": "Local-first documentation for AI agents",
-  "url": "https://github.com/neuledge/context"
+  "name": "AgenticX",
+  "full_name": "DemonDamon/AgenticX",
+  "updated": "2026-04-20T02:27:54Z",
+  "desc": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
+  "url": "https://github.com/DemonDamon/AgenticX"
 }
 {
-  "name": "adk-python",
-  "full_name": "google/adk-python",
-  "updated": "2026-04-19T02:22:46Z",
-  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "url": "https://github.com/google/adk-python"
+  "name": "ShanClaw",
+  "full_name": "Kocoro-lab/ShanClaw",
+  "updated": "2026-04-20T02:27:31Z",
+  "desc": "AI agent runtime powered by Shannon — Mac file ops, shell, GUI automation — with complex task delegation via Shannon Cloud workflows",
+  "url": "https://github.com/Kocoro-lab/ShanClaw"
 }
 {
-  "name": "loki-mode",
-  "full_name": "asklokesh/loki-mode",
-  "updated": "2026-04-19T02:22:37Z",
-  "desc": "Multi-agent provider agnostic Autonomous system & framework that WORKS..!",
-  "url": "https://github.com/asklokesh/loki-mode"
+  "name": "goclaw",
+  "full_name": "nextlevelbuilder/goclaw",
+  "updated": "2026-04-20T02:29:43Z",
+  "desc": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+  "url": "https://github.com/nextlevelbuilder/goclaw"
 }
