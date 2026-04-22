@@ -1,70 +1,70 @@
 {
-  "name": "ArcReel",
-  "full_name": "ArcReel/ArcReel",
-  "updated": "2026-04-21T02:29:07Z",
-  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-  "url": "https://github.com/ArcReel/ArcReel"
+  "name": "worktrunk",
+  "full_name": "max-sixty/worktrunk",
+  "updated": "2026-04-22T02:26:06Z",
+  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+  "url": "https://github.com/max-sixty/worktrunk"
 }
 {
-  "name": "scarf",
-  "full_name": "awizemann/scarf",
-  "updated": "2026-04-21T02:28:00Z",
-  "desc": "Native macOS GUI for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
-  "url": "https://github.com/awizemann/scarf"
+  "name": "oh-my-claudecode",
+  "full_name": "Yeachan-Heo/oh-my-claudecode",
+  "updated": "2026-04-22T02:25:45Z",
+  "desc": "Teams-first Multi-agent orchestration for Claude Code",
+  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
 }
 {
-  "name": "materialize",
-  "full_name": "MaterializeInc/materialize",
-  "updated": "2026-04-21T02:27:57Z",
-  "desc": "The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL",
-  "url": "https://github.com/MaterializeInc/materialize"
+  "name": "loong",
+  "full_name": "eastreams/loong",
+  "updated": "2026-04-22T02:25:39Z",
+  "desc": "Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉",
+  "url": "https://github.com/eastreams/loong"
 }
 {
-  "name": "agents",
-  "full_name": "inkeep/agents",
-  "updated": "2026-04-21T02:26:39Z",
-  "desc": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-  "url": "https://github.com/inkeep/agents"
+  "name": "goose",
+  "full_name": "aaif-goose/goose",
+  "updated": "2026-04-22T02:26:13Z",
+  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "url": "https://github.com/aaif-goose/goose"
 }
 {
-  "name": "ouroboros",
-  "full_name": "Q00/ouroboros",
-  "updated": "2026-04-21T02:25:38Z",
-  "desc": "Stop prompting. Start specifying.",
-  "url": "https://github.com/Q00/ouroboros"
+  "name": "we-mp-rss",
+  "full_name": "rachelos/we-mp-rss",
+  "updated": "2026-04-22T02:25:06Z",
+  "desc": "✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码",
+  "url": "https://github.com/rachelos/we-mp-rss"
 }
 {
-  "name": "Memoria",
-  "full_name": "matrixorigin/Memoria",
-  "updated": "2026-04-21T02:24:07Z",
-  "desc": "Secure memory management for AI Agents • Ensures data integrity • Reduces hallucinations • Maintains consistent long-term context",
-  "url": "https://github.com/matrixorigin/Memoria"
-}
-{
-  "name": "lobehub",
-  "full_name": "lobehub/lobehub",
-  "updated": "2026-04-21T02:28:16Z",
-  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-  "url": "https://github.com/lobehub/lobehub"
+  "name": "osaurus",
+  "full_name": "osaurus-ai/osaurus",
+  "updated": "2026-04-22T02:24:03Z",
+  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+  "url": "https://github.com/osaurus-ai/osaurus"
 }
 {
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-21T02:24:01Z",
+  "updated": "2026-04-22T02:22:39Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
   "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "OpenSandbox",
-  "full_name": "alibaba/OpenSandbox",
-  "updated": "2026-04-21T02:23:09Z",
-  "desc": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-  "url": "https://github.com/alibaba/OpenSandbox"
+  "name": "tubecli",
+  "full_name": "tubecreate/tubecli",
+  "updated": "2026-04-22T02:22:16Z",
+  "desc": "⚡ TubeCLI — The Ultimate Open Source AI Agents Ecosystem | Agents Browser · Agents Workflow · Agents Studio World",
+  "url": "https://github.com/tubecreate/tubecli"
 }
 {
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-04-21T02:27:46Z",
-  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-  "url": "https://github.com/volcengine/OpenViking"
+  "name": "Memoria",
+  "full_name": "matrixorigin/Memoria",
+  "updated": "2026-04-22T02:21:30Z",
+  "desc": "Secure memory management for AI Agents • Ensures data integrity • Reduces hallucinations • Maintains consistent long-term context",
+  "url": "https://github.com/matrixorigin/Memoria"
+}
+{
+  "name": "cc-telegram-bridge",
+  "full_name": "cloveric/cc-telegram-bridge",
+  "updated": "2026-04-22T02:21:09Z",
+  "desc": "Real Claude Code & Codex CLI on Telegram — runs their native harness directly, no reimplemented API wrappers. Sessions, memory, tools, all built-in. Multi-bot Agent Bus, resume local sessions on your phone, voice input, file delivery, streaming, per-bot personality & budget. The most powerful way to run AI agents from anywhere.",
+  "url": "https://github.com/cloveric/cc-telegram-bridge"
 }
