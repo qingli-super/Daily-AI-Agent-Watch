@@ -1,70 +1,70 @@
 {
-  "name": "worktrunk",
-  "full_name": "max-sixty/worktrunk",
-  "updated": "2026-04-22T02:26:06Z",
-  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-  "url": "https://github.com/max-sixty/worktrunk"
+  "name": "esp-claw",
+  "full_name": "espressif/esp-claw",
+  "updated": "2026-04-23T02:30:27Z",
+  "desc": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
+  "url": "https://github.com/espressif/esp-claw"
 }
 {
-  "name": "oh-my-claudecode",
-  "full_name": "Yeachan-Heo/oh-my-claudecode",
-  "updated": "2026-04-22T02:25:45Z",
-  "desc": "Teams-first Multi-agent orchestration for Claude Code",
-  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
-}
-{
-  "name": "loong",
-  "full_name": "eastreams/loong",
-  "updated": "2026-04-22T02:25:39Z",
-  "desc": "Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉",
-  "url": "https://github.com/eastreams/loong"
-}
-{
-  "name": "goose",
-  "full_name": "aaif-goose/goose",
-  "updated": "2026-04-22T02:26:13Z",
-  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-  "url": "https://github.com/aaif-goose/goose"
-}
-{
-  "name": "we-mp-rss",
-  "full_name": "rachelos/we-mp-rss",
-  "updated": "2026-04-22T02:25:06Z",
-  "desc": "✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码",
-  "url": "https://github.com/rachelos/we-mp-rss"
-}
-{
-  "name": "osaurus",
-  "full_name": "osaurus-ai/osaurus",
-  "updated": "2026-04-22T02:24:03Z",
-  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
-  "url": "https://github.com/osaurus-ai/osaurus"
+  "name": "hcom",
+  "full_name": "aannoo/hcom",
+  "updated": "2026-04-23T02:29:22Z",
+  "desc": "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode",
+  "url": "https://github.com/aannoo/hcom"
 }
 {
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-22T02:22:39Z",
+  "updated": "2026-04-23T02:28:41Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
   "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "tubecli",
-  "full_name": "tubecreate/tubecli",
-  "updated": "2026-04-22T02:22:16Z",
-  "desc": "⚡ TubeCLI — The Ultimate Open Source AI Agents Ecosystem | Agents Browser · Agents Workflow · Agents Studio World",
-  "url": "https://github.com/tubecreate/tubecli"
+  "name": "agent-governance-toolkit",
+  "full_name": "microsoft/agent-governance-toolkit",
+  "updated": "2026-04-23T02:28:35Z",
+  "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+  "url": "https://github.com/microsoft/agent-governance-toolkit"
 }
 {
-  "name": "Memoria",
-  "full_name": "matrixorigin/Memoria",
-  "updated": "2026-04-22T02:21:30Z",
-  "desc": "Secure memory management for AI Agents • Ensures data integrity • Reduces hallucinations • Maintains consistent long-term context",
-  "url": "https://github.com/matrixorigin/Memoria"
+  "name": "awesome-agents",
+  "full_name": "kyrolabs/awesome-agents",
+  "updated": "2026-04-23T02:28:13Z",
+  "desc": "🤖 Awesome list of AI Agents",
+  "url": "https://github.com/kyrolabs/awesome-agents"
 }
 {
-  "name": "cc-telegram-bridge",
-  "full_name": "cloveric/cc-telegram-bridge",
-  "updated": "2026-04-22T02:21:09Z",
-  "desc": "Real Claude Code & Codex CLI on Telegram — runs their native harness directly, no reimplemented API wrappers. Sessions, memory, tools, all built-in. Multi-bot Agent Bus, resume local sessions on your phone, voice input, file delivery, streaming, per-bot personality & budget. The most powerful way to run AI agents from anywhere.",
-  "url": "https://github.com/cloveric/cc-telegram-bridge"
+  "name": "agent-sandbox",
+  "full_name": "kubernetes-sigs/agent-sandbox",
+  "updated": "2026-04-23T02:26:51Z",
+  "desc": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
+  "url": "https://github.com/kubernetes-sigs/agent-sandbox"
+}
+{
+  "name": "gemini-cli",
+  "full_name": "google-gemini/gemini-cli",
+  "updated": "2026-04-23T02:27:06Z",
+  "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+  "url": "https://github.com/google-gemini/gemini-cli"
+}
+{
+  "name": "manifest",
+  "full_name": "mnfst/manifest",
+  "updated": "2026-04-23T02:25:07Z",
+  "desc": "Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚",
+  "url": "https://github.com/mnfst/manifest"
+}
+{
+  "name": "agent-skills-standard",
+  "full_name": "HoangNguyen0403/agent-skills-standard",
+  "updated": "2026-04-23T02:24:51Z",
+  "desc": "A collection of Agent Skills Standard and Best Practice for Programming Languages, Frameworks that help our AI Agent follow best practies on frameworks and programming laguages",
+  "url": "https://github.com/HoangNguyen0403/agent-skills-standard"
+}
+{
+  "name": "eliza",
+  "full_name": "elizaOS/eliza",
+  "updated": "2026-04-23T02:23:10Z",
+  "desc": "Autonomous agents for everyone",
+  "url": "https://github.com/elizaOS/eliza"
 }
