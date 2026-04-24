@@ -1,70 +1,70 @@
 {
-  "name": "esp-claw",
-  "full_name": "espressif/esp-claw",
-  "updated": "2026-04-23T02:30:27Z",
-  "desc": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
-  "url": "https://github.com/espressif/esp-claw"
+  "name": "hello-halo",
+  "full_name": "openkursar/hello-halo",
+  "updated": "2026-04-24T02:30:07Z",
+  "desc": "7×24 Desktop AI Agent for Everyone. Visual AI assistant with remote access, file management, and built-in AI browser.",
+  "url": "https://github.com/openkursar/hello-halo"
 }
 {
-  "name": "hcom",
-  "full_name": "aannoo/hcom",
-  "updated": "2026-04-23T02:29:22Z",
-  "desc": "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode",
-  "url": "https://github.com/aannoo/hcom"
+  "name": "git-mcp-server",
+  "full_name": "cyanheads/git-mcp-server",
+  "updated": "2026-04-24T02:29:46Z",
+  "desc": "An MCP (Model Context Protocol) server enabling LLMs and AI agents to interact with Git repositories. Provides tools for comprehensive Git operations including clone, commit, branch, diff, log, status, push, pull, merge, rebase, worktree, tag management, and more, via the MCP standard. STDIO & HTTP.",
+  "url": "https://github.com/cyanheads/git-mcp-server"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-23T02:28:41Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "agi",
+  "full_name": "hyperspaceai/agi",
+  "updated": "2026-04-24T02:28:52Z",
+  "desc": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
+  "url": "https://github.com/hyperspaceai/agi"
 }
 {
-  "name": "agent-governance-toolkit",
-  "full_name": "microsoft/agent-governance-toolkit",
-  "updated": "2026-04-23T02:28:35Z",
-  "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-  "url": "https://github.com/microsoft/agent-governance-toolkit"
+  "name": "lobehub",
+  "full_name": "lobehub/lobehub",
+  "updated": "2026-04-24T02:30:00Z",
+  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+  "url": "https://github.com/lobehub/lobehub"
 }
 {
-  "name": "awesome-agents",
-  "full_name": "kyrolabs/awesome-agents",
-  "updated": "2026-04-23T02:28:13Z",
-  "desc": "🤖 Awesome list of AI Agents",
-  "url": "https://github.com/kyrolabs/awesome-agents"
+  "name": "ClawX",
+  "full_name": "ValueCell-ai/ClawX",
+  "updated": "2026-04-24T02:26:38Z",
+  "desc": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.",
+  "url": "https://github.com/ValueCell-ai/ClawX"
 }
 {
-  "name": "agent-sandbox",
-  "full_name": "kubernetes-sigs/agent-sandbox",
-  "updated": "2026-04-23T02:26:51Z",
-  "desc": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
-  "url": "https://github.com/kubernetes-sigs/agent-sandbox"
+  "name": "oh-my-agent",
+  "full_name": "first-fluke/oh-my-agent",
+  "updated": "2026-04-24T02:27:54Z",
+  "desc": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
+  "url": "https://github.com/first-fluke/oh-my-agent"
 }
 {
-  "name": "gemini-cli",
-  "full_name": "google-gemini/gemini-cli",
-  "updated": "2026-04-23T02:27:06Z",
-  "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-  "url": "https://github.com/google-gemini/gemini-cli"
+  "name": "mateclaw",
+  "full_name": "matevip/mateclaw",
+  "updated": "2026-04-24T02:26:25Z",
+  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+  "url": "https://github.com/matevip/mateclaw"
 }
 {
-  "name": "manifest",
-  "full_name": "mnfst/manifest",
-  "updated": "2026-04-23T02:25:07Z",
-  "desc": "Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚",
-  "url": "https://github.com/mnfst/manifest"
+  "name": "AI-fundermentals",
+  "full_name": "ForceInjection/AI-fundermentals",
+  "updated": "2026-04-24T02:24:13Z",
+  "desc": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识",
+  "url": "https://github.com/ForceInjection/AI-fundermentals"
 }
 {
-  "name": "agent-skills-standard",
-  "full_name": "HoangNguyen0403/agent-skills-standard",
-  "updated": "2026-04-23T02:24:51Z",
-  "desc": "A collection of Agent Skills Standard and Best Practice for Programming Languages, Frameworks that help our AI Agent follow best practies on frameworks and programming laguages",
-  "url": "https://github.com/HoangNguyen0403/agent-skills-standard"
+  "name": "superset",
+  "full_name": "superset-sh/superset",
+  "updated": "2026-04-24T02:27:50Z",
+  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+  "url": "https://github.com/superset-sh/superset"
 }
 {
-  "name": "eliza",
-  "full_name": "elizaOS/eliza",
-  "updated": "2026-04-23T02:23:10Z",
-  "desc": "Autonomous agents for everyone",
-  "url": "https://github.com/elizaOS/eliza"
+  "name": "vue-ecosystem-skills",
+  "full_name": "skilld-dev/vue-ecosystem-skills",
+  "updated": "2026-04-24T02:21:57Z",
+  "desc": "AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases.",
+  "url": "https://github.com/skilld-dev/vue-ecosystem-skills"
 }
