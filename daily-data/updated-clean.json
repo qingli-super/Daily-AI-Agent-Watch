@@ -1,70 +1,70 @@
 {
-  "name": "hello-halo",
-  "full_name": "openkursar/hello-halo",
-  "updated": "2026-04-24T02:30:07Z",
-  "desc": "7×24 Desktop AI Agent for Everyone. Visual AI assistant with remote access, file management, and built-in AI browser.",
-  "url": "https://github.com/openkursar/hello-halo"
+  "name": "mega",
+  "full_name": "web3infra-foundation/mega",
+  "updated": "2026-04-25T02:10:33Z",
+  "desc": "Mega is an open-source implementation of Google Piper — a Git-compatible monorepo engine built for the AI Agent era.",
+  "url": "https://github.com/web3infra-foundation/mega"
 }
 {
-  "name": "git-mcp-server",
-  "full_name": "cyanheads/git-mcp-server",
-  "updated": "2026-04-24T02:29:46Z",
-  "desc": "An MCP (Model Context Protocol) server enabling LLMs and AI agents to interact with Git repositories. Provides tools for comprehensive Git operations including clone, commit, branch, diff, log, status, push, pull, merge, rebase, worktree, tag management, and more, via the MCP standard. STDIO & HTTP.",
-  "url": "https://github.com/cyanheads/git-mcp-server"
+  "name": "OfficeCLI",
+  "full_name": "iOfficeAI/OfficeCLI",
+  "updated": "2026-04-25T02:10:34Z",
+  "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+  "url": "https://github.com/iOfficeAI/OfficeCLI"
 }
 {
-  "name": "agi",
-  "full_name": "hyperspaceai/agi",
-  "updated": "2026-04-24T02:28:52Z",
-  "desc": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
-  "url": "https://github.com/hyperspaceai/agi"
+  "name": "cccc",
+  "full_name": "ChesterRa/cccc",
+  "updated": "2026-04-25T02:08:37Z",
+  "desc": "Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow",
+  "url": "https://github.com/ChesterRa/cccc"
 }
 {
-  "name": "lobehub",
-  "full_name": "lobehub/lobehub",
-  "updated": "2026-04-24T02:30:00Z",
-  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-  "url": "https://github.com/lobehub/lobehub"
+  "name": "openai-agents-python",
+  "full_name": "openai/openai-agents-python",
+  "updated": "2026-04-25T02:07:37Z",
+  "desc": "A lightweight, powerful framework for multi-agent workflows",
+  "url": "https://github.com/openai/openai-agents-python"
 }
 {
-  "name": "ClawX",
-  "full_name": "ValueCell-ai/ClawX",
-  "updated": "2026-04-24T02:26:38Z",
-  "desc": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.",
-  "url": "https://github.com/ValueCell-ai/ClawX"
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-04-25T02:05:57Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
 }
 {
-  "name": "oh-my-agent",
-  "full_name": "first-fluke/oh-my-agent",
-  "updated": "2026-04-24T02:27:54Z",
-  "desc": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
-  "url": "https://github.com/first-fluke/oh-my-agent"
+  "name": "materialize",
+  "full_name": "MaterializeInc/materialize",
+  "updated": "2026-04-25T02:05:47Z",
+  "desc": "The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL",
+  "url": "https://github.com/MaterializeInc/materialize"
 }
 {
-  "name": "mateclaw",
-  "full_name": "matevip/mateclaw",
-  "updated": "2026-04-24T02:26:25Z",
-  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-  "url": "https://github.com/matevip/mateclaw"
+  "name": "gemini-cli",
+  "full_name": "google-gemini/gemini-cli",
+  "updated": "2026-04-25T02:11:58Z",
+  "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+  "url": "https://github.com/google-gemini/gemini-cli"
 }
 {
-  "name": "AI-fundermentals",
-  "full_name": "ForceInjection/AI-fundermentals",
-  "updated": "2026-04-24T02:24:13Z",
-  "desc": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识",
-  "url": "https://github.com/ForceInjection/AI-fundermentals"
+  "name": "solace-agent-mesh",
+  "full_name": "SolaceLabs/solace-agent-mesh",
+  "updated": "2026-04-25T02:03:35Z",
+  "desc": "An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-step workflows.",
+  "url": "https://github.com/SolaceLabs/solace-agent-mesh"
 }
 {
   "name": "superset",
   "full_name": "superset-sh/superset",
-  "updated": "2026-04-24T02:27:50Z",
+  "updated": "2026-04-25T02:03:44Z",
   "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
   "url": "https://github.com/superset-sh/superset"
 }
 {
-  "name": "vue-ecosystem-skills",
-  "full_name": "skilld-dev/vue-ecosystem-skills",
-  "updated": "2026-04-24T02:21:57Z",
-  "desc": "AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases.",
-  "url": "https://github.com/skilld-dev/vue-ecosystem-skills"
+  "name": "hive",
+  "full_name": "aden-hive/hive",
+  "updated": "2026-04-25T02:02:17Z",
+  "desc": "Multi-Agent Harness for Production AI",
+  "url": "https://github.com/aden-hive/hive"
 }
