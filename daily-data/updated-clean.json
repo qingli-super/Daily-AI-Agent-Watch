@@ -1,70 +1,70 @@
 {
-  "name": "mega",
-  "full_name": "web3infra-foundation/mega",
-  "updated": "2026-04-25T02:10:33Z",
-  "desc": "Mega is an open-source implementation of Google Piper — a Git-compatible monorepo engine built for the AI Agent era.",
-  "url": "https://github.com/web3infra-foundation/mega"
+  "name": "opencrust",
+  "full_name": "opencrust-org/opencrust",
+  "updated": "2026-04-26T02:35:43Z",
+  "desc": "🦀 Personal Multi-agent AI assistant platform, written in Rust — multi-agent, self-learning skills, RAG, MCP, and agentskills.io compatible",
+  "url": "https://github.com/opencrust-org/opencrust"
 }
 {
-  "name": "OfficeCLI",
-  "full_name": "iOfficeAI/OfficeCLI",
-  "updated": "2026-04-25T02:10:34Z",
-  "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-  "url": "https://github.com/iOfficeAI/OfficeCLI"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-04-26T02:35:32Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "cccc",
-  "full_name": "ChesterRa/cccc",
-  "updated": "2026-04-25T02:08:37Z",
-  "desc": "Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow",
-  "url": "https://github.com/ChesterRa/cccc"
+  "name": "bitterbot-desktop",
+  "full_name": "Bitterbot-AI/bitterbot-desktop",
+  "updated": "2026-04-26T02:35:19Z",
+  "desc": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+  "url": "https://github.com/Bitterbot-AI/bitterbot-desktop"
 }
 {
-  "name": "openai-agents-python",
-  "full_name": "openai/openai-agents-python",
-  "updated": "2026-04-25T02:07:37Z",
-  "desc": "A lightweight, powerful framework for multi-agent workflows",
-  "url": "https://github.com/openai/openai-agents-python"
-}
-{
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-04-25T02:05:57Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
-}
-{
-  "name": "materialize",
-  "full_name": "MaterializeInc/materialize",
-  "updated": "2026-04-25T02:05:47Z",
-  "desc": "The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL",
-  "url": "https://github.com/MaterializeInc/materialize"
-}
-{
-  "name": "gemini-cli",
-  "full_name": "google-gemini/gemini-cli",
-  "updated": "2026-04-25T02:11:58Z",
-  "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-  "url": "https://github.com/google-gemini/gemini-cli"
-}
-{
-  "name": "solace-agent-mesh",
-  "full_name": "SolaceLabs/solace-agent-mesh",
-  "updated": "2026-04-25T02:03:35Z",
-  "desc": "An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-step workflows.",
-  "url": "https://github.com/SolaceLabs/solace-agent-mesh"
+  "name": "sutando",
+  "full_name": "sonichi/sutando",
+  "updated": "2026-04-26T02:34:09Z",
+  "desc": "Summon your AI superpower — grows with you through voice, vision, and autonomous action",
+  "url": "https://github.com/sonichi/sutando"
 }
 {
   "name": "superset",
   "full_name": "superset-sh/superset",
-  "updated": "2026-04-25T02:03:44Z",
+  "updated": "2026-04-26T02:33:30Z",
   "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
   "url": "https://github.com/superset-sh/superset"
 }
 {
-  "name": "hive",
-  "full_name": "aden-hive/hive",
-  "updated": "2026-04-25T02:02:17Z",
-  "desc": "Multi-Agent Harness for Production AI",
-  "url": "https://github.com/aden-hive/hive"
+  "name": "kiss_ai",
+  "full_name": "ksenxx/kiss_ai",
+  "updated": "2026-04-26T02:32:52Z",
+  "desc": "Keep it Simple, Stupid AI Agent Framework with KISS Sorcar (a possible replacement of Cursor)",
+  "url": "https://github.com/ksenxx/kiss_ai"
+}
+{
+  "name": "ApeRAG",
+  "full_name": "apecloud/ApeRAG",
+  "updated": "2026-04-26T02:32:17Z",
+  "desc": "ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment",
+  "url": "https://github.com/apecloud/ApeRAG"
+}
+{
+  "name": "eliza",
+  "full_name": "elizaOS/eliza",
+  "updated": "2026-04-26T02:27:21Z",
+  "desc": "Autonomous agents for everyone",
+  "url": "https://github.com/elizaOS/eliza"
+}
+{
+  "name": "AIGC-Interview-Book",
+  "full_name": "WeThinkIn/AIGC-Interview-Book",
+  "updated": "2026-04-26T02:24:39Z",
+  "desc": "【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
+  "url": "https://github.com/WeThinkIn/AIGC-Interview-Book"
+}
+{
+  "name": "worktrunk",
+  "full_name": "max-sixty/worktrunk",
+  "updated": "2026-04-26T02:20:50Z",
+  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+  "url": "https://github.com/max-sixty/worktrunk"
 }
