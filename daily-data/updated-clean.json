@@ -1,70 +1,70 @@
 {
-  "name": "opencrust",
-  "full_name": "opencrust-org/opencrust",
-  "updated": "2026-04-26T02:35:43Z",
-  "desc": "🦀 Personal Multi-agent AI assistant platform, written in Rust — multi-agent, self-learning skills, RAG, MCP, and agentskills.io compatible",
-  "url": "https://github.com/opencrust-org/opencrust"
+  "name": "fff.nvim",
+  "full_name": "dmtrKovalenko/fff.nvim",
+  "updated": "2026-04-27T02:37:56Z",
+  "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+  "url": "https://github.com/dmtrKovalenko/fff.nvim"
+}
+{
+  "name": "ai-agents-from-zero",
+  "full_name": "didilili/ai-agents-from-zero",
+  "updated": "2026-04-27T02:37:37Z",
+  "desc": " 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化 ",
+  "url": "https://github.com/didilili/ai-agents-from-zero"
+}
+{
+  "name": "agentic_coding_flywheel_setup",
+  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
+  "updated": "2026-04-27T02:37:13Z",
+  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
+  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+}
+{
+  "name": "anywhere-agents",
+  "full_name": "yzhao062/anywhere-agents",
+  "updated": "2026-04-27T02:37:09Z",
+  "desc": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard).",
+  "url": "https://github.com/yzhao062/anywhere-agents"
+}
+{
+  "name": "agent-governance-toolkit",
+  "full_name": "microsoft/agent-governance-toolkit",
+  "updated": "2026-04-27T02:36:15Z",
+  "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+  "url": "https://github.com/microsoft/agent-governance-toolkit"
+}
+{
+  "name": "cc-telegram-bridge",
+  "full_name": "cloveric/cc-telegram-bridge",
+  "updated": "2026-04-27T02:35:50Z",
+  "desc": "Real Claude Code & Codex CLI on Telegram — native CLI harness with session resume, isolated multi-bot instances, Agent Bus delegation/fan-out/crew workflows, voice input, streaming, and tools.",
+  "url": "https://github.com/cloveric/cc-telegram-bridge"
+}
+{
+  "name": "memind",
+  "full_name": "openmemind/memind",
+  "updated": "2026-04-27T02:34:24Z",
+  "desc": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
+  "url": "https://github.com/openmemind/memind"
+}
+{
+  "name": "nanobot",
+  "full_name": "HKUDS/nanobot",
+  "updated": "2026-04-27T02:36:37Z",
+  "desc": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+  "url": "https://github.com/HKUDS/nanobot"
+}
+{
+  "name": "DiffMem",
+  "full_name": "Growth-Kinetics/DiffMem",
+  "updated": "2026-04-27T02:33:33Z",
+  "desc": "Git Based Memory Storage for Conversational AI Agent",
+  "url": "https://github.com/Growth-Kinetics/DiffMem"
 }
 {
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-26T02:35:32Z",
+  "updated": "2026-04-27T02:33:17Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
   "url": "https://github.com/marcusquinn/aidevops"
-}
-{
-  "name": "bitterbot-desktop",
-  "full_name": "Bitterbot-AI/bitterbot-desktop",
-  "updated": "2026-04-26T02:35:19Z",
-  "desc": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-  "url": "https://github.com/Bitterbot-AI/bitterbot-desktop"
-}
-{
-  "name": "sutando",
-  "full_name": "sonichi/sutando",
-  "updated": "2026-04-26T02:34:09Z",
-  "desc": "Summon your AI superpower — grows with you through voice, vision, and autonomous action",
-  "url": "https://github.com/sonichi/sutando"
-}
-{
-  "name": "superset",
-  "full_name": "superset-sh/superset",
-  "updated": "2026-04-26T02:33:30Z",
-  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-  "url": "https://github.com/superset-sh/superset"
-}
-{
-  "name": "kiss_ai",
-  "full_name": "ksenxx/kiss_ai",
-  "updated": "2026-04-26T02:32:52Z",
-  "desc": "Keep it Simple, Stupid AI Agent Framework with KISS Sorcar (a possible replacement of Cursor)",
-  "url": "https://github.com/ksenxx/kiss_ai"
-}
-{
-  "name": "ApeRAG",
-  "full_name": "apecloud/ApeRAG",
-  "updated": "2026-04-26T02:32:17Z",
-  "desc": "ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment",
-  "url": "https://github.com/apecloud/ApeRAG"
-}
-{
-  "name": "eliza",
-  "full_name": "elizaOS/eliza",
-  "updated": "2026-04-26T02:27:21Z",
-  "desc": "Autonomous agents for everyone",
-  "url": "https://github.com/elizaOS/eliza"
-}
-{
-  "name": "AIGC-Interview-Book",
-  "full_name": "WeThinkIn/AIGC-Interview-Book",
-  "updated": "2026-04-26T02:24:39Z",
-  "desc": "【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-  "url": "https://github.com/WeThinkIn/AIGC-Interview-Book"
-}
-{
-  "name": "worktrunk",
-  "full_name": "max-sixty/worktrunk",
-  "updated": "2026-04-26T02:20:50Z",
-  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-  "url": "https://github.com/max-sixty/worktrunk"
 }
