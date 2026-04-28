@@ -1,70 +1,70 @@
 {
-  "name": "fff.nvim",
-  "full_name": "dmtrKovalenko/fff.nvim",
-  "updated": "2026-04-27T02:37:56Z",
-  "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-  "url": "https://github.com/dmtrKovalenko/fff.nvim"
+  "name": "voltagent",
+  "full_name": "VoltAgent/voltagent",
+  "updated": "2026-04-28T02:45:40Z",
+  "desc": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
+  "url": "https://github.com/VoltAgent/voltagent"
 }
 {
-  "name": "ai-agents-from-zero",
-  "full_name": "didilili/ai-agents-from-zero",
-  "updated": "2026-04-27T02:37:37Z",
-  "desc": " 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化 ",
-  "url": "https://github.com/didilili/ai-agents-from-zero"
+  "name": "OpenMantis",
+  "full_name": "LiangNiang/OpenMantis",
+  "updated": "2026-04-28T02:45:35Z",
+  "desc": "Lightweight multi-platform AI agent chat framework. Connect multiple LLMs to Feishu/WeCom/QQ with composable tools, long-term memory, scheduling & browser automation. | 轻量级多平台 AI  Agent 聊天框架，连接多个 LLM 到飞书/企业微信/QQ，支持可组合工具、长期记忆、定时任务和浏览器自动化。",
+  "url": "https://github.com/LiangNiang/OpenMantis"
 }
 {
-  "name": "agentic_coding_flywheel_setup",
-  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
-  "updated": "2026-04-27T02:37:13Z",
-  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
-  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+  "name": "EvoAgentX",
+  "full_name": "EvoAgentX/EvoAgentX",
+  "updated": "2026-04-28T02:44:58Z",
+  "desc": "🚀 EvoAgentX: Building a Self-Evolving Ecosystem of AI Agents",
+  "url": "https://github.com/EvoAgentX/EvoAgentX"
 }
 {
-  "name": "anywhere-agents",
-  "full_name": "yzhao062/anywhere-agents",
-  "updated": "2026-04-27T02:37:09Z",
-  "desc": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard).",
-  "url": "https://github.com/yzhao062/anywhere-agents"
+  "name": "superset",
+  "full_name": "superset-sh/superset",
+  "updated": "2026-04-28T02:44:15Z",
+  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+  "url": "https://github.com/superset-sh/superset"
 }
 {
-  "name": "agent-governance-toolkit",
-  "full_name": "microsoft/agent-governance-toolkit",
-  "updated": "2026-04-27T02:36:15Z",
-  "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-  "url": "https://github.com/microsoft/agent-governance-toolkit"
+  "name": "teamclaw",
+  "full_name": "different-ai-studio/teamclaw",
+  "updated": "2026-04-28T02:44:09Z",
+  "desc": "TeamClaw, AI Agent Desktop Workspace",
+  "url": "https://github.com/different-ai-studio/teamclaw"
 }
 {
-  "name": "cc-telegram-bridge",
-  "full_name": "cloveric/cc-telegram-bridge",
-  "updated": "2026-04-27T02:35:50Z",
-  "desc": "Real Claude Code & Codex CLI on Telegram — native CLI harness with session resume, isolated multi-bot instances, Agent Bus delegation/fan-out/crew workflows, voice input, streaming, and tools.",
-  "url": "https://github.com/cloveric/cc-telegram-bridge"
+  "name": "ApeRAG",
+  "full_name": "apecloud/ApeRAG",
+  "updated": "2026-04-28T02:43:49Z",
+  "desc": "ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment",
+  "url": "https://github.com/apecloud/ApeRAG"
 }
 {
-  "name": "memind",
-  "full_name": "openmemind/memind",
-  "updated": "2026-04-27T02:34:24Z",
-  "desc": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
-  "url": "https://github.com/openmemind/memind"
+  "name": "qwen-code",
+  "full_name": "QwenLM/qwen-code",
+  "updated": "2026-04-28T02:45:19Z",
+  "desc": "An open-source AI agent that lives in your terminal.",
+  "url": "https://github.com/QwenLM/qwen-code"
 }
 {
-  "name": "nanobot",
-  "full_name": "HKUDS/nanobot",
-  "updated": "2026-04-27T02:36:37Z",
-  "desc": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-  "url": "https://github.com/HKUDS/nanobot"
+  "name": "boop-agent",
+  "full_name": "raroque/boop-agent",
+  "updated": "2026-04-28T02:45:03Z",
+  "desc": "Your new best friend 🐶 A proactive iMessage based agent built on the Claude Agent SDK (Ready to be customized with pre built multi-agent architecture, robust memory, automations, and integrations)",
+  "url": "https://github.com/raroque/boop-agent"
 }
 {
-  "name": "DiffMem",
-  "full_name": "Growth-Kinetics/DiffMem",
-  "updated": "2026-04-27T02:33:33Z",
-  "desc": "Git Based Memory Storage for Conversational AI Agent",
-  "url": "https://github.com/Growth-Kinetics/DiffMem"
+  "name": "agency-orchestrator",
+  "full_name": "jnMetaCode/agency-orchestrator",
+  "updated": "2026-04-28T02:42:06Z",
+  "desc": "🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. 211+ expert roles, zero-code YAML, 9 LLM providers (6 free). 一句话调度多个AI专家自动协作，几分钟交付完整方案。",
+  "url": "https://github.com/jnMetaCode/agency-orchestrator"
 }
 {
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-27T02:33:17Z",
+  "updated": "2026-04-28T02:39:37Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
   "url": "https://github.com/marcusquinn/aidevops"
 }
