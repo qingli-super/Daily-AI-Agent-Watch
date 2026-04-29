@@ -1,70 +1,70 @@
 {
-  "name": "voltagent",
-  "full_name": "VoltAgent/voltagent",
-  "updated": "2026-04-28T02:45:40Z",
-  "desc": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
-  "url": "https://github.com/VoltAgent/voltagent"
+  "name": "1Panel",
+  "full_name": "1Panel-dev/1Panel",
+  "updated": "2026-04-29T02:43:47Z",
+  "desc": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
+  "url": "https://github.com/1Panel-dev/1Panel"
 }
 {
-  "name": "OpenMantis",
-  "full_name": "LiangNiang/OpenMantis",
-  "updated": "2026-04-28T02:45:35Z",
-  "desc": "Lightweight multi-platform AI agent chat framework. Connect multiple LLMs to Feishu/WeCom/QQ with composable tools, long-term memory, scheduling & browser automation. | 轻量级多平台 AI  Agent 聊天框架，连接多个 LLM 到飞书/企业微信/QQ，支持可组合工具、长期记忆、定时任务和浏览器自动化。",
-  "url": "https://github.com/LiangNiang/OpenMantis"
+  "name": "eliza",
+  "full_name": "elizaOS/eliza",
+  "updated": "2026-04-29T02:41:05Z",
+  "desc": "Autonomous agents for everyone",
+  "url": "https://github.com/elizaOS/eliza"
 }
 {
-  "name": "EvoAgentX",
-  "full_name": "EvoAgentX/EvoAgentX",
-  "updated": "2026-04-28T02:44:58Z",
-  "desc": "🚀 EvoAgentX: Building a Self-Evolving Ecosystem of AI Agents",
-  "url": "https://github.com/EvoAgentX/EvoAgentX"
+  "name": "bitterbot-desktop",
+  "full_name": "Bitterbot-AI/bitterbot-desktop",
+  "updated": "2026-04-29T02:38:26Z",
+  "desc": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+  "url": "https://github.com/Bitterbot-AI/bitterbot-desktop"
 }
 {
-  "name": "superset",
-  "full_name": "superset-sh/superset",
-  "updated": "2026-04-28T02:44:15Z",
-  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-  "url": "https://github.com/superset-sh/superset"
+  "name": "thepopebot",
+  "full_name": "stephengpope/thepopebot",
+  "updated": "2026-04-29T02:36:59Z",
+  "desc": "The Pope Bot is an autonomous AI agent that you can configure and build to do just about anything you want, all day, everyday, 24/7.",
+  "url": "https://github.com/stephengpope/thepopebot"
 }
 {
-  "name": "teamclaw",
-  "full_name": "different-ai-studio/teamclaw",
-  "updated": "2026-04-28T02:44:09Z",
-  "desc": "TeamClaw, AI Agent Desktop Workspace",
-  "url": "https://github.com/different-ai-studio/teamclaw"
+  "name": "lobehub",
+  "full_name": "lobehub/lobehub",
+  "updated": "2026-04-29T02:38:01Z",
+  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+  "url": "https://github.com/lobehub/lobehub"
 }
 {
-  "name": "ApeRAG",
-  "full_name": "apecloud/ApeRAG",
-  "updated": "2026-04-28T02:43:49Z",
-  "desc": "ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment",
-  "url": "https://github.com/apecloud/ApeRAG"
-}
-{
-  "name": "qwen-code",
-  "full_name": "QwenLM/qwen-code",
-  "updated": "2026-04-28T02:45:19Z",
-  "desc": "An open-source AI agent that lives in your terminal.",
-  "url": "https://github.com/QwenLM/qwen-code"
-}
-{
-  "name": "boop-agent",
-  "full_name": "raroque/boop-agent",
-  "updated": "2026-04-28T02:45:03Z",
-  "desc": "Your new best friend 🐶 A proactive iMessage based agent built on the Claude Agent SDK (Ready to be customized with pre built multi-agent architecture, robust memory, automations, and integrations)",
-  "url": "https://github.com/raroque/boop-agent"
-}
-{
-  "name": "agency-orchestrator",
-  "full_name": "jnMetaCode/agency-orchestrator",
-  "updated": "2026-04-28T02:42:06Z",
-  "desc": "🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. 211+ expert roles, zero-code YAML, 9 LLM providers (6 free). 一句话调度多个AI专家自动协作，几分钟交付完整方案。",
-  "url": "https://github.com/jnMetaCode/agency-orchestrator"
+  "name": "CubeSandbox",
+  "full_name": "TencentCloud/CubeSandbox",
+  "updated": "2026-04-29T02:40:00Z",
+  "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+  "url": "https://github.com/TencentCloud/CubeSandbox"
 }
 {
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-28T02:39:37Z",
+  "updated": "2026-04-29T02:33:30Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
   "url": "https://github.com/marcusquinn/aidevops"
+}
+{
+  "name": "goose",
+  "full_name": "aaif-goose/goose",
+  "updated": "2026-04-29T02:45:30Z",
+  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "url": "https://github.com/aaif-goose/goose"
+}
+{
+  "name": "crewAI",
+  "full_name": "crewAIInc/crewAI",
+  "updated": "2026-04-29T02:30:31Z",
+  "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+  "url": "https://github.com/crewAIInc/crewAI"
+}
+{
+  "name": "pydantic-ai",
+  "full_name": "pydantic/pydantic-ai",
+  "updated": "2026-04-29T02:28:38Z",
+  "desc": "AI Agent Framework, the Pydantic way",
+  "url": "https://github.com/pydantic/pydantic-ai"
 }
