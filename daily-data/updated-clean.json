@@ -1,70 +1,70 @@
 {
-  "name": "1Panel",
-  "full_name": "1Panel-dev/1Panel",
-  "updated": "2026-04-29T02:43:47Z",
-  "desc": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
-  "url": "https://github.com/1Panel-dev/1Panel"
+  "name": "asc-cli",
+  "full_name": "tddworks/asc-cli",
+  "updated": "2026-04-30T02:46:41Z",
+  "desc": "App Store Connect from your terminal & Agents. A Swift CLI for managing your iOS and macOS apps on App Store Connect. Submit versions, manage screenshots, track builds — with full AI-agent support via CAEOAS affordances.",
+  "url": "https://github.com/tddworks/asc-cli"
 }
 {
-  "name": "eliza",
-  "full_name": "elizaOS/eliza",
-  "updated": "2026-04-29T02:41:05Z",
-  "desc": "Autonomous agents for everyone",
-  "url": "https://github.com/elizaOS/eliza"
+  "name": "sutando",
+  "full_name": "sonichi/sutando",
+  "updated": "2026-04-30T02:42:53Z",
+  "desc": "Summon your AI superpower — grows with you through voice, vision, and autonomous action",
+  "url": "https://github.com/sonichi/sutando"
 }
 {
-  "name": "bitterbot-desktop",
-  "full_name": "Bitterbot-AI/bitterbot-desktop",
-  "updated": "2026-04-29T02:38:26Z",
-  "desc": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-  "url": "https://github.com/Bitterbot-AI/bitterbot-desktop"
-}
-{
-  "name": "thepopebot",
-  "full_name": "stephengpope/thepopebot",
-  "updated": "2026-04-29T02:36:59Z",
-  "desc": "The Pope Bot is an autonomous AI agent that you can configure and build to do just about anything you want, all day, everyday, 24/7.",
-  "url": "https://github.com/stephengpope/thepopebot"
-}
-{
-  "name": "lobehub",
-  "full_name": "lobehub/lobehub",
-  "updated": "2026-04-29T02:38:01Z",
-  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-  "url": "https://github.com/lobehub/lobehub"
-}
-{
-  "name": "CubeSandbox",
-  "full_name": "TencentCloud/CubeSandbox",
-  "updated": "2026-04-29T02:40:00Z",
-  "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-  "url": "https://github.com/TencentCloud/CubeSandbox"
+  "name": "osaurus",
+  "full_name": "osaurus-ai/osaurus",
+  "updated": "2026-04-30T02:42:50Z",
+  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+  "url": "https://github.com/osaurus-ai/osaurus"
 }
 {
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-29T02:33:30Z",
+  "updated": "2026-04-30T02:41:22Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
   "url": "https://github.com/marcusquinn/aidevops"
 }
 {
+  "name": "eliza",
+  "full_name": "elizaOS/eliza",
+  "updated": "2026-04-30T02:39:54Z",
+  "desc": "Autonomous agents for everyone",
+  "url": "https://github.com/elizaOS/eliza"
+}
+{
+  "name": "worktrunk",
+  "full_name": "max-sixty/worktrunk",
+  "updated": "2026-04-30T02:38:26Z",
+  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+  "url": "https://github.com/max-sixty/worktrunk"
+}
+{
+  "name": "cognithor",
+  "full_name": "Alex8791-cyber/cognithor",
+  "updated": "2026-04-30T02:38:25Z",
+  "desc": "Cognithor · Agent OS: Local-first autonomous agent operating system. 19 LLM providers, 18 channels, 145 MCP tools, 6-tier memory, Agent Packs marketplace, zero telemetry. Python 3.12+, Apache 2.0.",
+  "url": "https://github.com/Alex8791-cyber/cognithor"
+}
+{
+  "name": "superset",
+  "full_name": "superset-sh/superset",
+  "updated": "2026-04-30T02:38:15Z",
+  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+  "url": "https://github.com/superset-sh/superset"
+}
+{
+  "name": "spring-ai-alibaba",
+  "full_name": "alibaba/spring-ai-alibaba",
+  "updated": "2026-04-30T02:38:13Z",
+  "desc": "Agentic AI Framework for Java Developers",
+  "url": "https://github.com/alibaba/spring-ai-alibaba"
+}
+{
   "name": "goose",
   "full_name": "aaif-goose/goose",
-  "updated": "2026-04-29T02:45:30Z",
+  "updated": "2026-04-30T02:37:31Z",
   "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
   "url": "https://github.com/aaif-goose/goose"
-}
-{
-  "name": "crewAI",
-  "full_name": "crewAIInc/crewAI",
-  "updated": "2026-04-29T02:30:31Z",
-  "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
-  "url": "https://github.com/crewAIInc/crewAI"
-}
-{
-  "name": "pydantic-ai",
-  "full_name": "pydantic/pydantic-ai",
-  "updated": "2026-04-29T02:28:38Z",
-  "desc": "AI Agent Framework, the Pydantic way",
-  "url": "https://github.com/pydantic/pydantic-ai"
 }
