@@ -1,70 +1,70 @@
 {
-  "name": "asc-cli",
-  "full_name": "tddworks/asc-cli",
-  "updated": "2026-04-30T02:46:41Z",
-  "desc": "App Store Connect from your terminal & Agents. A Swift CLI for managing your iOS and macOS apps on App Store Connect. Submit versions, manage screenshots, track builds — with full AI-agent support via CAEOAS affordances.",
-  "url": "https://github.com/tddworks/asc-cli"
-}
-{
-  "name": "sutando",
-  "full_name": "sonichi/sutando",
-  "updated": "2026-04-30T02:42:53Z",
-  "desc": "Summon your AI superpower — grows with you through voice, vision, and autonomous action",
-  "url": "https://github.com/sonichi/sutando"
-}
-{
-  "name": "osaurus",
-  "full_name": "osaurus-ai/osaurus",
-  "updated": "2026-04-30T02:42:50Z",
-  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
-  "url": "https://github.com/osaurus-ai/osaurus"
-}
-{
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-04-30T02:41:22Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-05-01T02:53:28Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
 }
 {
   "name": "eliza",
   "full_name": "elizaOS/eliza",
-  "updated": "2026-04-30T02:39:54Z",
+  "updated": "2026-05-01T02:53:36Z",
   "desc": "Autonomous agents for everyone",
   "url": "https://github.com/elizaOS/eliza"
 }
 {
-  "name": "worktrunk",
-  "full_name": "max-sixty/worktrunk",
-  "updated": "2026-04-30T02:38:26Z",
-  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-  "url": "https://github.com/max-sixty/worktrunk"
+  "name": "cognee",
+  "full_name": "topoteretes/cognee",
+  "updated": "2026-05-01T02:53:05Z",
+  "desc": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+  "url": "https://github.com/topoteretes/cognee"
 }
 {
-  "name": "cognithor",
-  "full_name": "Alex8791-cyber/cognithor",
-  "updated": "2026-04-30T02:38:25Z",
-  "desc": "Cognithor · Agent OS: Local-first autonomous agent operating system. 19 LLM providers, 18 channels, 145 MCP tools, 6-tier memory, Agent Packs marketplace, zero telemetry. Python 3.12+, Apache 2.0.",
-  "url": "https://github.com/Alex8791-cyber/cognithor"
+  "name": "Flowise",
+  "full_name": "FlowiseAI/Flowise",
+  "updated": "2026-05-01T02:53:40Z",
+  "desc": "Build AI Agents, Visually",
+  "url": "https://github.com/FlowiseAI/Flowise"
 }
 {
-  "name": "superset",
-  "full_name": "superset-sh/superset",
-  "updated": "2026-04-30T02:38:15Z",
-  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-  "url": "https://github.com/superset-sh/superset"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-05-01T02:53:44Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "spring-ai-alibaba",
-  "full_name": "alibaba/spring-ai-alibaba",
-  "updated": "2026-04-30T02:38:13Z",
-  "desc": "Agentic AI Framework for Java Developers",
-  "url": "https://github.com/alibaba/spring-ai-alibaba"
+  "name": "gastown",
+  "full_name": "gastownhall/gastown",
+  "updated": "2026-05-01T02:50:30Z",
+  "desc": "Gas Town - multi-agent workspace manager",
+  "url": "https://github.com/gastownhall/gastown"
 }
 {
-  "name": "goose",
-  "full_name": "aaif-goose/goose",
-  "updated": "2026-04-30T02:37:31Z",
-  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-  "url": "https://github.com/aaif-goose/goose"
+  "name": "neo",
+  "full_name": "neomjs/neo",
+  "updated": "2026-05-01T02:48:53Z",
+  "desc": "The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time.",
+  "url": "https://github.com/neomjs/neo"
+}
+{
+  "name": "acp-ui",
+  "full_name": "formulahendry/acp-ui",
+  "updated": "2026-05-01T02:48:41Z",
+  "desc": "A modern, cross-platform desktop client for the Agent Client Protocol (ACP) — connect to any ACP-compatible AI agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode, OpenClaw and more)",
+  "url": "https://github.com/formulahendry/acp-ui"
+}
+{
+  "name": "pup",
+  "full_name": "datadog-labs/pup",
+  "updated": "2026-05-01T02:48:34Z",
+  "desc": "Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products.",
+  "url": "https://github.com/datadog-labs/pup"
+}
+{
+  "name": "openagent",
+  "full_name": "the-open-agent/openagent",
+  "updated": "2026-05-01T02:47:27Z",
+  "desc": "⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent",
+  "url": "https://github.com/the-open-agent/openagent"
 }
