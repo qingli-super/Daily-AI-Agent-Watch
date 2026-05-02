@@ -1,70 +1,70 @@
 {
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-05-01T02:53:28Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
+  "name": "ProxmoxMCP-Plus",
+  "full_name": "RekklesNA/ProxmoxMCP-Plus",
+  "updated": "2026-05-02T02:34:16Z",
+  "desc": "Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.",
+  "url": "https://github.com/RekklesNA/ProxmoxMCP-Plus"
 }
 {
-  "name": "eliza",
-  "full_name": "elizaOS/eliza",
-  "updated": "2026-05-01T02:53:36Z",
-  "desc": "Autonomous agents for everyone",
-  "url": "https://github.com/elizaOS/eliza"
+  "name": "signetai",
+  "full_name": "Signet-AI/signetai",
+  "updated": "2026-05-02T02:33:57Z",
+  "desc": "Local-first identity, memory, and secrets for AI agents. Portable state across models and harnesses.",
+  "url": "https://github.com/Signet-AI/signetai"
 }
 {
-  "name": "cognee",
-  "full_name": "topoteretes/cognee",
-  "updated": "2026-05-01T02:53:05Z",
-  "desc": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-  "url": "https://github.com/topoteretes/cognee"
+  "name": "pentestagent",
+  "full_name": "GH05TCREW/pentestagent",
+  "updated": "2026-05-02T02:33:07Z",
+  "desc": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
+  "url": "https://github.com/GH05TCREW/pentestagent"
 }
 {
-  "name": "Flowise",
-  "full_name": "FlowiseAI/Flowise",
-  "updated": "2026-05-01T02:53:40Z",
-  "desc": "Build AI Agents, Visually",
-  "url": "https://github.com/FlowiseAI/Flowise"
+  "name": "executor",
+  "full_name": "RhysSullivan/executor",
+  "updated": "2026-05-02T02:31:20Z",
+  "desc": "The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.",
+  "url": "https://github.com/RhysSullivan/executor"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-05-01T02:53:44Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "goose",
+  "full_name": "aaif-goose/goose",
+  "updated": "2026-05-02T02:30:29Z",
+  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "url": "https://github.com/aaif-goose/goose"
 }
 {
-  "name": "gastown",
-  "full_name": "gastownhall/gastown",
-  "updated": "2026-05-01T02:50:30Z",
-  "desc": "Gas Town - multi-agent workspace manager",
-  "url": "https://github.com/gastownhall/gastown"
+  "name": "Vibe-Skills",
+  "full_name": "foryourhealth111-pixel/Vibe-Skills",
+  "updated": "2026-05-02T02:30:06Z",
+  "desc": "Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgrade its functionality—eliminating the friction of fragmented tools and complex harnesses.",
+  "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
 }
 {
-  "name": "neo",
-  "full_name": "neomjs/neo",
-  "updated": "2026-05-01T02:48:53Z",
-  "desc": "The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time.",
-  "url": "https://github.com/neomjs/neo"
+  "name": "cccc",
+  "full_name": "ChesterRa/cccc",
+  "updated": "2026-05-02T02:30:01Z",
+  "desc": "Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow",
+  "url": "https://github.com/ChesterRa/cccc"
 }
 {
-  "name": "acp-ui",
-  "full_name": "formulahendry/acp-ui",
-  "updated": "2026-05-01T02:48:41Z",
-  "desc": "A modern, cross-platform desktop client for the Agent Client Protocol (ACP) — connect to any ACP-compatible AI agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode, OpenClaw and more)",
-  "url": "https://github.com/formulahendry/acp-ui"
+  "name": "sim",
+  "full_name": "simstudioai/sim",
+  "updated": "2026-05-02T02:34:24Z",
+  "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+  "url": "https://github.com/simstudioai/sim"
 }
 {
-  "name": "pup",
-  "full_name": "datadog-labs/pup",
-  "updated": "2026-05-01T02:48:34Z",
-  "desc": "Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products.",
-  "url": "https://github.com/datadog-labs/pup"
+  "name": "agent-vault",
+  "full_name": "Infisical/agent-vault",
+  "updated": "2026-05-02T02:26:02Z",
+  "desc": "A HTTP credential proxy and vault for AI agents",
+  "url": "https://github.com/Infisical/agent-vault"
 }
 {
-  "name": "openagent",
-  "full_name": "the-open-agent/openagent",
-  "updated": "2026-05-01T02:47:27Z",
-  "desc": "⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent",
-  "url": "https://github.com/the-open-agent/openagent"
+  "name": "codedb",
+  "full_name": "justrach/codedb",
+  "updated": "2026-05-02T02:24:06Z",
+  "desc": "Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.",
+  "url": "https://github.com/justrach/codedb"
 }
