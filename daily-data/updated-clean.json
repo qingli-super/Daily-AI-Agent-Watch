@@ -1,70 +1,70 @@
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-05-03T02:45:31Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
-}
-{
-  "name": "eliza",
-  "full_name": "elizaOS/eliza",
-  "updated": "2026-05-03T02:41:41Z",
-  "desc": "Autonomous agents for everyone",
-  "url": "https://github.com/elizaOS/eliza"
-}
-{
-  "name": "tubecli",
-  "full_name": "tubecreate/tubecli",
-  "updated": "2026-05-03T02:41:16Z",
-  "desc": "⚡ TubeCLI — The Ultimate Open Source AI Agents Ecosystem | Agents Browser · Agents Workflow · Agents Studio World",
-  "url": "https://github.com/tubecreate/tubecli"
-}
-{
-  "name": "sigcli",
-  "full_name": "sigcli/sigcli",
-  "updated": "2026-05-03T02:39:22Z",
-  "desc": "The authentication CLI & Proxy for AI agents. Give agents access, not your credentials.",
-  "url": "https://github.com/sigcli/sigcli"
-}
-{
-  "name": "agent-kanban",
-  "full_name": "saltbo/agent-kanban",
-  "updated": "2026-05-03T02:36:01Z",
-  "desc": "An agent-first task board, Mission control for your AI workforce.",
-  "url": "https://github.com/saltbo/agent-kanban"
-}
-{
-  "name": "tracecat",
-  "full_name": "TracecatHQ/tracecat",
-  "updated": "2026-05-03T02:35:52Z",
-  "desc": "Open-source security automation platform for teams and AI agents",
-  "url": "https://github.com/TracecatHQ/tracecat"
-}
-{
-  "name": "superset",
-  "full_name": "superset-sh/superset",
-  "updated": "2026-05-03T02:32:07Z",
-  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-  "url": "https://github.com/superset-sh/superset"
-}
-{
-  "name": "ruflo",
-  "full_name": "ruvnet/ruflo",
-  "updated": "2026-05-03T02:44:11Z",
-  "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-  "url": "https://github.com/ruvnet/ruflo"
+  "name": "49Agents",
+  "full_name": "49Agents/49Agents",
+  "updated": "2026-05-04T02:41:43Z",
+  "desc": "Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluster via Tailscale OR connect to app.49agents.com (coming soon)",
+  "url": "https://github.com/49Agents/49Agents"
 }
 {
   "name": "executor",
   "full_name": "RhysSullivan/executor",
-  "updated": "2026-05-03T02:28:22Z",
+  "updated": "2026-05-04T02:41:00Z",
   "desc": "The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.",
   "url": "https://github.com/RhysSullivan/executor"
 }
 {
-  "name": "iwe",
-  "full_name": "iwe-org/iwe",
-  "updated": "2026-05-03T02:42:59Z",
-  "desc": "Markdown memory system for you and your AI agent",
-  "url": "https://github.com/iwe-org/iwe"
+  "name": "nepse-quant-terminal",
+  "full_name": "nlethetech/nepse-quant-terminal",
+  "updated": "2026-05-04T02:40:39Z",
+  "desc": "Terminal-based NEPSE quant trading dashboard with paper trading, backtesting, analytics, and AI agent support.",
+  "url": "https://github.com/nlethetech/nepse-quant-terminal"
+}
+{
+  "name": "eliza",
+  "full_name": "elizaOS/eliza",
+  "updated": "2026-05-04T02:39:54Z",
+  "desc": "Autonomous agents for everyone",
+  "url": "https://github.com/elizaOS/eliza"
+}
+{
+  "name": "ruflo",
+  "full_name": "ruvnet/ruflo",
+  "updated": "2026-05-04T02:42:58Z",
+  "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+  "url": "https://github.com/ruvnet/ruflo"
+}
+{
+  "name": "oh-my-agent",
+  "full_name": "first-fluke/oh-my-agent",
+  "updated": "2026-05-04T02:33:17Z",
+  "desc": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
+  "url": "https://github.com/first-fluke/oh-my-agent"
+}
+{
+  "name": "deepclaude",
+  "full_name": "aattaran/deepclaude",
+  "updated": "2026-05-04T02:43:00Z",
+  "desc": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+  "url": "https://github.com/aattaran/deepclaude"
+}
+{
+  "name": "evolver",
+  "full_name": "EvoMap/evolver",
+  "updated": "2026-05-04T02:31:51Z",
+  "desc": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+  "url": "https://github.com/EvoMap/evolver"
+}
+{
+  "name": "commonly",
+  "full_name": "Team-Commonly/commonly",
+  "updated": "2026-05-04T02:31:49Z",
+  "desc": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
+  "url": "https://github.com/Team-Commonly/commonly"
+}
+{
+  "name": "roach-pi",
+  "full_name": "tmdgusya/roach-pi",
+  "updated": "2026-05-04T02:28:05Z",
+  "desc": "Strict engineering discipline and multi-agent orchestration for the pi coding agent",
+  "url": "https://github.com/tmdgusya/roach-pi"
 }
