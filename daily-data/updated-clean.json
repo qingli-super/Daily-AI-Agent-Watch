@@ -1,70 +1,70 @@
 {
-  "name": "49Agents",
-  "full_name": "49Agents/49Agents",
-  "updated": "2026-05-04T02:41:43Z",
-  "desc": "Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluster via Tailscale OR connect to app.49agents.com (coming soon)",
-  "url": "https://github.com/49Agents/49Agents"
+  "name": "Sage",
+  "full_name": "ZHangZHengEric/Sage",
+  "updated": "2026-05-05T02:36:23Z",
+  "desc": "Multi-Agent System Framework For Complex Tasks",
+  "url": "https://github.com/ZHangZHengEric/Sage"
 }
 {
-  "name": "executor",
-  "full_name": "RhysSullivan/executor",
-  "updated": "2026-05-04T02:41:00Z",
-  "desc": "The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.",
-  "url": "https://github.com/RhysSullivan/executor"
+  "name": "mcpproxy-go",
+  "full_name": "smart-mcp-proxy/mcpproxy-go",
+  "updated": "2026-05-05T02:34:58Z",
+  "desc": "Supercharge AI Agents, Safely",
+  "url": "https://github.com/smart-mcp-proxy/mcpproxy-go"
 }
 {
-  "name": "nepse-quant-terminal",
-  "full_name": "nlethetech/nepse-quant-terminal",
-  "updated": "2026-05-04T02:40:39Z",
-  "desc": "Terminal-based NEPSE quant trading dashboard with paper trading, backtesting, analytics, and AI agent support.",
-  "url": "https://github.com/nlethetech/nepse-quant-terminal"
+  "name": "codedb",
+  "full_name": "justrach/codedb",
+  "updated": "2026-05-05T02:34:51Z",
+  "desc": "Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.",
+  "url": "https://github.com/justrach/codedb"
 }
 {
-  "name": "eliza",
-  "full_name": "elizaOS/eliza",
-  "updated": "2026-05-04T02:39:54Z",
-  "desc": "Autonomous agents for everyone",
-  "url": "https://github.com/elizaOS/eliza"
+  "name": "openyak",
+  "full_name": "openyak/openyak",
+  "updated": "2026-05-05T02:33:59Z",
+  "desc": "OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.",
+  "url": "https://github.com/openyak/openyak"
 }
 {
-  "name": "ruflo",
-  "full_name": "ruvnet/ruflo",
-  "updated": "2026-05-04T02:42:58Z",
-  "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-  "url": "https://github.com/ruvnet/ruflo"
+  "name": "superset",
+  "full_name": "superset-sh/superset",
+  "updated": "2026-05-05T02:32:47Z",
+  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+  "url": "https://github.com/superset-sh/superset"
 }
 {
-  "name": "oh-my-agent",
-  "full_name": "first-fluke/oh-my-agent",
-  "updated": "2026-05-04T02:33:17Z",
-  "desc": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
-  "url": "https://github.com/first-fluke/oh-my-agent"
+  "name": "routa",
+  "full_name": "phodal/routa",
+  "updated": "2026-05-05T02:32:21Z",
+  "desc": "Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.",
+  "url": "https://github.com/phodal/routa"
 }
 {
-  "name": "deepclaude",
-  "full_name": "aattaran/deepclaude",
-  "updated": "2026-05-04T02:43:00Z",
-  "desc": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-  "url": "https://github.com/aattaran/deepclaude"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-05-05T02:31:23Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "evolver",
-  "full_name": "EvoMap/evolver",
-  "updated": "2026-05-04T02:31:51Z",
-  "desc": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-  "url": "https://github.com/EvoMap/evolver"
+  "name": "cognee",
+  "full_name": "topoteretes/cognee",
+  "updated": "2026-05-05T02:30:19Z",
+  "desc": "Memory control plane for AI Agents in 6 lines of code",
+  "url": "https://github.com/topoteretes/cognee"
 }
 {
-  "name": "commonly",
-  "full_name": "Team-Commonly/commonly",
-  "updated": "2026-05-04T02:31:49Z",
-  "desc": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
-  "url": "https://github.com/Team-Commonly/commonly"
+  "name": "agentsh",
+  "full_name": "canyonroad/agentsh",
+  "updated": "2026-05-05T02:29:05Z",
+  "desc": "Execution-Layer Security (ELS) for AI agents — policy-enforced shell with audit.",
+  "url": "https://github.com/canyonroad/agentsh"
 }
 {
-  "name": "roach-pi",
-  "full_name": "tmdgusya/roach-pi",
-  "updated": "2026-05-04T02:28:05Z",
-  "desc": "Strict engineering discipline and multi-agent orchestration for the pi coding agent",
-  "url": "https://github.com/tmdgusya/roach-pi"
+  "name": "EDDI",
+  "full_name": "labsai/EDDI",
+  "updated": "2026-05-05T02:28:59Z",
+  "desc": "Config-driven engine that turns JSON into production-grade AI agents. Multi-agent orchestration, 12+ LLM providers, MCP/A2A protocols, RAG, persistent memory, and enterprise compliance (EU AI Act, GDPR, HIPAA). Built on Quarkus.",
+  "url": "https://github.com/labsai/EDDI"
 }
