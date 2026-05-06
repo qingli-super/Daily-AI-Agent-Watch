@@ -1,70 +1,70 @@
 {
-  "name": "Sage",
-  "full_name": "ZHangZHengEric/Sage",
-  "updated": "2026-05-05T02:36:23Z",
-  "desc": "Multi-Agent System Framework For Complex Tasks",
-  "url": "https://github.com/ZHangZHengEric/Sage"
+  "name": "ruflo",
+  "full_name": "ruvnet/ruflo",
+  "updated": "2026-05-06T02:40:39Z",
+  "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+  "url": "https://github.com/ruvnet/ruflo"
 }
 {
-  "name": "mcpproxy-go",
-  "full_name": "smart-mcp-proxy/mcpproxy-go",
-  "updated": "2026-05-05T02:34:58Z",
-  "desc": "Supercharge AI Agents, Safely",
-  "url": "https://github.com/smart-mcp-proxy/mcpproxy-go"
+  "name": "RepoLens",
+  "full_name": "TheMorpheus407/RepoLens",
+  "updated": "2026-05-06T02:39:09Z",
+  "desc": "Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing",
+  "url": "https://github.com/TheMorpheus407/RepoLens"
 }
 {
-  "name": "codedb",
-  "full_name": "justrach/codedb",
-  "updated": "2026-05-05T02:34:51Z",
-  "desc": "Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.",
-  "url": "https://github.com/justrach/codedb"
+  "name": "OfficeCLI",
+  "full_name": "iOfficeAI/OfficeCLI",
+  "updated": "2026-05-06T02:38:26Z",
+  "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+  "url": "https://github.com/iOfficeAI/OfficeCLI"
 }
 {
-  "name": "openyak",
-  "full_name": "openyak/openyak",
-  "updated": "2026-05-05T02:33:59Z",
-  "desc": "OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.",
-  "url": "https://github.com/openyak/openyak"
+  "name": "1Panel",
+  "full_name": "1Panel-dev/1Panel",
+  "updated": "2026-05-06T02:36:28Z",
+  "desc": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
+  "url": "https://github.com/1Panel-dev/1Panel"
 }
 {
-  "name": "superset",
-  "full_name": "superset-sh/superset",
-  "updated": "2026-05-05T02:32:47Z",
-  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-  "url": "https://github.com/superset-sh/superset"
+  "name": "mobileClaw",
+  "full_name": "eggbrid2/mobileClaw",
+  "updated": "2026-05-06T02:32:12Z",
+  "desc": "The Autonomous AI Agent That Lives Inside Your Android",
+  "url": "https://github.com/eggbrid2/mobileClaw"
 }
 {
-  "name": "routa",
-  "full_name": "phodal/routa",
-  "updated": "2026-05-05T02:32:21Z",
-  "desc": "Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.",
-  "url": "https://github.com/phodal/routa"
+  "name": "mcp",
+  "full_name": "MicrosoftDocs/mcp",
+  "updated": "2026-05-06T02:31:19Z",
+  "desc": "Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.",
+  "url": "https://github.com/MicrosoftDocs/mcp"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-05-05T02:31:23Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "lobehub",
+  "full_name": "lobehub/lobehub",
+  "updated": "2026-05-06T02:32:22Z",
+  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+  "url": "https://github.com/lobehub/lobehub"
 }
 {
-  "name": "cognee",
-  "full_name": "topoteretes/cognee",
-  "updated": "2026-05-05T02:30:19Z",
-  "desc": "Memory control plane for AI Agents in 6 lines of code",
-  "url": "https://github.com/topoteretes/cognee"
+  "name": "oh-my-claudecode",
+  "full_name": "Yeachan-Heo/oh-my-claudecode",
+  "updated": "2026-05-06T02:34:19Z",
+  "desc": "Teams-first Multi-agent orchestration for Claude Code",
+  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
 }
 {
-  "name": "agentsh",
-  "full_name": "canyonroad/agentsh",
-  "updated": "2026-05-05T02:29:05Z",
-  "desc": "Execution-Layer Security (ELS) for AI agents — policy-enforced shell with audit.",
-  "url": "https://github.com/canyonroad/agentsh"
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-05-06T02:31:47Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
-  "name": "EDDI",
-  "full_name": "labsai/EDDI",
-  "updated": "2026-05-05T02:28:59Z",
-  "desc": "Config-driven engine that turns JSON into production-grade AI agents. Multi-agent orchestration, 12+ LLM providers, MCP/A2A protocols, RAG, persistent memory, and enterprise compliance (EU AI Act, GDPR, HIPAA). Built on Quarkus.",
-  "url": "https://github.com/labsai/EDDI"
+  "name": "UCAgent",
+  "full_name": "XS-MLVP/UCAgent",
+  "updated": "2026-05-06T02:26:54Z",
+  "desc": "UnityChip Verification AI-Agent",
+  "url": "https://github.com/XS-MLVP/UCAgent"
 }
