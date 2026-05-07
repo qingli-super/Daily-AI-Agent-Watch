@@ -1,70 +1,70 @@
 {
-  "name": "ruflo",
-  "full_name": "ruvnet/ruflo",
-  "updated": "2026-05-06T02:40:39Z",
-  "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-  "url": "https://github.com/ruvnet/ruflo"
+  "name": "mega",
+  "full_name": "web3infra-foundation/mega",
+  "updated": "2026-05-07T02:41:08Z",
+  "desc": "Mega is an open-source implementation of Google Piper — a Git-compatible monorepo engine built for the AI Agent era.",
+  "url": "https://github.com/web3infra-foundation/mega"
 }
 {
-  "name": "RepoLens",
-  "full_name": "TheMorpheus407/RepoLens",
-  "updated": "2026-05-06T02:39:09Z",
-  "desc": "Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing",
-  "url": "https://github.com/TheMorpheus407/RepoLens"
+  "name": "mcp-gateway-registry",
+  "full_name": "agentic-community/mcp-gateway-registry",
+  "updated": "2026-05-07T02:40:05Z",
+  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
+  "url": "https://github.com/agentic-community/mcp-gateway-registry"
 }
 {
-  "name": "OfficeCLI",
-  "full_name": "iOfficeAI/OfficeCLI",
-  "updated": "2026-05-06T02:38:26Z",
-  "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-  "url": "https://github.com/iOfficeAI/OfficeCLI"
-}
-{
-  "name": "1Panel",
-  "full_name": "1Panel-dev/1Panel",
-  "updated": "2026-05-06T02:36:28Z",
-  "desc": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
-  "url": "https://github.com/1Panel-dev/1Panel"
-}
-{
-  "name": "mobileClaw",
-  "full_name": "eggbrid2/mobileClaw",
-  "updated": "2026-05-06T02:32:12Z",
-  "desc": "The Autonomous AI Agent That Lives Inside Your Android",
-  "url": "https://github.com/eggbrid2/mobileClaw"
-}
-{
-  "name": "mcp",
-  "full_name": "MicrosoftDocs/mcp",
-  "updated": "2026-05-06T02:31:19Z",
-  "desc": "Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.",
-  "url": "https://github.com/MicrosoftDocs/mcp"
-}
-{
-  "name": "lobehub",
-  "full_name": "lobehub/lobehub",
-  "updated": "2026-05-06T02:32:22Z",
-  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-  "url": "https://github.com/lobehub/lobehub"
-}
-{
-  "name": "oh-my-claudecode",
-  "full_name": "Yeachan-Heo/oh-my-claudecode",
-  "updated": "2026-05-06T02:34:19Z",
-  "desc": "Teams-first Multi-agent orchestration for Claude Code",
-  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
-}
-{
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-05-06T02:31:47Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
+  "name": "taskplane",
+  "full_name": "HenryLach/taskplane",
+  "updated": "2026-05-07T02:38:43Z",
+  "desc": "Multi-agent AI coding orchestration system designed to drive successful coding outcomes with a high level of transparency (think more light-factory than dark-factory).",
+  "url": "https://github.com/HenryLach/taskplane"
 }
 {
   "name": "UCAgent",
   "full_name": "XS-MLVP/UCAgent",
-  "updated": "2026-05-06T02:26:54Z",
+  "updated": "2026-05-07T02:37:53Z",
   "desc": "UnityChip Verification AI-Agent",
   "url": "https://github.com/XS-MLVP/UCAgent"
+}
+{
+  "name": "agentic_coding_flywheel_setup",
+  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
+  "updated": "2026-05-07T02:34:53Z",
+  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
+  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+}
+{
+  "name": "codedb",
+  "full_name": "justrach/codedb",
+  "updated": "2026-05-07T02:34:54Z",
+  "desc": "Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.",
+  "url": "https://github.com/justrach/codedb"
+}
+{
+  "name": "worktrunk",
+  "full_name": "max-sixty/worktrunk",
+  "updated": "2026-05-07T02:34:42Z",
+  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+  "url": "https://github.com/max-sixty/worktrunk"
+}
+{
+  "name": "oh-my-claudecode",
+  "full_name": "Yeachan-Heo/oh-my-claudecode",
+  "updated": "2026-05-07T02:39:36Z",
+  "desc": "Teams-first Multi-agent orchestration for Claude Code",
+  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+}
+{
+  "name": "Peekaboo",
+  "full_name": "openclaw/Peekaboo",
+  "updated": "2026-05-07T02:43:01Z",
+  "desc": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
+  "url": "https://github.com/openclaw/Peekaboo"
+}
+{
+  "name": "lobehub",
+  "full_name": "lobehub/lobehub",
+  "updated": "2026-05-07T02:32:39Z",
+  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+  "url": "https://github.com/lobehub/lobehub"
 }
