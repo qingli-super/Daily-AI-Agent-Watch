@@ -1,70 +1,70 @@
 {
-  "name": "mega",
-  "full_name": "web3infra-foundation/mega",
-  "updated": "2026-05-07T02:41:08Z",
-  "desc": "Mega is an open-source implementation of Google Piper — a Git-compatible monorepo engine built for the AI Agent era.",
-  "url": "https://github.com/web3infra-foundation/mega"
+  "name": "superset",
+  "full_name": "superset-sh/superset",
+  "updated": "2026-05-08T02:46:03Z",
+  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+  "url": "https://github.com/superset-sh/superset"
 }
 {
-  "name": "mcp-gateway-registry",
-  "full_name": "agentic-community/mcp-gateway-registry",
-  "updated": "2026-05-07T02:40:05Z",
-  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
-  "url": "https://github.com/agentic-community/mcp-gateway-registry"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-05-08T02:45:44Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "taskplane",
-  "full_name": "HenryLach/taskplane",
-  "updated": "2026-05-07T02:38:43Z",
-  "desc": "Multi-agent AI coding orchestration system designed to drive successful coding outcomes with a high level of transparency (think more light-factory than dark-factory).",
-  "url": "https://github.com/HenryLach/taskplane"
+  "name": "CubeSandbox",
+  "full_name": "TencentCloud/CubeSandbox",
+  "updated": "2026-05-08T02:45:40Z",
+  "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+  "url": "https://github.com/TencentCloud/CubeSandbox"
 }
 {
-  "name": "UCAgent",
-  "full_name": "XS-MLVP/UCAgent",
-  "updated": "2026-05-07T02:37:53Z",
-  "desc": "UnityChip Verification AI-Agent",
-  "url": "https://github.com/XS-MLVP/UCAgent"
+  "name": "AgentCrew",
+  "full_name": "saigontechnology/AgentCrew",
+  "updated": "2026-05-08T02:45:24Z",
+  "desc": "Chat application with multi-agents system supports multi-models and MCP",
+  "url": "https://github.com/saigontechnology/AgentCrew"
 }
 {
-  "name": "agentic_coding_flywheel_setup",
-  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
-  "updated": "2026-05-07T02:34:53Z",
-  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
-  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+  "name": "oh-my-agent",
+  "full_name": "first-fluke/oh-my-agent",
+  "updated": "2026-05-08T02:45:22Z",
+  "desc": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
+  "url": "https://github.com/first-fluke/oh-my-agent"
 }
 {
-  "name": "codedb",
-  "full_name": "justrach/codedb",
-  "updated": "2026-05-07T02:34:54Z",
-  "desc": "Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.",
-  "url": "https://github.com/justrach/codedb"
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-05-08T02:47:06Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
-  "name": "worktrunk",
-  "full_name": "max-sixty/worktrunk",
-  "updated": "2026-05-07T02:34:42Z",
-  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-  "url": "https://github.com/max-sixty/worktrunk"
+  "name": "activepieces",
+  "full_name": "activepieces/activepieces",
+  "updated": "2026-05-08T02:44:06Z",
+  "desc": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+  "url": "https://github.com/activepieces/activepieces"
 }
 {
-  "name": "oh-my-claudecode",
-  "full_name": "Yeachan-Heo/oh-my-claudecode",
-  "updated": "2026-05-07T02:39:36Z",
-  "desc": "Teams-first Multi-agent orchestration for Claude Code",
-  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+  "name": "Vibe-Trading",
+  "full_name": "HKUDS/Vibe-Trading",
+  "updated": "2026-05-08T02:47:22Z",
+  "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+  "url": "https://github.com/HKUDS/Vibe-Trading"
 }
 {
-  "name": "Peekaboo",
-  "full_name": "openclaw/Peekaboo",
-  "updated": "2026-05-07T02:43:01Z",
-  "desc": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
-  "url": "https://github.com/openclaw/Peekaboo"
+  "name": "ai-platform-engineering",
+  "full_name": "cnoe-io/ai-platform-engineering",
+  "updated": "2026-05-08T02:42:19Z",
+  "desc": "CAIPE: Community AI Platform Engineering Multi-Agent Systems",
+  "url": "https://github.com/cnoe-io/ai-platform-engineering"
 }
 {
-  "name": "lobehub",
-  "full_name": "lobehub/lobehub",
-  "updated": "2026-05-07T02:32:39Z",
-  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-  "url": "https://github.com/lobehub/lobehub"
+  "name": "gastown",
+  "full_name": "gastownhall/gastown",
+  "updated": "2026-05-08T02:42:06Z",
+  "desc": "Gas Town - multi-agent workspace manager",
+  "url": "https://github.com/gastownhall/gastown"
 }
