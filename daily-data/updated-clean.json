@@ -1,70 +1,70 @@
 {
-  "name": "superset",
-  "full_name": "superset-sh/superset",
-  "updated": "2026-05-08T02:46:03Z",
-  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-  "url": "https://github.com/superset-sh/superset"
+  "name": "open-multi-agent",
+  "full_name": "JackChen-me/open-multi-agent",
+  "updated": "2026-05-09T02:39:35Z",
+  "desc": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies.",
+  "url": "https://github.com/JackChen-me/open-multi-agent"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-05-08T02:45:44Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "cli-printing-press",
+  "full_name": "mvanhorn/cli-printing-press",
+  "updated": "2026-05-09T02:38:53Z",
+  "desc": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+  "url": "https://github.com/mvanhorn/cli-printing-press"
 }
 {
-  "name": "CubeSandbox",
-  "full_name": "TencentCloud/CubeSandbox",
-  "updated": "2026-05-08T02:45:40Z",
-  "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-  "url": "https://github.com/TencentCloud/CubeSandbox"
+  "name": "crewAI",
+  "full_name": "crewAIInc/crewAI",
+  "updated": "2026-05-09T02:40:39Z",
+  "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+  "url": "https://github.com/crewAIInc/crewAI"
 }
 {
-  "name": "AgentCrew",
-  "full_name": "saigontechnology/AgentCrew",
-  "updated": "2026-05-08T02:45:24Z",
-  "desc": "Chat application with multi-agents system supports multi-models and MCP",
-  "url": "https://github.com/saigontechnology/AgentCrew"
+  "name": "osaurus",
+  "full_name": "osaurus-ai/osaurus",
+  "updated": "2026-05-09T02:37:46Z",
+  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+  "url": "https://github.com/osaurus-ai/osaurus"
+}
+{
+  "name": "ClawX",
+  "full_name": "ValueCell-ai/ClawX",
+  "updated": "2026-05-09T02:37:46Z",
+  "desc": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.",
+  "url": "https://github.com/ValueCell-ai/ClawX"
+}
+{
+  "name": "Sage",
+  "full_name": "ZHangZHengEric/Sage",
+  "updated": "2026-05-09T02:37:17Z",
+  "desc": "Multi-Agent System Framework For Complex Tasks",
+  "url": "https://github.com/ZHangZHengEric/Sage"
+}
+{
+  "name": "xagent",
+  "full_name": "xorbitsai/xagent",
+  "updated": "2026-05-09T02:36:22Z",
+  "desc": "A production-ready platform for dynamic AI agents — plan, use tools, and complete real work without hardcoded workflows.",
+  "url": "https://github.com/xorbitsai/xagent"
+}
+{
+  "name": "deer-flow",
+  "full_name": "bytedance/deer-flow",
+  "updated": "2026-05-09T02:38:50Z",
+  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+  "url": "https://github.com/bytedance/deer-flow"
+}
+{
+  "name": "vexjoy-agent",
+  "full_name": "notque/vexjoy-agent",
+  "updated": "2026-05-09T02:35:56Z",
+  "desc": "VexJoy AI Agent with Intelligent Routing",
+  "url": "https://github.com/notque/vexjoy-agent"
 }
 {
   "name": "oh-my-agent",
   "full_name": "first-fluke/oh-my-agent",
-  "updated": "2026-05-08T02:45:22Z",
+  "updated": "2026-05-09T02:35:28Z",
   "desc": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
   "url": "https://github.com/first-fluke/oh-my-agent"
-}
-{
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-05-08T02:47:06Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
-}
-{
-  "name": "activepieces",
-  "full_name": "activepieces/activepieces",
-  "updated": "2026-05-08T02:44:06Z",
-  "desc": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-  "url": "https://github.com/activepieces/activepieces"
-}
-{
-  "name": "Vibe-Trading",
-  "full_name": "HKUDS/Vibe-Trading",
-  "updated": "2026-05-08T02:47:22Z",
-  "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
-  "url": "https://github.com/HKUDS/Vibe-Trading"
-}
-{
-  "name": "ai-platform-engineering",
-  "full_name": "cnoe-io/ai-platform-engineering",
-  "updated": "2026-05-08T02:42:19Z",
-  "desc": "CAIPE: Community AI Platform Engineering Multi-Agent Systems",
-  "url": "https://github.com/cnoe-io/ai-platform-engineering"
-}
-{
-  "name": "gastown",
-  "full_name": "gastownhall/gastown",
-  "updated": "2026-05-08T02:42:06Z",
-  "desc": "Gas Town - multi-agent workspace manager",
-  "url": "https://github.com/gastownhall/gastown"
 }
