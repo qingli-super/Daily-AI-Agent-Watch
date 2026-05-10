@@ -1,70 +1,70 @@
 {
-  "name": "open-multi-agent",
-  "full_name": "JackChen-me/open-multi-agent",
-  "updated": "2026-05-09T02:39:35Z",
-  "desc": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies.",
-  "url": "https://github.com/JackChen-me/open-multi-agent"
+  "name": "eliza",
+  "full_name": "elizaOS/eliza",
+  "updated": "2026-05-10T02:44:27Z",
+  "desc": "Autonomous agents for everyone",
+  "url": "https://github.com/elizaOS/eliza"
 }
 {
-  "name": "cli-printing-press",
-  "full_name": "mvanhorn/cli-printing-press",
-  "updated": "2026-05-09T02:38:53Z",
-  "desc": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
-  "url": "https://github.com/mvanhorn/cli-printing-press"
+  "name": "agent-vault",
+  "full_name": "Infisical/agent-vault",
+  "updated": "2026-05-10T02:44:50Z",
+  "desc": "A HTTP credential proxy and vault for AI agents",
+  "url": "https://github.com/Infisical/agent-vault"
 }
 {
-  "name": "crewAI",
-  "full_name": "crewAIInc/crewAI",
-  "updated": "2026-05-09T02:40:39Z",
-  "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
-  "url": "https://github.com/crewAIInc/crewAI"
+  "name": "openagent",
+  "full_name": "the-open-agent/openagent",
+  "updated": "2026-05-10T02:43:13Z",
+  "desc": "⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org",
+  "url": "https://github.com/the-open-agent/openagent"
 }
 {
-  "name": "osaurus",
-  "full_name": "osaurus-ai/osaurus",
-  "updated": "2026-05-09T02:37:46Z",
-  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
-  "url": "https://github.com/osaurus-ai/osaurus"
+  "name": "helmor",
+  "full_name": "dohooo/helmor",
+  "updated": "2026-05-10T02:41:37Z",
+  "desc": "Open-source local workbench for multi-agent software development.",
+  "url": "https://github.com/dohooo/helmor"
 }
 {
-  "name": "ClawX",
-  "full_name": "ValueCell-ai/ClawX",
-  "updated": "2026-05-09T02:37:46Z",
-  "desc": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.",
-  "url": "https://github.com/ValueCell-ai/ClawX"
+  "name": "lobehub",
+  "full_name": "lobehub/lobehub",
+  "updated": "2026-05-10T02:45:50Z",
+  "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+  "url": "https://github.com/lobehub/lobehub"
 }
 {
-  "name": "Sage",
-  "full_name": "ZHangZHengEric/Sage",
-  "updated": "2026-05-09T02:37:17Z",
-  "desc": "Multi-Agent System Framework For Complex Tasks",
-  "url": "https://github.com/ZHangZHengEric/Sage"
+  "name": "OpenConstructionEstimate-DDC-CWICR",
+  "full_name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
+  "updated": "2026-05-10T02:40:21Z",
+  "desc": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic search via Qdrant vector DB",
+  "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
 }
 {
-  "name": "xagent",
-  "full_name": "xorbitsai/xagent",
-  "updated": "2026-05-09T02:36:22Z",
-  "desc": "A production-ready platform for dynamic AI agents — plan, use tools, and complete real work without hardcoded workflows.",
-  "url": "https://github.com/xorbitsai/xagent"
+  "name": "Arkloop",
+  "full_name": "qqqqqf-q/Arkloop",
+  "updated": "2026-05-10T02:36:46Z",
+  "desc": "干净、强大、属于你的 AI Agent 平台  --AI agents, without the clutter.",
+  "url": "https://github.com/qqqqqf-q/Arkloop"
 }
 {
-  "name": "deer-flow",
-  "full_name": "bytedance/deer-flow",
-  "updated": "2026-05-09T02:38:50Z",
-  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-  "url": "https://github.com/bytedance/deer-flow"
+  "name": "mirage",
+  "full_name": "strukto-ai/mirage",
+  "updated": "2026-05-10T02:38:12Z",
+  "desc": "A Unified Virtual Filesystem For AI Agents",
+  "url": "https://github.com/strukto-ai/mirage"
 }
 {
-  "name": "vexjoy-agent",
-  "full_name": "notque/vexjoy-agent",
-  "updated": "2026-05-09T02:35:56Z",
-  "desc": "VexJoy AI Agent with Intelligent Routing",
-  "url": "https://github.com/notque/vexjoy-agent"
+  "name": "codex-turbo",
+  "full_name": "atticus98/codex-turbo",
+  "updated": "2026-05-10T02:35:08Z",
+  "desc": "Codex CLI 多智能体并行调度配置参考模板——启用原生并行能力，实现主代理自主协调与子代理高效任务分发。Codex CLI Multi-Agent Parallel Scheduling Configuration Reference Template Enabling Native Parallelism for Autonomous Primary Agent Coordination and Efficient Sub-Agent Task Distribution.",
+  "url": "https://github.com/atticus98/codex-turbo"
 }
 {
-  "name": "oh-my-agent",
-  "full_name": "first-fluke/oh-my-agent",
-  "updated": "2026-05-09T02:35:28Z",
-  "desc": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
-  "url": "https://github.com/first-fluke/oh-my-agent"
+  "name": "notebooklm-py",
+  "full_name": "teng-lin/notebooklm-py",
+  "updated": "2026-05-10T02:45:30Z",
+  "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+  "url": "https://github.com/teng-lin/notebooklm-py"
 }
