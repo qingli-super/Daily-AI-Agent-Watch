@@ -1,70 +1,70 @@
 {
-  "name": "agent-governance-toolkit",
-  "full_name": "microsoft/agent-governance-toolkit",
-  "updated": "2026-05-12T02:48:09Z",
-  "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-  "url": "https://github.com/microsoft/agent-governance-toolkit"
-}
-{
-  "name": "alcless",
-  "full_name": "AkihiroSuda/alcless",
-  "updated": "2026-05-12T02:47:30Z",
-  "desc": "🍺 Alcoholless: lightweight security sandbox for Homebrew, AI agents, etc. on macOS",
-  "url": "https://github.com/AkihiroSuda/alcless"
-}
-{
-  "name": "deer-flow",
-  "full_name": "bytedance/deer-flow",
-  "updated": "2026-05-12T02:45:47Z",
-  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-  "url": "https://github.com/bytedance/deer-flow"
-}
-{
-  "name": "worktrunk",
-  "full_name": "max-sixty/worktrunk",
-  "updated": "2026-05-12T02:45:17Z",
-  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-  "url": "https://github.com/max-sixty/worktrunk"
-}
-{
-  "name": "eliza",
-  "full_name": "elizaOS/eliza",
-  "updated": "2026-05-12T02:44:45Z",
-  "desc": "Autonomous agents for everyone",
-  "url": "https://github.com/elizaOS/eliza"
-}
-{
-  "name": "Roo-Code",
-  "full_name": "RooCodeInc/Roo-Code",
-  "updated": "2026-05-12T02:43:51Z",
-  "desc": "Roo Code gives you a whole dev team of AI agents in your code editor.",
-  "url": "https://github.com/RooCodeInc/Roo-Code"
-}
-{
   "name": "lobu",
   "full_name": "lobu-ai/lobu",
-  "updated": "2026-05-12T02:39:38Z",
+  "updated": "2026-05-13T02:52:49Z",
   "desc": "Autonomous agents in your organization. Multi-tenant OpenClaw",
   "url": "https://github.com/lobu-ai/lobu"
 }
 {
-  "name": "pikiclaw",
-  "full_name": "xiaotonng/pikiclaw",
-  "updated": "2026-05-12T02:38:29Z",
-  "desc": "Put the world's smartest AI agents & plugins in your pocket",
-  "url": "https://github.com/xiaotonng/pikiclaw"
+  "name": "ClawBench",
+  "full_name": "reacher-z/ClawBench",
+  "updated": "2026-05-13T02:52:25Z",
+  "desc": "Open-source benchmark for browser AI agents on 153 everyday online tasks across 144 live websites. 5-layer recording + DOM-match + LLM judge. Top score 33.3%.",
+  "url": "https://github.com/reacher-z/ClawBench"
 }
 {
-  "name": "agents-js",
-  "full_name": "livekit/agents-js",
-  "updated": "2026-05-12T02:37:52Z",
-  "desc": "Build realtime multimodal AI agents with Node.js",
-  "url": "https://github.com/livekit/agents-js"
+  "name": "aiwg",
+  "full_name": "jmagly/aiwg",
+  "updated": "2026-05-13T02:51:25Z",
+  "desc": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platform deployment. Claude Code · Codex · Copilot · Cursor · Factory · Warp · Windsurf.",
+  "url": "https://github.com/jmagly/aiwg"
 }
 {
-  "name": "oh-my-agent",
-  "full_name": "first-fluke/oh-my-agent",
-  "updated": "2026-05-12T02:36:20Z",
-  "desc": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
-  "url": "https://github.com/first-fluke/oh-my-agent"
+  "name": "superset",
+  "full_name": "superset-sh/superset",
+  "updated": "2026-05-13T02:51:04Z",
+  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+  "url": "https://github.com/superset-sh/superset"
+}
+{
+  "name": "CubeSandbox",
+  "full_name": "TencentCloud/CubeSandbox",
+  "updated": "2026-05-13T02:50:13Z",
+  "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+  "url": "https://github.com/TencentCloud/CubeSandbox"
+}
+{
+  "name": "trustclaw",
+  "full_name": "ComposioHQ/trustclaw",
+  "updated": "2026-05-13T02:53:07Z",
+  "desc": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
+  "url": "https://github.com/ComposioHQ/trustclaw"
+}
+{
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-05-13T02:48:30Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
+}
+{
+  "name": "clawmetry",
+  "full_name": "vivekchand/clawmetry",
+  "updated": "2026-05-13T02:53:43Z",
+  "desc": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
+  "url": "https://github.com/vivekchand/clawmetry"
+}
+{
+  "name": "OpenContracts",
+  "full_name": "Open-Source-Legal/OpenContracts",
+  "updated": "2026-05-13T02:46:48Z",
+  "desc": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic search, and MCP.",
+  "url": "https://github.com/Open-Source-Legal/OpenContracts"
+}
+{
+  "name": "eliza",
+  "full_name": "elizaOS/eliza",
+  "updated": "2026-05-13T02:46:43Z",
+  "desc": "Autonomous agents for everyone",
+  "url": "https://github.com/elizaOS/eliza"
 }
