@@ -1,70 +1,70 @@
 {
-  "name": "lobu",
-  "full_name": "lobu-ai/lobu",
-  "updated": "2026-05-13T02:52:49Z",
-  "desc": "Autonomous agents in your organization. Multi-tenant OpenClaw",
-  "url": "https://github.com/lobu-ai/lobu"
+  "name": "cua",
+  "full_name": "trycua/cua",
+  "updated": "2026-05-14T02:55:35Z",
+  "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+  "url": "https://github.com/trycua/cua"
 }
 {
-  "name": "ClawBench",
-  "full_name": "reacher-z/ClawBench",
-  "updated": "2026-05-13T02:52:25Z",
-  "desc": "Open-source benchmark for browser AI agents on 153 everyday online tasks across 144 live websites. 5-layer recording + DOM-match + LLM judge. Top score 33.3%.",
-  "url": "https://github.com/reacher-z/ClawBench"
+  "name": "qwen-code",
+  "full_name": "QwenLM/qwen-code",
+  "updated": "2026-05-14T02:54:06Z",
+  "desc": "An open-source AI agent that lives in your terminal.",
+  "url": "https://github.com/QwenLM/qwen-code"
 }
 {
-  "name": "aiwg",
-  "full_name": "jmagly/aiwg",
-  "updated": "2026-05-13T02:51:25Z",
-  "desc": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platform deployment. Claude Code · Codex · Copilot · Cursor · Factory · Warp · Windsurf.",
-  "url": "https://github.com/jmagly/aiwg"
+  "name": "agenticmail",
+  "full_name": "agenticmail/agenticmail",
+  "updated": "2026-05-14T02:52:51Z",
+  "desc": "Email & SMS infrastructure for AI agents — send and receive real email and text messages programmatically",
+  "url": "https://github.com/agenticmail/agenticmail"
 }
 {
-  "name": "superset",
-  "full_name": "superset-sh/superset",
-  "updated": "2026-05-13T02:51:04Z",
-  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-  "url": "https://github.com/superset-sh/superset"
+  "name": "awesome-agentic-ai-zh",
+  "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+  "updated": "2026-05-14T02:53:08Z",
+  "desc": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+  "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
 }
 {
-  "name": "CubeSandbox",
-  "full_name": "TencentCloud/CubeSandbox",
-  "updated": "2026-05-13T02:50:13Z",
-  "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-  "url": "https://github.com/TencentCloud/CubeSandbox"
+  "name": "notebooklm-py",
+  "full_name": "teng-lin/notebooklm-py",
+  "updated": "2026-05-14T02:50:57Z",
+  "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+  "url": "https://github.com/teng-lin/notebooklm-py"
 }
 {
-  "name": "trustclaw",
-  "full_name": "ComposioHQ/trustclaw",
-  "updated": "2026-05-13T02:53:07Z",
-  "desc": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
-  "url": "https://github.com/ComposioHQ/trustclaw"
+  "name": "osaurus",
+  "full_name": "osaurus-ai/osaurus",
+  "updated": "2026-05-14T02:50:28Z",
+  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+  "url": "https://github.com/osaurus-ai/osaurus"
 }
 {
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-05-13T02:48:30Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
+  "name": "refact",
+  "full_name": "smallcloudai/refact",
+  "updated": "2026-05-14T02:50:23Z",
+  "desc": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+  "url": "https://github.com/smallcloudai/refact"
 }
 {
-  "name": "clawmetry",
-  "full_name": "vivekchand/clawmetry",
-  "updated": "2026-05-13T02:53:43Z",
-  "desc": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
-  "url": "https://github.com/vivekchand/clawmetry"
+  "name": "EvoAgentX",
+  "full_name": "EvoAgentX/EvoAgentX",
+  "updated": "2026-05-14T02:49:25Z",
+  "desc": "🚀 EvoAgentX: Building a Self-Evolving Ecosystem of AI Agents",
+  "url": "https://github.com/EvoAgentX/EvoAgentX"
 }
 {
-  "name": "OpenContracts",
-  "full_name": "Open-Source-Legal/OpenContracts",
-  "updated": "2026-05-13T02:46:48Z",
-  "desc": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic search, and MCP.",
-  "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  "name": "gemini-cli",
+  "full_name": "google-gemini/gemini-cli",
+  "updated": "2026-05-14T02:53:15Z",
+  "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+  "url": "https://github.com/google-gemini/gemini-cli"
 }
 {
-  "name": "eliza",
-  "full_name": "elizaOS/eliza",
-  "updated": "2026-05-13T02:46:43Z",
-  "desc": "Autonomous agents for everyone",
-  "url": "https://github.com/elizaOS/eliza"
+  "name": "nanobot",
+  "full_name": "HKUDS/nanobot",
+  "updated": "2026-05-14T02:55:30Z",
+  "desc": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+  "url": "https://github.com/HKUDS/nanobot"
 }
