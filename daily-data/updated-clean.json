@@ -1,70 +1,70 @@
 {
-  "name": "cua",
-  "full_name": "trycua/cua",
-  "updated": "2026-05-14T02:55:35Z",
-  "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-  "url": "https://github.com/trycua/cua"
+  "name": "BotSharp-UI",
+  "full_name": "SciSharp/BotSharp-UI",
+  "updated": "2026-05-15T02:56:27Z",
+  "desc": "Build, test and manage your AI Agents in the central place.",
+  "url": "https://github.com/SciSharp/BotSharp-UI"
 }
 {
-  "name": "qwen-code",
-  "full_name": "QwenLM/qwen-code",
-  "updated": "2026-05-14T02:54:06Z",
-  "desc": "An open-source AI agent that lives in your terminal.",
-  "url": "https://github.com/QwenLM/qwen-code"
+  "name": "opencomputer",
+  "full_name": "diggerhq/opencomputer",
+  "updated": "2026-05-15T02:55:46Z",
+  "desc": "Secure cloud computers for AI agents.",
+  "url": "https://github.com/diggerhq/opencomputer"
+}
+{
+  "name": "agent-clip",
+  "full_name": "epiral/agent-clip",
+  "updated": "2026-05-15T02:55:33Z",
+  "desc": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
+  "url": "https://github.com/epiral/agent-clip"
 }
 {
   "name": "agenticmail",
   "full_name": "agenticmail/agenticmail",
-  "updated": "2026-05-14T02:52:51Z",
+  "updated": "2026-05-15T02:54:40Z",
   "desc": "Email & SMS infrastructure for AI agents — send and receive real email and text messages programmatically",
   "url": "https://github.com/agenticmail/agenticmail"
 }
 {
-  "name": "awesome-agentic-ai-zh",
-  "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-  "updated": "2026-05-14T02:53:08Z",
-  "desc": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-  "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-05-15T02:55:41Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
-  "name": "notebooklm-py",
-  "full_name": "teng-lin/notebooklm-py",
-  "updated": "2026-05-14T02:50:57Z",
-  "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
-  "url": "https://github.com/teng-lin/notebooklm-py"
-}
-{
-  "name": "osaurus",
-  "full_name": "osaurus-ai/osaurus",
-  "updated": "2026-05-14T02:50:28Z",
-  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
-  "url": "https://github.com/osaurus-ai/osaurus"
-}
-{
-  "name": "refact",
-  "full_name": "smallcloudai/refact",
-  "updated": "2026-05-14T02:50:23Z",
-  "desc": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
-  "url": "https://github.com/smallcloudai/refact"
-}
-{
-  "name": "EvoAgentX",
-  "full_name": "EvoAgentX/EvoAgentX",
-  "updated": "2026-05-14T02:49:25Z",
-  "desc": "🚀 EvoAgentX: Building a Self-Evolving Ecosystem of AI Agents",
-  "url": "https://github.com/EvoAgentX/EvoAgentX"
+  "name": "prism-coder",
+  "full_name": "dcostenco/prism-coder",
+  "updated": "2026-05-15T02:54:04Z",
+  "desc": "The Mind Palace for AI Agents - HIPAA-hardened Cognitive Architecture with on-device LLM (prism-coder:7b), Hebbian learning, ACT-R spreading activation, adversarial evaluation, persistent memory, multi-agent Hivemind and visual dashboard. Zero API keys required.",
+  "url": "https://github.com/dcostenco/prism-coder"
 }
 {
   "name": "gemini-cli",
   "full_name": "google-gemini/gemini-cli",
-  "updated": "2026-05-14T02:53:15Z",
+  "updated": "2026-05-15T02:51:14Z",
   "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
   "url": "https://github.com/google-gemini/gemini-cli"
 }
 {
-  "name": "nanobot",
-  "full_name": "HKUDS/nanobot",
-  "updated": "2026-05-14T02:55:30Z",
-  "desc": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-  "url": "https://github.com/HKUDS/nanobot"
+  "name": "DashClaw",
+  "full_name": "ucsandman/DashClaw",
+  "updated": "2026-05-15T02:50:49Z",
+  "desc": "🛡️Decision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.",
+  "url": "https://github.com/ucsandman/DashClaw"
+}
+{
+  "name": "cli",
+  "full_name": "larksuite/cli",
+  "updated": "2026-05-15T02:55:46Z",
+  "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
+  "url": "https://github.com/larksuite/cli"
+}
+{
+  "name": "gastown",
+  "full_name": "gastownhall/gastown",
+  "updated": "2026-05-15T02:49:06Z",
+  "desc": "Gas Town - multi-agent workspace manager",
+  "url": "https://github.com/gastownhall/gastown"
 }
