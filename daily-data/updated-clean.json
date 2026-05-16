@@ -1,70 +1,70 @@
 {
-  "name": "BotSharp-UI",
-  "full_name": "SciSharp/BotSharp-UI",
-  "updated": "2026-05-15T02:56:27Z",
-  "desc": "Build, test and manage your AI Agents in the central place.",
-  "url": "https://github.com/SciSharp/BotSharp-UI"
+  "name": "eliza",
+  "full_name": "elizaOS/eliza",
+  "updated": "2026-05-16T02:45:00Z",
+  "desc": "Autonomous agents for everyone",
+  "url": "https://github.com/elizaOS/eliza"
 }
 {
-  "name": "opencomputer",
-  "full_name": "diggerhq/opencomputer",
-  "updated": "2026-05-15T02:55:46Z",
-  "desc": "Secure cloud computers for AI agents.",
-  "url": "https://github.com/diggerhq/opencomputer"
+  "name": "neuro-san-studio",
+  "full_name": "cognizant-ai-lab/neuro-san-studio",
+  "updated": "2026-05-16T02:42:34Z",
+  "desc": "A playground for neuro-san",
+  "url": "https://github.com/cognizant-ai-lab/neuro-san-studio"
 }
 {
-  "name": "agent-clip",
-  "full_name": "epiral/agent-clip",
-  "updated": "2026-05-15T02:55:33Z",
-  "desc": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
-  "url": "https://github.com/epiral/agent-clip"
+  "name": "OpenAgentd",
+  "full_name": "lthoangg/OpenAgentd",
+  "updated": "2026-05-16T02:41:59Z",
+  "desc": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
+  "url": "https://github.com/lthoangg/OpenAgentd"
+}
+{
+  "name": "agentic_coding_flywheel_setup",
+  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
+  "updated": "2026-05-16T02:41:46Z",
+  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
+  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+}
+{
+  "name": "openchrome",
+  "full_name": "shaun0927/openchrome",
+  "updated": "2026-05-16T02:39:43Z",
+  "desc": "Open-source browser automation MCP server. Control your real Chrome from any AI agent.",
+  "url": "https://github.com/shaun0927/openchrome"
+}
+{
+  "name": "commonly",
+  "full_name": "Team-Commonly/commonly",
+  "updated": "2026-05-16T02:39:29Z",
+  "desc": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
+  "url": "https://github.com/Team-Commonly/commonly"
+}
+{
+  "name": "guizang-ppt-skill",
+  "full_name": "op7418/guizang-ppt-skill",
+  "updated": "2026-05-16T02:43:03Z",
+  "desc": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
+  "url": "https://github.com/op7418/guizang-ppt-skill"
+}
+{
+  "name": "airbyte-agent-sdk",
+  "full_name": "airbytehq/airbyte-agent-sdk",
+  "updated": "2026-05-16T02:36:37Z",
+  "desc": "🐙 Drop-in tools that give AI agents reliable, permission-aware access to external systems.",
+  "url": "https://github.com/airbytehq/airbyte-agent-sdk"
 }
 {
   "name": "agenticmail",
   "full_name": "agenticmail/agenticmail",
-  "updated": "2026-05-15T02:54:40Z",
+  "updated": "2026-05-16T02:36:09Z",
   "desc": "Email & SMS infrastructure for AI agents — send and receive real email and text messages programmatically",
   "url": "https://github.com/agenticmail/agenticmail"
 }
 {
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-05-15T02:55:41Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
-}
-{
-  "name": "prism-coder",
-  "full_name": "dcostenco/prism-coder",
-  "updated": "2026-05-15T02:54:04Z",
-  "desc": "The Mind Palace for AI Agents - HIPAA-hardened Cognitive Architecture with on-device LLM (prism-coder:7b), Hebbian learning, ACT-R spreading activation, adversarial evaluation, persistent memory, multi-agent Hivemind and visual dashboard. Zero API keys required.",
-  "url": "https://github.com/dcostenco/prism-coder"
-}
-{
-  "name": "gemini-cli",
-  "full_name": "google-gemini/gemini-cli",
-  "updated": "2026-05-15T02:51:14Z",
-  "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-  "url": "https://github.com/google-gemini/gemini-cli"
-}
-{
-  "name": "DashClaw",
-  "full_name": "ucsandman/DashClaw",
-  "updated": "2026-05-15T02:50:49Z",
-  "desc": "🛡️Decision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.",
-  "url": "https://github.com/ucsandman/DashClaw"
-}
-{
-  "name": "cli",
-  "full_name": "larksuite/cli",
-  "updated": "2026-05-15T02:55:46Z",
-  "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
-  "url": "https://github.com/larksuite/cli"
-}
-{
-  "name": "gastown",
-  "full_name": "gastownhall/gastown",
-  "updated": "2026-05-15T02:49:06Z",
-  "desc": "Gas Town - multi-agent workspace manager",
-  "url": "https://github.com/gastownhall/gastown"
+  "name": "dimos",
+  "full_name": "dimensionalOS/dimos",
+  "updated": "2026-05-16T02:36:07Z",
+  "desc": "Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
+  "url": "https://github.com/dimensionalOS/dimos"
 }
