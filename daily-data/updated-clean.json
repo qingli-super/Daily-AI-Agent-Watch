@@ -1,70 +1,70 @@
 {
-  "name": "neo",
-  "full_name": "neomjs/neo",
-  "updated": "2026-05-17T02:53:56Z",
-  "desc": "The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time.",
-  "url": "https://github.com/neomjs/neo"
+  "name": "agents",
+  "full_name": "livekit/agents",
+  "updated": "2026-05-18T03:31:25Z",
+  "desc": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
+  "url": "https://github.com/livekit/agents"
 }
 {
-  "name": "oh-my-coder",
-  "full_name": "VOBC/oh-my-coder",
-  "updated": "2026-05-17T02:54:32Z",
-  "desc": "Multi-Agent AI Coding Assistant - 支持 DeepSeek / GLM / MiMo 等 12+ 国产大模型，多智能体协作编程",
-  "url": "https://github.com/VOBC/oh-my-coder"
+  "name": "notebooklm-py",
+  "full_name": "teng-lin/notebooklm-py",
+  "updated": "2026-05-18T03:31:30Z",
+  "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+  "url": "https://github.com/teng-lin/notebooklm-py"
 }
 {
-  "name": "mcp-gateway-registry",
-  "full_name": "agentic-community/mcp-gateway-registry",
-  "updated": "2026-05-17T02:53:34Z",
-  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
-  "url": "https://github.com/agentic-community/mcp-gateway-registry"
+  "name": "openchrome",
+  "full_name": "shaun0927/openchrome",
+  "updated": "2026-05-18T03:28:49Z",
+  "desc": "Open-source browser automation MCP server. Control your real Chrome from any AI agent.",
+  "url": "https://github.com/shaun0927/openchrome"
 }
 {
-  "name": "openclacky",
-  "full_name": "clacky-ai/openclacky",
-  "updated": "2026-05-17T02:51:37Z",
-  "desc": "The most Token-efficient open-source AI Agent",
-  "url": "https://github.com/clacky-ai/openclacky"
+  "name": "Sage",
+  "full_name": "ZHangZHengEric/Sage",
+  "updated": "2026-05-18T03:28:14Z",
+  "desc": "Multi-Agent System Framework For Complex Tasks",
+  "url": "https://github.com/ZHangZHengEric/Sage"
 }
 {
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-05-17T02:50:24Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
+  "name": "OpenViking",
+  "full_name": "volcengine/OpenViking",
+  "updated": "2026-05-18T03:28:10Z",
+  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+  "url": "https://github.com/volcengine/OpenViking"
 }
 {
-  "name": "clawdcursor",
-  "full_name": "AmrDab/clawdcursor",
-  "updated": "2026-05-17T02:50:14Z",
-  "desc": "OS-agnostic, model-agnostic desktop automation server. Gives any AI agent eyes, hands, and ground-truth verification on Windows, macOS, and Linux.",
-  "url": "https://github.com/AmrDab/clawdcursor"
+  "name": "mateclaw",
+  "full_name": "matevip/mateclaw",
+  "updated": "2026-05-18T03:28:07Z",
+  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+  "url": "https://github.com/matevip/mateclaw"
 }
 {
-  "name": "agentic_coding_flywheel_setup",
-  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
-  "updated": "2026-05-17T02:46:23Z",
-  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
-  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+  "name": "qwen-code",
+  "full_name": "QwenLM/qwen-code",
+  "updated": "2026-05-18T03:22:44Z",
+  "desc": "An open-source AI agent that lives in your terminal.",
+  "url": "https://github.com/QwenLM/qwen-code"
 }
 {
-  "name": "metabot",
-  "full_name": "xvirobotics/metabot",
-  "updated": "2026-05-17T02:46:08Z",
-  "desc": "构建受监督的、自我进化的 Agent 组织的基础设施 | Infrastructure for supervised, self-improving agent organization. 飞书/Telegram 手机端运行 Claude Code 或 Kimi Code（双引擎，两家原生订阅直接用），共享记忆、Agent 工厂、定时任务、通信总线。",
-  "url": "https://github.com/xvirobotics/metabot"
+  "name": "OpenContracts",
+  "full_name": "Open-Source-Legal/OpenContracts",
+  "updated": "2026-05-18T03:22:22Z",
+  "desc": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic search, and MCP.",
+  "url": "https://github.com/Open-Source-Legal/OpenContracts"
 }
 {
-  "name": "openteams",
-  "full_name": "openteams-lab/openteams",
-  "updated": "2026-05-17T02:45:55Z",
-  "desc": "Open-Source AI Agentic Teammates.",
-  "url": "https://github.com/openteams-lab/openteams"
+  "name": "costrict",
+  "full_name": "zgsm-ai/costrict",
+  "updated": "2026-05-18T03:21:23Z",
+  "desc": "Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion. ",
+  "url": "https://github.com/zgsm-ai/costrict"
 }
 {
-  "name": "superset",
-  "full_name": "superset-sh/superset",
-  "updated": "2026-05-17T02:45:15Z",
-  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-  "url": "https://github.com/superset-sh/superset"
+  "name": "goose",
+  "full_name": "aaif-goose/goose",
+  "updated": "2026-05-18T03:30:44Z",
+  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "url": "https://github.com/aaif-goose/goose"
 }
