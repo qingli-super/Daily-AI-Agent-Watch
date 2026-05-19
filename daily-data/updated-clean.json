@@ -1,70 +1,70 @@
 {
-  "name": "agents",
-  "full_name": "livekit/agents",
-  "updated": "2026-05-18T03:31:25Z",
-  "desc": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
-  "url": "https://github.com/livekit/agents"
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-05-19T03:23:39Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
   "name": "notebooklm-py",
   "full_name": "teng-lin/notebooklm-py",
-  "updated": "2026-05-18T03:31:30Z",
+  "updated": "2026-05-19T03:22:38Z",
   "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
   "url": "https://github.com/teng-lin/notebooklm-py"
 }
 {
-  "name": "openchrome",
-  "full_name": "shaun0927/openchrome",
-  "updated": "2026-05-18T03:28:49Z",
-  "desc": "Open-source browser automation MCP server. Control your real Chrome from any AI agent.",
-  "url": "https://github.com/shaun0927/openchrome"
-}
-{
-  "name": "Sage",
-  "full_name": "ZHangZHengEric/Sage",
-  "updated": "2026-05-18T03:28:14Z",
-  "desc": "Multi-Agent System Framework For Complex Tasks",
-  "url": "https://github.com/ZHangZHengEric/Sage"
+  "name": "cli",
+  "full_name": "larksuite/cli",
+  "updated": "2026-05-19T03:22:36Z",
+  "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
+  "url": "https://github.com/larksuite/cli"
 }
 {
   "name": "OpenViking",
   "full_name": "volcengine/OpenViking",
-  "updated": "2026-05-18T03:28:10Z",
+  "updated": "2026-05-19T03:24:57Z",
   "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
   "url": "https://github.com/volcengine/OpenViking"
 }
 {
-  "name": "mateclaw",
-  "full_name": "matevip/mateclaw",
-  "updated": "2026-05-18T03:28:07Z",
-  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-  "url": "https://github.com/matevip/mateclaw"
+  "name": "nexent",
+  "full_name": "ModelEngine-Group/nexent",
+  "updated": "2026-05-19T03:23:07Z",
+  "desc": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+  "url": "https://github.com/ModelEngine-Group/nexent"
 }
 {
-  "name": "qwen-code",
-  "full_name": "QwenLM/qwen-code",
-  "updated": "2026-05-18T03:22:44Z",
-  "desc": "An open-source AI agent that lives in your terminal.",
-  "url": "https://github.com/QwenLM/qwen-code"
+  "name": "OpenAgentd",
+  "full_name": "lthoangg/OpenAgentd",
+  "updated": "2026-05-19T03:17:29Z",
+  "desc": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
+  "url": "https://github.com/lthoangg/OpenAgentd"
 }
 {
-  "name": "OpenContracts",
-  "full_name": "Open-Source-Legal/OpenContracts",
-  "updated": "2026-05-18T03:22:22Z",
-  "desc": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic search, and MCP.",
-  "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  "name": "tubecli",
+  "full_name": "tubecreate/tubecli",
+  "updated": "2026-05-19T03:17:06Z",
+  "desc": "⚡ TubeCLI — The Ultimate Open Source AI Agents Ecosystem | Agents Browser · Agents Workflow · Agents Studio World",
+  "url": "https://github.com/tubecreate/tubecli"
 }
 {
-  "name": "costrict",
-  "full_name": "zgsm-ai/costrict",
-  "updated": "2026-05-18T03:21:23Z",
-  "desc": "Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion. ",
-  "url": "https://github.com/zgsm-ai/costrict"
+  "name": "OpenShell",
+  "full_name": "NVIDIA/OpenShell",
+  "updated": "2026-05-19T03:16:32Z",
+  "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+  "url": "https://github.com/NVIDIA/OpenShell"
 }
 {
-  "name": "goose",
-  "full_name": "aaif-goose/goose",
-  "updated": "2026-05-18T03:30:44Z",
-  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-  "url": "https://github.com/aaif-goose/goose"
+  "name": "MASFactory",
+  "full_name": "BUPT-GAMMA/MASFactory",
+  "updated": "2026-05-19T03:16:18Z",
+  "desc": "A Graph-Centric Framework for Orchestrating Multi-Agent Systems with Vibe Graphing.",
+  "url": "https://github.com/BUPT-GAMMA/MASFactory"
+}
+{
+  "name": "OpenCLI",
+  "full_name": "jackwener/OpenCLI",
+  "updated": "2026-05-19T03:23:42Z",
+  "desc": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+  "url": "https://github.com/jackwener/OpenCLI"
 }
