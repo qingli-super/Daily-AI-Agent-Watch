@@ -1,70 +1,70 @@
 {
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-05-19T03:23:39Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
+  "name": "agenticmail",
+  "full_name": "agenticmail/agenticmail",
+  "updated": "2026-05-20T03:25:21Z",
+  "desc": "Email, SMS & phone-call infrastructure for AI agents — send and receive real email and text messages, and place agent-driven outbound voice calls, all programmatically",
+  "url": "https://github.com/agenticmail/agenticmail"
 }
 {
-  "name": "notebooklm-py",
-  "full_name": "teng-lin/notebooklm-py",
-  "updated": "2026-05-19T03:22:38Z",
-  "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
-  "url": "https://github.com/teng-lin/notebooklm-py"
+  "name": "agent-skills-standard",
+  "full_name": "HoangNguyen0403/agent-skills-standard",
+  "updated": "2026-05-20T03:23:55Z",
+  "desc": "A collection of Agent Skills Standard and Best Practice for Programming Languages, Frameworks that help our AI Agent follow best practies on frameworks and programming laguages",
+  "url": "https://github.com/HoangNguyen0403/agent-skills-standard"
 }
 {
-  "name": "cli",
-  "full_name": "larksuite/cli",
-  "updated": "2026-05-19T03:22:36Z",
-  "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
-  "url": "https://github.com/larksuite/cli"
+  "name": "Equibles",
+  "full_name": "daniel3303/Equibles",
+  "updated": "2026-05-20T03:23:45Z",
+  "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
+  "url": "https://github.com/daniel3303/Equibles"
 }
 {
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-05-19T03:24:57Z",
-  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-  "url": "https://github.com/volcengine/OpenViking"
+  "name": "mateclaw",
+  "full_name": "matevip/mateclaw",
+  "updated": "2026-05-20T03:23:39Z",
+  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+  "url": "https://github.com/matevip/mateclaw"
 }
 {
-  "name": "nexent",
-  "full_name": "ModelEngine-Group/nexent",
-  "updated": "2026-05-19T03:23:07Z",
-  "desc": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
-  "url": "https://github.com/ModelEngine-Group/nexent"
+  "name": "oh-my-coder",
+  "full_name": "VOBC/oh-my-coder",
+  "updated": "2026-05-20T03:23:18Z",
+  "desc": "Multi-Agent AI Coding Assistant - 支持 DeepSeek / GLM / MiMo 等 12+ 国产大模型，多智能体协作编程",
+  "url": "https://github.com/VOBC/oh-my-coder"
 }
 {
-  "name": "OpenAgentd",
-  "full_name": "lthoangg/OpenAgentd",
-  "updated": "2026-05-19T03:17:29Z",
-  "desc": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
-  "url": "https://github.com/lthoangg/OpenAgentd"
+  "name": "worktrunk",
+  "full_name": "max-sixty/worktrunk",
+  "updated": "2026-05-20T03:22:33Z",
+  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+  "url": "https://github.com/max-sixty/worktrunk"
 }
 {
-  "name": "tubecli",
-  "full_name": "tubecreate/tubecli",
-  "updated": "2026-05-19T03:17:06Z",
-  "desc": "⚡ TubeCLI — The Ultimate Open Source AI Agents Ecosystem | Agents Browser · Agents Workflow · Agents Studio World",
-  "url": "https://github.com/tubecreate/tubecli"
+  "name": "executor",
+  "full_name": "RhysSullivan/executor",
+  "updated": "2026-05-20T03:18:50Z",
+  "desc": "The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.",
+  "url": "https://github.com/RhysSullivan/executor"
 }
 {
-  "name": "OpenShell",
-  "full_name": "NVIDIA/OpenShell",
-  "updated": "2026-05-19T03:16:32Z",
-  "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
-  "url": "https://github.com/NVIDIA/OpenShell"
+  "name": "agent-context-protocol",
+  "full_name": "prmichaelsen/agent-context-protocol",
+  "updated": "2026-05-20T03:18:29Z",
+  "desc": "The Agent Context Protocol (ACP) is a documentation and planning system that enables AI agents to understand, build, and maintain complex software projects through structured knowledge capture. It transforms implicit project knowledge into explicit, machine-readable documentation that persists across agent sessions.",
+  "url": "https://github.com/prmichaelsen/agent-context-protocol"
 }
 {
-  "name": "MASFactory",
-  "full_name": "BUPT-GAMMA/MASFactory",
-  "updated": "2026-05-19T03:16:18Z",
-  "desc": "A Graph-Centric Framework for Orchestrating Multi-Agent Systems with Vibe Graphing.",
-  "url": "https://github.com/BUPT-GAMMA/MASFactory"
+  "name": "effGen",
+  "full_name": "ctrl-gaurav/effGen",
+  "updated": "2026-05-20T03:17:56Z",
+  "desc": "[ICML 2026] effGen: Enabling Small Language Models as Capable Autonomous Agents",
+  "url": "https://github.com/ctrl-gaurav/effGen"
 }
 {
-  "name": "OpenCLI",
-  "full_name": "jackwener/OpenCLI",
-  "updated": "2026-05-19T03:23:42Z",
-  "desc": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-  "url": "https://github.com/jackwener/OpenCLI"
+  "name": "memind",
+  "full_name": "openmemind/memind",
+  "updated": "2026-05-20T03:17:40Z",
+  "desc": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
+  "url": "https://github.com/openmemind/memind"
 }
