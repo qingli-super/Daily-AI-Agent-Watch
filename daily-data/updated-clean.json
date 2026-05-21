@@ -1,70 +1,70 @@
 {
-  "name": "agenticmail",
-  "full_name": "agenticmail/agenticmail",
-  "updated": "2026-05-20T03:25:21Z",
-  "desc": "Email, SMS & phone-call infrastructure for AI agents — send and receive real email and text messages, and place agent-driven outbound voice calls, all programmatically",
-  "url": "https://github.com/agenticmail/agenticmail"
-}
-{
-  "name": "agent-skills-standard",
-  "full_name": "HoangNguyen0403/agent-skills-standard",
-  "updated": "2026-05-20T03:23:55Z",
-  "desc": "A collection of Agent Skills Standard and Best Practice for Programming Languages, Frameworks that help our AI Agent follow best practies on frameworks and programming laguages",
-  "url": "https://github.com/HoangNguyen0403/agent-skills-standard"
+  "name": "TokenTracker",
+  "full_name": "mm7894215/TokenTracker",
+  "updated": "2026-05-21T03:31:46Z",
+  "desc": "Track token usage across 17 AI agent CLIs — Claude Code, Codex, Cursor, Gemini, Antigravity, Kiro, OpenCode, OpenClaw, Every Code, Hermes, GitHub Copilot, Kimi Code, CodeBuddy, Grok Build, oh-my-pi, Kilo CLI, Kilo Code. Local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.",
+  "url": "https://github.com/mm7894215/TokenTracker"
 }
 {
   "name": "Equibles",
   "full_name": "daniel3303/Equibles",
-  "updated": "2026-05-20T03:23:45Z",
+  "updated": "2026-05-21T03:30:49Z",
   "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
   "url": "https://github.com/daniel3303/Equibles"
 }
 {
-  "name": "mateclaw",
-  "full_name": "matevip/mateclaw",
-  "updated": "2026-05-20T03:23:39Z",
-  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-  "url": "https://github.com/matevip/mateclaw"
+  "name": "vexjoy-agent",
+  "full_name": "notque/vexjoy-agent",
+  "updated": "2026-05-21T03:29:52Z",
+  "desc": "VexJoy AI Agent with Intelligent Routing",
+  "url": "https://github.com/notque/vexjoy-agent"
 }
 {
-  "name": "oh-my-coder",
-  "full_name": "VOBC/oh-my-coder",
-  "updated": "2026-05-20T03:23:18Z",
-  "desc": "Multi-Agent AI Coding Assistant - 支持 DeepSeek / GLM / MiMo 等 12+ 国产大模型，多智能体协作编程",
-  "url": "https://github.com/VOBC/oh-my-coder"
+  "name": "skill-based-architecture",
+  "full_name": "WoJiSama/skill-based-architecture",
+  "updated": "2026-05-21T03:29:30Z",
+  "desc": "A meta-skill that produces skills. Point it at any codebase and it distills the project's rules, workflows, and hard-won lessons into a dedicated skills/<name>/ directory — a project skill that becomes the single source of truth every AI agent (Cursor, Claude Code, Codex, Windsurf, Gemini) consults before every task.",
+  "url": "https://github.com/WoJiSama/skill-based-architecture"
 }
 {
-  "name": "worktrunk",
-  "full_name": "max-sixty/worktrunk",
-  "updated": "2026-05-20T03:22:33Z",
-  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-  "url": "https://github.com/max-sixty/worktrunk"
+  "name": "jiuwenswarm",
+  "full_name": "openJiuwen-ai/jiuwenswarm",
+  "updated": "2026-05-21T03:29:12Z",
+  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
+  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
 }
 {
-  "name": "executor",
-  "full_name": "RhysSullivan/executor",
-  "updated": "2026-05-20T03:18:50Z",
-  "desc": "The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.",
-  "url": "https://github.com/RhysSullivan/executor"
+  "name": "graphiti",
+  "full_name": "getzep/graphiti",
+  "updated": "2026-05-21T03:28:41Z",
+  "desc": "Build Real-Time Knowledge Graphs for AI Agents",
+  "url": "https://github.com/getzep/graphiti"
 }
 {
-  "name": "agent-context-protocol",
-  "full_name": "prmichaelsen/agent-context-protocol",
-  "updated": "2026-05-20T03:18:29Z",
-  "desc": "The Agent Context Protocol (ACP) is a documentation and planning system that enables AI agents to understand, build, and maintain complex software projects through structured knowledge capture. It transforms implicit project knowledge into explicit, machine-readable documentation that persists across agent sessions.",
-  "url": "https://github.com/prmichaelsen/agent-context-protocol"
+  "name": "AgentCrew",
+  "full_name": "saigontechnology/AgentCrew",
+  "updated": "2026-05-21T03:27:33Z",
+  "desc": "Chat application with multi-agents system supports multi-models and MCP",
+  "url": "https://github.com/saigontechnology/AgentCrew"
 }
 {
-  "name": "effGen",
-  "full_name": "ctrl-gaurav/effGen",
-  "updated": "2026-05-20T03:17:56Z",
-  "desc": "[ICML 2026] effGen: Enabling Small Language Models as Capable Autonomous Agents",
-  "url": "https://github.com/ctrl-gaurav/effGen"
+  "name": "sim",
+  "full_name": "simstudioai/sim",
+  "updated": "2026-05-21T03:30:42Z",
+  "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+  "url": "https://github.com/simstudioai/sim"
 }
 {
-  "name": "memind",
-  "full_name": "openmemind/memind",
-  "updated": "2026-05-20T03:17:40Z",
-  "desc": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
-  "url": "https://github.com/openmemind/memind"
+  "name": "lobu",
+  "full_name": "lobu-ai/lobu",
+  "updated": "2026-05-21T03:26:26Z",
+  "desc": "Autonomous agents in your organization. Multi-tenant OpenClaw",
+  "url": "https://github.com/lobu-ai/lobu"
+}
+{
+  "name": "cli-jaw",
+  "full_name": "lidge-jun/cli-jaw",
+  "updated": "2026-05-21T03:24:46Z",
+  "desc": "🦈 2-line install personal AI assistant. 5 engines (Claude, Codex, Gemini, OpenCode, Copilot), 108 skills, zero ban risk.",
+  "url": "https://github.com/lidge-jun/cli-jaw"
 }
