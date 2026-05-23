@@ -1,70 +1,70 @@
 {
-  "name": "Equibles",
-  "full_name": "daniel3303/Equibles",
-  "updated": "2026-05-22T03:30:40Z",
-  "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
-  "url": "https://github.com/daniel3303/Equibles"
+  "name": "1Panel",
+  "full_name": "1Panel-dev/1Panel",
+  "updated": "2026-05-23T02:45:49Z",
+  "desc": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
+  "url": "https://github.com/1Panel-dev/1Panel"
 }
 {
-  "name": "OpenCLI",
-  "full_name": "jackwener/OpenCLI",
-  "updated": "2026-05-22T03:30:12Z",
-  "desc": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
-  "url": "https://github.com/jackwener/OpenCLI"
+  "name": "clawvisor",
+  "full_name": "clawvisor/clawvisor",
+  "updated": "2026-05-23T02:44:56Z",
+  "desc": "API gateway for purpose-based authorization for AI agents. Human approval for tasks, AI-native enforcement for agents.",
+  "url": "https://github.com/clawvisor/clawvisor"
 }
 {
-  "name": "agent-governance-toolkit",
-  "full_name": "microsoft/agent-governance-toolkit",
-  "updated": "2026-05-22T03:30:10Z",
-  "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-  "url": "https://github.com/microsoft/agent-governance-toolkit"
-}
-{
-  "name": "amazing-sandbox",
-  "full_name": "ashishb/amazing-sandbox",
-  "updated": "2026-05-22T03:28:45Z",
-  "desc": "Amazing Sandbox  - run third-party tools and AI agents securely on your machine",
-  "url": "https://github.com/ashishb/amazing-sandbox"
+  "name": "pydantic-ai",
+  "full_name": "pydantic/pydantic-ai",
+  "updated": "2026-05-23T02:44:00Z",
+  "desc": "AI Agent Framework, the Pydantic way",
+  "url": "https://github.com/pydantic/pydantic-ai"
 }
 {
   "name": "notebooklm-py",
   "full_name": "teng-lin/notebooklm-py",
-  "updated": "2026-05-22T03:29:56Z",
+  "updated": "2026-05-23T02:44:14Z",
   "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
   "url": "https://github.com/teng-lin/notebooklm-py"
 }
 {
-  "name": "ruflo",
-  "full_name": "ruvnet/ruflo",
-  "updated": "2026-05-22T03:27:50Z",
-  "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-  "url": "https://github.com/ruvnet/ruflo"
+  "name": "swarmauri-sdk",
+  "full_name": "swarmauri/swarmauri-sdk",
+  "updated": "2026-05-23T02:43:13Z",
+  "desc": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensible application workflows.",
+  "url": "https://github.com/swarmauri/swarmauri-sdk"
 }
 {
-  "name": "Kunlun-M",
-  "full_name": "LoRexxar/Kunlun-M",
-  "updated": "2026-05-22T03:26:40Z",
-  "desc": "KunLun-M — Open-source static code analysis for PHP, JavaScript, Java, with AST-based semantic scanning and one-click AI Agent integration (OpenClaw, Codex, Claude Code, Hermes, and more).",
-  "url": "https://github.com/LoRexxar/Kunlun-M"
+  "name": "Friday",
+  "full_name": "thesongzhu/Friday",
+  "updated": "2026-05-23T02:39:17Z",
+  "desc": "The trusted application layer for AI agents to do real work.",
+  "url": "https://github.com/thesongzhu/Friday"
 }
 {
-  "name": "cube-pets-office",
-  "full_name": "opencroc/cube-pets-office",
-  "updated": "2026-05-22T03:26:33Z",
-  "desc": "AI Agent OS with visible workflow, real execution, and a 3D office shell. From one sentence to full task lifecycle — plan, run, review, replay.",
-  "url": "https://github.com/opencroc/cube-pets-office"
+  "name": "rsclaw",
+  "full_name": "rsclaw-ai/rsclaw",
+  "updated": "2026-05-23T02:34:27Z",
+  "desc": "🦀 AI Agent Engine with Long-Term Memory and Self-Learning & One-Click OpenClaw Migration",
+  "url": "https://github.com/rsclaw-ai/rsclaw"
 }
 {
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-05-22T03:25:44Z",
-  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-  "url": "https://github.com/volcengine/OpenViking"
+  "name": "ClawBench",
+  "full_name": "TIGER-AI-Lab/ClawBench",
+  "updated": "2026-05-23T02:34:52Z",
+  "desc": "Open-source benchmark for browser AI agents on 153 everyday online tasks across 144 live websites. 5-layer recording + DOM-match + LLM judge. Top score 33.3%.",
+  "url": "https://github.com/TIGER-AI-Lab/ClawBench"
 }
 {
-  "name": "mnem",
-  "full_name": "Uranid/mnem",
-  "updated": "2026-05-22T03:23:44Z",
-  "desc": "Git for AI Agent Knowledge. A persistent, versioned memory layer for AI systems. Hybrid GraphRAG retrieval. Runs entirely offline.",
-  "url": "https://github.com/Uranid/mnem"
+  "name": "AI-Build-AI",
+  "full_name": "aibuildai/AI-Build-AI",
+  "updated": "2026-05-23T02:29:58Z",
+  "desc": "AIBuildAI – An AI agent that automatically builds AI models (#1 on OpenAI MLE-Bench)",
+  "url": "https://github.com/aibuildai/AI-Build-AI"
+}
+{
+  "name": "microsandbox",
+  "full_name": "superradcompany/microsandbox",
+  "updated": "2026-05-23T02:29:32Z",
+  "desc": "🧱 secure, local and programmable sandboxes for AI agents",
+  "url": "https://github.com/superradcompany/microsandbox"
 }
