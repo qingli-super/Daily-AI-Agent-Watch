@@ -1,70 +1,70 @@
 {
-  "name": "1Panel",
-  "full_name": "1Panel-dev/1Panel",
-  "updated": "2026-05-23T02:45:49Z",
-  "desc": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
-  "url": "https://github.com/1Panel-dev/1Panel"
+  "name": "tensorlake-skills",
+  "full_name": "tensorlakeai/tensorlake-skills",
+  "updated": "2026-05-24T03:27:28Z",
+  "desc": "Coding agent skill for Tensorlake. Routes Claude Code, OpenAI Codex, and other AI agents to live Tensorlake docs for sandboxes, orchestration, and SDK usage.",
+  "url": "https://github.com/tensorlakeai/tensorlake-skills"
 }
 {
-  "name": "clawvisor",
-  "full_name": "clawvisor/clawvisor",
-  "updated": "2026-05-23T02:44:56Z",
-  "desc": "API gateway for purpose-based authorization for AI agents. Human approval for tasks, AI-native enforcement for agents.",
-  "url": "https://github.com/clawvisor/clawvisor"
+  "name": "Lucarne",
+  "full_name": "tuchg/Lucarne",
+  "updated": "2026-05-24T03:26:54Z",
+  "desc": "Stop babysitting local AI agents. 0-Intrusion mobile control via Telegram/WeChat.   No hooks, no skills, no MCP. Just sync, approve, and resume your Codex,Pi, or Claude sessions anywhere.",
+  "url": "https://github.com/tuchg/Lucarne"
 }
 {
-  "name": "pydantic-ai",
-  "full_name": "pydantic/pydantic-ai",
-  "updated": "2026-05-23T02:44:00Z",
-  "desc": "AI Agent Framework, the Pydantic way",
-  "url": "https://github.com/pydantic/pydantic-ai"
+  "name": "agent-governance-toolkit",
+  "full_name": "microsoft/agent-governance-toolkit",
+  "updated": "2026-05-24T03:26:31Z",
+  "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+  "url": "https://github.com/microsoft/agent-governance-toolkit"
 }
 {
-  "name": "notebooklm-py",
-  "full_name": "teng-lin/notebooklm-py",
-  "updated": "2026-05-23T02:44:14Z",
-  "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
-  "url": "https://github.com/teng-lin/notebooklm-py"
+  "name": "cli-printing-press",
+  "full_name": "mvanhorn/cli-printing-press",
+  "updated": "2026-05-24T03:25:27Z",
+  "desc": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+  "url": "https://github.com/mvanhorn/cli-printing-press"
 }
 {
-  "name": "swarmauri-sdk",
-  "full_name": "swarmauri/swarmauri-sdk",
-  "updated": "2026-05-23T02:43:13Z",
-  "desc": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensible application workflows.",
-  "url": "https://github.com/swarmauri/swarmauri-sdk"
+  "name": "opencode-manager",
+  "full_name": "chriswritescode-dev/opencode-manager",
+  "updated": "2026-05-24T03:24:38Z",
+  "desc": "Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, and real-time chat in a responsive PWA. Deploy with Docker for instant setup.",
+  "url": "https://github.com/chriswritescode-dev/opencode-manager"
 }
 {
-  "name": "Friday",
-  "full_name": "thesongzhu/Friday",
-  "updated": "2026-05-23T02:39:17Z",
-  "desc": "The trusted application layer for AI agents to do real work.",
-  "url": "https://github.com/thesongzhu/Friday"
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-05-24T03:20:13Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
-  "name": "rsclaw",
-  "full_name": "rsclaw-ai/rsclaw",
-  "updated": "2026-05-23T02:34:27Z",
-  "desc": "🦀 AI Agent Engine with Long-Term Memory and Self-Learning & One-Click OpenClaw Migration",
-  "url": "https://github.com/rsclaw-ai/rsclaw"
+  "name": "agentic_coding_flywheel_setup",
+  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
+  "updated": "2026-05-24T03:18:40Z",
+  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
+  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
 }
 {
-  "name": "ClawBench",
-  "full_name": "TIGER-AI-Lab/ClawBench",
-  "updated": "2026-05-23T02:34:52Z",
-  "desc": "Open-source benchmark for browser AI agents on 153 everyday online tasks across 144 live websites. 5-layer recording + DOM-match + LLM judge. Top score 33.3%.",
-  "url": "https://github.com/TIGER-AI-Lab/ClawBench"
+  "name": "bernstein",
+  "full_name": "sipyourdrink-ltd/bernstein",
+  "updated": "2026-05-24T03:16:49Z",
+  "desc": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained audit log, signed agent cards, per-artefact lineage, air-gap deploy. The orchestrator your compliance team will sign off on. https://bernstein.run",
+  "url": "https://github.com/sipyourdrink-ltd/bernstein"
 }
 {
-  "name": "AI-Build-AI",
-  "full_name": "aibuildai/AI-Build-AI",
-  "updated": "2026-05-23T02:29:58Z",
-  "desc": "AIBuildAI – An AI agent that automatically builds AI models (#1 on OpenAI MLE-Bench)",
-  "url": "https://github.com/aibuildai/AI-Build-AI"
+  "name": "OpenContracts",
+  "full_name": "Open-Source-Legal/OpenContracts",
+  "updated": "2026-05-24T03:12:46Z",
+  "desc": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic search, and MCP.",
+  "url": "https://github.com/Open-Source-Legal/OpenContracts"
 }
 {
-  "name": "microsandbox",
-  "full_name": "superradcompany/microsandbox",
-  "updated": "2026-05-23T02:29:32Z",
-  "desc": "🧱 secure, local and programmable sandboxes for AI agents",
-  "url": "https://github.com/superradcompany/microsandbox"
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-05-24T03:12:43Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
 }
