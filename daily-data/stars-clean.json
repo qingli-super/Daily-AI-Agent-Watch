@@ -1,70 +1,70 @@
 {
   "name": "firecrawl",
   "full_name": "firecrawl/firecrawl",
-  "stars": 123458,
+  "stars": 123855,
   "desc": "🔥 Search, scrape, and clean the web for AI agents.",
   "url": "https://github.com/firecrawl/firecrawl"
 }
 {
   "name": "awesome-llm-apps",
   "full_name": "Shubhamsaboo/awesome-llm-apps",
-  "stars": 111591,
+  "stars": 111678,
   "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
   "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
 }
 {
   "name": "gemini-cli",
   "full_name": "google-gemini/gemini-cli",
-  "stars": 104540,
+  "stars": 104570,
   "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
   "url": "https://github.com/google-gemini/gemini-cli"
 }
 {
   "name": "browser-use",
   "full_name": "browser-use/browser-use",
-  "stars": 95256,
+  "stars": 95349,
   "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
   "url": "https://github.com/browser-use/browser-use"
 }
 {
   "name": "autoresearch",
   "full_name": "karpathy/autoresearch",
-  "stars": 82952,
+  "stars": 83146,
   "desc": "AI agents running research on single-GPU nanochat training automatically",
   "url": "https://github.com/karpathy/autoresearch"
 }
 {
   "name": "TradingAgents",
   "full_name": "TauricResearch/TradingAgents",
-  "stars": 78962,
+  "stars": 79284,
   "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
   "url": "https://github.com/TauricResearch/TradingAgents"
 }
 {
   "name": "Prompt-Engineering-Guide",
   "full_name": "dair-ai/Prompt-Engineering-Guide",
-  "stars": 74906,
+  "stars": 74935,
   "desc": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
   "url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
 }
 {
   "name": "deer-flow",
   "full_name": "bytedance/deer-flow",
-  "stars": 69331,
+  "stars": 69440,
   "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
   "url": "https://github.com/bytedance/deer-flow"
 }
 {
   "name": "MetaGPT",
   "full_name": "FoundationAgents/MetaGPT",
-  "stars": 68239,
+  "stars": 68262,
   "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
   "url": "https://github.com/FoundationAgents/MetaGPT"
 }
 {
   "name": "OpenBB",
   "full_name": "OpenBB-finance/OpenBB",
-  "stars": 68002,
+  "stars": 68040,
   "desc": "Financial data platform for analysts, quants and AI agents.",
   "url": "https://github.com/OpenBB-finance/OpenBB"
 }
