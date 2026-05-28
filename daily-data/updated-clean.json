@@ -1,70 +1,70 @@
 {
-  "name": "Equibles",
-  "full_name": "daniel3303/Equibles",
-  "updated": "2026-05-27T03:36:53Z",
-  "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
-  "url": "https://github.com/daniel3303/Equibles"
-}
-{
-  "name": "oh-my-coder",
-  "full_name": "VOBC/oh-my-coder",
-  "updated": "2026-05-27T03:35:12Z",
-  "desc": "Multi-Agent AI Coding Assistant - 支持 DeepSeek / GLM / MiMo 等 12+ 国产大模型，多智能体协作编程",
-  "url": "https://github.com/VOBC/oh-my-coder"
-}
-{
-  "name": "KohakuTerrarium",
-  "full_name": "Kohaku-Lab/KohakuTerrarium",
-  "updated": "2026-05-27T03:34:18Z",
-  "desc": "KohakuTerrarium is a general-purpose AI agent framework and batteries-included app for building, running, and composing self-contained agents and multi-agent teams, with built-in tools, sub-agents, persistent sessions, TUI, and web UI.",
-  "url": "https://github.com/Kohaku-Lab/KohakuTerrarium"
-}
-{
-  "name": "elephant-agent",
-  "full_name": "agentic-in/elephant-agent",
-  "updated": "2026-05-27T03:34:05Z",
-  "desc": "Personal-Model First Self Evolving AI Agent 🐘",
-  "url": "https://github.com/agentic-in/elephant-agent"
-}
-{
-  "name": "qwen-code",
-  "full_name": "QwenLM/qwen-code",
-  "updated": "2026-05-27T03:33:34Z",
-  "desc": "An open-source AI agent that lives in your terminal.",
-  "url": "https://github.com/QwenLM/qwen-code"
-}
-{
-  "name": "OnionClaw",
-  "full_name": "christinminor459/OnionClaw",
-  "updated": "2026-05-27T03:33:14Z",
-  "desc": "Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool.",
-  "url": "https://github.com/christinminor459/OnionClaw"
-}
-{
-  "name": "holon",
-  "full_name": "holon-run/holon",
-  "updated": "2026-05-27T03:32:46Z",
-  "desc": "Local, headless server-client runtime for durable AI agent work in local workspaces",
-  "url": "https://github.com/holon-run/holon"
+  "name": "mateclaw",
+  "full_name": "matevip/mateclaw",
+  "updated": "2026-05-28T02:55:36Z",
+  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+  "url": "https://github.com/matevip/mateclaw"
 }
 {
   "name": "cli",
-  "full_name": "larksuite/cli",
-  "updated": "2026-05-27T03:32:58Z",
-  "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
-  "url": "https://github.com/larksuite/cli"
+  "full_name": "firecrawl/cli",
+  "updated": "2026-05-28T02:53:32Z",
+  "desc": "CLI and Agent Skill for Firecrawl - Add scrape, search, and browsing capabilities to your AI agents",
+  "url": "https://github.com/firecrawl/cli"
 }
 {
-  "name": "jiuwenswarm",
-  "full_name": "openJiuwen-ai/jiuwenswarm",
-  "updated": "2026-05-27T03:32:36Z",
-  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
-  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
+  "name": "lobu",
+  "full_name": "lobu-ai/lobu",
+  "updated": "2026-05-28T02:53:17Z",
+  "desc": "Autonomous agents in your organization. Multi-tenant OpenClaw",
+  "url": "https://github.com/lobu-ai/lobu"
 }
 {
-  "name": "e2a",
-  "full_name": "Mnexa-AI/e2a",
-  "updated": "2026-05-27T03:31:39Z",
-  "desc": "Authenticated email gateway for AI agents — SPF/DKIM verified inbound, HMAC-signed delivery, webhook + WebSocket fan-out, CLI + SDKs",
-  "url": "https://github.com/Mnexa-AI/e2a"
+  "name": "CowAgent",
+  "full_name": "zhayujie/CowAgent",
+  "updated": "2026-05-28T02:51:50Z",
+  "desc": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install (formerly chatgpt-on-wechat).",
+  "url": "https://github.com/zhayujie/CowAgent"
+}
+{
+  "name": "SciAgent-Skills",
+  "full_name": "jaechang-hits/SciAgent-Skills",
+  "updated": "2026-05-28T02:51:35Z",
+  "desc": "197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.0% accuracy. RNA-seq, single-cell, drug discovery, proteomics, and more. Powers OmicsHorizon.",
+  "url": "https://github.com/jaechang-hits/SciAgent-Skills"
+}
+{
+  "name": "IAGA-Sentinel",
+  "full_name": "EdoardoBambini/IAGA-Sentinel",
+  "updated": "2026-05-28T02:51:21Z",
+  "desc": "AI agents are getting tool access — shell, file system, databases, APIs, secrets. But **nobody is governing what they actually do with it**.  Frameworks like LangChain, CrewAI, AutoGen, and Claude Code give agents the power to execute. Agent Armor gives you the power to control, audit, and approve every single action before it happens.",
+  "url": "https://github.com/EdoardoBambini/IAGA-Sentinel"
+}
+{
+  "name": "materialize",
+  "full_name": "MaterializeInc/materialize",
+  "updated": "2026-05-28T02:51:21Z",
+  "desc": "The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL",
+  "url": "https://github.com/MaterializeInc/materialize"
+}
+{
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-05-28T02:54:14Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
+}
+{
+  "name": "notebooklm-py",
+  "full_name": "teng-lin/notebooklm-py",
+  "updated": "2026-05-28T02:50:53Z",
+  "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+  "url": "https://github.com/teng-lin/notebooklm-py"
+}
+{
+  "name": "openclacky",
+  "full_name": "clacky-ai/openclacky",
+  "updated": "2026-05-28T02:51:07Z",
+  "desc": "The most Token-efficient open-source AI Agent",
+  "url": "https://github.com/clacky-ai/openclacky"
 }
