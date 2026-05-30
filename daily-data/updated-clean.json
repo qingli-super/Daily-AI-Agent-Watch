@@ -1,70 +1,70 @@
 {
-  "name": "LobsterAI",
-  "full_name": "netease-youdao/LobsterAI",
-  "updated": "2026-05-29T03:26:19Z",
-  "desc": "Your 24/7 all-scenario AI agent that gets work done for you.",
-  "url": "https://github.com/netease-youdao/LobsterAI"
+  "name": "openchrome",
+  "full_name": "shaun0927/openchrome",
+  "updated": "2026-05-30T02:53:16Z",
+  "desc": "Open-source browser automation MCP server. Control your real Chrome from any AI agent.",
+  "url": "https://github.com/shaun0927/openchrome"
 }
 {
-  "name": "Equibles",
-  "full_name": "daniel3303/Equibles",
-  "updated": "2026-05-29T03:23:42Z",
-  "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
-  "url": "https://github.com/daniel3303/Equibles"
+  "name": "reflexio",
+  "full_name": "ReflexioAI/reflexio",
+  "updated": "2026-05-30T02:51:54Z",
+  "desc": "Make your agents improve themselves. Reflexio is an AI agent self-improvement harness that enables your AI agents to continuously learn from real user interactions. ",
+  "url": "https://github.com/ReflexioAI/reflexio"
 }
 {
-  "name": "cli",
-  "full_name": "larksuite/cli",
-  "updated": "2026-05-29T03:23:55Z",
-  "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
-  "url": "https://github.com/larksuite/cli"
+  "name": "opencrabs",
+  "full_name": "adolfousier/opencrabs",
+  "updated": "2026-05-30T02:50:18Z",
+  "desc": "The self-improving all channels AI agent. Self-healing. Fully autonomous. Single Rust binary.",
+  "url": "https://github.com/adolfousier/opencrabs"
 }
 {
-  "name": "AutoLinker",
-  "full_name": "aiqinxuancai/AutoLinker",
-  "updated": "2026-05-29T03:23:18Z",
-  "desc": "AutoLinker支持库，支持不同源文件使用不同的Linker，调试编译时动态与静态ec自动切换，易语言AI Agent。",
-  "url": "https://github.com/aiqinxuancai/AutoLinker"
+  "name": "mcp-gateway-registry",
+  "full_name": "agentic-community/mcp-gateway-registry",
+  "updated": "2026-05-30T02:50:01Z",
+  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
+  "url": "https://github.com/agentic-community/mcp-gateway-registry"
 }
 {
   "name": "gascity",
   "full_name": "gastownhall/gascity",
-  "updated": "2026-05-29T03:23:12Z",
+  "updated": "2026-05-30T02:48:37Z",
   "desc": "Orchestration-builder SDK for multi-agent coding workflows",
   "url": "https://github.com/gastownhall/gascity"
 }
 {
-  "name": "loong",
-  "full_name": "eastreams/loong",
-  "updated": "2026-05-29T03:22:17Z",
-  "desc": "Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉",
-  "url": "https://github.com/eastreams/loong"
+  "name": "scarf",
+  "full_name": "awizemann/scarf",
+  "updated": "2026-05-30T02:44:35Z",
+  "desc": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
+  "url": "https://github.com/awizemann/scarf"
 }
 {
-  "name": "onchainos-skills",
-  "full_name": "okx/onchainos-skills",
-  "updated": "2026-05-29T03:21:58Z",
-  "desc": "Skills for AI agents to integrate with the OKX OnchainOS API — Wallet, token discovery, market data, DEX swap, and transaction broadcasting.",
-  "url": "https://github.com/okx/onchainos-skills"
+  "name": "Zoo-Code",
+  "full_name": "Zoo-Code-Org/Zoo-Code",
+  "updated": "2026-05-30T02:44:05Z",
+  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
+  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
 }
 {
-  "name": "agents",
-  "full_name": "livekit/agents",
-  "updated": "2026-05-29T03:21:38Z",
-  "desc": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
-  "url": "https://github.com/livekit/agents"
+  "name": "Equibles",
+  "full_name": "daniel3303/Equibles",
+  "updated": "2026-05-30T02:43:15Z",
+  "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
+  "url": "https://github.com/daniel3303/Equibles"
 }
 {
-  "name": "cli-jaw",
-  "full_name": "lidge-jun/cli-jaw",
-  "updated": "2026-05-29T03:20:52Z",
-  "desc": "🦈 2-line install personal AI assistant. 11 AI runtime surfaces (Claude, Codex, Cursor, Gemini, Grok, Antigravity, OpenCode, Copilot), 200+ skills, zero ban risk.",
-  "url": "https://github.com/lidge-jun/cli-jaw"
+  "name": "agent-governance-toolkit",
+  "full_name": "microsoft/agent-governance-toolkit",
+  "updated": "2026-05-30T02:42:35Z",
+  "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+  "url": "https://github.com/microsoft/agent-governance-toolkit"
 }
 {
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-05-29T03:25:54Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
+  "name": "skills",
+  "full_name": "NVIDIA/skills",
+  "updated": "2026-05-30T02:53:04Z",
+  "desc": "AI agent skills published by NVIDIA",
+  "url": "https://github.com/NVIDIA/skills"
 }

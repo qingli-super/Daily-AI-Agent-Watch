@@ -1,70 +1,70 @@
 {
   "name": "awesome-llm-apps",
   "full_name": "Shubhamsaboo/awesome-llm-apps",
-  "stars": 112058,
+  "stars": 112168,
   "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
   "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
 }
 {
   "name": "gemini-cli",
   "full_name": "google-gemini/gemini-cli",
-  "stars": 104689,
+  "stars": 104725,
   "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
   "url": "https://github.com/google-gemini/gemini-cli"
 }
 {
   "name": "browser-use",
   "full_name": "browser-use/browser-use",
-  "stars": 96087,
+  "stars": 96211,
   "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
   "url": "https://github.com/browser-use/browser-use"
 }
 {
   "name": "autoresearch",
   "full_name": "karpathy/autoresearch",
-  "stars": 83970,
+  "stars": 84093,
   "desc": "AI agents running research on single-GPU nanochat training automatically",
   "url": "https://github.com/karpathy/autoresearch"
 }
 {
   "name": "TradingAgents",
   "full_name": "TauricResearch/TradingAgents",
-  "stars": 80483,
+  "stars": 80705,
   "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
   "url": "https://github.com/TauricResearch/TradingAgents"
 }
 {
   "name": "Prompt-Engineering-Guide",
   "full_name": "dair-ai/Prompt-Engineering-Guide",
-  "stars": 75046,
+  "stars": 75067,
   "desc": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
   "url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
 }
 {
+  "name": "Front-End-Checklist",
+  "full_name": "thedaviddias/Front-End-Checklist",
+  "stars": 72748,
+  "desc": "🗂 The essential checklist for modern web development, for humans and AI agents",
+  "url": "https://github.com/thedaviddias/Front-End-Checklist"
+}
+{
   "name": "deer-flow",
   "full_name": "bytedance/deer-flow",
-  "stars": 69896,
+  "stars": 69965,
   "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
   "url": "https://github.com/bytedance/deer-flow"
 }
 {
   "name": "MetaGPT",
   "full_name": "FoundationAgents/MetaGPT",
-  "stars": 68375,
+  "stars": 68398,
   "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
   "url": "https://github.com/FoundationAgents/MetaGPT"
 }
 {
   "name": "OpenBB",
   "full_name": "OpenBB-finance/OpenBB",
-  "stars": 68217,
+  "stars": 68247,
   "desc": "Financial data platform for analysts, quants and AI agents.",
   "url": "https://github.com/OpenBB-finance/OpenBB"
-}
-{
-  "name": "ai-agents-for-beginners",
-  "full_name": "microsoft/ai-agents-for-beginners",
-  "stars": 65887,
-  "desc": "12 Lessons to Get Started Building AI Agents",
-  "url": "https://github.com/microsoft/ai-agents-for-beginners"
 }
