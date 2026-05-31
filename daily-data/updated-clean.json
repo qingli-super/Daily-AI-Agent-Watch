@@ -1,70 +1,70 @@
 {
-  "name": "openchrome",
-  "full_name": "shaun0927/openchrome",
-  "updated": "2026-05-30T02:53:16Z",
-  "desc": "Open-source browser automation MCP server. Control your real Chrome from any AI agent.",
-  "url": "https://github.com/shaun0927/openchrome"
-}
-{
-  "name": "reflexio",
-  "full_name": "ReflexioAI/reflexio",
-  "updated": "2026-05-30T02:51:54Z",
-  "desc": "Make your agents improve themselves. Reflexio is an AI agent self-improvement harness that enables your AI agents to continuously learn from real user interactions. ",
-  "url": "https://github.com/ReflexioAI/reflexio"
-}
-{
-  "name": "opencrabs",
-  "full_name": "adolfousier/opencrabs",
-  "updated": "2026-05-30T02:50:18Z",
-  "desc": "The self-improving all channels AI agent. Self-healing. Fully autonomous. Single Rust binary.",
-  "url": "https://github.com/adolfousier/opencrabs"
-}
-{
-  "name": "mcp-gateway-registry",
-  "full_name": "agentic-community/mcp-gateway-registry",
-  "updated": "2026-05-30T02:50:01Z",
-  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
-  "url": "https://github.com/agentic-community/mcp-gateway-registry"
-}
-{
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-05-30T02:48:37Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
-}
-{
-  "name": "scarf",
-  "full_name": "awizemann/scarf",
-  "updated": "2026-05-30T02:44:35Z",
-  "desc": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
-  "url": "https://github.com/awizemann/scarf"
-}
-{
-  "name": "Zoo-Code",
-  "full_name": "Zoo-Code-Org/Zoo-Code",
-  "updated": "2026-05-30T02:44:05Z",
-  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
-  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
+  "name": "oh-my-coder",
+  "full_name": "VOBC/oh-my-coder",
+  "updated": "2026-05-31T03:37:04Z",
+  "desc": "Multi-Agent AI Coding Assistant - 支持 DeepSeek / GLM / MiMo 等 12+ 国产大模型，多智能体协作编程",
+  "url": "https://github.com/VOBC/oh-my-coder"
 }
 {
   "name": "Equibles",
   "full_name": "daniel3303/Equibles",
-  "updated": "2026-05-30T02:43:15Z",
+  "updated": "2026-05-31T03:35:47Z",
   "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
   "url": "https://github.com/daniel3303/Equibles"
 }
 {
-  "name": "agent-governance-toolkit",
-  "full_name": "microsoft/agent-governance-toolkit",
-  "updated": "2026-05-30T02:42:35Z",
-  "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-  "url": "https://github.com/microsoft/agent-governance-toolkit"
+  "name": "sutando",
+  "full_name": "sonichi/sutando",
+  "updated": "2026-05-31T03:35:12Z",
+  "desc": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+  "url": "https://github.com/sonichi/sutando"
 }
 {
-  "name": "skills",
-  "full_name": "NVIDIA/skills",
-  "updated": "2026-05-30T02:53:04Z",
-  "desc": "AI agent skills published by NVIDIA",
-  "url": "https://github.com/NVIDIA/skills"
+  "name": "tarocub",
+  "full_name": "cloveric/tarocub",
+  "updated": "2026-05-31T03:33:49Z",
+  "desc": "TaroCub runs Codex, Claude Code, and Antigravity locally, then lets you control them from Telegram and Feishu/Lark.",
+  "url": "https://github.com/cloveric/tarocub"
+}
+{
+  "name": "opendraft",
+  "full_name": "federicodeponte/opendraft",
+  "updated": "2026-05-31T03:32:46Z",
+  "desc": "Open-source AI thesis writer with 19 specialized agents. Generate 20k+ word research drafts in 10 minutes. FREE (Gemini). Verified citations from 500M+ papers. Export PDF/Word/LaTeX. MIT licensed. Hosted version at openpaper.dev",
+  "url": "https://github.com/federicodeponte/opendraft"
+}
+{
+  "name": "spring-ai-alibaba",
+  "full_name": "alibaba/spring-ai-alibaba",
+  "updated": "2026-05-31T03:32:13Z",
+  "desc": "Agentic AI Framework for Java Developers",
+  "url": "https://github.com/alibaba/spring-ai-alibaba"
+}
+{
+  "name": "cua",
+  "full_name": "trycua/cua",
+  "updated": "2026-05-31T03:37:47Z",
+  "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+  "url": "https://github.com/trycua/cua"
+}
+{
+  "name": "asc-cli",
+  "full_name": "tddworks/asc-cli",
+  "updated": "2026-05-31T03:30:53Z",
+  "desc": "App Store Connect from your terminal & Agents. A Swift CLI for managing your iOS and macOS apps on App Store Connect. Submit versions, manage screenshots, track builds — with full AI-agent support via CAEOAS affordances.",
+  "url": "https://github.com/tddworks/asc-cli"
+}
+{
+  "name": "moai-adk",
+  "full_name": "modu-ai/moai-adk",
+  "updated": "2026-05-31T03:30:17Z",
+  "desc": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+  "url": "https://github.com/modu-ai/moai-adk"
+}
+{
+  "name": "sim",
+  "full_name": "simstudioai/sim",
+  "updated": "2026-05-31T03:35:38Z",
+  "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+  "url": "https://github.com/simstudioai/sim"
 }
