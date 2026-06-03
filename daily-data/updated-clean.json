@@ -1,70 +1,70 @@
 {
-  "name": "anything-analyzer",
-  "full_name": "Mouseww/anything-analyzer",
-  "updated": "2026-06-02T03:46:21Z",
-  "desc": "全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
-  "url": "https://github.com/Mouseww/anything-analyzer"
+  "name": "yomo",
+  "full_name": "yomorun/yomo",
+  "updated": "2026-06-03T03:55:05Z",
+  "desc": "🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
+  "url": "https://github.com/yomorun/yomo"
 }
 {
-  "name": "DashClaw",
-  "full_name": "ucsandman/DashClaw",
-  "updated": "2026-06-02T03:44:00Z",
-  "desc": "🛡️Decision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.",
-  "url": "https://github.com/ucsandman/DashClaw"
+  "name": "gemini-cli",
+  "full_name": "google-gemini/gemini-cli",
+  "updated": "2026-06-03T03:55:21Z",
+  "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+  "url": "https://github.com/google-gemini/gemini-cli"
 }
 {
-  "name": "tinybot",
-  "full_name": "SudoJacky/tinybot",
-  "updated": "2026-06-02T03:43:59Z",
-  "desc": "Tinybot is a lightweight personal AI Agent that is constantly evolving",
-  "url": "https://github.com/SudoJacky/tinybot"
+  "name": "OpenViking",
+  "full_name": "volcengine/OpenViking",
+  "updated": "2026-06-03T03:53:53Z",
+  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+  "url": "https://github.com/volcengine/OpenViking"
 }
 {
-  "name": "Equibles",
-  "full_name": "daniel3303/Equibles",
-  "updated": "2026-06-02T03:43:11Z",
-  "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
-  "url": "https://github.com/daniel3303/Equibles"
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-06-03T03:52:20Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
-  "name": "solace-agent-mesh",
-  "full_name": "SolaceLabs/solace-agent-mesh",
-  "updated": "2026-06-02T03:41:32Z",
-  "desc": "An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-step workflows.",
-  "url": "https://github.com/SolaceLabs/solace-agent-mesh"
+  "name": "cli",
+  "full_name": "larksuite/cli",
+  "updated": "2026-06-03T03:51:55Z",
+  "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
+  "url": "https://github.com/larksuite/cli"
 }
 {
-  "name": "cua",
-  "full_name": "trycua/cua",
-  "updated": "2026-06-02T03:43:29Z",
-  "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-  "url": "https://github.com/trycua/cua"
+  "name": "webjs",
+  "full_name": "webjsdev/webjs",
+  "updated": "2026-06-03T03:49:27Z",
+  "desc": "The web framework built for AI agents",
+  "url": "https://github.com/webjsdev/webjs"
 }
 {
-  "name": "LatentMAS",
-  "full_name": "Gen-Verse/LatentMAS",
-  "updated": "2026-06-02T03:40:37Z",
-  "desc": "[ICML 2026 Spotlight] Latent Collaboration in Multi-Agent Systems",
-  "url": "https://github.com/Gen-Verse/LatentMAS"
+  "name": "AgentCrew",
+  "full_name": "saigontechnology/AgentCrew",
+  "updated": "2026-06-03T03:49:09Z",
+  "desc": "Chat application with multi-agents system supports multi-models and MCP",
+  "url": "https://github.com/saigontechnology/AgentCrew"
 }
 {
-  "name": "obsidian-agent-client",
-  "full_name": "RAIT-09/obsidian-agent-client",
-  "updated": "2026-06-02T03:40:45Z",
-  "desc": "Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.",
-  "url": "https://github.com/RAIT-09/obsidian-agent-client"
-}
-{
-  "name": "oh-my-design",
-  "full_name": "kwakseongjae/oh-my-design",
-  "updated": "2026-06-02T03:35:49Z",
-  "desc": "Generate DESIGN.md from 100+ real company design systems — brand tokens, components, philosophy. Drop into Claude Code or any AI agent.",
-  "url": "https://github.com/kwakseongjae/oh-my-design"
+  "name": "airbyte-agent-sdk",
+  "full_name": "airbytehq/airbyte-agent-sdk",
+  "updated": "2026-06-03T03:46:02Z",
+  "desc": "🐙 Drop-in tools that give AI agents reliable, permission-aware access to external systems.",
+  "url": "https://github.com/airbytehq/airbyte-agent-sdk"
 }
 {
   "name": "CubeSandbox",
   "full_name": "TencentCloud/CubeSandbox",
-  "updated": "2026-06-02T03:34:17Z",
+  "updated": "2026-06-03T03:45:21Z",
   "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
   "url": "https://github.com/TencentCloud/CubeSandbox"
+}
+{
+  "name": "sonarqube-cli",
+  "full_name": "SonarSource/sonarqube-cli",
+  "updated": "2026-06-02T16:30:52Z",
+  "desc": "Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality and security from your terminal.",
+  "url": "https://github.com/SonarSource/sonarqube-cli"
 }
