@@ -1,70 +1,70 @@
 {
-  "name": "oh-my-agent",
-  "full_name": "first-fluke/oh-my-agent",
-  "updated": "2026-06-04T03:48:21Z",
-  "desc": "Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams aligned with your codebase, conventions, and engineering standards.",
-  "url": "https://github.com/first-fluke/oh-my-agent"
+  "name": "cli-printing-press",
+  "full_name": "mvanhorn/cli-printing-press",
+  "updated": "2026-06-05T03:35:37Z",
+  "desc": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+  "url": "https://github.com/mvanhorn/cli-printing-press"
 }
 {
-  "name": "agentgateway",
-  "full_name": "agentgateway/agentgateway",
-  "updated": "2026-06-04T03:47:34Z",
-  "desc": "Next Generation Agentic Proxy for AI Agents and MCP servers",
-  "url": "https://github.com/agentgateway/agentgateway"
+  "name": "llm-agents-from-scratch",
+  "full_name": "nerdai/llm-agents-from-scratch",
+  "updated": "2026-06-05T03:35:17Z",
+  "desc": "Build LLM agents and multi-agent systems from scratch, with MCP, Skills, and A2A",
+  "url": "https://github.com/nerdai/llm-agents-from-scratch"
 }
 {
-  "name": "CloudBase-MCP",
-  "full_name": "TencentCloudBase/CloudBase-MCP",
-  "updated": "2026-06-04T03:46:44Z",
-  "desc": "   CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. ",
-  "url": "https://github.com/TencentCloudBase/CloudBase-MCP"
+  "name": "thClaws",
+  "full_name": "thClaws/thClaws",
+  "updated": "2026-06-05T03:34:41Z",
+  "desc": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
+  "url": "https://github.com/thClaws/thClaws"
 }
 {
-  "name": "gaia",
-  "full_name": "amd/gaia",
-  "updated": "2026-06-04T03:45:52Z",
-  "desc": "Build AI agents for your PC",
-  "url": "https://github.com/amd/gaia"
+  "name": "caracal",
+  "full_name": "Garudex-Labs/caracal",
+  "updated": "2026-06-05T03:34:17Z",
+  "desc": "🐾 Caracal is a security-first AI authority, delegation, and identity system for autonomous agents.",
+  "url": "https://github.com/Garudex-Labs/caracal"
 }
 {
-  "name": "tinybot",
-  "full_name": "SudoJacky/tinybot",
-  "updated": "2026-06-04T03:45:24Z",
-  "desc": "Tinybot is a lightweight personal AI Agent that is constantly evolving",
-  "url": "https://github.com/SudoJacky/tinybot"
+  "name": "superset",
+  "full_name": "superset-sh/superset",
+  "updated": "2026-06-05T03:33:58Z",
+  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+  "url": "https://github.com/superset-sh/superset"
 }
 {
-  "name": "Equibles",
-  "full_name": "daniel3303/Equibles",
-  "updated": "2026-06-04T03:44:28Z",
-  "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
-  "url": "https://github.com/daniel3303/Equibles"
+  "name": "forkd",
+  "full_name": "deeplethe/forkd",
+  "updated": "2026-06-05T03:33:22Z",
+  "desc": "Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KVM-isolated, snapshot CoW.",
+  "url": "https://github.com/deeplethe/forkd"
 }
 {
-  "name": "anda",
-  "full_name": "ldclabs/anda",
-  "updated": "2026-06-04T03:44:46Z",
-  "desc": "🤖 An AI agent framework built with Rust.",
-  "url": "https://github.com/ldclabs/anda"
+  "name": "opencode-manager",
+  "full_name": "chriswritescode-dev/opencode-manager",
+  "updated": "2026-06-05T03:31:52Z",
+  "desc": "Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, and real-time chat in a responsive PWA. Deploy with Docker for instant setup.",
+  "url": "https://github.com/chriswritescode-dev/opencode-manager"
 }
 {
-  "name": "TencentDB-Agent-Memory",
-  "full_name": "TencentCloud/TencentDB-Agent-Memory",
-  "updated": "2026-06-04T03:44:47Z",
-  "desc": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-  "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  "name": "OpenViking",
+  "full_name": "volcengine/OpenViking",
+  "updated": "2026-06-05T03:34:03Z",
+  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+  "url": "https://github.com/volcengine/OpenViking"
 }
 {
-  "name": "boss-agent-cli",
-  "full_name": "can4hou6joeng4/boss-agent-cli",
-  "updated": "2026-06-04T03:42:59Z",
-  "desc": "AI-agent-first CLI for BOSS 直聘 — 职位搜索、福利筛选、招聘者工作流、MCP 工具与 AI 简历优化",
-  "url": "https://github.com/can4hou6joeng4/boss-agent-cli"
+  "name": "skill-based-architecture",
+  "full_name": "WoJiSama/skill-based-architecture",
+  "updated": "2026-06-05T03:31:53Z",
+  "desc": "A meta-skill that produces skills. Point it at any codebase and it distills the project's rules, workflows, and hard-won lessons into a dedicated skills/<name>/ directory — a project skill that becomes the single source of truth every AI agent (Cursor, Claude Code, Codex, Windsurf, Gemini) consults before every task.",
+  "url": "https://github.com/WoJiSama/skill-based-architecture"
 }
 {
-  "name": "hcom",
-  "full_name": "aannoo/hcom",
-  "updated": "2026-06-04T03:42:06Z",
-  "desc": "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo",
-  "url": "https://github.com/aannoo/hcom"
+  "name": "vibe-investing",
+  "full_name": "gameworkerkim/vibe-investing",
+  "updated": "2026-06-05T03:31:39Z",
+  "desc": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇.",
+  "url": "https://github.com/gameworkerkim/vibe-investing"
 }
