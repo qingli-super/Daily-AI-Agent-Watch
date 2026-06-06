@@ -1,70 +1,70 @@
 {
-  "name": "cli-printing-press",
-  "full_name": "mvanhorn/cli-printing-press",
-  "updated": "2026-06-05T03:35:37Z",
-  "desc": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
-  "url": "https://github.com/mvanhorn/cli-printing-press"
+  "name": "agentic_coding_flywheel_setup",
+  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
+  "updated": "2026-06-06T02:56:47Z",
+  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
+  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
 }
 {
-  "name": "llm-agents-from-scratch",
-  "full_name": "nerdai/llm-agents-from-scratch",
-  "updated": "2026-06-05T03:35:17Z",
-  "desc": "Build LLM agents and multi-agent systems from scratch, with MCP, Skills, and A2A",
-  "url": "https://github.com/nerdai/llm-agents-from-scratch"
+  "name": "astrid",
+  "full_name": "unicity-astrid/astrid",
+  "updated": "2026-06-06T02:56:01Z",
+  "desc": "An operating system for AI agents.",
+  "url": "https://github.com/unicity-astrid/astrid"
 }
 {
-  "name": "thClaws",
-  "full_name": "thClaws/thClaws",
-  "updated": "2026-06-05T03:34:41Z",
-  "desc": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
-  "url": "https://github.com/thClaws/thClaws"
+  "name": "osaurus",
+  "full_name": "osaurus-ai/osaurus",
+  "updated": "2026-06-06T02:55:17Z",
+  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+  "url": "https://github.com/osaurus-ai/osaurus"
 }
 {
-  "name": "caracal",
-  "full_name": "Garudex-Labs/caracal",
-  "updated": "2026-06-05T03:34:17Z",
-  "desc": "🐾 Caracal is a security-first AI authority, delegation, and identity system for autonomous agents.",
-  "url": "https://github.com/Garudex-Labs/caracal"
+  "name": "augur",
+  "full_name": "BruceLanLan/augur",
+  "updated": "2026-06-06T02:53:51Z",
+  "desc": "🦉 Augur — 多智能体投资分析系统。13位虚拟投资大师独立分析，加权共识机制，Bloomberg风格Web仪表盘。",
+  "url": "https://github.com/BruceLanLan/augur"
 }
 {
-  "name": "superset",
-  "full_name": "superset-sh/superset",
-  "updated": "2026-06-05T03:33:58Z",
-  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-  "url": "https://github.com/superset-sh/superset"
+  "name": "ArcReel",
+  "full_name": "ArcReel/ArcReel",
+  "updated": "2026-06-06T02:51:56Z",
+  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+  "url": "https://github.com/ArcReel/ArcReel"
 }
 {
-  "name": "forkd",
-  "full_name": "deeplethe/forkd",
-  "updated": "2026-06-05T03:33:22Z",
-  "desc": "Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KVM-isolated, snapshot CoW.",
-  "url": "https://github.com/deeplethe/forkd"
+  "name": "MIRIX",
+  "full_name": "Mirix-AI/MIRIX",
+  "updated": "2026-06-06T02:48:32Z",
+  "desc": "Mirix is a multi-agent personal assistant designed to track on-screen activities and answer user questions intelligently. By capturing real-time visual data and consolidating it into structured memories, Mirix transforms raw inputs into a rich knowledge base that adapts to your digital experiences.",
+  "url": "https://github.com/Mirix-AI/MIRIX"
 }
 {
-  "name": "opencode-manager",
-  "full_name": "chriswritescode-dev/opencode-manager",
-  "updated": "2026-06-05T03:31:52Z",
-  "desc": "Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, and real-time chat in a responsive PWA. Deploy with Docker for instant setup.",
-  "url": "https://github.com/chriswritescode-dev/opencode-manager"
+  "name": "Aegis",
+  "full_name": "antropos17/Aegis",
+  "updated": "2026-06-06T02:44:30Z",
+  "desc": "Open-source EDR for AI agents. Monitor processes, files, network, and behavior of autonomous AI agents.",
+  "url": "https://github.com/antropos17/Aegis"
 }
 {
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-06-05T03:34:03Z",
-  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-  "url": "https://github.com/volcengine/OpenViking"
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-06-06T02:44:29Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
 }
 {
-  "name": "skill-based-architecture",
-  "full_name": "WoJiSama/skill-based-architecture",
-  "updated": "2026-06-05T03:31:53Z",
-  "desc": "A meta-skill that produces skills. Point it at any codebase and it distills the project's rules, workflows, and hard-won lessons into a dedicated skills/<name>/ directory — a project skill that becomes the single source of truth every AI agent (Cursor, Claude Code, Codex, Windsurf, Gemini) consults before every task.",
-  "url": "https://github.com/WoJiSama/skill-based-architecture"
+  "name": "predikit",
+  "full_name": "Tejas-TA/predikit",
+  "updated": "2026-06-06T02:53:30Z",
+  "desc": "The missing bridge between your ML models and your AI agents.",
+  "url": "https://github.com/Tejas-TA/predikit"
 }
 {
-  "name": "vibe-investing",
-  "full_name": "gameworkerkim/vibe-investing",
-  "updated": "2026-06-05T03:31:39Z",
-  "desc": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇.",
-  "url": "https://github.com/gameworkerkim/vibe-investing"
+  "name": "Awesome-LLM-Ensemble",
+  "full_name": "junchenzhi/Awesome-LLM-Ensemble",
+  "updated": "2026-06-06T02:43:12Z",
+  "desc": " A curated list of Awesome-LLM-Ensemble papers for the survey \"Harnessing Multiple Large Language Models: A Survey on LLM Ensemble\"",
+  "url": "https://github.com/junchenzhi/Awesome-LLM-Ensemble"
 }
