@@ -1,70 +1,70 @@
 {
-  "name": "agentic_coding_flywheel_setup",
-  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
-  "updated": "2026-06-06T02:56:47Z",
-  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
-  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+  "name": "cli-printing-press",
+  "full_name": "mvanhorn/cli-printing-press",
+  "updated": "2026-06-07T03:39:08Z",
+  "desc": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+  "url": "https://github.com/mvanhorn/cli-printing-press"
 }
 {
-  "name": "astrid",
-  "full_name": "unicity-astrid/astrid",
-  "updated": "2026-06-06T02:56:01Z",
-  "desc": "An operating system for AI agents.",
-  "url": "https://github.com/unicity-astrid/astrid"
+  "name": "dimos",
+  "full_name": "dimensionalOS/dimos",
+  "updated": "2026-06-07T03:39:07Z",
+  "desc": "Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
+  "url": "https://github.com/dimensionalOS/dimos"
 }
 {
-  "name": "osaurus",
-  "full_name": "osaurus-ai/osaurus",
-  "updated": "2026-06-06T02:55:17Z",
-  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
-  "url": "https://github.com/osaurus-ai/osaurus"
+  "name": "caracal",
+  "full_name": "Garudex-Labs/caracal",
+  "updated": "2026-06-07T03:36:00Z",
+  "desc": "🐾 Caracal is a security-first AI authority, delegation, and identity system for autonomous agents.",
+  "url": "https://github.com/Garudex-Labs/caracal"
 }
 {
-  "name": "augur",
-  "full_name": "BruceLanLan/augur",
-  "updated": "2026-06-06T02:53:51Z",
-  "desc": "🦉 Augur — 多智能体投资分析系统。13位虚拟投资大师独立分析，加权共识机制，Bloomberg风格Web仪表盘。",
-  "url": "https://github.com/BruceLanLan/augur"
+  "name": "DeepSeek-GUI",
+  "full_name": "XingYu-Zhong/DeepSeek-GUI",
+  "updated": "2026-06-07T03:42:56Z",
+  "desc": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
+  "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI"
 }
 {
-  "name": "ArcReel",
-  "full_name": "ArcReel/ArcReel",
-  "updated": "2026-06-06T02:51:56Z",
-  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-  "url": "https://github.com/ArcReel/ArcReel"
+  "name": "clawdcursor",
+  "full_name": "AmrDab/clawdcursor",
+  "updated": "2026-06-07T03:33:52Z",
+  "desc": "MCP-powered fallback layer that lets AI agents execute tasks through the GUI when APIs, tools, or direct integrations are unavailable. Cross-OS, accessibility-first, local-only.",
+  "url": "https://github.com/AmrDab/clawdcursor"
 }
 {
-  "name": "MIRIX",
-  "full_name": "Mirix-AI/MIRIX",
-  "updated": "2026-06-06T02:48:32Z",
-  "desc": "Mirix is a multi-agent personal assistant designed to track on-screen activities and answer user questions intelligently. By capturing real-time visual data and consolidating it into structured memories, Mirix transforms raw inputs into a rich knowledge base that adapts to your digital experiences.",
-  "url": "https://github.com/Mirix-AI/MIRIX"
+  "name": "Peekaboo",
+  "full_name": "openclaw/Peekaboo",
+  "updated": "2026-06-07T03:32:41Z",
+  "desc": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
+  "url": "https://github.com/openclaw/Peekaboo"
 }
 {
-  "name": "Aegis",
-  "full_name": "antropos17/Aegis",
-  "updated": "2026-06-06T02:44:30Z",
-  "desc": "Open-source EDR for AI agents. Monitor processes, files, network, and behavior of autonomous AI agents.",
-  "url": "https://github.com/antropos17/Aegis"
+  "name": "claude-mpm",
+  "full_name": "bobmatnyc/claude-mpm",
+  "updated": "2026-06-07T03:31:04Z",
+  "desc": "Claude Multi-Agent Project Manager — multi-channel orchestration, GitHub-first SDK mode, and plugin system for Claude",
+  "url": "https://github.com/bobmatnyc/claude-mpm"
 }
 {
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-06-06T02:44:29Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
+  "name": "ProxmoxMCP-Plus",
+  "full_name": "RekklesNA/ProxmoxMCP-Plus",
+  "updated": "2026-06-07T03:28:00Z",
+  "desc": "Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.",
+  "url": "https://github.com/RekklesNA/ProxmoxMCP-Plus"
 }
 {
-  "name": "predikit",
-  "full_name": "Tejas-TA/predikit",
-  "updated": "2026-06-06T02:53:30Z",
-  "desc": "The missing bridge between your ML models and your AI agents.",
-  "url": "https://github.com/Tejas-TA/predikit"
+  "name": "deer-flow",
+  "full_name": "bytedance/deer-flow",
+  "updated": "2026-06-07T03:27:28Z",
+  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+  "url": "https://github.com/bytedance/deer-flow"
 }
 {
-  "name": "Awesome-LLM-Ensemble",
-  "full_name": "junchenzhi/Awesome-LLM-Ensemble",
-  "updated": "2026-06-06T02:43:12Z",
-  "desc": " A curated list of Awesome-LLM-Ensemble papers for the survey \"Harnessing Multiple Large Language Models: A Survey on LLM Ensemble\"",
-  "url": "https://github.com/junchenzhi/Awesome-LLM-Ensemble"
+  "name": "gptme",
+  "full_name": "gptme/gptme",
+  "updated": "2026-06-07T03:23:34Z",
+  "desc": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
+  "url": "https://github.com/gptme/gptme"
 }
