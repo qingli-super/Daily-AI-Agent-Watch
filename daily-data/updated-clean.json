@@ -1,70 +1,70 @@
 {
-  "name": "cli-printing-press",
-  "full_name": "mvanhorn/cli-printing-press",
-  "updated": "2026-06-07T03:39:08Z",
-  "desc": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
-  "url": "https://github.com/mvanhorn/cli-printing-press"
+  "name": "harmonist",
+  "full_name": "GammaLabTechnologies/harmonist",
+  "updated": "2026-06-08T03:48:53Z",
+  "desc": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+  "url": "https://github.com/GammaLabTechnologies/harmonist"
 }
 {
-  "name": "dimos",
-  "full_name": "dimensionalOS/dimos",
-  "updated": "2026-06-07T03:39:07Z",
-  "desc": "Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
-  "url": "https://github.com/dimensionalOS/dimos"
+  "name": "OpenViking",
+  "full_name": "volcengine/OpenViking",
+  "updated": "2026-06-08T03:46:28Z",
+  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+  "url": "https://github.com/volcengine/OpenViking"
 }
 {
-  "name": "caracal",
-  "full_name": "Garudex-Labs/caracal",
-  "updated": "2026-06-07T03:36:00Z",
-  "desc": "🐾 Caracal is a security-first AI authority, delegation, and identity system for autonomous agents.",
-  "url": "https://github.com/Garudex-Labs/caracal"
+  "name": "executor",
+  "full_name": "RhysSullivan/executor",
+  "updated": "2026-06-08T03:45:48Z",
+  "desc": "The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.",
+  "url": "https://github.com/RhysSullivan/executor"
 }
 {
-  "name": "DeepSeek-GUI",
-  "full_name": "XingYu-Zhong/DeepSeek-GUI",
-  "updated": "2026-06-07T03:42:56Z",
-  "desc": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
-  "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI"
+  "name": "memex",
+  "full_name": "memex-lab/memex",
+  "updated": "2026-06-08T03:47:56Z",
+  "desc": "Open-source, local-first AI journal app for iOS and Android. Capture text, photos, and voice — AI agents organize them into timeline cards and insights. Your data stays on your device. Bring your own LLM (OpenAI, Claude, Gemini, Ollama, and more).",
+  "url": "https://github.com/memex-lab/memex"
 }
 {
-  "name": "clawdcursor",
-  "full_name": "AmrDab/clawdcursor",
-  "updated": "2026-06-07T03:33:52Z",
-  "desc": "MCP-powered fallback layer that lets AI agents execute tasks through the GUI when APIs, tools, or direct integrations are unavailable. Cross-OS, accessibility-first, local-only.",
-  "url": "https://github.com/AmrDab/clawdcursor"
+  "name": "todoist-mcp",
+  "full_name": "Doist/todoist-mcp",
+  "updated": "2026-06-08T03:43:46Z",
+  "desc": "A set of tools to connect to AI agents, to allow them to use Todoist on a user's behalf. Includes MCP support.",
+  "url": "https://github.com/Doist/todoist-mcp"
 }
 {
-  "name": "Peekaboo",
-  "full_name": "openclaw/Peekaboo",
-  "updated": "2026-06-07T03:32:41Z",
-  "desc": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
-  "url": "https://github.com/openclaw/Peekaboo"
+  "name": "clawvisor",
+  "full_name": "clawvisor/clawvisor",
+  "updated": "2026-06-08T03:43:07Z",
+  "desc": "API gateway for purpose-based authorization for AI agents. Human approval for tasks, AI-native enforcement for agents.",
+  "url": "https://github.com/clawvisor/clawvisor"
 }
 {
-  "name": "claude-mpm",
-  "full_name": "bobmatnyc/claude-mpm",
-  "updated": "2026-06-07T03:31:04Z",
-  "desc": "Claude Multi-Agent Project Manager — multi-channel orchestration, GitHub-first SDK mode, and plugin system for Claude",
-  "url": "https://github.com/bobmatnyc/claude-mpm"
+  "name": "powermem",
+  "full_name": "oceanbase/powermem",
+  "updated": "2026-06-08T03:42:24Z",
+  "desc": "PowerMem: AI Memory Plugin— Accurate, Agile, Affordable. Make AI Agent smarter.",
+  "url": "https://github.com/oceanbase/powermem"
 }
 {
-  "name": "ProxmoxMCP-Plus",
-  "full_name": "RekklesNA/ProxmoxMCP-Plus",
-  "updated": "2026-06-07T03:28:00Z",
-  "desc": "Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.",
-  "url": "https://github.com/RekklesNA/ProxmoxMCP-Plus"
+  "name": "oh-my-agent",
+  "full_name": "first-fluke/oh-my-agent",
+  "updated": "2026-06-08T03:40:57Z",
+  "desc": "Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams aligned with your codebase, conventions, and engineering standards.",
+  "url": "https://github.com/first-fluke/oh-my-agent"
 }
 {
-  "name": "deer-flow",
-  "full_name": "bytedance/deer-flow",
-  "updated": "2026-06-07T03:27:28Z",
-  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-  "url": "https://github.com/bytedance/deer-flow"
+  "name": "llm-agents-from-scratch",
+  "full_name": "nerdai/llm-agents-from-scratch",
+  "updated": "2026-06-08T03:40:42Z",
+  "desc": "Build LLM agents and multi-agent systems from scratch, with MCP, Skills, and A2A",
+  "url": "https://github.com/nerdai/llm-agents-from-scratch"
 }
 {
-  "name": "gptme",
-  "full_name": "gptme/gptme",
-  "updated": "2026-06-07T03:23:34Z",
-  "desc": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
-  "url": "https://github.com/gptme/gptme"
+  "name": "jiuwenswarm",
+  "full_name": "openJiuwen-ai/jiuwenswarm",
+  "updated": "2026-06-08T03:40:37Z",
+  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
+  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
 }
