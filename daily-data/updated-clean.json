@@ -1,70 +1,70 @@
 {
-  "name": "harmonist",
-  "full_name": "GammaLabTechnologies/harmonist",
-  "updated": "2026-06-08T03:48:53Z",
-  "desc": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-  "url": "https://github.com/GammaLabTechnologies/harmonist"
+  "name": "WrenAI",
+  "full_name": "Canner/WrenAI",
+  "updated": "2026-06-09T02:55:16Z",
+  "desc": "Give AI agents the context to query business data correctly through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build agentic GenBI, text-to-sql, dashboards, and agentic analytics.",
+  "url": "https://github.com/Canner/WrenAI"
 }
 {
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-06-08T03:46:28Z",
-  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-  "url": "https://github.com/volcengine/OpenViking"
+  "name": "openai-agents-python",
+  "full_name": "openai/openai-agents-python",
+  "updated": "2026-06-09T02:55:06Z",
+  "desc": "A lightweight, powerful framework for multi-agent workflows",
+  "url": "https://github.com/openai/openai-agents-python"
 }
 {
-  "name": "executor",
-  "full_name": "RhysSullivan/executor",
-  "updated": "2026-06-08T03:45:48Z",
-  "desc": "The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.",
-  "url": "https://github.com/RhysSullivan/executor"
+  "name": "mateclaw",
+  "full_name": "matevip/mateclaw",
+  "updated": "2026-06-09T02:54:30Z",
+  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+  "url": "https://github.com/matevip/mateclaw"
 }
 {
-  "name": "memex",
-  "full_name": "memex-lab/memex",
-  "updated": "2026-06-08T03:47:56Z",
-  "desc": "Open-source, local-first AI journal app for iOS and Android. Capture text, photos, and voice — AI agents organize them into timeline cards and insights. Your data stays on your device. Bring your own LLM (OpenAI, Claude, Gemini, Ollama, and more).",
-  "url": "https://github.com/memex-lab/memex"
+  "name": "tinybot",
+  "full_name": "SudoJacky/tinybot",
+  "updated": "2026-06-09T02:53:43Z",
+  "desc": "Tinybot is a lightweight personal AI Agent that is constantly evolving",
+  "url": "https://github.com/SudoJacky/tinybot"
 }
 {
-  "name": "todoist-mcp",
-  "full_name": "Doist/todoist-mcp",
-  "updated": "2026-06-08T03:43:46Z",
-  "desc": "A set of tools to connect to AI agents, to allow them to use Todoist on a user's behalf. Includes MCP support.",
-  "url": "https://github.com/Doist/todoist-mcp"
+  "name": "OfficeCLI",
+  "full_name": "iOfficeAI/OfficeCLI",
+  "updated": "2026-06-09T02:52:48Z",
+  "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+  "url": "https://github.com/iOfficeAI/OfficeCLI"
 }
 {
-  "name": "clawvisor",
-  "full_name": "clawvisor/clawvisor",
-  "updated": "2026-06-08T03:43:07Z",
-  "desc": "API gateway for purpose-based authorization for AI agents. Human approval for tasks, AI-native enforcement for agents.",
-  "url": "https://github.com/clawvisor/clawvisor"
+  "name": "mcp-gateway-registry",
+  "full_name": "agentic-community/mcp-gateway-registry",
+  "updated": "2026-06-09T02:50:09Z",
+  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
+  "url": "https://github.com/agentic-community/mcp-gateway-registry"
 }
 {
-  "name": "powermem",
-  "full_name": "oceanbase/powermem",
-  "updated": "2026-06-08T03:42:24Z",
-  "desc": "PowerMem: AI Memory Plugin— Accurate, Agile, Affordable. Make AI Agent smarter.",
-  "url": "https://github.com/oceanbase/powermem"
+  "name": "CowAgent",
+  "full_name": "zhayujie/CowAgent",
+  "updated": "2026-06-09T02:52:01Z",
+  "desc": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+  "url": "https://github.com/zhayujie/CowAgent"
 }
 {
-  "name": "oh-my-agent",
-  "full_name": "first-fluke/oh-my-agent",
-  "updated": "2026-06-08T03:40:57Z",
-  "desc": "Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams aligned with your codebase, conventions, and engineering standards.",
-  "url": "https://github.com/first-fluke/oh-my-agent"
+  "name": "agentgateway",
+  "full_name": "agentgateway/agentgateway",
+  "updated": "2026-06-09T02:51:38Z",
+  "desc": "Next Generation Agentic Proxy for AI Agents and MCP servers",
+  "url": "https://github.com/agentgateway/agentgateway"
 }
 {
-  "name": "llm-agents-from-scratch",
-  "full_name": "nerdai/llm-agents-from-scratch",
-  "updated": "2026-06-08T03:40:42Z",
-  "desc": "Build LLM agents and multi-agent systems from scratch, with MCP, Skills, and A2A",
-  "url": "https://github.com/nerdai/llm-agents-from-scratch"
+  "name": "oh-my-claudecode",
+  "full_name": "Yeachan-Heo/oh-my-claudecode",
+  "updated": "2026-06-09T02:46:43Z",
+  "desc": "Teams-first Multi-agent orchestration for Claude Code",
+  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
 }
 {
-  "name": "jiuwenswarm",
-  "full_name": "openJiuwen-ai/jiuwenswarm",
-  "updated": "2026-06-08T03:40:37Z",
-  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
-  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
+  "name": "1Panel",
+  "full_name": "1Panel-dev/1Panel",
+  "updated": "2026-06-09T02:49:35Z",
+  "desc": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
+  "url": "https://github.com/1Panel-dev/1Panel"
 }
