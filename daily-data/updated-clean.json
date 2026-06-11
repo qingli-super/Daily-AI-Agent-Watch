@@ -1,70 +1,70 @@
 {
-  "name": "Shadowbroker",
-  "full_name": "BigBodyCobain/Shadowbroker",
-  "updated": "2026-06-10T03:32:20Z",
-  "desc": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
-  "url": "https://github.com/BigBodyCobain/Shadowbroker"
+  "name": "agent-bridge",
+  "full_name": "quilin-ai/agent-bridge",
+  "updated": "2026-06-11T03:47:50Z",
+  "desc": "A local bridge for bidirectional collaboration between Claude Code and Codex. 连接 Claude Code 与 Codex 的本地实时协作桥接工具。",
+  "url": "https://github.com/quilin-ai/agent-bridge"
 }
 {
-  "name": "openagents",
-  "full_name": "openagents-org/openagents",
-  "updated": "2026-06-10T03:32:10Z",
-  "desc": "OpenAgents - AI Agent Networks for Open Collaboration",
-  "url": "https://github.com/openagents-org/openagents"
+  "name": "Equibles",
+  "full_name": "daniel3303/Equibles",
+  "updated": "2026-06-11T03:46:57Z",
+  "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
+  "url": "https://github.com/daniel3303/Equibles"
 }
 {
-  "name": "openagentskill",
-  "full_name": "Leon-Drq/openagentskill",
-  "updated": "2026-06-10T03:30:53Z",
-  "desc": "Open discovery, audit, and recommendation infrastructure for AI agent skills.",
-  "url": "https://github.com/Leon-Drq/openagentskill"
+  "name": "CubeSandbox",
+  "full_name": "TencentCloud/CubeSandbox",
+  "updated": "2026-06-11T03:46:31Z",
+  "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+  "url": "https://github.com/TencentCloud/CubeSandbox"
 }
 {
-  "name": "learn-skills.dev",
-  "full_name": "NeverSight/learn-skills.dev",
-  "updated": "2026-06-10T03:30:14Z",
-  "desc": "Curated high-quality AI Agent Skills. Search, install, copy and share. Works with Claude Code, Cursor, OpenClaw, and other AI coding tools.",
-  "url": "https://github.com/NeverSight/learn-skills.dev"
+  "name": "OpenViking",
+  "full_name": "volcengine/OpenViking",
+  "updated": "2026-06-11T03:46:28Z",
+  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+  "url": "https://github.com/volcengine/OpenViking"
 }
 {
-  "name": "eCommerce-Skills",
-  "full_name": "nexscope-ai/eCommerce-Skills",
-  "updated": "2026-06-10T03:29:59Z",
-  "desc": "E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms.",
-  "url": "https://github.com/nexscope-ai/eCommerce-Skills"
+  "name": "alook",
+  "full_name": "alookai/alook",
+  "updated": "2026-06-11T03:46:26Z",
+  "desc": "The collaboration layer for your AI workforce. Run a team of AI agents that coordinate over email, share memory, and get better with every task.",
+  "url": "https://github.com/alookai/alook"
 }
 {
-  "name": "sim",
-  "full_name": "simstudioai/sim",
-  "updated": "2026-06-10T03:30:55Z",
-  "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-  "url": "https://github.com/simstudioai/sim"
+  "name": "crewAI",
+  "full_name": "crewAIInc/crewAI",
+  "updated": "2026-06-11T03:45:34Z",
+  "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+  "url": "https://github.com/crewAIInc/crewAI"
 }
 {
-  "name": "lobu",
-  "full_name": "lobu-ai/lobu",
-  "updated": "2026-06-10T03:29:22Z",
-  "desc": "Autonomous agents in your organization. Multi-tenant OpenClaw",
-  "url": "https://github.com/lobu-ai/lobu"
+  "name": "caracal",
+  "full_name": "Garudex-Labs/caracal",
+  "updated": "2026-06-11T03:44:40Z",
+  "desc": "🐾 Caracal is a security-first AI authority, delegation, and identity system for autonomous agents.",
+  "url": "https://github.com/Garudex-Labs/caracal"
 }
 {
-  "name": "osaurus",
-  "full_name": "osaurus-ai/osaurus",
-  "updated": "2026-06-10T03:28:55Z",
-  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
-  "url": "https://github.com/osaurus-ai/osaurus"
+  "name": "awesome-openclaw",
+  "full_name": "SamurAIGPT/awesome-openclaw",
+  "updated": "2026-06-11T03:44:34Z",
+  "desc": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations.",
+  "url": "https://github.com/SamurAIGPT/awesome-openclaw"
 }
 {
   "name": "cli",
   "full_name": "larksuite/cli",
-  "updated": "2026-06-10T03:28:48Z",
+  "updated": "2026-06-11T03:44:48Z",
   "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
   "url": "https://github.com/larksuite/cli"
 }
 {
-  "name": "composio",
-  "full_name": "ComposioHQ/composio",
-  "updated": "2026-06-10T03:27:33Z",
-  "desc": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
-  "url": "https://github.com/ComposioHQ/composio"
+  "name": "studio",
+  "full_name": "decocms/studio",
+  "updated": "2026-06-11T03:41:30Z",
+  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+  "url": "https://github.com/decocms/studio"
 }
