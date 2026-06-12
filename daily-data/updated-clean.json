@@ -1,70 +1,70 @@
 {
-  "name": "agent-bridge",
-  "full_name": "quilin-ai/agent-bridge",
-  "updated": "2026-06-11T03:47:50Z",
-  "desc": "A local bridge for bidirectional collaboration between Claude Code and Codex. 连接 Claude Code 与 Codex 的本地实时协作桥接工具。",
-  "url": "https://github.com/quilin-ai/agent-bridge"
+  "name": "1Panel",
+  "full_name": "1Panel-dev/1Panel",
+  "updated": "2026-06-12T03:45:19Z",
+  "desc": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
+  "url": "https://github.com/1Panel-dev/1Panel"
 }
 {
-  "name": "Equibles",
-  "full_name": "daniel3303/Equibles",
-  "updated": "2026-06-11T03:46:57Z",
-  "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
-  "url": "https://github.com/daniel3303/Equibles"
+  "name": "patina",
+  "full_name": "devswha/patina",
+  "updated": "2026-06-12T03:45:14Z",
+  "desc": "Detects and rewrites AI writing patterns in Korean, English, Chinese, and Japanese. Runs as a skill for Claude Code, Codex CLI, Cursor, and OpenCode, or as a standalone Node.js CLI.",
+  "url": "https://github.com/devswha/patina"
 }
 {
-  "name": "CubeSandbox",
-  "full_name": "TencentCloud/CubeSandbox",
-  "updated": "2026-06-11T03:46:31Z",
-  "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-  "url": "https://github.com/TencentCloud/CubeSandbox"
-}
-{
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-06-11T03:46:28Z",
-  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-  "url": "https://github.com/volcengine/OpenViking"
-}
-{
-  "name": "alook",
-  "full_name": "alookai/alook",
-  "updated": "2026-06-11T03:46:26Z",
-  "desc": "The collaboration layer for your AI workforce. Run a team of AI agents that coordinate over email, share memory, and get better with every task.",
-  "url": "https://github.com/alookai/alook"
-}
-{
-  "name": "crewAI",
-  "full_name": "crewAIInc/crewAI",
-  "updated": "2026-06-11T03:45:34Z",
-  "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
-  "url": "https://github.com/crewAIInc/crewAI"
-}
-{
-  "name": "caracal",
-  "full_name": "Garudex-Labs/caracal",
-  "updated": "2026-06-11T03:44:40Z",
-  "desc": "🐾 Caracal is a security-first AI authority, delegation, and identity system for autonomous agents.",
-  "url": "https://github.com/Garudex-Labs/caracal"
-}
-{
-  "name": "awesome-openclaw",
-  "full_name": "SamurAIGPT/awesome-openclaw",
-  "updated": "2026-06-11T03:44:34Z",
-  "desc": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations.",
-  "url": "https://github.com/SamurAIGPT/awesome-openclaw"
-}
-{
-  "name": "cli",
-  "full_name": "larksuite/cli",
-  "updated": "2026-06-11T03:44:48Z",
-  "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
-  "url": "https://github.com/larksuite/cli"
+  "name": "helmor",
+  "full_name": "dohooo/helmor",
+  "updated": "2026-06-12T03:44:19Z",
+  "desc": "Open-source local workbench for multi-agent software development.",
+  "url": "https://github.com/dohooo/helmor"
 }
 {
   "name": "studio",
   "full_name": "decocms/studio",
-  "updated": "2026-06-11T03:41:30Z",
+  "updated": "2026-06-12T03:43:57Z",
   "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
   "url": "https://github.com/decocms/studio"
+}
+{
+  "name": "costrict",
+  "full_name": "zgsm-ai/costrict",
+  "updated": "2026-06-12T03:44:16Z",
+  "desc": "Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion. ",
+  "url": "https://github.com/zgsm-ai/costrict"
+}
+{
+  "name": "lean-ctx",
+  "full_name": "yvgude/lean-ctx",
+  "updated": "2026-06-12T03:42:34Z",
+  "desc": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.",
+  "url": "https://github.com/yvgude/lean-ctx"
+}
+{
+  "name": "claude_codex_bridge",
+  "full_name": "SeemSeam/claude_codex_bridge",
+  "updated": "2026-06-12T03:41:50Z",
+  "desc": "Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid with project memory and tmux supervision",
+  "url": "https://github.com/SeemSeam/claude_codex_bridge"
+}
+{
+  "name": "ai-engineering-from-scratch-zh",
+  "full_name": "fancyboi999/ai-engineering-from-scratch-zh",
+  "updated": "2026-06-12T03:42:42Z",
+  "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 · 如何成为 AI Agent 工程师的修成指南",
+  "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh"
+}
+{
+  "name": "crewAI",
+  "full_name": "crewAIInc/crewAI",
+  "updated": "2026-06-12T03:44:32Z",
+  "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+  "url": "https://github.com/crewAIInc/crewAI"
+}
+{
+  "name": "vexjoy-agent",
+  "full_name": "notque/vexjoy-agent",
+  "updated": "2026-06-12T03:38:14Z",
+  "desc": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the work with reviews, tests, and a learning loop.",
+  "url": "https://github.com/notque/vexjoy-agent"
 }
