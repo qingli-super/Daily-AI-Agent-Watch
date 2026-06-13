@@ -1,70 +1,70 @@
 {
-  "name": "1Panel",
-  "full_name": "1Panel-dev/1Panel",
-  "updated": "2026-06-12T03:45:19Z",
-  "desc": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
-  "url": "https://github.com/1Panel-dev/1Panel"
-}
-{
-  "name": "patina",
-  "full_name": "devswha/patina",
-  "updated": "2026-06-12T03:45:14Z",
-  "desc": "Detects and rewrites AI writing patterns in Korean, English, Chinese, and Japanese. Runs as a skill for Claude Code, Codex CLI, Cursor, and OpenCode, or as a standalone Node.js CLI.",
-  "url": "https://github.com/devswha/patina"
+  "name": "adk-rust",
+  "full_name": "zavora-ai/adk-rust",
+  "updated": "2026-06-13T03:30:37Z",
+  "desc": "Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, tools, memory, realtime voice, and more. ADK-Rust is a flexible framework for developing AI agents with simplicity and power. Model-agnostic, deployment-agnostic, optimized for frontier AI models. Includes support for real-time voice agents.",
+  "url": "https://github.com/zavora-ai/adk-rust"
 }
 {
   "name": "helmor",
   "full_name": "dohooo/helmor",
-  "updated": "2026-06-12T03:44:19Z",
+  "updated": "2026-06-13T03:28:19Z",
   "desc": "Open-source local workbench for multi-agent software development.",
   "url": "https://github.com/dohooo/helmor"
 }
 {
   "name": "studio",
   "full_name": "decocms/studio",
-  "updated": "2026-06-12T03:43:57Z",
+  "updated": "2026-06-13T03:28:00Z",
   "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
   "url": "https://github.com/decocms/studio"
 }
 {
-  "name": "costrict",
-  "full_name": "zgsm-ai/costrict",
-  "updated": "2026-06-12T03:44:16Z",
-  "desc": "Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion. ",
-  "url": "https://github.com/zgsm-ai/costrict"
+  "name": "agentic_coding_flywheel_setup",
+  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
+  "updated": "2026-06-13T03:24:30Z",
+  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
+  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
 }
 {
-  "name": "lean-ctx",
-  "full_name": "yvgude/lean-ctx",
-  "updated": "2026-06-12T03:42:34Z",
-  "desc": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.",
-  "url": "https://github.com/yvgude/lean-ctx"
+  "name": "Aether",
+  "full_name": "Zhou-Shilin/Aether",
+  "updated": "2026-06-13T03:23:13Z",
+  "desc": "A stunning, localized, general-purpose AI Agent for Android. | Aether 扶摇",
+  "url": "https://github.com/Zhou-Shilin/Aether"
 }
 {
-  "name": "claude_codex_bridge",
-  "full_name": "SeemSeam/claude_codex_bridge",
-  "updated": "2026-06-12T03:41:50Z",
-  "desc": "Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid with project memory and tmux supervision",
-  "url": "https://github.com/SeemSeam/claude_codex_bridge"
+  "name": "OpenViking",
+  "full_name": "volcengine/OpenViking",
+  "updated": "2026-06-13T03:28:46Z",
+  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+  "url": "https://github.com/volcengine/OpenViking"
 }
 {
-  "name": "ai-engineering-from-scratch-zh",
-  "full_name": "fancyboi999/ai-engineering-from-scratch-zh",
-  "updated": "2026-06-12T03:42:42Z",
-  "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 · 如何成为 AI Agent 工程师的修成指南",
-  "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh"
+  "name": "agent-bridge",
+  "full_name": "quilin-ai/agent-bridge",
+  "updated": "2026-06-13T03:21:20Z",
+  "desc": "A local bridge for bidirectional collaboration between Claude Code and Codex. 连接 Claude Code 与 Codex 的本地实时协作桥接工具。",
+  "url": "https://github.com/quilin-ai/agent-bridge"
 }
 {
-  "name": "crewAI",
-  "full_name": "crewAIInc/crewAI",
-  "updated": "2026-06-12T03:44:32Z",
-  "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
-  "url": "https://github.com/crewAIInc/crewAI"
+  "name": "h5i",
+  "full_name": "h5i-dev/h5i",
+  "updated": "2026-06-13T03:20:57Z",
+  "desc": "Next-Gen AI-Aware Git. Auditable sandbox, prompt-aware commits, 95% less token waste, 3.5x richer PR brief, 1.8x faster multi-agent loops.",
+  "url": "https://github.com/h5i-dev/h5i"
 }
 {
-  "name": "vexjoy-agent",
-  "full_name": "notque/vexjoy-agent",
-  "updated": "2026-06-12T03:38:14Z",
-  "desc": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the work with reviews, tests, and a learning loop.",
-  "url": "https://github.com/notque/vexjoy-agent"
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-06-13T03:20:20Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
+}
+{
+  "name": "DashClaw",
+  "full_name": "ucsandman/DashClaw",
+  "updated": "2026-06-13T03:20:19Z",
+  "desc": "🛡️The governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.",
+  "url": "https://github.com/ucsandman/DashClaw"
 }
