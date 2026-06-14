@@ -1,70 +1,70 @@
 {
-  "name": "adk-rust",
-  "full_name": "zavora-ai/adk-rust",
-  "updated": "2026-06-13T03:30:37Z",
-  "desc": "Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, tools, memory, realtime voice, and more. ADK-Rust is a flexible framework for developing AI agents with simplicity and power. Model-agnostic, deployment-agnostic, optimized for frontier AI models. Includes support for real-time voice agents.",
-  "url": "https://github.com/zavora-ai/adk-rust"
+  "name": "MisakaNet",
+  "full_name": "Ikalus1988/MisakaNet",
+  "updated": "2026-06-14T03:54:05Z",
+  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+  "url": "https://github.com/Ikalus1988/MisakaNet"
 }
 {
-  "name": "helmor",
-  "full_name": "dohooo/helmor",
-  "updated": "2026-06-13T03:28:19Z",
-  "desc": "Open-source local workbench for multi-agent software development.",
-  "url": "https://github.com/dohooo/helmor"
+  "name": "agent-threat-rules",
+  "full_name": "Agent-Threat-Rule/agent-threat-rules",
+  "updated": "2026-06-14T03:50:39Z",
+  "desc": "Open detection standard -- like Sigma, but for AI agents. 425 rules, shipped in Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H. 97.1% recall on NVIDIA garak. NIST OSCAL Path 1.",
+  "url": "https://github.com/Agent-Threat-Rule/agent-threat-rules"
 }
 {
-  "name": "studio",
-  "full_name": "decocms/studio",
-  "updated": "2026-06-13T03:28:00Z",
-  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
-  "url": "https://github.com/decocms/studio"
+  "name": "omnigent",
+  "full_name": "omnigent-ai/omnigent",
+  "updated": "2026-06-14T03:54:07Z",
+  "desc": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+  "url": "https://github.com/omnigent-ai/omnigent"
 }
 {
-  "name": "agentic_coding_flywheel_setup",
-  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
-  "updated": "2026-06-13T03:24:30Z",
-  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
-  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+  "name": "takt",
+  "full_name": "nrslib/takt",
+  "updated": "2026-06-14T03:49:48Z",
+  "desc": "TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML",
+  "url": "https://github.com/nrslib/takt"
 }
 {
-  "name": "Aether",
-  "full_name": "Zhou-Shilin/Aether",
-  "updated": "2026-06-13T03:23:13Z",
-  "desc": "A stunning, localized, general-purpose AI Agent for Android. | Aether 扶摇",
-  "url": "https://github.com/Zhou-Shilin/Aether"
+  "name": "KKTerm",
+  "full_name": "ryantsai/KKTerm",
+  "updated": "2026-06-14T03:47:36Z",
+  "desc": "Windows-first AI-agent super-tool for vibe coders & system admins — terminals, SSH, SFTP, RDP/VNC, dashboards, install helpers, and a built-in AI assistant.",
+  "url": "https://github.com/ryantsai/KKTerm"
 }
 {
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-06-13T03:28:46Z",
-  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-  "url": "https://github.com/volcengine/OpenViking"
-}
-{
-  "name": "agent-bridge",
-  "full_name": "quilin-ai/agent-bridge",
-  "updated": "2026-06-13T03:21:20Z",
-  "desc": "A local bridge for bidirectional collaboration between Claude Code and Codex. 连接 Claude Code 与 Codex 的本地实时协作桥接工具。",
-  "url": "https://github.com/quilin-ai/agent-bridge"
-}
-{
-  "name": "h5i",
-  "full_name": "h5i-dev/h5i",
-  "updated": "2026-06-13T03:20:57Z",
-  "desc": "Next-Gen AI-Aware Git. Auditable sandbox, prompt-aware commits, 95% less token waste, 3.5x richer PR brief, 1.8x faster multi-agent loops.",
-  "url": "https://github.com/h5i-dev/h5i"
+  "name": "opc",
+  "full_name": "iamtouchskyer/opc",
+  "updated": "2026-06-14T03:47:23Z",
+  "desc": "OPC — One Person Company. A full team in a single Claude Code skill. Adaptive agent orchestrator with 11 built-in roles, 4 modes, and adversarial quality control.",
+  "url": "https://github.com/iamtouchskyer/opc"
 }
 {
   "name": "cherry-studio",
   "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-06-13T03:20:20Z",
+  "updated": "2026-06-14T03:52:31Z",
   "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
   "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
-  "name": "DashClaw",
-  "full_name": "ucsandman/DashClaw",
-  "updated": "2026-06-13T03:20:19Z",
-  "desc": "🛡️The governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.",
-  "url": "https://github.com/ucsandman/DashClaw"
+  "name": "we-mp-rss",
+  "full_name": "rachelos/we-mp-rss",
+  "updated": "2026-06-14T03:44:56Z",
+  "desc": "✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码",
+  "url": "https://github.com/rachelos/we-mp-rss"
+}
+{
+  "name": "mcpproxy-go",
+  "full_name": "smart-mcp-proxy/mcpproxy-go",
+  "updated": "2026-06-14T03:42:33Z",
+  "desc": "Supercharge AI Agents, Safely",
+  "url": "https://github.com/smart-mcp-proxy/mcpproxy-go"
+}
+{
+  "name": "AIGC-Interview-Book",
+  "full_name": "WeThinkIn/AIGC-Interview-Book",
+  "updated": "2026-06-14T03:42:03Z",
+  "desc": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
+  "url": "https://github.com/WeThinkIn/AIGC-Interview-Book"
 }
