@@ -1,70 +1,70 @@
 {
+  "name": "genomi",
+  "full_name": "exon-research/genomi",
+  "updated": "2026-06-15T04:04:33Z",
+  "desc": "An open-source agent harness that turns your AI agent into your personal DNA expert",
+  "url": "https://github.com/exon-research/genomi"
+}
+{
+  "name": "deepseek-pp",
+  "full_name": "zhu1090093659/deepseek-pp",
+  "updated": "2026-06-15T04:00:51Z",
+  "desc": "DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automation, web search, and conversation export.",
+  "url": "https://github.com/zhu1090093659/deepseek-pp"
+}
+{
+  "name": "todoist-mcp",
+  "full_name": "Doist/todoist-mcp",
+  "updated": "2026-06-15T04:00:43Z",
+  "desc": "A set of tools to connect to AI agents, to allow them to use Todoist on a user's behalf. Includes MCP support.",
+  "url": "https://github.com/Doist/todoist-mcp"
+}
+{
+  "name": "e2a",
+  "full_name": "Mnexa-AI/e2a",
+  "updated": "2026-06-15T03:59:32Z",
+  "desc": "Authenticated email gateway for AI agents — SPF/DKIM verified inbound, HMAC-signed delivery, webhook + WebSocket fan-out, CLI + SDKs",
+  "url": "https://github.com/Mnexa-AI/e2a"
+}
+{
   "name": "MisakaNet",
   "full_name": "Ikalus1988/MisakaNet",
-  "updated": "2026-06-14T03:54:05Z",
+  "updated": "2026-06-15T03:58:12Z",
   "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
   "url": "https://github.com/Ikalus1988/MisakaNet"
 }
 {
-  "name": "agent-threat-rules",
-  "full_name": "Agent-Threat-Rule/agent-threat-rules",
-  "updated": "2026-06-14T03:50:39Z",
-  "desc": "Open detection standard -- like Sigma, but for AI agents. 425 rules, shipped in Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H. 97.1% recall on NVIDIA garak. NIST OSCAL Path 1.",
-  "url": "https://github.com/Agent-Threat-Rule/agent-threat-rules"
+  "name": "adk-rust",
+  "full_name": "zavora-ai/adk-rust",
+  "updated": "2026-06-15T03:57:18Z",
+  "desc": "Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, tools, memory, realtime voice, and more. ADK-Rust is a flexible framework for developing AI agents with simplicity and power. Model-agnostic, deployment-agnostic, optimized for frontier AI models. Includes support for real-time voice agents.",
+  "url": "https://github.com/zavora-ai/adk-rust"
 }
 {
-  "name": "omnigent",
-  "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-06-14T03:54:07Z",
-  "desc": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-  "url": "https://github.com/omnigent-ai/omnigent"
+  "name": "boxlite",
+  "full_name": "boxlite-ai/boxlite",
+  "updated": "2026-06-15T03:56:24Z",
+  "desc": "Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.",
+  "url": "https://github.com/boxlite-ai/boxlite"
 }
 {
-  "name": "takt",
-  "full_name": "nrslib/takt",
-  "updated": "2026-06-14T03:49:48Z",
-  "desc": "TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML",
-  "url": "https://github.com/nrslib/takt"
+  "name": "QuickDesk",
+  "full_name": "barry-ran/QuickDesk",
+  "updated": "2026-06-15T03:55:15Z",
+  "desc": "QuickDesk is the first AI-native remote desktop — an open-source, free application with a built-in MCP (Model Context Protocol) Server that lets any AI agent see and control remote computers.",
+  "url": "https://github.com/barry-ran/QuickDesk"
 }
 {
-  "name": "KKTerm",
-  "full_name": "ryantsai/KKTerm",
-  "updated": "2026-06-14T03:47:36Z",
-  "desc": "Windows-first AI-agent super-tool for vibe coders & system admins — terminals, SSH, SFTP, RDP/VNC, dashboards, install helpers, and a built-in AI assistant.",
-  "url": "https://github.com/ryantsai/KKTerm"
+  "name": "worktrunk",
+  "full_name": "max-sixty/worktrunk",
+  "updated": "2026-06-15T03:55:06Z",
+  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+  "url": "https://github.com/max-sixty/worktrunk"
 }
 {
-  "name": "opc",
-  "full_name": "iamtouchskyer/opc",
-  "updated": "2026-06-14T03:47:23Z",
-  "desc": "OPC — One Person Company. A full team in a single Claude Code skill. Adaptive agent orchestrator with 11 built-in roles, 4 modes, and adversarial quality control.",
-  "url": "https://github.com/iamtouchskyer/opc"
-}
-{
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-06-14T03:52:31Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
-}
-{
-  "name": "we-mp-rss",
-  "full_name": "rachelos/we-mp-rss",
-  "updated": "2026-06-14T03:44:56Z",
-  "desc": "✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码",
-  "url": "https://github.com/rachelos/we-mp-rss"
-}
-{
-  "name": "mcpproxy-go",
-  "full_name": "smart-mcp-proxy/mcpproxy-go",
-  "updated": "2026-06-14T03:42:33Z",
-  "desc": "Supercharge AI Agents, Safely",
-  "url": "https://github.com/smart-mcp-proxy/mcpproxy-go"
-}
-{
-  "name": "AIGC-Interview-Book",
-  "full_name": "WeThinkIn/AIGC-Interview-Book",
-  "updated": "2026-06-14T03:42:03Z",
-  "desc": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-  "url": "https://github.com/WeThinkIn/AIGC-Interview-Book"
+  "name": "openlumara",
+  "full_name": "Rose22/openlumara",
+  "updated": "2026-06-15T03:54:20Z",
+  "desc": "AI agent framework, written from scratch (not based on openclaw), focused on stripping it down to the bare necessities, optimizing token count, reducing security risks. modular so you can enable only exactly what you need.",
+  "url": "https://github.com/Rose22/openlumara"
 }
