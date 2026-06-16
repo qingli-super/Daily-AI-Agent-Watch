@@ -1,70 +1,70 @@
 {
-  "name": "genomi",
-  "full_name": "exon-research/genomi",
-  "updated": "2026-06-15T04:04:33Z",
-  "desc": "An open-source agent harness that turns your AI agent into your personal DNA expert",
-  "url": "https://github.com/exon-research/genomi"
+  "name": "ccxray",
+  "full_name": "lis186/ccxray",
+  "updated": "2026-06-16T03:55:25Z",
+  "desc": "X-ray vision for AI agent sessions — a transparent HTTP proxy and dashboard for Claude Code",
+  "url": "https://github.com/lis186/ccxray"
 }
 {
-  "name": "deepseek-pp",
-  "full_name": "zhu1090093659/deepseek-pp",
-  "updated": "2026-06-15T04:00:51Z",
-  "desc": "DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automation, web search, and conversation export.",
-  "url": "https://github.com/zhu1090093659/deepseek-pp"
+  "name": "superlog",
+  "full_name": "superloglabs/superlog",
+  "updated": "2026-06-16T03:54:49Z",
+  "desc": "Open-source observability tool that uses AI agents to self-heal your software",
+  "url": "https://github.com/superloglabs/superlog"
 }
 {
-  "name": "todoist-mcp",
-  "full_name": "Doist/todoist-mcp",
-  "updated": "2026-06-15T04:00:43Z",
-  "desc": "A set of tools to connect to AI agents, to allow them to use Todoist on a user's behalf. Includes MCP support.",
-  "url": "https://github.com/Doist/todoist-mcp"
+  "name": "moai-adk",
+  "full_name": "modu-ai/moai-adk",
+  "updated": "2026-06-16T03:53:43Z",
+  "desc": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+  "url": "https://github.com/modu-ai/moai-adk"
 }
 {
-  "name": "e2a",
-  "full_name": "Mnexa-AI/e2a",
-  "updated": "2026-06-15T03:59:32Z",
-  "desc": "Authenticated email gateway for AI agents — SPF/DKIM verified inbound, HMAC-signed delivery, webhook + WebSocket fan-out, CLI + SDKs",
-  "url": "https://github.com/Mnexa-AI/e2a"
+  "name": "open-mercato",
+  "full_name": "open-mercato/open-mercato",
+  "updated": "2026-06-16T03:53:40Z",
+  "desc": "AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural and domain decisions (multi-tenancy, RBAC,  event flow, pricing, sales pipeline,CRM/ERP processes) are already made conventions and specs so agents (Cursor, Claude Code, Codex) arch. decisions without reinventing.  Ship production grade with AI Agents.",
+  "url": "https://github.com/open-mercato/open-mercato"
 }
 {
-  "name": "MisakaNet",
-  "full_name": "Ikalus1988/MisakaNet",
-  "updated": "2026-06-15T03:58:12Z",
-  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-  "url": "https://github.com/Ikalus1988/MisakaNet"
+  "name": "omnigent",
+  "full_name": "omnigent-ai/omnigent",
+  "updated": "2026-06-16T03:53:33Z",
+  "desc": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+  "url": "https://github.com/omnigent-ai/omnigent"
 }
 {
-  "name": "adk-rust",
-  "full_name": "zavora-ai/adk-rust",
-  "updated": "2026-06-15T03:57:18Z",
-  "desc": "Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, tools, memory, realtime voice, and more. ADK-Rust is a flexible framework for developing AI agents with simplicity and power. Model-agnostic, deployment-agnostic, optimized for frontier AI models. Includes support for real-time voice agents.",
-  "url": "https://github.com/zavora-ai/adk-rust"
+  "name": "Agent-Reach",
+  "full_name": "Panniantong/Agent-Reach",
+  "updated": "2026-06-16T03:54:48Z",
+  "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+  "url": "https://github.com/Panniantong/Agent-Reach"
 }
 {
-  "name": "boxlite",
-  "full_name": "boxlite-ai/boxlite",
-  "updated": "2026-06-15T03:56:24Z",
-  "desc": "Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.",
-  "url": "https://github.com/boxlite-ai/boxlite"
+  "name": "mindfs",
+  "full_name": "a9gent/mindfs",
+  "updated": "2026-06-16T03:51:44Z",
+  "desc": "Access your personal AI agents and workstation data anywhere, anytime through MindFS.",
+  "url": "https://github.com/a9gent/mindfs"
 }
 {
-  "name": "QuickDesk",
-  "full_name": "barry-ran/QuickDesk",
-  "updated": "2026-06-15T03:55:15Z",
-  "desc": "QuickDesk is the first AI-native remote desktop — an open-source, free application with a built-in MCP (Model Context Protocol) Server that lets any AI agent see and control remote computers.",
-  "url": "https://github.com/barry-ran/QuickDesk"
+  "name": "openagentskill",
+  "full_name": "Leon-Drq/openagentskill",
+  "updated": "2026-06-16T03:51:31Z",
+  "desc": "Open discovery, audit, and recommendation infrastructure for AI agent skills.",
+  "url": "https://github.com/Leon-Drq/openagentskill"
 }
 {
-  "name": "worktrunk",
-  "full_name": "max-sixty/worktrunk",
-  "updated": "2026-06-15T03:55:06Z",
-  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-  "url": "https://github.com/max-sixty/worktrunk"
+  "name": "vector-vein",
+  "full_name": "AndersonBY/vector-vein",
+  "updated": "2026-06-16T03:51:43Z",
+  "desc": "No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents.",
+  "url": "https://github.com/AndersonBY/vector-vein"
 }
 {
-  "name": "openlumara",
-  "full_name": "Rose22/openlumara",
-  "updated": "2026-06-15T03:54:20Z",
-  "desc": "AI agent framework, written from scratch (not based on openclaw), focused on stripping it down to the bare necessities, optimizing token count, reducing security risks. modular so you can enable only exactly what you need.",
-  "url": "https://github.com/Rose22/openlumara"
+  "name": "Context-Engineering-for-Multi-Agent-Systems",
+  "full_name": "Denis2054/Context-Engineering-for-Multi-Agent-Systems",
+  "updated": "2026-06-16T03:49:08Z",
+  "desc": "Save thousands of lines of code by building universal, domain-agnostic Multi-Agent Systems (MAS) through high-level semantic orchestration. This repository provides a production-ready blueprint for the Agentic Era, allowing you to replace rigid, hard-coded workflows with a dynamic transparent Context Engine that provides 100% transparency.",
+  "url": "https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems"
 }
