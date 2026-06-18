@@ -1,70 +1,70 @@
 {
   "name": "omnigent",
   "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-06-17T03:57:20Z",
-  "desc": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+  "updated": "2026-06-18T03:45:00Z",
+  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
   "url": "https://github.com/omnigent-ai/omnigent"
 }
 {
-  "name": "moai-adk",
-  "full_name": "modu-ai/moai-adk",
-  "updated": "2026-06-17T03:55:56Z",
-  "desc": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-  "url": "https://github.com/modu-ai/moai-adk"
+  "name": "studio",
+  "full_name": "decocms/studio",
+  "updated": "2026-06-18T03:43:37Z",
+  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+  "url": "https://github.com/decocms/studio"
 }
 {
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-06-17T03:55:39Z",
-  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-  "url": "https://github.com/volcengine/OpenViking"
+  "name": "openai-agents-js",
+  "full_name": "openai/openai-agents-js",
+  "updated": "2026-06-18T03:39:01Z",
+  "desc": "A lightweight, powerful framework for multi-agent workflows and voice agents",
+  "url": "https://github.com/openai/openai-agents-js"
 }
 {
-  "name": "CowAgent",
-  "full_name": "zhayujie/CowAgent",
-  "updated": "2026-06-17T03:55:33Z",
-  "desc": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-  "url": "https://github.com/zhayujie/CowAgent"
+  "name": "openai-agents-python",
+  "full_name": "openai/openai-agents-python",
+  "updated": "2026-06-18T03:38:33Z",
+  "desc": "A lightweight, powerful framework for multi-agent workflows",
+  "url": "https://github.com/openai/openai-agents-python"
 }
 {
-  "name": "goose",
-  "full_name": "aaif-goose/goose",
-  "updated": "2026-06-17T03:54:30Z",
-  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-  "url": "https://github.com/aaif-goose/goose"
+  "name": "webjs",
+  "full_name": "webjsdev/webjs",
+  "updated": "2026-06-18T03:37:48Z",
+  "desc": "The web framework built for AI agents",
+  "url": "https://github.com/webjsdev/webjs"
 }
 {
-  "name": "kaos",
-  "full_name": "axsaucedo/kaos",
-  "updated": "2026-06-17T03:54:18Z",
-  "desc": "🚀 K8s Agent Orchestration System: Managing the KAOS in your large-scale distributed multi-agent systems",
-  "url": "https://github.com/axsaucedo/kaos"
+  "name": "loki-mode",
+  "full_name": "asklokesh/loki-mode",
+  "updated": "2026-06-18T03:37:24Z",
+  "desc": "Multi-agent autonomous SDLC framework. Spec to deployed app. PRD, GitHub issue, OpenAPI/JSON/YAML, or one-line brief. 5 AI providers, 11 quality gates.",
+  "url": "https://github.com/asklokesh/loki-mode"
 }
 {
-  "name": "PilotDeck",
-  "full_name": "OpenBMB/PilotDeck",
-  "updated": "2026-06-17T03:53:45Z",
-  "desc": "Task-oriented AI Agent productivity platform",
-  "url": "https://github.com/OpenBMB/PilotDeck"
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "updated": "2026-06-18T03:42:56Z",
+  "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "url": "https://github.com/mvanhorn/last30days-skill"
 }
 {
-  "name": "cli",
-  "full_name": "modelstudioai/cli",
-  "updated": "2026-06-17T03:53:07Z",
-  "desc": "Official Model Studio CLI（阿里云百炼 CLI）built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
-  "url": "https://github.com/modelstudioai/cli"
+  "name": "homelab-monitor",
+  "full_name": "SikamikanikoBG/homelab-monitor",
+  "updated": "2026-06-18T03:37:10Z",
+  "desc": "Plug-and-play homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, host health. Built-in read-only MCP server so AI agents can explore it too.",
+  "url": "https://github.com/SikamikanikoBG/homelab-monitor"
 }
 {
-  "name": "Memoh",
-  "full_name": "memohai/Memoh",
-  "updated": "2026-06-17T03:53:06Z",
-  "desc": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. ",
-  "url": "https://github.com/memohai/Memoh"
+  "name": "agmsg",
+  "full_name": "fujibee/agmsg",
+  "updated": "2026-06-18T03:41:07Z",
+  "desc": "Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.",
+  "url": "https://github.com/fujibee/agmsg"
 }
 {
-  "name": "cua",
-  "full_name": "trycua/cua",
-  "updated": "2026-06-17T03:52:12Z",
-  "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-  "url": "https://github.com/trycua/cua"
+  "name": "maestro-flow",
+  "full_name": "catlog22/maestro-flow",
+  "updated": "2026-06-18T03:35:31Z",
+  "desc": "Workflow orchestration CLI with MCP endpoint support and multi-agent dashboard",
+  "url": "https://github.com/catlog22/maestro-flow"
 }
