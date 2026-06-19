@@ -1,70 +1,70 @@
 {
-  "name": "omnigent",
-  "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-06-18T03:45:00Z",
-  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-  "url": "https://github.com/omnigent-ai/omnigent"
+  "name": "animaworks",
+  "full_name": "xuiltul/animaworks",
+  "updated": "2026-06-19T04:06:51Z",
+  "desc": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/Codex/Gemini/Cursor/Ollama).",
+  "url": "https://github.com/xuiltul/animaworks"
+}
+{
+  "name": "auto-dev",
+  "full_name": "phodal/auto-dev",
+  "updated": "2026-06-19T04:06:29Z",
+  "desc": "🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC.",
+  "url": "https://github.com/phodal/auto-dev"
+}
+{
+  "name": "agent-harness-generator",
+  "full_name": "ruvnet/agent-harness-generator",
+  "updated": "2026-06-19T04:04:21Z",
+  "desc": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
+  "url": "https://github.com/ruvnet/agent-harness-generator"
+}
+{
+  "name": "AstrBot",
+  "full_name": "AstrBotDevs/AstrBot",
+  "updated": "2026-06-19T04:03:12Z",
+  "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+  "url": "https://github.com/AstrBotDevs/AstrBot"
 }
 {
   "name": "studio",
   "full_name": "decocms/studio",
-  "updated": "2026-06-18T03:43:37Z",
+  "updated": "2026-06-19T04:02:18Z",
   "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
   "url": "https://github.com/decocms/studio"
 }
 {
-  "name": "openai-agents-js",
-  "full_name": "openai/openai-agents-js",
-  "updated": "2026-06-18T03:39:01Z",
-  "desc": "A lightweight, powerful framework for multi-agent workflows and voice agents",
-  "url": "https://github.com/openai/openai-agents-js"
+  "name": "omnigent",
+  "full_name": "omnigent-ai/omnigent",
+  "updated": "2026-06-19T04:02:13Z",
+  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+  "url": "https://github.com/omnigent-ai/omnigent"
 }
 {
-  "name": "openai-agents-python",
-  "full_name": "openai/openai-agents-python",
-  "updated": "2026-06-18T03:38:33Z",
-  "desc": "A lightweight, powerful framework for multi-agent workflows",
-  "url": "https://github.com/openai/openai-agents-python"
+  "name": "goclaw",
+  "full_name": "nextlevelbuilder/goclaw",
+  "updated": "2026-06-19T03:59:07Z",
+  "desc": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+  "url": "https://github.com/nextlevelbuilder/goclaw"
 }
 {
-  "name": "webjs",
-  "full_name": "webjsdev/webjs",
-  "updated": "2026-06-18T03:37:48Z",
-  "desc": "The web framework built for AI agents",
-  "url": "https://github.com/webjsdev/webjs"
+  "name": "claude-architect-exam-prep",
+  "full_name": "avidevelops/claude-architect-exam-prep",
+  "updated": "2026-06-19T03:58:39Z",
+  "desc": null,
+  "url": "https://github.com/avidevelops/claude-architect-exam-prep"
 }
 {
-  "name": "loki-mode",
-  "full_name": "asklokesh/loki-mode",
-  "updated": "2026-06-18T03:37:24Z",
-  "desc": "Multi-agent autonomous SDLC framework. Spec to deployed app. PRD, GitHub issue, OpenAPI/JSON/YAML, or one-line brief. 5 AI providers, 11 quality gates.",
-  "url": "https://github.com/asklokesh/loki-mode"
+  "name": "e2a",
+  "full_name": "Mnexa-AI/e2a",
+  "updated": "2026-06-19T03:58:01Z",
+  "desc": "Authenticated email gateway for AI agents — SPF/DKIM verified inbound, HMAC-signed delivery, webhook + WebSocket fan-out, CLI + SDKs",
+  "url": "https://github.com/Mnexa-AI/e2a"
 }
 {
-  "name": "last30days-skill",
-  "full_name": "mvanhorn/last30days-skill",
-  "updated": "2026-06-18T03:42:56Z",
-  "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-  "url": "https://github.com/mvanhorn/last30days-skill"
-}
-{
-  "name": "homelab-monitor",
-  "full_name": "SikamikanikoBG/homelab-monitor",
-  "updated": "2026-06-18T03:37:10Z",
-  "desc": "Plug-and-play homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, host health. Built-in read-only MCP server so AI agents can explore it too.",
-  "url": "https://github.com/SikamikanikoBG/homelab-monitor"
-}
-{
-  "name": "agmsg",
-  "full_name": "fujibee/agmsg",
-  "updated": "2026-06-18T03:41:07Z",
-  "desc": "Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.",
-  "url": "https://github.com/fujibee/agmsg"
-}
-{
-  "name": "maestro-flow",
-  "full_name": "catlog22/maestro-flow",
-  "updated": "2026-06-18T03:35:31Z",
-  "desc": "Workflow orchestration CLI with MCP endpoint support and multi-agent dashboard",
-  "url": "https://github.com/catlog22/maestro-flow"
+  "name": "moai-adk",
+  "full_name": "modu-ai/moai-adk",
+  "updated": "2026-06-19T03:56:33Z",
+  "desc": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+  "url": "https://github.com/modu-ai/moai-adk"
 }
