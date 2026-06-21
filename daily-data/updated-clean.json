@@ -1,70 +1,70 @@
 {
-  "name": "polynoia",
-  "full_name": "JuneQQQ/polynoia",
-  "updated": "2026-06-20T03:30:41Z",
-  "desc": "Polynoia — an IM-style platform for collaborating with multiple AI agents at once. An orchestrator auto-decomposes tasks and dispatches them to agents in parallel. FastAPI + React, runs on web, desktop (Tauri) and mobile (Capacitor).",
-  "url": "https://github.com/JuneQQQ/polynoia"
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "updated": "2026-06-21T04:01:51Z",
+  "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "url": "https://github.com/mvanhorn/last30days-skill"
 }
 {
-  "name": "loki-mode",
-  "full_name": "asklokesh/loki-mode",
-  "updated": "2026-06-20T03:30:27Z",
-  "desc": "Multi-agent autonomous SDLC framework. Spec to deployed app. PRD, GitHub issue, OpenAPI/JSON/YAML, or one-line brief. 5 AI providers, 11 quality gates.",
-  "url": "https://github.com/asklokesh/loki-mode"
+  "name": "agmsg",
+  "full_name": "fujibee/agmsg",
+  "updated": "2026-06-21T04:01:39Z",
+  "desc": "Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.",
+  "url": "https://github.com/fujibee/agmsg"
 }
 {
-  "name": "Equibles",
-  "full_name": "daniel3303/Equibles",
-  "updated": "2026-06-20T03:28:37Z",
-  "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
-  "url": "https://github.com/daniel3303/Equibles"
+  "name": "ccxray",
+  "full_name": "lis186/ccxray",
+  "updated": "2026-06-21T04:00:42Z",
+  "desc": "X-ray vision for AI agent sessions — a transparent HTTP proxy and dashboard for Claude Code",
+  "url": "https://github.com/lis186/ccxray"
 }
 {
-  "name": "calfkit-sdk",
-  "full_name": "calf-ai/calfkit-sdk",
-  "updated": "2026-06-20T03:28:24Z",
-  "desc": "🐮 The SDK to build AI agents as event-driven microservices",
-  "url": "https://github.com/calf-ai/calfkit-sdk"
+  "name": "mempalace-evolve",
+  "full_name": "a2328275243/mempalace-evolve",
+  "updated": "2026-06-21T03:59:52Z",
+  "desc": "Self-evolving memory palace for AI agents — persistent memory with automatic learning, knowledge graph, and multi-agent support",
+  "url": "https://github.com/a2328275243/mempalace-evolve"
 }
 {
-  "name": "claimpilot-harness",
-  "full_name": "samarailly51-pixel/claimpilot-harness",
-  "updated": "2026-06-20T03:27:59Z",
-  "desc": "Crash-test insurance claim AI agents before production.",
-  "url": "https://github.com/samarailly51-pixel/claimpilot-harness"
+  "name": "agent-beacon",
+  "full_name": "Asymptote-Labs/agent-beacon",
+  "updated": "2026-06-21T03:58:21Z",
+  "desc": "Agent Beacon is the world's first open-source telemetry layer for AI agents wherever they run: locally, in CI, or in the cloud.",
+  "url": "https://github.com/Asymptote-Labs/agent-beacon"
 }
 {
-  "name": "Kun",
-  "full_name": "KunAgent/Kun",
-  "updated": "2026-06-20T03:26:36Z",
-  "desc": "AI agent workspace with Code and Write modes built into your application.",
-  "url": "https://github.com/KunAgent/Kun"
+  "name": "effGen",
+  "full_name": "ctrl-gaurav/effGen",
+  "updated": "2026-06-21T03:57:13Z",
+  "desc": "[ICML 2026] effGen: Enabling Small Language Models as Capable Autonomous Agents",
+  "url": "https://github.com/ctrl-gaurav/effGen"
+}
+{
+  "name": "OfficeCLI",
+  "full_name": "iOfficeAI/OfficeCLI",
+  "updated": "2026-06-21T03:57:46Z",
+  "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+  "url": "https://github.com/iOfficeAI/OfficeCLI"
+}
+{
+  "name": "AstrBot",
+  "full_name": "AstrBotDevs/AstrBot",
+  "updated": "2026-06-21T03:56:01Z",
+  "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+  "url": "https://github.com/AstrBotDevs/AstrBot"
 }
 {
   "name": "omnigent",
   "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-06-20T03:29:29Z",
+  "updated": "2026-06-21T04:00:38Z",
   "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
   "url": "https://github.com/omnigent-ai/omnigent"
 }
 {
-  "name": "signetai",
-  "full_name": "Signet-AI/signetai",
-  "updated": "2026-06-20T03:24:13Z",
-  "desc": "Local-first identity, memory, and secrets for AI agents. Portable state across models and harnesses.",
-  "url": "https://github.com/Signet-AI/signetai"
-}
-{
-  "name": "Undefined",
-  "full_name": "69gg/Undefined",
-  "updated": "2026-06-20T03:29:53Z",
-  "desc": "QQ bot platform with cognitive memory architecture and multi-agent Skills, via OneBot V11.",
-  "url": "https://github.com/69gg/Undefined"
-}
-{
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-06-20T03:13:34Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
+  "name": "Equibles",
+  "full_name": "daniel3303/Equibles",
+  "updated": "2026-06-21T03:48:51Z",
+  "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
+  "url": "https://github.com/daniel3303/Equibles"
 }
