@@ -1,70 +1,70 @@
 {
-  "name": "last30days-skill",
-  "full_name": "mvanhorn/last30days-skill",
-  "updated": "2026-06-21T04:01:51Z",
-  "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-  "url": "https://github.com/mvanhorn/last30days-skill"
+  "name": "MindGeniusAI",
+  "full_name": "xianjianlf2/MindGeniusAI",
+  "updated": "2026-06-22T04:02:20Z",
+  "desc": "Open-source AI agent that reads your PDFs and draws editable mind maps — visible tool-calling loop, built-in RAG, BYOK, multi-provider (OpenAI / Claude / DeepSeek)",
+  "url": "https://github.com/xianjianlf2/MindGeniusAI"
 }
 {
-  "name": "agmsg",
-  "full_name": "fujibee/agmsg",
-  "updated": "2026-06-21T04:01:39Z",
-  "desc": "Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.",
-  "url": "https://github.com/fujibee/agmsg"
+  "name": "opencode-manager",
+  "full_name": "chriswritescode-dev/opencode-manager",
+  "updated": "2026-06-22T03:57:25Z",
+  "desc": "Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, and real-time chat in a responsive PWA. Deploy with Docker for instant setup.",
+  "url": "https://github.com/chriswritescode-dev/opencode-manager"
 }
 {
-  "name": "ccxray",
-  "full_name": "lis186/ccxray",
-  "updated": "2026-06-21T04:00:42Z",
-  "desc": "X-ray vision for AI agent sessions — a transparent HTTP proxy and dashboard for Claude Code",
-  "url": "https://github.com/lis186/ccxray"
-}
-{
-  "name": "mempalace-evolve",
-  "full_name": "a2328275243/mempalace-evolve",
-  "updated": "2026-06-21T03:59:52Z",
-  "desc": "Self-evolving memory palace for AI agents — persistent memory with automatic learning, knowledge graph, and multi-agent support",
-  "url": "https://github.com/a2328275243/mempalace-evolve"
-}
-{
-  "name": "agent-beacon",
-  "full_name": "Asymptote-Labs/agent-beacon",
-  "updated": "2026-06-21T03:58:21Z",
-  "desc": "Agent Beacon is the world's first open-source telemetry layer for AI agents wherever they run: locally, in CI, or in the cloud.",
-  "url": "https://github.com/Asymptote-Labs/agent-beacon"
-}
-{
-  "name": "effGen",
-  "full_name": "ctrl-gaurav/effGen",
-  "updated": "2026-06-21T03:57:13Z",
-  "desc": "[ICML 2026] effGen: Enabling Small Language Models as Capable Autonomous Agents",
-  "url": "https://github.com/ctrl-gaurav/effGen"
-}
-{
-  "name": "OfficeCLI",
-  "full_name": "iOfficeAI/OfficeCLI",
-  "updated": "2026-06-21T03:57:46Z",
-  "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-  "url": "https://github.com/iOfficeAI/OfficeCLI"
-}
-{
-  "name": "AstrBot",
-  "full_name": "AstrBotDevs/AstrBot",
-  "updated": "2026-06-21T03:56:01Z",
-  "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-  "url": "https://github.com/AstrBotDevs/AstrBot"
+  "name": "mission-control",
+  "full_name": "builderz-labs/mission-control",
+  "updated": "2026-06-22T03:56:48Z",
+  "desc": "Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.",
+  "url": "https://github.com/builderz-labs/mission-control"
 }
 {
   "name": "omnigent",
   "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-06-21T04:00:38Z",
+  "updated": "2026-06-22T04:01:32Z",
   "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
   "url": "https://github.com/omnigent-ai/omnigent"
 }
 {
-  "name": "Equibles",
-  "full_name": "daniel3303/Equibles",
-  "updated": "2026-06-21T03:48:51Z",
-  "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
-  "url": "https://github.com/daniel3303/Equibles"
+  "name": "awesome-x402",
+  "full_name": "xpaysh/awesome-x402",
+  "updated": "2026-06-22T03:55:52Z",
+  "desc": "🚀 Curated list of x402 resources: HTTP 402 Payment Required protocol for blockchain payments, crypto micropayments, AI agents, API monetization. Includes SDKs (TypeScript, Python, Rust), examples, facilitators (Coinbase, Cloudflare), MCP integration, tutorials. Accept USDC payments with one line of code. Perfect for AI agent economy.",
+  "url": "https://github.com/xpaysh/awesome-x402"
+}
+{
+  "name": "OfficeCLI",
+  "full_name": "iOfficeAI/OfficeCLI",
+  "updated": "2026-06-22T04:00:29Z",
+  "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+  "url": "https://github.com/iOfficeAI/OfficeCLI"
+}
+{
+  "name": "openai-agents-python",
+  "full_name": "openai/openai-agents-python",
+  "updated": "2026-06-22T03:53:51Z",
+  "desc": "A lightweight, powerful framework for multi-agent workflows",
+  "url": "https://github.com/openai/openai-agents-python"
+}
+{
+  "name": "goose",
+  "full_name": "aaif-goose/goose",
+  "updated": "2026-06-22T03:55:14Z",
+  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "url": "https://github.com/aaif-goose/goose"
+}
+{
+  "name": "image-to-editable-ppt-skill",
+  "full_name": "ningzimu/image-to-editable-ppt-skill",
+  "updated": "2026-06-22T04:00:30Z",
+  "desc": "Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks.",
+  "url": "https://github.com/ningzimu/image-to-editable-ppt-skill"
+}
+{
+  "name": "anysearch-skill",
+  "full_name": "anysearch-ai/anysearch-skill",
+  "updated": "2026-06-22T03:50:58Z",
+  "desc": "Unified real-time search engine skill for AI agents. ",
+  "url": "https://github.com/anysearch-ai/anysearch-skill"
 }
