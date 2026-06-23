@@ -4,7 +4,7 @@
 }
 {
   "id": "agents-course/notebooks",
-  "likes": 619
+  "likes": 620
 }
 {
   "id": "agentica-org/DeepScaleR-1.5B-Preview",
@@ -15,12 +15,12 @@
   "likes": 415
 }
 {
-  "id": "openbmb/AgentCPM-Report",
-  "likes": 300
+  "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+  "likes": 389
 }
 {
-  "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-  "likes": 289
+  "id": "openbmb/AgentCPM-Report",
+  "likes": 300
 }
 {
   "id": "fishaudio/fish-agent-v0.1-3b",

@@ -1,70 +1,70 @@
 {
-  "name": "MindGeniusAI",
-  "full_name": "xianjianlf2/MindGeniusAI",
-  "updated": "2026-06-22T04:02:20Z",
-  "desc": "Open-source AI agent that reads your PDFs and draws editable mind maps — visible tool-calling loop, built-in RAG, BYOK, multi-provider (OpenAI / Claude / DeepSeek)",
-  "url": "https://github.com/xianjianlf2/MindGeniusAI"
+  "name": "OpenLore",
+  "full_name": "clay-good/OpenLore",
+  "updated": "2026-06-23T03:21:34Z",
+  "desc": "A local-first, deterministic intelligence graph that eliminates repetitive file reads for AI agents, tracks context freshness, and unifies code, infrastructure, and architectural decisions into a single, safety-gated governance runtime.",
+  "url": "https://github.com/clay-good/OpenLore"
 }
 {
-  "name": "opencode-manager",
-  "full_name": "chriswritescode-dev/opencode-manager",
-  "updated": "2026-06-22T03:57:25Z",
-  "desc": "Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, and real-time chat in a responsive PWA. Deploy with Docker for instant setup.",
-  "url": "https://github.com/chriswritescode-dev/opencode-manager"
+  "name": "Friday",
+  "full_name": "thesongzhu/Friday",
+  "updated": "2026-06-23T03:20:39Z",
+  "desc": "Private control plane for AI agents ",
+  "url": "https://github.com/thesongzhu/Friday"
 }
 {
-  "name": "mission-control",
-  "full_name": "builderz-labs/mission-control",
-  "updated": "2026-06-22T03:56:48Z",
-  "desc": "Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.",
-  "url": "https://github.com/builderz-labs/mission-control"
-}
-{
-  "name": "omnigent",
-  "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-06-22T04:01:32Z",
-  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-  "url": "https://github.com/omnigent-ai/omnigent"
-}
-{
-  "name": "awesome-x402",
-  "full_name": "xpaysh/awesome-x402",
-  "updated": "2026-06-22T03:55:52Z",
-  "desc": "🚀 Curated list of x402 resources: HTTP 402 Payment Required protocol for blockchain payments, crypto micropayments, AI agents, API monetization. Includes SDKs (TypeScript, Python, Rust), examples, facilitators (Coinbase, Cloudflare), MCP integration, tutorials. Accept USDC payments with one line of code. Perfect for AI agent economy.",
-  "url": "https://github.com/xpaysh/awesome-x402"
+  "name": "cli",
+  "full_name": "larksuite/cli",
+  "updated": "2026-06-23T03:20:46Z",
+  "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
+  "url": "https://github.com/larksuite/cli"
 }
 {
   "name": "OfficeCLI",
   "full_name": "iOfficeAI/OfficeCLI",
-  "updated": "2026-06-22T04:00:29Z",
+  "updated": "2026-06-23T03:19:38Z",
   "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
   "url": "https://github.com/iOfficeAI/OfficeCLI"
 }
 {
-  "name": "openai-agents-python",
-  "full_name": "openai/openai-agents-python",
-  "updated": "2026-06-22T03:53:51Z",
-  "desc": "A lightweight, powerful framework for multi-agent workflows",
-  "url": "https://github.com/openai/openai-agents-python"
+  "name": "agentsight",
+  "full_name": "eunomia-bpf/agentsight",
+  "updated": "2026-06-23T03:18:09Z",
+  "desc": "System-level AI agent profling/tracing tool and skills in eBPF",
+  "url": "https://github.com/eunomia-bpf/agentsight"
 }
 {
-  "name": "goose",
-  "full_name": "aaif-goose/goose",
-  "updated": "2026-06-22T03:55:14Z",
-  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-  "url": "https://github.com/aaif-goose/goose"
+  "name": "taOS",
+  "full_name": "jaylfc/taOS",
+  "updated": "2026-06-23T03:21:07Z",
+  "desc": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by choice. Offline AI memory (taOSmd), self-hosted multi-framework group chat, a full web desktop + app store, and auto-clustering across the consumer hardware you already have (Orange/Raspberry Pi, Mac mini, gaming PC).",
+  "url": "https://github.com/jaylfc/taOS"
 }
 {
-  "name": "image-to-editable-ppt-skill",
-  "full_name": "ningzimu/image-to-editable-ppt-skill",
-  "updated": "2026-06-22T04:00:30Z",
-  "desc": "Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks.",
-  "url": "https://github.com/ningzimu/image-to-editable-ppt-skill"
+  "name": "bottube",
+  "full_name": "Scottcjn/bottube",
+  "updated": "2026-06-23T03:17:04Z",
+  "desc": "AI-native video platform powered by Proof of Physical AI — agents and humans create, curate, and engage on hardware verified by physics. Part of the RustChain DePIN ecosystem.",
+  "url": "https://github.com/Scottcjn/bottube"
 }
 {
-  "name": "anysearch-skill",
-  "full_name": "anysearch-ai/anysearch-skill",
-  "updated": "2026-06-22T03:50:58Z",
-  "desc": "Unified real-time search engine skill for AI agents. ",
-  "url": "https://github.com/anysearch-ai/anysearch-skill"
+  "name": "wispterm",
+  "full_name": "xuzhougeng/wispterm",
+  "updated": "2026-06-23T03:16:08Z",
+  "desc": "A cross-platform terminal workspace for remote development and AI agents, powered by libghostty-vt.",
+  "url": "https://github.com/xuzhougeng/wispterm"
+}
+{
+  "name": "ArcReel",
+  "full_name": "ArcReel/ArcReel",
+  "updated": "2026-06-23T03:15:31Z",
+  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+  "url": "https://github.com/ArcReel/ArcReel"
+}
+{
+  "name": "Symbio",
+  "full_name": "854875058/Symbio",
+  "updated": "2026-06-23T03:15:18Z",
+  "desc": "🧬 Symbio（共生）- AI Infra 级多 Agent 协同框架 | 33 Killer Features: 动态 DAG, 本体化记忆, 防过早完成, 数据飞轮, 神经符号安全, OpenTelemetry 可观测, HITL 人类介入, MCP 原生支持, 语义缓存, PromptOps, 边缘计算, 隐私计算 | Next-Gen AI Infrastructure for Multi-Agent Orchestration",
+  "url": "https://github.com/854875058/Symbio"
 }
