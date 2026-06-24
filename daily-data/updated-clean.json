@@ -1,70 +1,70 @@
 {
-  "name": "OpenLore",
-  "full_name": "clay-good/OpenLore",
-  "updated": "2026-06-23T03:21:34Z",
-  "desc": "A local-first, deterministic intelligence graph that eliminates repetitive file reads for AI agents, tracks context freshness, and unifies code, infrastructure, and architectural decisions into a single, safety-gated governance runtime.",
-  "url": "https://github.com/clay-good/OpenLore"
+  "name": "BotSharp",
+  "full_name": "SciSharp/BotSharp",
+  "updated": "2026-06-24T03:26:12Z",
+  "desc": "AI Multi-Agent Framework in .NET",
+  "url": "https://github.com/SciSharp/BotSharp"
 }
 {
-  "name": "Friday",
-  "full_name": "thesongzhu/Friday",
-  "updated": "2026-06-23T03:20:39Z",
-  "desc": "Private control plane for AI agents ",
-  "url": "https://github.com/thesongzhu/Friday"
+  "name": "omnigent",
+  "full_name": "omnigent-ai/omnigent",
+  "updated": "2026-06-24T03:25:51Z",
+  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+  "url": "https://github.com/omnigent-ai/omnigent"
 }
 {
-  "name": "cli",
-  "full_name": "larksuite/cli",
-  "updated": "2026-06-23T03:20:46Z",
-  "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
-  "url": "https://github.com/larksuite/cli"
+  "name": "agents-js",
+  "full_name": "livekit/agents-js",
+  "updated": "2026-06-24T03:25:42Z",
+  "desc": "Build realtime multimodal AI agents with Node.js",
+  "url": "https://github.com/livekit/agents-js"
 }
 {
-  "name": "OfficeCLI",
-  "full_name": "iOfficeAI/OfficeCLI",
-  "updated": "2026-06-23T03:19:38Z",
-  "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-  "url": "https://github.com/iOfficeAI/OfficeCLI"
+  "name": "Cliclaw",
+  "full_name": "Happenmass/Cliclaw",
+  "updated": "2026-06-24T03:25:24Z",
+  "desc": "Your CLI coding agent shouldn't need a babysitter. cliclaw is a tool-agnostic meta-agent that runs Claude Code, Codex, or any TUI agent in parallel through tmux — clearing confirmations, remembering across sessions, scaling out.",
+  "url": "https://github.com/Happenmass/Cliclaw"
 }
 {
-  "name": "agentsight",
-  "full_name": "eunomia-bpf/agentsight",
-  "updated": "2026-06-23T03:18:09Z",
-  "desc": "System-level AI agent profling/tracing tool and skills in eBPF",
-  "url": "https://github.com/eunomia-bpf/agentsight"
+  "name": "reflexio",
+  "full_name": "ReflexioAI/reflexio",
+  "updated": "2026-06-24T03:24:52Z",
+  "desc": "Make your agents improve themselves. Reflexio is an AI agent self-improvement harness that enables your AI agents to continuously learn from real user interactions. ",
+  "url": "https://github.com/ReflexioAI/reflexio"
 }
 {
-  "name": "taOS",
-  "full_name": "jaylfc/taOS",
-  "updated": "2026-06-23T03:21:07Z",
-  "desc": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by choice. Offline AI memory (taOSmd), self-hosted multi-framework group chat, a full web desktop + app store, and auto-clustering across the consumer hardware you already have (Orange/Raspberry Pi, Mac mini, gaming PC).",
-  "url": "https://github.com/jaylfc/taOS"
+  "name": "moai-adk",
+  "full_name": "modu-ai/moai-adk",
+  "updated": "2026-06-24T03:23:51Z",
+  "desc": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+  "url": "https://github.com/modu-ai/moai-adk"
 }
 {
-  "name": "bottube",
-  "full_name": "Scottcjn/bottube",
-  "updated": "2026-06-23T03:17:04Z",
-  "desc": "AI-native video platform powered by Proof of Physical AI — agents and humans create, curate, and engage on hardware verified by physics. Part of the RustChain DePIN ecosystem.",
-  "url": "https://github.com/Scottcjn/bottube"
+  "name": "rosclaw",
+  "full_name": "ros-claw/rosclaw",
+  "updated": "2026-06-24T03:23:20Z",
+  "desc": "Self-evolving runtime infrastructure for Physical AI and embodied agents. Ground AI agents into robot bodies with e-URDF, sandbox safety, capability routing, praxis capture, physical memory, runtime intervention, and skill evolution.",
+  "url": "https://github.com/ros-claw/rosclaw"
 }
 {
-  "name": "wispterm",
-  "full_name": "xuzhougeng/wispterm",
-  "updated": "2026-06-23T03:16:08Z",
-  "desc": "A cross-platform terminal workspace for remote development and AI agents, powered by libghostty-vt.",
-  "url": "https://github.com/xuzhougeng/wispterm"
+  "name": "codeg",
+  "full_name": "xintaofei/codeg",
+  "updated": "2026-06-24T03:22:41Z",
+  "desc": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, Gemini CLI, etc. Desktop app, self-hosted server, or Docker.",
+  "url": "https://github.com/xintaofei/codeg"
 }
 {
-  "name": "ArcReel",
-  "full_name": "ArcReel/ArcReel",
-  "updated": "2026-06-23T03:15:31Z",
-  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-  "url": "https://github.com/ArcReel/ArcReel"
+  "name": "openagent",
+  "full_name": "the-open-agent/openagent",
+  "updated": "2026-06-24T03:22:36Z",
+  "desc": "⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org",
+  "url": "https://github.com/the-open-agent/openagent"
 }
 {
-  "name": "Symbio",
-  "full_name": "854875058/Symbio",
-  "updated": "2026-06-23T03:15:18Z",
-  "desc": "🧬 Symbio（共生）- AI Infra 级多 Agent 协同框架 | 33 Killer Features: 动态 DAG, 本体化记忆, 防过早完成, 数据飞轮, 神经符号安全, OpenTelemetry 可观测, HITL 人类介入, MCP 原生支持, 语义缓存, PromptOps, 边缘计算, 隐私计算 | Next-Gen AI Infrastructure for Multi-Agent Orchestration",
-  "url": "https://github.com/854875058/Symbio"
+  "name": "studio",
+  "full_name": "decocms/studio",
+  "updated": "2026-06-24T03:21:17Z",
+  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+  "url": "https://github.com/decocms/studio"
 }

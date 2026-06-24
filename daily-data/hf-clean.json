@@ -4,19 +4,19 @@
 }
 {
   "id": "agents-course/notebooks",
-  "likes": 620
+  "likes": 624
 }
 {
   "id": "agentica-org/DeepScaleR-1.5B-Preview",
   "likes": 584
 }
 {
-  "id": "openbmb/AgentCPM-Explore",
-  "likes": 415
+  "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+  "likes": 455
 }
 {
-  "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-  "likes": 389
+  "id": "openbmb/AgentCPM-Explore",
+  "likes": 415
 }
 {
   "id": "openbmb/AgentCPM-Report",
@@ -32,7 +32,7 @@
 }
 {
   "id": "Adilbai/stock-trading-rl-agent",
-  "likes": 156
+  "likes": 157
 }
 {
   "id": "openbmb/AgentCPM-GUI",
