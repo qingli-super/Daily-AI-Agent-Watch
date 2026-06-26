@@ -1,70 +1,70 @@
 {
-  "name": "lexa",
-  "full_name": "anvia-hq/lexa",
-  "updated": "2026-06-25T03:22:43Z",
-  "desc": "Lexa - Fast local code intelligence for humans and AI agents. Lexa turns a codebase into a portable, queryable graph so every tool can work from the same stable view of the project.",
-  "url": "https://github.com/anvia-hq/lexa"
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-06-26T03:31:38Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
 }
 {
-  "name": "agents-flex",
-  "full_name": "agents-flex/agents-flex",
-  "updated": "2026-06-25T03:20:25Z",
-  "desc": "Agents-flex is A lightweight Java AI agent development framework (positioned as a counterpart to Spring AI). It supports features such as RAG, MCP, Skills, Text2SQL , LLM Wiki, Sub-agents, Web Search, TTS (synchronous and streaming), and STT.",
-  "url": "https://github.com/agents-flex/agents-flex"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-06-26T03:31:01Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "CowAgent",
-  "full_name": "zhayujie/CowAgent",
-  "updated": "2026-06-25T03:20:37Z",
-  "desc": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-  "url": "https://github.com/zhayujie/CowAgent"
+  "name": "TencentDB-Agent-Memory",
+  "full_name": "TencentCloud/TencentDB-Agent-Memory",
+  "updated": "2026-06-26T03:30:54Z",
+  "desc": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+  "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+}
+{
+  "name": "openagentskill",
+  "full_name": "Leon-Drq/openagentskill",
+  "updated": "2026-06-26T03:28:36Z",
+  "desc": "The skill layer for AI agents: npm for AI Agent Skills.",
+  "url": "https://github.com/Leon-Drq/openagentskill"
 }
 {
   "name": "adk-python",
   "full_name": "google/adk-python",
-  "updated": "2026-06-25T03:19:59Z",
+  "updated": "2026-06-26T03:28:27Z",
   "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
   "url": "https://github.com/google/adk-python"
 }
 {
-  "name": "cli",
-  "full_name": "larksuite/cli",
-  "updated": "2026-06-25T03:21:46Z",
-  "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
-  "url": "https://github.com/larksuite/cli"
+  "name": "AstrBot",
+  "full_name": "AstrBotDevs/AstrBot",
+  "updated": "2026-06-26T03:31:52Z",
+  "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+  "url": "https://github.com/AstrBotDevs/AstrBot"
 }
 {
-  "name": "mateclaw",
-  "full_name": "mateaix/mateclaw",
-  "updated": "2026-06-25T03:18:56Z",
-  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-  "url": "https://github.com/mateaix/mateclaw"
+  "name": "apex",
+  "full_name": "pensarai/apex",
+  "updated": "2026-06-26T03:27:40Z",
+  "desc": "AI-powered offensive security testing using autonomous agents, directly in your terminal.",
+  "url": "https://github.com/pensarai/apex"
 }
 {
-  "name": "codux",
-  "full_name": "duxweb/codux",
-  "updated": "2026-06-25T03:18:43Z",
-  "desc": "⬛  A native connected terminal for AI agent development. 为 AI Agent 开发而生的原生互联终端。",
-  "url": "https://github.com/duxweb/codux"
+  "name": "Friday",
+  "full_name": "thesongzhu/Friday",
+  "updated": "2026-06-26T03:26:30Z",
+  "desc": "Private control plane for AI agents ",
+  "url": "https://github.com/thesongzhu/Friday"
 }
 {
-  "name": "agent-harness-generator",
-  "full_name": "ruvnet/agent-harness-generator",
-  "updated": "2026-06-25T03:21:23Z",
-  "desc": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
-  "url": "https://github.com/ruvnet/agent-harness-generator"
+  "name": "CubeSandbox",
+  "full_name": "TencentCloud/CubeSandbox",
+  "updated": "2026-06-26T03:25:35Z",
+  "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+  "url": "https://github.com/TencentCloud/CubeSandbox"
 }
 {
-  "name": "ai-berkshire",
-  "full_name": "xbtlin/ai-berkshire",
-  "updated": "2026-06-25T03:22:25Z",
-  "desc": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-  "url": "https://github.com/xbtlin/ai-berkshire"
-}
-{
-  "name": "mcp-gateway-registry",
-  "full_name": "agentic-community/mcp-gateway-registry",
-  "updated": "2026-06-25T03:17:51Z",
-  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
-  "url": "https://github.com/agentic-community/mcp-gateway-registry"
+  "name": "omnigent",
+  "full_name": "omnigent-ai/omnigent",
+  "updated": "2026-06-26T03:30:57Z",
+  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+  "url": "https://github.com/omnigent-ai/omnigent"
 }
