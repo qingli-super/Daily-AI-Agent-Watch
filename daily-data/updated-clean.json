@@ -1,70 +1,70 @@
 {
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-06-26T03:31:38Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
+  "name": "osaurus",
+  "full_name": "osaurus-ai/osaurus",
+  "updated": "2026-06-27T02:54:39Z",
+  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+  "url": "https://github.com/osaurus-ai/osaurus"
+}
+{
+  "name": "notebooklm-py",
+  "full_name": "teng-lin/notebooklm-py",
+  "updated": "2026-06-27T02:52:37Z",
+  "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+  "url": "https://github.com/teng-lin/notebooklm-py"
+}
+{
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-06-27T02:50:28Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-06-26T03:31:01Z",
+  "updated": "2026-06-27T02:41:13Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
   "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "TencentDB-Agent-Memory",
-  "full_name": "TencentCloud/TencentDB-Agent-Memory",
-  "updated": "2026-06-26T03:30:54Z",
-  "desc": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-  "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  "name": "openlumara",
+  "full_name": "Rose22/openlumara",
+  "updated": "2026-06-27T02:39:59Z",
+  "desc": "AI agent framework, written from scratch (not based on openclaw), focused on stripping it down to the bare necessities, optimizing token count, reducing security risks. modular so you can enable only exactly what you need.",
+  "url": "https://github.com/Rose22/openlumara"
 }
 {
-  "name": "openagentskill",
-  "full_name": "Leon-Drq/openagentskill",
-  "updated": "2026-06-26T03:28:36Z",
-  "desc": "The skill layer for AI agents: npm for AI Agent Skills.",
-  "url": "https://github.com/Leon-Drq/openagentskill"
+  "name": "chatgpt-imagegen",
+  "full_name": "leeguooooo/chatgpt-imagegen",
+  "updated": "2026-06-27T02:38:00Z",
+  "desc": "Use your ChatGPT subscription to generate images from the command line — no OPENAI_API_KEY, no gateway, no daemon. Zero-dep Python CLI + AI-agent skill.",
+  "url": "https://github.com/leeguooooo/chatgpt-imagegen"
 }
 {
-  "name": "adk-python",
-  "full_name": "google/adk-python",
-  "updated": "2026-06-26T03:28:27Z",
-  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "url": "https://github.com/google/adk-python"
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "updated": "2026-06-27T02:47:56Z",
+  "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "url": "https://github.com/mvanhorn/last30days-skill"
 }
 {
-  "name": "AstrBot",
-  "full_name": "AstrBotDevs/AstrBot",
-  "updated": "2026-06-26T03:31:52Z",
-  "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-  "url": "https://github.com/AstrBotDevs/AstrBot"
-}
-{
-  "name": "apex",
-  "full_name": "pensarai/apex",
-  "updated": "2026-06-26T03:27:40Z",
-  "desc": "AI-powered offensive security testing using autonomous agents, directly in your terminal.",
-  "url": "https://github.com/pensarai/apex"
-}
-{
-  "name": "Friday",
-  "full_name": "thesongzhu/Friday",
-  "updated": "2026-06-26T03:26:30Z",
-  "desc": "Private control plane for AI agents ",
-  "url": "https://github.com/thesongzhu/Friday"
-}
-{
-  "name": "CubeSandbox",
-  "full_name": "TencentCloud/CubeSandbox",
-  "updated": "2026-06-26T03:25:35Z",
-  "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-  "url": "https://github.com/TencentCloud/CubeSandbox"
+  "name": "OpenLore",
+  "full_name": "clay-good/OpenLore",
+  "updated": "2026-06-27T02:35:08Z",
+  "desc": "A local-first, deterministic intelligence graph that eliminates repetitive file reads for AI agents, tracks context freshness, and unifies code, infrastructure, and architectural decisions into a single, safety-gated governance runtime.",
+  "url": "https://github.com/clay-good/OpenLore"
 }
 {
   "name": "omnigent",
   "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-06-26T03:30:57Z",
+  "updated": "2026-06-27T02:38:18Z",
   "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
   "url": "https://github.com/omnigent-ai/omnigent"
+}
+{
+  "name": "itops-agent-platform",
+  "full_name": "qinshihu/itops-agent-platform",
+  "updated": "2026-06-27T02:47:54Z",
+  "desc": "国内首个企业级 IT 运维多 Agent 自动化平台 — 基于大语言模型的智能运维解决方案。ITOps Agent Platform通过可视化工作流编排，将多个AI Agent组合成智能运维自动化流水线，实现服务器管理、告警处理、故障诊断、日志分析、脚本管理、定时运维任务的自动化执行， 支持国内外主流大模型，旨在 Zabbix/Prometheus 告警自动修复闭环，Docker 一键部署",
+  "url": "https://github.com/qinshihu/itops-agent-platform"
 }
