@@ -1,70 +1,70 @@
 {
-  "name": "osaurus",
-  "full_name": "osaurus-ai/osaurus",
-  "updated": "2026-06-27T02:54:39Z",
-  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
-  "url": "https://github.com/osaurus-ai/osaurus"
+  "name": "echo-agent",
+  "full_name": "fuyuxiang/echo-agent",
+  "updated": "2026-06-28T03:36:34Z",
+  "desc": "Echo Agent 是一个可自托管、长期运行、持续学习的 AI Agent，面向个人与团队的私有自动化场景。它可以部署在自有服务器上，统一连接模型、工具、记忆、权限与消息入口。内置四层认知记忆、遗忘曲线与矛盾检测机制，能够在跨会话任务中持续沉淀上下文，并保持长期记忆的质量。针对命令执行、文件操作等高风险行为，它提供基于 LLM 的审批与解释机制，为关键操作建立可审计、可追溯的安全边界。原生支持 MCP、A2A、多模型路由、任务调度、工具调用和多通道接入，覆盖 CLI、Gateway API、微信、Telegram 等入口。它让 Agent 带着长期记忆和可进化技能，持续、安全地为你工作。",
+  "url": "https://github.com/fuyuxiang/echo-agent"
 }
 {
-  "name": "notebooklm-py",
-  "full_name": "teng-lin/notebooklm-py",
-  "updated": "2026-06-27T02:52:37Z",
-  "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
-  "url": "https://github.com/teng-lin/notebooklm-py"
+  "name": "sandvault",
+  "full_name": "webcoyote/sandvault",
+  "updated": "2026-06-28T03:36:15Z",
+  "desc": "Run AI agents isolated in a macOS user account and sandbox-exec. Configured to run Claude Code, OpenAI Codex, Cursor Agent, Google Gemini.",
+  "url": "https://github.com/webcoyote/sandvault"
 }
 {
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-06-27T02:50:28Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
+  "name": "agor",
+  "full_name": "preset-io/agor",
+  "updated": "2026-06-28T03:35:23Z",
+  "desc": "Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.",
+  "url": "https://github.com/preset-io/agor"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-06-27T02:41:13Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "Vibe-Trading",
+  "full_name": "HKUDS/Vibe-Trading",
+  "updated": "2026-06-28T03:35:53Z",
+  "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+  "url": "https://github.com/HKUDS/Vibe-Trading"
 }
 {
-  "name": "openlumara",
-  "full_name": "Rose22/openlumara",
-  "updated": "2026-06-27T02:39:59Z",
-  "desc": "AI agent framework, written from scratch (not based on openclaw), focused on stripping it down to the bare necessities, optimizing token count, reducing security risks. modular so you can enable only exactly what you need.",
-  "url": "https://github.com/Rose22/openlumara"
+  "name": "opencode-swarm",
+  "full_name": "ZaxbyHub/opencode-swarm",
+  "updated": "2026-06-28T03:30:45Z",
+  "desc": "  Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
+  "url": "https://github.com/ZaxbyHub/opencode-swarm"
 }
 {
-  "name": "chatgpt-imagegen",
-  "full_name": "leeguooooo/chatgpt-imagegen",
-  "updated": "2026-06-27T02:38:00Z",
-  "desc": "Use your ChatGPT subscription to generate images from the command line — no OPENAI_API_KEY, no gateway, no daemon. Zero-dep Python CLI + AI-agent skill.",
-  "url": "https://github.com/leeguooooo/chatgpt-imagegen"
+  "name": "switchboard",
+  "full_name": "TentacleOpera/switchboard",
+  "updated": "2026-06-28T03:30:19Z",
+  "desc": "Switchboard plugin for VS Code, enables subscription-based AI agent teams",
+  "url": "https://github.com/TentacleOpera/switchboard"
 }
 {
-  "name": "last30days-skill",
-  "full_name": "mvanhorn/last30days-skill",
-  "updated": "2026-06-27T02:47:56Z",
-  "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-  "url": "https://github.com/mvanhorn/last30days-skill"
+  "name": "rhinomcp",
+  "full_name": "jingcheng-chen/rhinomcp",
+  "updated": "2026-06-28T03:30:12Z",
+  "desc": "RhinoMCP connects Rhino 3D to AI Agent through the Model Context Protocol (MCP)",
+  "url": "https://github.com/jingcheng-chen/rhinomcp"
 }
 {
-  "name": "OpenLore",
-  "full_name": "clay-good/OpenLore",
-  "updated": "2026-06-27T02:35:08Z",
-  "desc": "A local-first, deterministic intelligence graph that eliminates repetitive file reads for AI agents, tracks context freshness, and unifies code, infrastructure, and architectural decisions into a single, safety-gated governance runtime.",
-  "url": "https://github.com/clay-good/OpenLore"
+  "name": "mnemon",
+  "full_name": "mnemon-dev/mnemon",
+  "updated": "2026-06-28T03:26:36Z",
+  "desc": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with Claude Code, OpenClaw, and any CLI agent.",
+  "url": "https://github.com/mnemon-dev/mnemon"
 }
 {
-  "name": "omnigent",
-  "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-06-27T02:38:18Z",
-  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-  "url": "https://github.com/omnigent-ai/omnigent"
+  "name": "TradingAgents-astock",
+  "full_name": "simonlin1212/TradingAgents-astock",
+  "updated": "2026-06-28T03:26:29Z",
+  "desc": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
+  "url": "https://github.com/simonlin1212/TradingAgents-astock"
 }
 {
-  "name": "itops-agent-platform",
-  "full_name": "qinshihu/itops-agent-platform",
-  "updated": "2026-06-27T02:47:54Z",
-  "desc": "国内首个企业级 IT 运维多 Agent 自动化平台 — 基于大语言模型的智能运维解决方案。ITOps Agent Platform通过可视化工作流编排，将多个AI Agent组合成智能运维自动化流水线，实现服务器管理、告警处理、故障诊断、日志分析、脚本管理、定时运维任务的自动化执行， 支持国内外主流大模型，旨在 Zabbix/Prometheus 告警自动修复闭环，Docker 一键部署",
-  "url": "https://github.com/qinshihu/itops-agent-platform"
+  "name": "claude_codex_bridge",
+  "full_name": "SeemSeam/claude_codex_bridge",
+  "updated": "2026-06-28T03:26:26Z",
+  "desc": "Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents",
+  "url": "https://github.com/SeemSeam/claude_codex_bridge"
 }
