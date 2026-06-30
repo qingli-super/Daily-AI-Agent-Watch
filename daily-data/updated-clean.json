@@ -1,70 +1,70 @@
 {
-  "name": "echo-agent",
-  "full_name": "fuyuxiang/echo-agent",
-  "updated": "2026-06-28T03:36:34Z",
-  "desc": "Echo Agent 是一个可自托管、长期运行、持续学习的 AI Agent，面向个人与团队的私有自动化场景。它可以部署在自有服务器上，统一连接模型、工具、记忆、权限与消息入口。内置四层认知记忆、遗忘曲线与矛盾检测机制，能够在跨会话任务中持续沉淀上下文，并保持长期记忆的质量。针对命令执行、文件操作等高风险行为，它提供基于 LLM 的审批与解释机制，为关键操作建立可审计、可追溯的安全边界。原生支持 MCP、A2A、多模型路由、任务调度、工具调用和多通道接入，覆盖 CLI、Gateway API、微信、Telegram 等入口。它让 Agent 带着长期记忆和可进化技能，持续、安全地为你工作。",
-  "url": "https://github.com/fuyuxiang/echo-agent"
+  "name": "Friday",
+  "full_name": "thesongzhu/Friday",
+  "updated": "2026-06-30T03:29:39Z",
+  "desc": "Private control plane for AI agents ",
+  "url": "https://github.com/thesongzhu/Friday"
 }
 {
-  "name": "sandvault",
-  "full_name": "webcoyote/sandvault",
-  "updated": "2026-06-28T03:36:15Z",
-  "desc": "Run AI agents isolated in a macOS user account and sandbox-exec. Configured to run Claude Code, OpenAI Codex, Cursor Agent, Google Gemini.",
-  "url": "https://github.com/webcoyote/sandvault"
+  "name": "calfkit-sdk",
+  "full_name": "calf-ai/calfkit-sdk",
+  "updated": "2026-06-30T03:29:03Z",
+  "desc": "🐮 Build powerful AI agents with dynamic agent-to-agent discovery and collaboration",
+  "url": "https://github.com/calf-ai/calfkit-sdk"
+}
+{
+  "name": "jiuwenswarm",
+  "full_name": "openJiuwen-ai/jiuwenswarm",
+  "updated": "2026-06-30T03:28:54Z",
+  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
+  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
+}
+{
+  "name": "wispterm",
+  "full_name": "xuzhougeng/wispterm",
+  "updated": "2026-06-30T03:28:20Z",
+  "desc": "A cross-platform terminal workspace for remote development and AI agent workflows, powered by libghostty-vt",
+  "url": "https://github.com/xuzhougeng/wispterm"
+}
+{
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-06-30T03:27:35Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
+}
+{
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-06-30T03:27:06Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
   "name": "agor",
   "full_name": "preset-io/agor",
-  "updated": "2026-06-28T03:35:23Z",
+  "updated": "2026-06-30T03:28:40Z",
   "desc": "Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.",
   "url": "https://github.com/preset-io/agor"
 }
 {
-  "name": "Vibe-Trading",
-  "full_name": "HKUDS/Vibe-Trading",
-  "updated": "2026-06-28T03:35:53Z",
-  "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
-  "url": "https://github.com/HKUDS/Vibe-Trading"
+  "name": "software-agent-sdk",
+  "full_name": "OpenHands/software-agent-sdk",
+  "updated": "2026-06-30T03:25:05Z",
+  "desc": "A clean, modular SDK for building AI agents with OpenHands V1.",
+  "url": "https://github.com/OpenHands/software-agent-sdk"
 }
 {
-  "name": "opencode-swarm",
-  "full_name": "ZaxbyHub/opencode-swarm",
-  "updated": "2026-06-28T03:30:45Z",
-  "desc": "  Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
-  "url": "https://github.com/ZaxbyHub/opencode-swarm"
+  "name": "OpenViking",
+  "full_name": "volcengine/OpenViking",
+  "updated": "2026-06-30T03:22:45Z",
+  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+  "url": "https://github.com/volcengine/OpenViking"
 }
 {
-  "name": "switchboard",
-  "full_name": "TentacleOpera/switchboard",
-  "updated": "2026-06-28T03:30:19Z",
-  "desc": "Switchboard plugin for VS Code, enables subscription-based AI agent teams",
-  "url": "https://github.com/TentacleOpera/switchboard"
-}
-{
-  "name": "rhinomcp",
-  "full_name": "jingcheng-chen/rhinomcp",
-  "updated": "2026-06-28T03:30:12Z",
-  "desc": "RhinoMCP connects Rhino 3D to AI Agent through the Model Context Protocol (MCP)",
-  "url": "https://github.com/jingcheng-chen/rhinomcp"
-}
-{
-  "name": "mnemon",
-  "full_name": "mnemon-dev/mnemon",
-  "updated": "2026-06-28T03:26:36Z",
-  "desc": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with Claude Code, OpenClaw, and any CLI agent.",
-  "url": "https://github.com/mnemon-dev/mnemon"
-}
-{
-  "name": "TradingAgents-astock",
-  "full_name": "simonlin1212/TradingAgents-astock",
-  "updated": "2026-06-28T03:26:29Z",
-  "desc": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
-  "url": "https://github.com/simonlin1212/TradingAgents-astock"
-}
-{
-  "name": "claude_codex_bridge",
-  "full_name": "SeemSeam/claude_codex_bridge",
-  "updated": "2026-06-28T03:26:26Z",
-  "desc": "Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents",
-  "url": "https://github.com/SeemSeam/claude_codex_bridge"
+  "name": "Zoo-Code",
+  "full_name": "Zoo-Code-Org/Zoo-Code",
+  "updated": "2026-06-30T03:22:07Z",
+  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
+  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
 }
