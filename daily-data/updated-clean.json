@@ -1,70 +1,70 @@
 {
-  "name": "Friday",
-  "full_name": "thesongzhu/Friday",
-  "updated": "2026-06-30T03:29:39Z",
-  "desc": "Private control plane for AI agents ",
-  "url": "https://github.com/thesongzhu/Friday"
-}
-{
-  "name": "calfkit-sdk",
-  "full_name": "calf-ai/calfkit-sdk",
-  "updated": "2026-06-30T03:29:03Z",
-  "desc": "🐮 Build powerful AI agents with dynamic agent-to-agent discovery and collaboration",
-  "url": "https://github.com/calf-ai/calfkit-sdk"
-}
-{
-  "name": "jiuwenswarm",
-  "full_name": "openJiuwen-ai/jiuwenswarm",
-  "updated": "2026-06-30T03:28:54Z",
-  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
-  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
-}
-{
-  "name": "wispterm",
-  "full_name": "xuzhougeng/wispterm",
-  "updated": "2026-06-30T03:28:20Z",
-  "desc": "A cross-platform terminal workspace for remote development and AI agent workflows, powered by libghostty-vt",
-  "url": "https://github.com/xuzhougeng/wispterm"
-}
-{
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-06-30T03:27:35Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
-}
-{
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-06-30T03:27:06Z",
+  "updated": "2026-07-01T03:38:49Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
   "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "agor",
-  "full_name": "preset-io/agor",
-  "updated": "2026-06-30T03:28:40Z",
-  "desc": "Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.",
-  "url": "https://github.com/preset-io/agor"
+  "name": "AI-fundamentals",
+  "full_name": "ForceInjection/AI-fundamentals",
+  "updated": "2026-07-01T03:38:25Z",
+  "desc": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识。",
+  "url": "https://github.com/ForceInjection/AI-fundamentals"
 }
 {
-  "name": "software-agent-sdk",
-  "full_name": "OpenHands/software-agent-sdk",
-  "updated": "2026-06-30T03:25:05Z",
-  "desc": "A clean, modular SDK for building AI agents with OpenHands V1.",
-  "url": "https://github.com/OpenHands/software-agent-sdk"
+  "name": "evolver",
+  "full_name": "EvoMap/evolver",
+  "updated": "2026-07-01T03:38:20Z",
+  "desc": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+  "url": "https://github.com/EvoMap/evolver"
 }
 {
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-06-30T03:22:45Z",
-  "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-  "url": "https://github.com/volcengine/OpenViking"
+  "name": "agentscope",
+  "full_name": "agentscope-ai/agentscope",
+  "updated": "2026-07-01T03:36:08Z",
+  "desc": "Build and run agents you can see, understand and trust.",
+  "url": "https://github.com/agentscope-ai/agentscope"
 }
 {
-  "name": "Zoo-Code",
-  "full_name": "Zoo-Code-Org/Zoo-Code",
-  "updated": "2026-06-30T03:22:07Z",
-  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
-  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-07-01T03:36:04Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+}
+{
+  "name": "ClaudeCode-Workflow-Lab",
+  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
+  "updated": "2026-07-01T03:34:22Z",
+  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
+  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
+}
+{
+  "name": "inkos",
+  "full_name": "Narcooo/inkos",
+  "updated": "2026-07-01T03:31:56Z",
+  "desc": "Story Creation AI Agent for novel, scripts, interactive games, and IP content",
+  "url": "https://github.com/Narcooo/inkos"
+}
+{
+  "name": "ArcReel",
+  "full_name": "ArcReel/ArcReel",
+  "updated": "2026-07-01T03:31:49Z",
+  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+  "url": "https://github.com/ArcReel/ArcReel"
+}
+{
+  "name": "OpenSwarm",
+  "full_name": "unohee/OpenSwarm",
+  "updated": "2026-07-01T03:30:16Z",
+  "desc": "OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.",
+  "url": "https://github.com/unohee/OpenSwarm"
+}
+{
+  "name": "vArmor",
+  "full_name": "bytedance/vArmor",
+  "updated": "2026-07-01T03:30:18Z",
+  "desc": "vArmor is a cloud-native container hardening system that leverages AppArmor/BPF/Seccomp and network proxy technologies to enforce access control from system calls to application protocols — protecting workloads including AI Agents.",
+  "url": "https://github.com/bytedance/vArmor"
 }
