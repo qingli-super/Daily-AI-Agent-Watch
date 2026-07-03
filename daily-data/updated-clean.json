@@ -1,70 +1,70 @@
 {
-  "name": "agentsight",
-  "full_name": "eunomia-bpf/agentsight",
-  "updated": "2026-07-02T03:24:08Z",
-  "desc": "System-level AI agent profling/tracing tool and skills in eBPF",
-  "url": "https://github.com/eunomia-bpf/agentsight"
+  "name": "ArcReel",
+  "full_name": "ArcReel/ArcReel",
+  "updated": "2026-07-03T02:46:47Z",
+  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+  "url": "https://github.com/ArcReel/ArcReel"
 }
 {
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-07-02T03:23:45Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
-}
-{
-  "name": "moai-adk",
-  "full_name": "modu-ai/moai-adk",
-  "updated": "2026-07-02T03:23:10Z",
-  "desc": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-  "url": "https://github.com/modu-ai/moai-adk"
-}
-{
-  "name": "deer-flow",
-  "full_name": "bytedance/deer-flow",
-  "updated": "2026-07-02T03:22:47Z",
-  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-  "url": "https://github.com/bytedance/deer-flow"
-}
-{
-  "name": "wispterm",
-  "full_name": "xuzhougeng/wispterm",
-  "updated": "2026-07-02T03:22:36Z",
-  "desc": "A cross-platform terminal workspace for remote development and AI agent workflows, powered by libghostty-vt",
-  "url": "https://github.com/xuzhougeng/wispterm"
-}
-{
-  "name": "OpenSwarm",
-  "full_name": "unohee/OpenSwarm",
-  "updated": "2026-07-02T03:22:32Z",
-  "desc": "OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.",
-  "url": "https://github.com/unohee/OpenSwarm"
-}
-{
-  "name": "vexjoy-agent",
-  "full_name": "notque/vexjoy-agent",
-  "updated": "2026-07-02T03:21:47Z",
-  "desc": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the work with reviews, tests, and a learning loop.",
-  "url": "https://github.com/notque/vexjoy-agent"
-}
-{
-  "name": "MisakaNet",
-  "full_name": "Ikalus1988/MisakaNet",
-  "updated": "2026-07-02T03:21:46Z",
-  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-  "url": "https://github.com/Ikalus1988/MisakaNet"
-}
-{
-  "name": "codux",
-  "full_name": "duxweb/codux",
-  "updated": "2026-07-02T03:21:39Z",
-  "desc": "⬛  A native connected terminal for AI agent development. 为 AI Agent 开发而生的原生互联终端。",
-  "url": "https://github.com/duxweb/codux"
+  "name": "vArmor",
+  "full_name": "bytedance/vArmor",
+  "updated": "2026-07-03T02:44:41Z",
+  "desc": "vArmor is a cloud-native container hardening system that leverages AppArmor/BPF/Seccomp and network proxy technologies to enforce access control from system calls to application protocols — protecting workloads including AI Agents.",
+  "url": "https://github.com/bytedance/vArmor"
 }
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-07-02T03:21:37Z",
+  "updated": "2026-07-03T02:44:31Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+}
+{
+  "name": "mateclaw",
+  "full_name": "mateaix/mateclaw",
+  "updated": "2026-07-03T02:43:48Z",
+  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+  "url": "https://github.com/mateaix/mateclaw"
+}
+{
+  "name": "ai-agents-for-beginners",
+  "full_name": "microsoft/ai-agents-for-beginners",
+  "updated": "2026-07-03T02:44:48Z",
+  "desc": "12 Lessons to Get Started Building AI Agents",
+  "url": "https://github.com/microsoft/ai-agents-for-beginners"
+}
+{
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-07-03T02:43:40Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
+}
+{
+  "name": "codeg",
+  "full_name": "xintaofei/codeg",
+  "updated": "2026-07-03T02:43:00Z",
+  "desc": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, etc. Desktop app, self-hosted server, or Docker.",
+  "url": "https://github.com/xintaofei/codeg"
+}
+{
+  "name": "loki-mode",
+  "full_name": "asklokesh/loki-mode",
+  "updated": "2026-07-03T02:42:53Z",
+  "desc": "Multi-agent autonomous SDLC framework. Spec to deployed app. PRD, GitHub issue, OpenAPI/JSON/YAML, or one-line brief. 5 AI providers, 11 quality gates.",
+  "url": "https://github.com/asklokesh/loki-mode"
+}
+{
+  "name": "ClaudeCode-Workflow-Lab",
+  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
+  "updated": "2026-07-03T02:42:20Z",
+  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
+  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
+}
+{
+  "name": "opencrabs",
+  "full_name": "adolfousier/opencrabs",
+  "updated": "2026-07-03T02:41:58Z",
+  "desc": "The all-in-one AI agent living in your terminal. Build landing, mobile apps, backends, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI, CLI and Daemon. Connect to your favorite channels.",
+  "url": "https://github.com/adolfousier/opencrabs"
 }
