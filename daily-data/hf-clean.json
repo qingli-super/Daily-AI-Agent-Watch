@@ -1,6 +1,6 @@
 {
   "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-  "likes": 963
+  "likes": 992
 }
 {
   "id": "agentica-org/DeepCoder-14B-Preview",
@@ -8,7 +8,7 @@
 }
 {
   "id": "agents-course/notebooks",
-  "likes": 645
+  "likes": 648
 }
 {
   "id": "agentica-org/DeepScaleR-1.5B-Preview",
@@ -16,7 +16,7 @@
 }
 {
   "id": "Qwen/Qwen-AgentWorld-35B-A3B",
-  "likes": 511
+  "likes": 526
 }
 {
   "id": "openbmb/AgentCPM-Explore",
@@ -24,17 +24,17 @@
 }
 {
   "id": "openbmb/AgentCPM-Report",
-  "likes": 303
+  "likes": 304
 }
 {
   "id": "fishaudio/fish-agent-v0.1-3b",
   "likes": 274
 }
 {
-  "id": "agentica-org/DeepSWE-Preview",
-  "likes": 199
+  "id": "InternScience/Agents-A1",
+  "likes": 211
 }
 {
-  "id": "InternScience/Agents-A1",
-  "likes": 182
+  "id": "agentica-org/DeepSWE-Preview",
+  "likes": 199
 }

@@ -1,70 +1,70 @@
 {
-  "name": "ArcReel",
-  "full_name": "ArcReel/ArcReel",
-  "updated": "2026-07-03T02:46:47Z",
-  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-  "url": "https://github.com/ArcReel/ArcReel"
-}
-{
-  "name": "vArmor",
-  "full_name": "bytedance/vArmor",
-  "updated": "2026-07-03T02:44:41Z",
-  "desc": "vArmor is a cloud-native container hardening system that leverages AppArmor/BPF/Seccomp and network proxy technologies to enforce access control from system calls to application protocols — protecting workloads including AI Agents.",
-  "url": "https://github.com/bytedance/vArmor"
+  "name": "wmux",
+  "full_name": "openwong2kim/wmux",
+  "updated": "2026-07-04T02:41:24Z",
+  "desc": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
+  "url": "https://github.com/openwong2kim/wmux"
 }
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-07-03T02:44:31Z",
+  "updated": "2026-07-04T02:40:14Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "mateclaw",
-  "full_name": "mateaix/mateclaw",
-  "updated": "2026-07-03T02:43:48Z",
-  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-  "url": "https://github.com/mateaix/mateclaw"
+  "name": "executor",
+  "full_name": "UsefulSoftwareCo/executor",
+  "updated": "2026-07-04T02:40:00Z",
+  "desc": "The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.",
+  "url": "https://github.com/UsefulSoftwareCo/executor"
 }
 {
-  "name": "ai-agents-for-beginners",
-  "full_name": "microsoft/ai-agents-for-beginners",
-  "updated": "2026-07-03T02:44:48Z",
-  "desc": "12 Lessons to Get Started Building AI Agents",
-  "url": "https://github.com/microsoft/ai-agents-for-beginners"
+  "name": "openai-agents-js",
+  "full_name": "openai/openai-agents-js",
+  "updated": "2026-07-04T02:39:56Z",
+  "desc": "A lightweight, powerful framework for multi-agent workflows and voice agents",
+  "url": "https://github.com/openai/openai-agents-js"
 }
 {
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-07-03T02:43:40Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
+  "name": "aiwg",
+  "full_name": "jmagly/aiwg",
+  "updated": "2026-07-04T02:39:54Z",
+  "desc": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platform deployment. Claude Code · Codex · Copilot · Cursor · Factory · Warp · Windsurf.",
+  "url": "https://github.com/jmagly/aiwg"
 }
 {
-  "name": "codeg",
-  "full_name": "xintaofei/codeg",
-  "updated": "2026-07-03T02:43:00Z",
-  "desc": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, etc. Desktop app, self-hosted server, or Docker.",
-  "url": "https://github.com/xintaofei/codeg"
+  "name": "DashClaw",
+  "full_name": "ucsandman/DashClaw",
+  "updated": "2026-07-04T02:39:21Z",
+  "desc": "🛡️The governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.",
+  "url": "https://github.com/ucsandman/DashClaw"
 }
 {
-  "name": "loki-mode",
-  "full_name": "asklokesh/loki-mode",
-  "updated": "2026-07-03T02:42:53Z",
-  "desc": "Multi-agent autonomous SDLC framework. Spec to deployed app. PRD, GitHub issue, OpenAPI/JSON/YAML, or one-line brief. 5 AI providers, 11 quality gates.",
-  "url": "https://github.com/asklokesh/loki-mode"
+  "name": "brainblast",
+  "full_name": "DSB-117/brainblast",
+  "updated": "2026-07-04T02:36:25Z",
+  "desc": "Predict the silent integration traps an AI agent would ship (zero-revenue configs, auth bypasses, immutable wrong choices) — then enforce, in CI, that they stay fixed. Research skill + npx brainblast CLI.",
+  "url": "https://github.com/DSB-117/brainblast"
 }
 {
-  "name": "ClaudeCode-Workflow-Lab",
-  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-07-03T02:42:20Z",
-  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
-  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
+  "name": "claude-mpm",
+  "full_name": "bobmatnyc/claude-mpm",
+  "updated": "2026-07-04T02:36:20Z",
+  "desc": "Claude Multi-Agent Project Manager — multi-channel orchestration, GitHub-first SDK mode, and plugin system for Claude",
+  "url": "https://github.com/bobmatnyc/claude-mpm"
 }
 {
-  "name": "opencrabs",
-  "full_name": "adolfousier/opencrabs",
-  "updated": "2026-07-03T02:41:58Z",
-  "desc": "The all-in-one AI agent living in your terminal. Build landing, mobile apps, backends, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI, CLI and Daemon. Connect to your favorite channels.",
-  "url": "https://github.com/adolfousier/opencrabs"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-07-04T02:36:09Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
+}
+{
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "updated": "2026-07-04T02:35:05Z",
+  "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "url": "https://github.com/mvanhorn/last30days-skill"
 }
