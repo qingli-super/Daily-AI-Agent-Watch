@@ -1,70 +1,70 @@
 {
-  "name": "prism-coder",
-  "full_name": "dcostenco/prism-coder",
-  "updated": "2026-07-06T03:19:38Z",
-  "desc": "Persistent memory + local AI for coding agents. 1.7B–32B open-weight LLM fleet, cross-session Mind Palace, cognitive routing, L3 grounding verifier, multi-agent Hivemind. Works with Claude Code, Cursor, VS Code. Offline-first, HIPAA-ready. Free tier included.",
-  "url": "https://github.com/dcostenco/prism-coder"
+  "name": "goclaw",
+  "full_name": "nextlevelbuilder/goclaw",
+  "updated": "2026-07-07T02:53:07Z",
+  "desc": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+  "url": "https://github.com/nextlevelbuilder/goclaw"
 }
 {
-  "name": "autopus-adk",
-  "full_name": "Insajin/autopus-adk",
-  "updated": "2026-07-06T03:19:21Z",
-  "desc": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastest). Architecture-as-Code, Lore decision tracking, SPEC/EARS engine.",
-  "url": "https://github.com/Insajin/autopus-adk"
+  "name": "amux",
+  "full_name": "mixpeek/amux",
+  "updated": "2026-07-07T02:52:19Z",
+  "desc": "Open-source control plane for AI coding agents — run, monitor & orchestrate dozens of parallel Claude Code, Codex & Gemini sessions from one web dashboard or your phone. Self-healing, single-file, tmux-native.",
+  "url": "https://github.com/mixpeek/amux"
 }
 {
-  "name": "Sage",
-  "full_name": "ZHangZHengEric/Sage",
-  "updated": "2026-07-06T03:19:09Z",
-  "desc": "Multi-Agent System Framework For Complex Tasks",
-  "url": "https://github.com/ZHangZHengEric/Sage"
+  "name": "ccxray",
+  "full_name": "lis186/ccxray",
+  "updated": "2026-07-07T02:52:15Z",
+  "desc": "X-ray vision for AI agent sessions — a transparent HTTP proxy and dashboard for Claude Code",
+  "url": "https://github.com/lis186/ccxray"
 }
 {
-  "name": "PilotDeck",
-  "full_name": "OpenBMB/PilotDeck",
-  "updated": "2026-07-06T03:18:14Z",
-  "desc": "Task-oriented AI Agent productivity platform",
-  "url": "https://github.com/OpenBMB/PilotDeck"
+  "name": "spider",
+  "full_name": "spider-rs/spider",
+  "updated": "2026-07-07T02:50:50Z",
+  "desc": "Get web data for AI agents and LLMs",
+  "url": "https://github.com/spider-rs/spider"
 }
 {
-  "name": "agi",
-  "full_name": "hyperspaceai/agi",
-  "updated": "2026-07-06T03:18:16Z",
-  "desc": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
-  "url": "https://github.com/hyperspaceai/agi"
+  "name": "peerd",
+  "full_name": "NotASithLord/peerd",
+  "updated": "2026-07-07T02:50:26Z",
+  "desc": "The first AI agent harness native to the browser. A browser extension that runs a full agent loop where you already work: it drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK, no backend, no telemetry.",
+  "url": "https://github.com/NotASithLord/peerd"
 }
 {
-  "name": "clawmetry",
-  "full_name": "vivekchand/clawmetry",
-  "updated": "2026-07-06T03:17:45Z",
-  "desc": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
-  "url": "https://github.com/vivekchand/clawmetry"
+  "name": "omnigent",
+  "full_name": "omnigent-ai/omnigent",
+  "updated": "2026-07-07T02:50:51Z",
+  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+  "url": "https://github.com/omnigent-ai/omnigent"
 }
 {
-  "name": "DashClaw",
-  "full_name": "ucsandman/DashClaw",
-  "updated": "2026-07-06T03:17:34Z",
-  "desc": "🛡️The governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.",
-  "url": "https://github.com/ucsandman/DashClaw"
+  "name": "agent-craft",
+  "full_name": "Annyfee/agent-craft",
+  "updated": "2026-07-07T02:47:57Z",
+  "desc": "AI Agent 教学仓库 | 系统化 LangChain、RAG、LangGraph、MCP 全栈实战代码 | 万字博客详解 | 开源可运行示例 | 从零构建智能体",
+  "url": "https://github.com/Annyfee/agent-craft"
 }
 {
-  "name": "codux",
-  "full_name": "duxweb/codux",
-  "updated": "2026-07-06T03:15:57Z",
-  "desc": "⬛  A native connected terminal for AI agent development. 为 AI Agent 开发而生的原生互联终端。",
-  "url": "https://github.com/duxweb/codux"
+  "name": "monocle",
+  "full_name": "monocle2ai/monocle",
+  "updated": "2026-07-07T02:47:23Z",
+  "desc": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written in Python.   ",
+  "url": "https://github.com/monocle2ai/monocle"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-07-06T03:15:48Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "Equibles",
+  "full_name": "daniel3303/Equibles",
+  "updated": "2026-07-07T02:47:14Z",
+  "desc": "An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.",
+  "url": "https://github.com/daniel3303/Equibles"
 }
 {
-  "name": "aiwg",
-  "full_name": "jmagly/aiwg",
-  "updated": "2026-07-06T03:15:36Z",
-  "desc": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platform deployment. Claude Code · Codex · Copilot · Cursor · Factory · Warp · Windsurf.",
-  "url": "https://github.com/jmagly/aiwg"
+  "name": "cocoplus",
+  "full_name": "Snowflake-Labs/cocoplus",
+  "updated": "2026-07-07T02:47:13Z",
+  "desc": "CocoPlus is an AI-powered development lifecycle plugin for the Snowflake Cortex Code CLI. It brings structured, multi-agent workflows to data engineering projects — covering everything from project initialization through spec, plan, build, test, review, and ship phases.",
+  "url": "https://github.com/Snowflake-Labs/cocoplus"
 }
