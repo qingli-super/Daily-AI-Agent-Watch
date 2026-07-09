@@ -1,70 +1,70 @@
 {
-  "name": "dkg",
-  "full_name": "OriginTrail/dkg",
-  "updated": "2026-07-08T02:30:32Z",
-  "desc": "OriginTrail Decentralized Knowledge Graph (DKG) is a decentralized knowledge infrastructure for multi-agent AI memory — enabling agents to publish, verify, and query shared knowledge as cryptographically verifiable graph assets across a peer-to-peer network.",
-  "url": "https://github.com/OriginTrail/dkg"
+  "name": "mateclaw",
+  "full_name": "mateaix/mateclaw",
+  "updated": "2026-07-09T02:48:22Z",
+  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+  "url": "https://github.com/mateaix/mateclaw"
+}
+{
+  "name": "activepieces",
+  "full_name": "activepieces/activepieces",
+  "updated": "2026-07-09T02:48:17Z",
+  "desc": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+  "url": "https://github.com/activepieces/activepieces"
+}
+{
+  "name": "ArcReel",
+  "full_name": "ArcReel/ArcReel",
+  "updated": "2026-07-09T02:48:05Z",
+  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+  "url": "https://github.com/ArcReel/ArcReel"
 }
 {
   "name": "cherry-studio",
   "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-07-08T02:29:45Z",
+  "updated": "2026-07-09T02:48:03Z",
   "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
   "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
-  "name": "multi-agent-architecture-advisor",
-  "full_name": "1iry/multi-agent-architecture-advisor",
-  "updated": "2026-07-08T02:29:42Z",
-  "desc": "Advanced AI Code Strategy Advisor for Developer Agents (2026)",
-  "url": "https://github.com/1iry/multi-agent-architecture-advisor"
+  "name": "vestige",
+  "full_name": "samvallad33/vestige",
+  "updated": "2026-07-09T02:47:32Z",
+  "desc": "Vestige gives AI agents sharp memory: a local-first Rust MCP server that reaches backward through time to find the quiet change, decision, or service that caused today’s failure, not the lookalike.",
+  "url": "https://github.com/samvallad33/vestige"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-07-08T02:29:20Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "open-multi-agent",
+  "full_name": "open-multi-agent/open-multi-agent",
+  "updated": "2026-07-09T02:46:09Z",
+  "desc": "TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, ChatGPT, Gemini, DeepSeek, or local models. ",
+  "url": "https://github.com/open-multi-agent/open-multi-agent"
 }
 {
-  "name": "DashClaw",
-  "full_name": "ucsandman/DashClaw",
-  "updated": "2026-07-08T02:28:45Z",
-  "desc": "🛡️The governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.",
-  "url": "https://github.com/ucsandman/DashClaw"
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-07-09T02:45:07Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "peerd",
-  "full_name": "NotASithLord/peerd",
-  "updated": "2026-07-08T02:28:27Z",
-  "desc": "The first AI agent harness native to the browser. A browser extension that runs a full agent loop where you already work: it drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK, no backend, no telemetry.",
-  "url": "https://github.com/NotASithLord/peerd"
+  "name": "wmux",
+  "full_name": "openwong2kim/wmux",
+  "updated": "2026-07-09T02:44:51Z",
+  "desc": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
+  "url": "https://github.com/openwong2kim/wmux"
 }
 {
-  "name": "open-browser-use",
-  "full_name": "iFurySt/open-browser-use",
-  "updated": "2026-07-08T02:28:18Z",
-  "desc": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
-  "url": "https://github.com/iFurySt/open-browser-use"
+  "name": "ralphy",
+  "full_name": "alecs5am/ralphy",
+  "updated": "2026-07-09T02:44:28Z",
+  "desc": "🎬 Give AI agents tools to create viral videos. Influence at scale, from your terminal.",
+  "url": "https://github.com/alecs5am/ralphy"
 }
 {
-  "name": "nexent",
-  "full_name": "ModelEngine-Group/nexent",
-  "updated": "2026-07-08T02:29:08Z",
-  "desc": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
-  "url": "https://github.com/ModelEngine-Group/nexent"
-}
-{
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-07-08T02:25:00Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
-}
-{
-  "name": "omnigent",
-  "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-07-08T02:24:10Z",
-  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-  "url": "https://github.com/omnigent-ai/omnigent"
+  "name": "nanobot",
+  "full_name": "HKUDS/nanobot",
+  "updated": "2026-07-09T02:42:49Z",
+  "desc": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+  "url": "https://github.com/HKUDS/nanobot"
 }
