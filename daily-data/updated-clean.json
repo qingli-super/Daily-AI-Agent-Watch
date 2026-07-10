@@ -1,70 +1,70 @@
 {
-  "name": "mateclaw",
-  "full_name": "mateaix/mateclaw",
-  "updated": "2026-07-09T02:48:22Z",
-  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-  "url": "https://github.com/mateaix/mateclaw"
+  "name": "reflexio",
+  "full_name": "ReflexioAI/reflexio",
+  "updated": "2026-07-10T02:48:57Z",
+  "desc": "Make your agents improve themselves. Reflexio is an AI agent self-improvement harness that enables your AI agents to continuously learn from real user interactions. ",
+  "url": "https://github.com/ReflexioAI/reflexio"
 }
 {
-  "name": "activepieces",
-  "full_name": "activepieces/activepieces",
-  "updated": "2026-07-09T02:48:17Z",
-  "desc": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-  "url": "https://github.com/activepieces/activepieces"
+  "name": "google-analytics-mcp",
+  "full_name": "surendranb/google-analytics-mcp",
+  "updated": "2026-07-10T02:48:24Z",
+  "desc": "Google Analytics 4 data to AI agents, agentic workflows, and MCP clients. Give agents analysis-ready access to website traffic, user behavior, and performance data with schema discovery, server-side aggregation, and safe defaults that reduce data wrangling.",
+  "url": "https://github.com/surendranb/google-analytics-mcp"
 }
 {
-  "name": "ArcReel",
-  "full_name": "ArcReel/ArcReel",
-  "updated": "2026-07-09T02:48:05Z",
-  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-  "url": "https://github.com/ArcReel/ArcReel"
+  "name": "openhanako",
+  "full_name": "liliMozi/openhanako",
+  "updated": "2026-07-10T02:47:46Z",
+  "desc": "A personal AI agent with memory, personality, and autonomy.",
+  "url": "https://github.com/liliMozi/openhanako"
 }
 {
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-07-09T02:48:03Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
+  "name": "agents-js",
+  "full_name": "livekit/agents-js",
+  "updated": "2026-07-10T02:46:44Z",
+  "desc": "Build realtime multimodal AI agents with Node.js",
+  "url": "https://github.com/livekit/agents-js"
 }
 {
-  "name": "vestige",
-  "full_name": "samvallad33/vestige",
-  "updated": "2026-07-09T02:47:32Z",
-  "desc": "Vestige gives AI agents sharp memory: a local-first Rust MCP server that reaches backward through time to find the quiet change, decision, or service that caused today’s failure, not the lookalike.",
-  "url": "https://github.com/samvallad33/vestige"
+  "name": "claw-orchestrator",
+  "full_name": "Enderfga/claw-orchestrator",
+  "updated": "2026-07-10T02:46:33Z",
+  "desc": "Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support.",
+  "url": "https://github.com/Enderfga/claw-orchestrator"
 }
 {
-  "name": "open-multi-agent",
-  "full_name": "open-multi-agent/open-multi-agent",
-  "updated": "2026-07-09T02:46:09Z",
-  "desc": "TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, ChatGPT, Gemini, DeepSeek, or local models. ",
-  "url": "https://github.com/open-multi-agent/open-multi-agent"
+  "name": "PhantomCrowd-Simulacra",
+  "full_name": "charan820/PhantomCrowd-Simulacra",
+  "updated": "2026-07-10T02:45:43Z",
+  "desc": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM",
+  "url": "https://github.com/charan820/PhantomCrowd-Simulacra"
 }
 {
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-07-09T02:45:07Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  "name": "cccc",
+  "full_name": "ChesterRa/cccc",
+  "updated": "2026-07-10T02:45:44Z",
+  "desc": "Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow",
+  "url": "https://github.com/ChesterRa/cccc"
 }
 {
-  "name": "wmux",
-  "full_name": "openwong2kim/wmux",
-  "updated": "2026-07-09T02:44:51Z",
-  "desc": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
-  "url": "https://github.com/openwong2kim/wmux"
+  "name": "AI-company",
+  "full_name": "CronusL-1141/AI-company",
+  "updated": "2026-07-10T02:45:18Z",
+  "desc": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React dashboard. No LangChain/AutoGen — pure CC native integration.",
+  "url": "https://github.com/CronusL-1141/AI-company"
 }
 {
-  "name": "ralphy",
-  "full_name": "alecs5am/ralphy",
-  "updated": "2026-07-09T02:44:28Z",
-  "desc": "🎬 Give AI agents tools to create viral videos. Influence at scale, from your terminal.",
-  "url": "https://github.com/alecs5am/ralphy"
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "updated": "2026-07-10T02:50:26Z",
+  "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "url": "https://github.com/DietrichGebert/ponytail"
 }
 {
-  "name": "nanobot",
-  "full_name": "HKUDS/nanobot",
-  "updated": "2026-07-09T02:42:49Z",
-  "desc": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-  "url": "https://github.com/HKUDS/nanobot"
+  "name": "MisakaNet",
+  "full_name": "Ikalus1988/MisakaNet",
+  "updated": "2026-07-10T02:44:30Z",
+  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+  "url": "https://github.com/Ikalus1988/MisakaNet"
 }
