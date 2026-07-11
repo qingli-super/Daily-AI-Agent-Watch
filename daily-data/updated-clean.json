@@ -1,70 +1,70 @@
 {
-  "name": "reflexio",
-  "full_name": "ReflexioAI/reflexio",
-  "updated": "2026-07-10T02:48:57Z",
-  "desc": "Make your agents improve themselves. Reflexio is an AI agent self-improvement harness that enables your AI agents to continuously learn from real user interactions. ",
-  "url": "https://github.com/ReflexioAI/reflexio"
+  "name": "vibe-investing",
+  "full_name": "gameworkerkim/vibe-investing",
+  "updated": "2026-07-11T02:28:27Z",
+  "desc": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇.",
+  "url": "https://github.com/gameworkerkim/vibe-investing"
 }
 {
-  "name": "google-analytics-mcp",
-  "full_name": "surendranb/google-analytics-mcp",
-  "updated": "2026-07-10T02:48:24Z",
-  "desc": "Google Analytics 4 data to AI agents, agentic workflows, and MCP clients. Give agents analysis-ready access to website traffic, user behavior, and performance data with schema discovery, server-side aggregation, and safe defaults that reduce data wrangling.",
-  "url": "https://github.com/surendranb/google-analytics-mcp"
+  "name": "compass-skills",
+  "full_name": "dongshuyan/compass-skills",
+  "updated": "2026-07-11T02:28:06Z",
+  "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+  "url": "https://github.com/dongshuyan/compass-skills"
 }
 {
-  "name": "openhanako",
-  "full_name": "liliMozi/openhanako",
-  "updated": "2026-07-10T02:47:46Z",
-  "desc": "A personal AI agent with memory, personality, and autonomy.",
-  "url": "https://github.com/liliMozi/openhanako"
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-07-11T02:26:40Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "agents-js",
-  "full_name": "livekit/agents-js",
-  "updated": "2026-07-10T02:46:44Z",
-  "desc": "Build realtime multimodal AI agents with Node.js",
-  "url": "https://github.com/livekit/agents-js"
+  "name": "Agenvoy",
+  "full_name": "agenvoy/Agenvoy",
+  "updated": "2026-07-11T02:26:40Z",
+  "desc": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+  "url": "https://github.com/agenvoy/Agenvoy"
 }
 {
-  "name": "claw-orchestrator",
-  "full_name": "Enderfga/claw-orchestrator",
-  "updated": "2026-07-10T02:46:33Z",
-  "desc": "Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support.",
-  "url": "https://github.com/Enderfga/claw-orchestrator"
+  "name": "ClaudeCode-Workflow-Lab",
+  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
+  "updated": "2026-07-11T02:25:01Z",
+  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
+  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "PhantomCrowd-Simulacra",
-  "full_name": "charan820/PhantomCrowd-Simulacra",
-  "updated": "2026-07-10T02:45:43Z",
-  "desc": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM",
-  "url": "https://github.com/charan820/PhantomCrowd-Simulacra"
+  "name": "pipelock",
+  "full_name": "luckyPipewrench/pipelock",
+  "updated": "2026-07-11T02:24:31Z",
+  "desc": "Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action receipts: verifiable audit evidence from outside the agent.",
+  "url": "https://github.com/luckyPipewrench/pipelock"
 }
 {
-  "name": "cccc",
-  "full_name": "ChesterRa/cccc",
-  "updated": "2026-07-10T02:45:44Z",
-  "desc": "Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow",
-  "url": "https://github.com/ChesterRa/cccc"
+  "name": "studio",
+  "full_name": "decocms/studio",
+  "updated": "2026-07-11T02:24:26Z",
+  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+  "url": "https://github.com/decocms/studio"
 }
 {
-  "name": "AI-company",
-  "full_name": "CronusL-1141/AI-company",
-  "updated": "2026-07-10T02:45:18Z",
-  "desc": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React dashboard. No LangChain/AutoGen — pure CC native integration.",
-  "url": "https://github.com/CronusL-1141/AI-company"
+  "name": "pydantic-ai",
+  "full_name": "pydantic/pydantic-ai",
+  "updated": "2026-07-11T02:23:59Z",
+  "desc": "AI Agent Framework, the Pydantic way",
+  "url": "https://github.com/pydantic/pydantic-ai"
 }
 {
-  "name": "ponytail",
-  "full_name": "DietrichGebert/ponytail",
-  "updated": "2026-07-10T02:50:26Z",
-  "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-  "url": "https://github.com/DietrichGebert/ponytail"
+  "name": "CORAL",
+  "full_name": "Human-Agent-Society/CORAL",
+  "updated": "2026-07-11T02:23:11Z",
+  "desc": "CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch. Works with Claude Code, Codex, Cursor, OpenCode, Kiro, and more.",
+  "url": "https://github.com/Human-Agent-Society/CORAL"
 }
 {
-  "name": "MisakaNet",
-  "full_name": "Ikalus1988/MisakaNet",
-  "updated": "2026-07-10T02:44:30Z",
-  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-  "url": "https://github.com/Ikalus1988/MisakaNet"
+  "name": "openteams",
+  "full_name": "openteams-lab/openteams",
+  "updated": "2026-07-11T02:21:51Z",
+  "desc": "Plan, Build, and Ship — with a team of AI agents instead of one",
+  "url": "https://github.com/openteams-lab/openteams"
 }
