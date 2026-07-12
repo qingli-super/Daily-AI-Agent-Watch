@@ -1,70 +1,70 @@
 {
-  "name": "vibe-investing",
-  "full_name": "gameworkerkim/vibe-investing",
-  "updated": "2026-07-11T02:28:27Z",
-  "desc": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇.",
-  "url": "https://github.com/gameworkerkim/vibe-investing"
-}
-{
-  "name": "compass-skills",
-  "full_name": "dongshuyan/compass-skills",
-  "updated": "2026-07-11T02:28:06Z",
-  "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-  "url": "https://github.com/dongshuyan/compass-skills"
+  "name": "smithers",
+  "full_name": "smithersai/smithers",
+  "updated": "2026-07-12T02:34:06Z",
+  "desc": "Agent workflows with full observability and time travel: watch every step live, rewind, fork, replay any run. Claude Code, Codex, Gemini, any model or harness.",
+  "url": "https://github.com/smithersai/smithers"
 }
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-07-11T02:26:40Z",
+  "updated": "2026-07-12T02:31:59Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "Agenvoy",
-  "full_name": "agenvoy/Agenvoy",
-  "updated": "2026-07-11T02:26:40Z",
-  "desc": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
-  "url": "https://github.com/agenvoy/Agenvoy"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-07-12T02:30:51Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
+}
+{
+  "name": "cli-printing-press",
+  "full_name": "mvanhorn/cli-printing-press",
+  "updated": "2026-07-12T02:29:36Z",
+  "desc": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+  "url": "https://github.com/mvanhorn/cli-printing-press"
 }
 {
   "name": "ClaudeCode-Workflow-Lab",
   "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-07-11T02:25:01Z",
+  "updated": "2026-07-12T02:29:32Z",
   "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
   "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "pipelock",
-  "full_name": "luckyPipewrench/pipelock",
-  "updated": "2026-07-11T02:24:31Z",
-  "desc": "Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action receipts: verifiable audit evidence from outside the agent.",
-  "url": "https://github.com/luckyPipewrench/pipelock"
+  "name": "uniterm",
+  "full_name": "ys-ll/uniterm",
+  "updated": "2026-07-12T02:29:31Z",
+  "desc": "A lightweight all-in-one terminal with 20+ protocols — SSH, RDP, SFTP, databases and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
+  "url": "https://github.com/ys-ll/uniterm"
 }
 {
-  "name": "studio",
-  "full_name": "decocms/studio",
-  "updated": "2026-07-11T02:24:26Z",
-  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
-  "url": "https://github.com/decocms/studio"
+  "name": "Agent_Manager",
+  "full_name": "Zafer-Liu/Agent_Manager",
+  "updated": "2026-07-12T02:28:05Z",
+  "desc": "A cross-platform desktop application for managing AI Agents and MCP Servers. 一款用于管理AI智能体与MCP服务器的跨平台桌面应用程序。",
+  "url": "https://github.com/Zafer-Liu/Agent_Manager"
 }
 {
-  "name": "pydantic-ai",
-  "full_name": "pydantic/pydantic-ai",
-  "updated": "2026-07-11T02:23:59Z",
-  "desc": "AI Agent Framework, the Pydantic way",
-  "url": "https://github.com/pydantic/pydantic-ai"
+  "name": "Abu-Cowork",
+  "full_name": "PM-Shawn/Abu-Cowork",
+  "updated": "2026-07-12T02:27:51Z",
+  "desc": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
+  "url": "https://github.com/PM-Shawn/Abu-Cowork"
 }
 {
-  "name": "CORAL",
-  "full_name": "Human-Agent-Society/CORAL",
-  "updated": "2026-07-11T02:23:11Z",
-  "desc": "CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch. Works with Claude Code, Codex, Cursor, OpenCode, Kiro, and more.",
-  "url": "https://github.com/Human-Agent-Society/CORAL"
+  "name": "nodedb",
+  "full_name": "NodeDB-Lab/nodedb",
+  "updated": "2026-07-12T02:26:02Z",
+  "desc": "The memory & storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible.",
+  "url": "https://github.com/NodeDB-Lab/nodedb"
 }
 {
-  "name": "openteams",
-  "full_name": "openteams-lab/openteams",
-  "updated": "2026-07-11T02:21:51Z",
-  "desc": "Plan, Build, and Ship — with a team of AI agents instead of one",
-  "url": "https://github.com/openteams-lab/openteams"
+  "name": "hermes-agency-orchestrator",
+  "full_name": "Sakshxm1/hermes-agency-orchestrator",
+  "updated": "2026-07-12T02:25:05Z",
+  "desc": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
+  "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator"
 }
