@@ -1,70 +1,70 @@
 {
-  "name": "smithers",
-  "full_name": "smithersai/smithers",
-  "updated": "2026-07-12T02:34:06Z",
-  "desc": "Agent workflows with full observability and time travel: watch every step live, rewind, fork, replay any run. Claude Code, Codex, Gemini, any model or harness.",
-  "url": "https://github.com/smithersai/smithers"
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-07-13T04:37:27Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
 }
 {
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-07-12T02:31:59Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  "name": "agor",
+  "full_name": "preset-io/agor",
+  "updated": "2026-07-13T04:36:57Z",
+  "desc": "Agor - team command center for all things agentic",
+  "url": "https://github.com/preset-io/agor"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-07-12T02:30:51Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "mythos-agent-pipe",
+  "full_name": "Magma1321/mythos-agent-pipe",
+  "updated": "2026-07-13T04:35:29Z",
+  "desc": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition",
+  "url": "https://github.com/Magma1321/mythos-agent-pipe"
 }
 {
-  "name": "cli-printing-press",
-  "full_name": "mvanhorn/cli-printing-press",
-  "updated": "2026-07-12T02:29:36Z",
-  "desc": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
-  "url": "https://github.com/mvanhorn/cli-printing-press"
+  "name": "claimpilot-harness",
+  "full_name": "samarailly51-pixel/claimpilot-harness",
+  "updated": "2026-07-13T04:34:17Z",
+  "desc": "Crash-test insurance claim AI agents before production.",
+  "url": "https://github.com/samarailly51-pixel/claimpilot-harness"
 }
 {
-  "name": "ClaudeCode-Workflow-Lab",
-  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-07-12T02:29:32Z",
-  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
-  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
+  "name": "decapod",
+  "full_name": "DecapodLabs/decapod",
+  "updated": "2026-07-13T04:34:10Z",
+  "desc": "Repo-native governance kernel that turns natural-language intent into enriched context, bounded execution, and proof-backed work across looping AI agent fleets. 🦀",
+  "url": "https://github.com/DecapodLabs/decapod"
 }
 {
-  "name": "uniterm",
-  "full_name": "ys-ll/uniterm",
-  "updated": "2026-07-12T02:29:31Z",
-  "desc": "A lightweight all-in-one terminal with 20+ protocols — SSH, RDP, SFTP, databases and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
-  "url": "https://github.com/ys-ll/uniterm"
+  "name": "cortex-sentinel-trading-nexus",
+  "full_name": "reunios2024/cortex-sentinel-trading-nexus",
+  "updated": "2026-07-13T04:32:26Z",
+  "desc": "Self-Tuning Multi-Agent AI Trading System 2026: 8-Source Signal Fusion & Kronos Model",
+  "url": "https://github.com/reunios2024/cortex-sentinel-trading-nexus"
 }
 {
-  "name": "Agent_Manager",
-  "full_name": "Zafer-Liu/Agent_Manager",
-  "updated": "2026-07-12T02:28:05Z",
-  "desc": "A cross-platform desktop application for managing AI Agents and MCP Servers. 一款用于管理AI智能体与MCP服务器的跨平台桌面应用程序。",
-  "url": "https://github.com/Zafer-Liu/Agent_Manager"
+  "name": "mirage-cortex",
+  "full_name": "Abhinesh2004/mirage-cortex",
+  "updated": "2026-07-13T04:32:15Z",
+  "desc": "Top Agent Swarm Simulation Tools for LLM World Modeling 2026",
+  "url": "https://github.com/Abhinesh2004/mirage-cortex"
 }
 {
-  "name": "Abu-Cowork",
-  "full_name": "PM-Shawn/Abu-Cowork",
-  "updated": "2026-07-12T02:27:51Z",
-  "desc": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-  "url": "https://github.com/PM-Shawn/Abu-Cowork"
+  "name": "h5i",
+  "full_name": "h5i-dev/h5i",
+  "updated": "2026-07-13T04:32:14Z",
+  "desc": "Auditable workspaces for AI coding agents: sandboxed worktrees, conflict-free multi-agent orchestra, 95% lower token waste, and persistent memory.",
+  "url": "https://github.com/h5i-dev/h5i"
 }
 {
-  "name": "nodedb",
-  "full_name": "NodeDB-Lab/nodedb",
-  "updated": "2026-07-12T02:26:02Z",
-  "desc": "The memory & storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible.",
-  "url": "https://github.com/NodeDB-Lab/nodedb"
+  "name": "agent-opfor",
+  "full_name": "KeyValueSoftwareSystems/agent-opfor",
+  "updated": "2026-07-13T04:31:59Z",
+  "desc": "Open-source adversary emulation for AI agents and MCP servers. ",
+  "url": "https://github.com/KeyValueSoftwareSystems/agent-opfor"
 }
 {
-  "name": "hermes-agency-orchestrator",
-  "full_name": "Sakshxm1/hermes-agency-orchestrator",
-  "updated": "2026-07-12T02:25:05Z",
-  "desc": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
-  "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator"
+  "name": "quorum-alpha-dash",
+  "full_name": "zargarkhan1/quorum-alpha-dash",
+  "updated": "2026-07-13T04:32:03Z",
+  "desc": "Advanced Multi-Agent AI Crude Oil Trading System with Adversarial Validation 2026",
+  "url": "https://github.com/zargarkhan1/quorum-alpha-dash"
 }
