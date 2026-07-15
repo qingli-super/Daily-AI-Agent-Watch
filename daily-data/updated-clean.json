@@ -1,70 +1,70 @@
 {
-  "name": "moai-adk",
-  "full_name": "modu-ai/moai-adk",
-  "updated": "2026-07-14T02:19:49Z",
-  "desc": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-  "url": "https://github.com/modu-ai/moai-adk"
+  "name": "ai-agent-book",
+  "full_name": "bojieli/ai-agent-book",
+  "updated": "2026-07-15T02:12:37Z",
+  "desc": "《AI Agent 实战营》配套示例代码",
+  "url": "https://github.com/bojieli/ai-agent-book"
 }
 {
-  "name": "wayland",
-  "full_name": "FerroxLabs/wayland",
-  "updated": "2026-07-14T02:18:42Z",
-  "desc": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-  "url": "https://github.com/FerroxLabs/wayland"
+  "name": "trpc-agent-go",
+  "full_name": "trpc-group/trpc-agent-go",
+  "updated": "2026-07-15T02:12:04Z",
+  "desc": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
+  "url": "https://github.com/trpc-group/trpc-agent-go"
 }
 {
-  "name": "agent-messenger",
-  "full_name": "agent-messenger/agent-messenger",
-  "updated": "2026-07-14T02:18:15Z",
-  "desc": "Messenger automation CLI & SDK for AI agents",
-  "url": "https://github.com/agent-messenger/agent-messenger"
+  "name": "agent-sandbox",
+  "full_name": "kubernetes-sigs/agent-sandbox",
+  "updated": "2026-07-15T02:11:30Z",
+  "desc": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
+  "url": "https://github.com/kubernetes-sigs/agent-sandbox"
 }
 {
-  "name": "cli",
-  "full_name": "modelstudioai/cli",
-  "updated": "2026-07-14T02:18:06Z",
-  "desc": "Official Model Studio CLI（阿里云百炼 CLI）built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
-  "url": "https://github.com/modelstudioai/cli"
+  "name": "workflow",
+  "full_name": "vercel/workflow",
+  "updated": "2026-07-15T02:11:20Z",
+  "desc": "Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript",
+  "url": "https://github.com/vercel/workflow"
 }
 {
-  "name": "loopx",
-  "full_name": "huangruiteng/loopx",
-  "updated": "2026-07-14T02:16:58Z",
-  "desc": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-  "url": "https://github.com/huangruiteng/loopx"
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-07-15T02:11:07Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "jiuwenswarm",
-  "full_name": "openJiuwen-ai/jiuwenswarm",
-  "updated": "2026-07-14T02:16:58Z",
-  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
-  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
+  "name": "thClaws",
+  "full_name": "thClaws/thClaws",
+  "updated": "2026-07-15T02:10:37Z",
+  "desc": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
+  "url": "https://github.com/thClaws/thClaws"
 }
 {
-  "name": "prism-coder",
-  "full_name": "dcostenco/prism-coder",
-  "updated": "2026-07-14T02:15:13Z",
-  "desc": "Persistent memory + local AI for coding agents. 2B–27B open-weight LLM fleet, cross-session Mind Palace, cognitive routing, L3 grounding verifier, multi-agent Hivemind. Works with Claude Code, Cursor, VS Code. Offline-first, HIPAA-ready. Free tier included.",
-  "url": "https://github.com/dcostenco/prism-coder"
+  "name": "pydantic-ai",
+  "full_name": "pydantic/pydantic-ai",
+  "updated": "2026-07-15T02:11:21Z",
+  "desc": "AI Agent Framework, the Pydantic way",
+  "url": "https://github.com/pydantic/pydantic-ai"
 }
 {
-  "name": "OpenMAIC",
-  "full_name": "THU-MAIC/OpenMAIC",
-  "updated": "2026-07-14T02:18:19Z",
-  "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-  "url": "https://github.com/THU-MAIC/OpenMAIC"
+  "name": "ClaudeCode-Workflow-Lab",
+  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
+  "updated": "2026-07-15T02:09:09Z",
+  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
+  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "nodedb",
-  "full_name": "NodeDB-Lab/nodedb",
-  "updated": "2026-07-14T02:14:20Z",
-  "desc": "The memory & storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible.",
-  "url": "https://github.com/NodeDB-Lab/nodedb"
+  "name": "studio",
+  "full_name": "decocms/studio",
+  "updated": "2026-07-15T02:08:37Z",
+  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+  "url": "https://github.com/decocms/studio"
 }
 {
-  "name": "pipelock",
-  "full_name": "luckyPipewrench/pipelock",
-  "updated": "2026-07-14T02:13:44Z",
-  "desc": "Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action receipts: verifiable audit evidence from outside the agent.",
-  "url": "https://github.com/luckyPipewrench/pipelock"
+  "name": "Sage",
+  "full_name": "ZHangZHengEric/Sage",
+  "updated": "2026-07-15T02:08:16Z",
+  "desc": "Multi-Agent System Framework For Complex Tasks",
+  "url": "https://github.com/ZHangZHengEric/Sage"
 }
