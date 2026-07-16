@@ -1,70 +1,70 @@
 {
-  "name": "ai-agent-book",
-  "full_name": "bojieli/ai-agent-book",
-  "updated": "2026-07-15T02:12:37Z",
-  "desc": "《AI Agent 实战营》配套示例代码",
-  "url": "https://github.com/bojieli/ai-agent-book"
+  "name": "WrenAI",
+  "full_name": "Canner/WrenAI",
+  "updated": "2026-07-16T02:25:57Z",
+  "desc": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+  "url": "https://github.com/Canner/WrenAI"
 }
 {
-  "name": "trpc-agent-go",
-  "full_name": "trpc-group/trpc-agent-go",
-  "updated": "2026-07-15T02:12:04Z",
-  "desc": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
-  "url": "https://github.com/trpc-group/trpc-agent-go"
+  "name": "Zoo-Code",
+  "full_name": "Zoo-Code-Org/Zoo-Code",
+  "updated": "2026-07-16T02:25:12Z",
+  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
+  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
 }
 {
-  "name": "agent-sandbox",
-  "full_name": "kubernetes-sigs/agent-sandbox",
-  "updated": "2026-07-15T02:11:30Z",
-  "desc": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
-  "url": "https://github.com/kubernetes-sigs/agent-sandbox"
+  "name": "dingtalk-workspace-cli",
+  "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
+  "updated": "2026-07-16T02:25:03Z",
+  "desc": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
+  "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli"
 }
 {
-  "name": "workflow",
-  "full_name": "vercel/workflow",
-  "updated": "2026-07-15T02:11:20Z",
-  "desc": "Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript",
-  "url": "https://github.com/vercel/workflow"
+  "name": "dkg",
+  "full_name": "OriginTrail/dkg",
+  "updated": "2026-07-16T02:24:42Z",
+  "desc": "OriginTrail Decentralized Knowledge Graph (DKG) is a decentralized knowledge infrastructure for multi-agent AI memory — enabling agents to publish, verify, and query shared knowledge as cryptographically verifiable graph assets across a peer-to-peer network.",
+  "url": "https://github.com/OriginTrail/dkg"
 }
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-07-15T02:11:07Z",
+  "updated": "2026-07-16T02:23:54Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "thClaws",
-  "full_name": "thClaws/thClaws",
-  "updated": "2026-07-15T02:10:37Z",
-  "desc": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
-  "url": "https://github.com/thClaws/thClaws"
+  "name": "agents-js",
+  "full_name": "livekit/agents-js",
+  "updated": "2026-07-16T02:23:50Z",
+  "desc": "Build realtime multimodal AI agents with Node.js",
+  "url": "https://github.com/livekit/agents-js"
 }
 {
-  "name": "pydantic-ai",
-  "full_name": "pydantic/pydantic-ai",
-  "updated": "2026-07-15T02:11:21Z",
-  "desc": "AI Agent Framework, the Pydantic way",
-  "url": "https://github.com/pydantic/pydantic-ai"
+  "name": "open-connector",
+  "full_name": "oomol-lab/open-connector",
+  "updated": "2026-07-16T02:23:07Z",
+  "desc": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+  "url": "https://github.com/oomol-lab/open-connector"
 }
 {
-  "name": "ClaudeCode-Workflow-Lab",
-  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-07-15T02:09:09Z",
-  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
-  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
+  "name": "OpenSwarm",
+  "full_name": "unohee/OpenSwarm",
+  "updated": "2026-07-16T02:22:28Z",
+  "desc": "OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.",
+  "url": "https://github.com/unohee/OpenSwarm"
 }
 {
-  "name": "studio",
-  "full_name": "decocms/studio",
-  "updated": "2026-07-15T02:08:37Z",
-  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
-  "url": "https://github.com/decocms/studio"
+  "name": "entroly",
+  "full_name": "juyterman1000/entroly",
+  "updated": "2026-07-16T02:21:47Z",
+  "desc": "Auditable context engineering for AI agents: context optimization, recoverable context compression, receipts, answer verification, and MCP for Claude Code, Codex, OpenClaw.",
+  "url": "https://github.com/juyterman1000/entroly"
 }
 {
-  "name": "Sage",
-  "full_name": "ZHangZHengEric/Sage",
-  "updated": "2026-07-15T02:08:16Z",
-  "desc": "Multi-Agent System Framework For Complex Tasks",
-  "url": "https://github.com/ZHangZHengEric/Sage"
+  "name": "omnigent",
+  "full_name": "omnigent-ai/omnigent",
+  "updated": "2026-07-16T02:25:58Z",
+  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+  "url": "https://github.com/omnigent-ai/omnigent"
 }
