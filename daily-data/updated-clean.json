@@ -1,70 +1,70 @@
 {
-  "name": "WrenAI",
-  "full_name": "Canner/WrenAI",
-  "updated": "2026-07-16T02:25:57Z",
-  "desc": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
-  "url": "https://github.com/Canner/WrenAI"
+  "name": "nodedb",
+  "full_name": "NodeDB-Lab/nodedb",
+  "updated": "2026-07-17T02:28:45Z",
+  "desc": "The memory & storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible.",
+  "url": "https://github.com/NodeDB-Lab/nodedb"
 }
 {
-  "name": "Zoo-Code",
-  "full_name": "Zoo-Code-Org/Zoo-Code",
-  "updated": "2026-07-16T02:25:12Z",
-  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
-  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
+  "name": "agentscope",
+  "full_name": "agentscope-ai/agentscope",
+  "updated": "2026-07-17T02:28:05Z",
+  "desc": "Build and run agents you can see, understand and trust.",
+  "url": "https://github.com/agentscope-ai/agentscope"
 }
 {
-  "name": "dingtalk-workspace-cli",
-  "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
-  "updated": "2026-07-16T02:25:03Z",
-  "desc": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
-  "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli"
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-07-17T02:28:02Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
-  "name": "dkg",
-  "full_name": "OriginTrail/dkg",
-  "updated": "2026-07-16T02:24:42Z",
-  "desc": "OriginTrail Decentralized Knowledge Graph (DKG) is a decentralized knowledge infrastructure for multi-agent AI memory — enabling agents to publish, verify, and query shared knowledge as cryptographically verifiable graph assets across a peer-to-peer network.",
-  "url": "https://github.com/OriginTrail/dkg"
+  "name": "animaworks",
+  "full_name": "xuiltul/animaworks",
+  "updated": "2026-07-17T02:27:14Z",
+  "desc": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/Codex/Gemini/Cursor/Ollama).",
+  "url": "https://github.com/xuiltul/animaworks"
 }
 {
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-07-16T02:23:54Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  "name": "agent-design-patterns",
+  "full_name": "huangjia2019/agent-design-patterns",
+  "updated": "2026-07-17T02:26:48Z",
+  "desc": "A 7×6 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified engineering slices from Claude Code, Aider, OpenHands, DeerFlow. Companion to Designing AI Agents (Manning) by Jia Huang.",
+  "url": "https://github.com/huangjia2019/agent-design-patterns"
 }
 {
-  "name": "agents-js",
-  "full_name": "livekit/agents-js",
-  "updated": "2026-07-16T02:23:50Z",
-  "desc": "Build realtime multimodal AI agents with Node.js",
-  "url": "https://github.com/livekit/agents-js"
+  "name": "decapod",
+  "full_name": "DecapodLabs/decapod",
+  "updated": "2026-07-17T02:26:00Z",
+  "desc": "Repo-native governance kernel that turns natural-language intent into enriched context, bounded execution, and proof-backed work across looping AI agent fleets. 🦀",
+  "url": "https://github.com/DecapodLabs/decapod"
 }
 {
-  "name": "open-connector",
-  "full_name": "oomol-lab/open-connector",
-  "updated": "2026-07-16T02:23:07Z",
-  "desc": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-  "url": "https://github.com/oomol-lab/open-connector"
+  "name": "nx",
+  "full_name": "nrwl/nx",
+  "updated": "2026-07-17T02:25:47Z",
+  "desc": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.",
+  "url": "https://github.com/nrwl/nx"
 }
 {
-  "name": "OpenSwarm",
-  "full_name": "unohee/OpenSwarm",
-  "updated": "2026-07-16T02:22:28Z",
-  "desc": "OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.",
-  "url": "https://github.com/unohee/OpenSwarm"
+  "name": "agent-challenge",
+  "full_name": "BaseIntelligence/agent-challenge",
+  "updated": "2026-07-17T02:25:21Z",
+  "desc": "[🖥️] agent challenge is a Base challenge where developers run and monetize terminal-based AI agents, evaluated in isolated environments and rewarded through competitive performance.",
+  "url": "https://github.com/BaseIntelligence/agent-challenge"
 }
 {
-  "name": "entroly",
-  "full_name": "juyterman1000/entroly",
-  "updated": "2026-07-16T02:21:47Z",
-  "desc": "Auditable context engineering for AI agents: context optimization, recoverable context compression, receipts, answer verification, and MCP for Claude Code, Codex, OpenClaw.",
-  "url": "https://github.com/juyterman1000/entroly"
+  "name": "jiuwenswarm",
+  "full_name": "openJiuwen-ai/jiuwenswarm",
+  "updated": "2026-07-17T02:25:20Z",
+  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
+  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
 }
 {
-  "name": "omnigent",
-  "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-07-16T02:25:58Z",
-  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-  "url": "https://github.com/omnigent-ai/omnigent"
+  "name": "prismor",
+  "full_name": "PrismorSec/prismor",
+  "updated": "2026-07-17T02:28:10Z",
+  "desc": "Runtime Firewall for AI agents which catches the rogue tool call before it runs. Dangerous commands, secret leaks, prompt injection. For Claude Code, Codex and framework SDKs",
+  "url": "https://github.com/PrismorSec/prismor"
 }
