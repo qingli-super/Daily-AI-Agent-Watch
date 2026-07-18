@@ -1,70 +1,70 @@
 {
-  "name": "nodedb",
-  "full_name": "NodeDB-Lab/nodedb",
-  "updated": "2026-07-17T02:28:45Z",
-  "desc": "The memory & storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible.",
-  "url": "https://github.com/NodeDB-Lab/nodedb"
+  "name": "scarf",
+  "full_name": "awizemann/scarf",
+  "updated": "2026-07-18T02:12:58Z",
+  "desc": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
+  "url": "https://github.com/awizemann/scarf"
 }
 {
-  "name": "agentscope",
-  "full_name": "agentscope-ai/agentscope",
-  "updated": "2026-07-17T02:28:05Z",
-  "desc": "Build and run agents you can see, understand and trust.",
-  "url": "https://github.com/agentscope-ai/agentscope"
+  "name": "mcp_agent_mail_rust",
+  "full_name": "Dicklesworthstone/mcp_agent_mail_rust",
+  "updated": "2026-07-18T02:12:51Z",
+  "desc": "Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisory file locks, and an interactive TUI console",
+  "url": "https://github.com/Dicklesworthstone/mcp_agent_mail_rust"
 }
 {
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-07-17T02:28:02Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
+  "name": "bitterbot-desktop",
+  "full_name": "Bitterbot-AI/bitterbot-desktop",
+  "updated": "2026-07-18T02:12:27Z",
+  "desc": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+  "url": "https://github.com/Bitterbot-AI/bitterbot-desktop"
 }
 {
-  "name": "animaworks",
-  "full_name": "xuiltul/animaworks",
-  "updated": "2026-07-17T02:27:14Z",
-  "desc": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/Codex/Gemini/Cursor/Ollama).",
-  "url": "https://github.com/xuiltul/animaworks"
+  "name": "Friday",
+  "full_name": "thesongzhu/Friday",
+  "updated": "2026-07-18T02:12:19Z",
+  "desc": "Private control plane for AI agents ",
+  "url": "https://github.com/thesongzhu/Friday"
 }
 {
-  "name": "agent-design-patterns",
-  "full_name": "huangjia2019/agent-design-patterns",
-  "updated": "2026-07-17T02:26:48Z",
-  "desc": "A 7×6 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified engineering slices from Claude Code, Aider, OpenHands, DeerFlow. Companion to Designing AI Agents (Manning) by Jia Huang.",
-  "url": "https://github.com/huangjia2019/agent-design-patterns"
+  "name": "ai-agent-book",
+  "full_name": "bojieli/ai-agent-book",
+  "updated": "2026-07-18T02:13:57Z",
+  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+  "url": "https://github.com/bojieli/ai-agent-book"
 }
 {
-  "name": "decapod",
-  "full_name": "DecapodLabs/decapod",
-  "updated": "2026-07-17T02:26:00Z",
-  "desc": "Repo-native governance kernel that turns natural-language intent into enriched context, bounded execution, and proof-backed work across looping AI agent fleets. 🦀",
-  "url": "https://github.com/DecapodLabs/decapod"
+  "name": "wmux",
+  "full_name": "openwong2kim/wmux",
+  "updated": "2026-07-18T02:11:49Z",
+  "desc": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
+  "url": "https://github.com/openwong2kim/wmux"
 }
 {
-  "name": "nx",
-  "full_name": "nrwl/nx",
-  "updated": "2026-07-17T02:25:47Z",
-  "desc": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.",
-  "url": "https://github.com/nrwl/nx"
+  "name": "awesome-agentic-ai-zh",
+  "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+  "updated": "2026-07-18T02:11:46Z",
+  "desc": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
+  "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
 }
 {
-  "name": "agent-challenge",
-  "full_name": "BaseIntelligence/agent-challenge",
-  "updated": "2026-07-17T02:25:21Z",
-  "desc": "[🖥️] agent challenge is a Base challenge where developers run and monetize terminal-based AI agents, evaluated in isolated environments and rewarded through competitive performance.",
-  "url": "https://github.com/BaseIntelligence/agent-challenge"
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-07-18T02:11:30Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "jiuwenswarm",
-  "full_name": "openJiuwen-ai/jiuwenswarm",
-  "updated": "2026-07-17T02:25:20Z",
-  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
-  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
+  "name": "e2a",
+  "full_name": "tokencanopy/e2a",
+  "updated": "2026-07-18T02:10:57Z",
+  "desc": "Authenticated email gateway for AI agents — SPF/DKIM verified inbound, HMAC-signed delivery, webhook + WebSocket fan-out, CLI + SDKs",
+  "url": "https://github.com/tokencanopy/e2a"
 }
 {
-  "name": "prismor",
-  "full_name": "PrismorSec/prismor",
-  "updated": "2026-07-17T02:28:10Z",
-  "desc": "Runtime Firewall for AI agents which catches the rogue tool call before it runs. Dangerous commands, secret leaks, prompt injection. For Claude Code, Codex and framework SDKs",
-  "url": "https://github.com/PrismorSec/prismor"
+  "name": "ClaudeCode-Workflow-Lab",
+  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
+  "updated": "2026-07-18T02:09:39Z",
+  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
+  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
