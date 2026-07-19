@@ -1,70 +1,70 @@
 {
-  "name": "scarf",
-  "full_name": "awizemann/scarf",
-  "updated": "2026-07-18T02:12:58Z",
-  "desc": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
-  "url": "https://github.com/awizemann/scarf"
+  "name": "ArcReel",
+  "full_name": "ArcReel/ArcReel",
+  "updated": "2026-07-19T02:31:21Z",
+  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+  "url": "https://github.com/ArcReel/ArcReel"
 }
 {
-  "name": "mcp_agent_mail_rust",
-  "full_name": "Dicklesworthstone/mcp_agent_mail_rust",
-  "updated": "2026-07-18T02:12:51Z",
-  "desc": "Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisory file locks, and an interactive TUI console",
-  "url": "https://github.com/Dicklesworthstone/mcp_agent_mail_rust"
+  "name": "flyto-core",
+  "full_name": "flytohub/flyto-core",
+  "updated": "2026-07-19T02:31:12Z",
+  "desc": "Flyto2 Core is the open-source execution kernel for automation and AI-agent workflows: 451 registry-backed modules, MCP-native transport, YAML recipes, evidence capture, replay, triggers, queue, versioning, and metering.",
+  "url": "https://github.com/flytohub/flyto-core"
 }
 {
   "name": "bitterbot-desktop",
   "full_name": "Bitterbot-AI/bitterbot-desktop",
-  "updated": "2026-07-18T02:12:27Z",
+  "updated": "2026-07-19T02:31:03Z",
   "desc": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
   "url": "https://github.com/Bitterbot-AI/bitterbot-desktop"
 }
 {
-  "name": "Friday",
-  "full_name": "thesongzhu/Friday",
-  "updated": "2026-07-18T02:12:19Z",
-  "desc": "Private control plane for AI agents ",
-  "url": "https://github.com/thesongzhu/Friday"
+  "name": "mentedb",
+  "full_name": "nambok/mentedb",
+  "updated": "2026-07-19T02:30:48Z",
+  "desc": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and speculative context pre assembly. Not a wrapper, a ground up storage engine that thinks.",
+  "url": "https://github.com/nambok/mentedb"
 }
 {
-  "name": "ai-agent-book",
-  "full_name": "bojieli/ai-agent-book",
-  "updated": "2026-07-18T02:13:57Z",
-  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-  "url": "https://github.com/bojieli/ai-agent-book"
-}
-{
-  "name": "wmux",
-  "full_name": "openwong2kim/wmux",
-  "updated": "2026-07-18T02:11:49Z",
-  "desc": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
-  "url": "https://github.com/openwong2kim/wmux"
-}
-{
-  "name": "awesome-agentic-ai-zh",
-  "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-  "updated": "2026-07-18T02:11:46Z",
-  "desc": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
-  "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  "name": "hol-guard",
+  "full_name": "hashgraph-online/hol-guard",
+  "updated": "2026-07-19T02:28:59Z",
+  "desc": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
+  "url": "https://github.com/hashgraph-online/hol-guard"
 }
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-07-18T02:11:30Z",
+  "updated": "2026-07-19T02:28:55Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "e2a",
-  "full_name": "tokencanopy/e2a",
-  "updated": "2026-07-18T02:10:57Z",
-  "desc": "Authenticated email gateway for AI agents — SPF/DKIM verified inbound, HMAC-signed delivery, webhook + WebSocket fan-out, CLI + SDKs",
-  "url": "https://github.com/tokencanopy/e2a"
-}
-{
   "name": "ClaudeCode-Workflow-Lab",
   "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-07-18T02:09:39Z",
+  "updated": "2026-07-19T02:26:49Z",
   "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
   "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
+}
+{
+  "name": "bunqueue",
+  "full_name": "egeominotti/bunqueue",
+  "updated": "2026-07-19T02:26:36Z",
+  "desc": "⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups. Built for AI agents and automation  ",
+  "url": "https://github.com/egeominotti/bunqueue"
+}
+{
+  "name": "oh-my-agent",
+  "full_name": "first-fluke/oh-my-agent",
+  "updated": "2026-07-19T02:25:37Z",
+  "desc": "Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams aligned with your codebase, conventions, and engineering standards.",
+  "url": "https://github.com/first-fluke/oh-my-agent"
+}
+{
+  "name": "Friday",
+  "full_name": "thesongzhu/Friday",
+  "updated": "2026-07-19T02:25:26Z",
+  "desc": "Private control plane for AI agents ",
+  "url": "https://github.com/thesongzhu/Friday"
 }
