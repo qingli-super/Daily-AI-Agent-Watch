@@ -1,70 +1,70 @@
 {
-  "name": "ArcReel",
-  "full_name": "ArcReel/ArcReel",
-  "updated": "2026-07-19T02:31:21Z",
-  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-  "url": "https://github.com/ArcReel/ArcReel"
+  "name": "openagentskill",
+  "full_name": "Leon-Drq/openagentskill",
+  "updated": "2026-07-20T03:27:55Z",
+  "desc": "The skill layer for AI agents: npm for AI Agent Skills.",
+  "url": "https://github.com/Leon-Drq/openagentskill"
 }
 {
-  "name": "flyto-core",
-  "full_name": "flytohub/flyto-core",
-  "updated": "2026-07-19T02:31:12Z",
-  "desc": "Flyto2 Core is the open-source execution kernel for automation and AI-agent workflows: 451 registry-backed modules, MCP-native transport, YAML recipes, evidence capture, replay, triggers, queue, versioning, and metering.",
-  "url": "https://github.com/flytohub/flyto-core"
+  "name": "openclacky",
+  "full_name": "clacky-ai/openclacky",
+  "updated": "2026-07-20T03:27:49Z",
+  "desc": "The most Token-efficient open-source AI Agent",
+  "url": "https://github.com/clacky-ai/openclacky"
 }
 {
-  "name": "bitterbot-desktop",
-  "full_name": "Bitterbot-AI/bitterbot-desktop",
-  "updated": "2026-07-19T02:31:03Z",
-  "desc": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-  "url": "https://github.com/Bitterbot-AI/bitterbot-desktop"
+  "name": "superset",
+  "full_name": "superset-sh/superset",
+  "updated": "2026-07-20T03:27:28Z",
+  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+  "url": "https://github.com/superset-sh/superset"
 }
 {
-  "name": "mentedb",
-  "full_name": "nambok/mentedb",
-  "updated": "2026-07-19T02:30:48Z",
-  "desc": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and speculative context pre assembly. Not a wrapper, a ground up storage engine that thinks.",
-  "url": "https://github.com/nambok/mentedb"
+  "name": "OpenSandbox",
+  "full_name": "opensandbox-group/OpenSandbox",
+  "updated": "2026-07-20T03:27:21Z",
+  "desc": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+  "url": "https://github.com/opensandbox-group/OpenSandbox"
 }
 {
-  "name": "hol-guard",
-  "full_name": "hashgraph-online/hol-guard",
-  "updated": "2026-07-19T02:28:59Z",
-  "desc": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
-  "url": "https://github.com/hashgraph-online/hol-guard"
+  "name": "Arena-of-Autonomous-Threads",
+  "full_name": "rafaelmateo123/Arena-of-Autonomous-Threads",
+  "updated": "2026-07-20T03:26:41Z",
+  "desc": "Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026",
+  "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads"
 }
 {
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-07-19T02:28:55Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  "name": "goose",
+  "full_name": "aaif-goose/goose",
+  "updated": "2026-07-20T03:26:26Z",
+  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "url": "https://github.com/aaif-goose/goose"
 }
 {
-  "name": "ClaudeCode-Workflow-Lab",
-  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-07-19T02:26:49Z",
-  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
-  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
+  "name": "aionrs",
+  "full_name": "iOfficeAI/aionrs",
+  "updated": "2026-07-20T03:25:48Z",
+  "desc": "A multi-provider AI agent CLI with tool orchestration support",
+  "url": "https://github.com/iOfficeAI/aionrs"
 }
 {
-  "name": "bunqueue",
-  "full_name": "egeominotti/bunqueue",
-  "updated": "2026-07-19T02:26:36Z",
-  "desc": "⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups. Built for AI agents and automation  ",
-  "url": "https://github.com/egeominotti/bunqueue"
+  "name": "OpenMAIC",
+  "full_name": "THU-MAIC/OpenMAIC",
+  "updated": "2026-07-20T03:25:04Z",
+  "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+  "url": "https://github.com/THU-MAIC/OpenMAIC"
 }
 {
-  "name": "oh-my-agent",
-  "full_name": "first-fluke/oh-my-agent",
-  "updated": "2026-07-19T02:25:37Z",
-  "desc": "Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams aligned with your codebase, conventions, and engineering standards.",
-  "url": "https://github.com/first-fluke/oh-my-agent"
+  "name": "CowAgent",
+  "full_name": "zhayujie/CowAgent",
+  "updated": "2026-07-20T03:27:17Z",
+  "desc": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+  "url": "https://github.com/zhayujie/CowAgent"
 }
 {
-  "name": "Friday",
-  "full_name": "thesongzhu/Friday",
-  "updated": "2026-07-19T02:25:26Z",
-  "desc": "Private control plane for AI agents ",
-  "url": "https://github.com/thesongzhu/Friday"
+  "name": "agent-vault",
+  "full_name": "Infisical/agent-vault",
+  "updated": "2026-07-20T03:22:16Z",
+  "desc": "A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.",
+  "url": "https://github.com/Infisical/agent-vault"
 }
