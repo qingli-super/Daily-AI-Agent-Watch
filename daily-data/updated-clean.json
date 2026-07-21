@@ -1,70 +1,70 @@
 {
-  "name": "openagentskill",
-  "full_name": "Leon-Drq/openagentskill",
-  "updated": "2026-07-20T03:27:55Z",
-  "desc": "The skill layer for AI agents: npm for AI Agent Skills.",
-  "url": "https://github.com/Leon-Drq/openagentskill"
+  "name": "mateclaw",
+  "full_name": "mateaix/mateclaw",
+  "updated": "2026-07-21T02:29:07Z",
+  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+  "url": "https://github.com/mateaix/mateclaw"
 }
 {
-  "name": "openclacky",
-  "full_name": "clacky-ai/openclacky",
-  "updated": "2026-07-20T03:27:49Z",
-  "desc": "The most Token-efficient open-source AI Agent",
-  "url": "https://github.com/clacky-ai/openclacky"
+  "name": "superserve",
+  "full_name": "superserve-ai/superserve",
+  "updated": "2026-07-21T02:28:39Z",
+  "desc": "Sandbox infrastructure for AI Agents",
+  "url": "https://github.com/superserve-ai/superserve"
 }
 {
-  "name": "superset",
-  "full_name": "superset-sh/superset",
-  "updated": "2026-07-20T03:27:28Z",
-  "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-  "url": "https://github.com/superset-sh/superset"
+  "name": "ai-agent-book",
+  "full_name": "bojieli/ai-agent-book",
+  "updated": "2026-07-21T02:29:36Z",
+  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+  "url": "https://github.com/bojieli/ai-agent-book"
 }
 {
-  "name": "OpenSandbox",
-  "full_name": "opensandbox-group/OpenSandbox",
-  "updated": "2026-07-20T03:27:21Z",
-  "desc": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-  "url": "https://github.com/opensandbox-group/OpenSandbox"
+  "name": "agent-sandbox",
+  "full_name": "kubernetes-sigs/agent-sandbox",
+  "updated": "2026-07-21T02:28:18Z",
+  "desc": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
+  "url": "https://github.com/kubernetes-sigs/agent-sandbox"
 }
 {
-  "name": "Arena-of-Autonomous-Threads",
-  "full_name": "rafaelmateo123/Arena-of-Autonomous-Threads",
-  "updated": "2026-07-20T03:26:41Z",
-  "desc": "Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026",
-  "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads"
+  "name": "MisakaNet",
+  "full_name": "Ikalus1988/MisakaNet",
+  "updated": "2026-07-21T02:28:07Z",
+  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+  "url": "https://github.com/Ikalus1988/MisakaNet"
 }
 {
-  "name": "goose",
-  "full_name": "aaif-goose/goose",
-  "updated": "2026-07-20T03:26:26Z",
-  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-  "url": "https://github.com/aaif-goose/goose"
+  "name": "e2a",
+  "full_name": "tokencanopy/e2a",
+  "updated": "2026-07-21T02:28:05Z",
+  "desc": "Authenticated email gateway for AI agents — SPF/DKIM verified inbound, HMAC-signed delivery, webhook + WebSocket fan-out, CLI + SDKs",
+  "url": "https://github.com/tokencanopy/e2a"
 }
 {
-  "name": "aionrs",
-  "full_name": "iOfficeAI/aionrs",
-  "updated": "2026-07-20T03:25:48Z",
-  "desc": "A multi-provider AI agent CLI with tool orchestration support",
-  "url": "https://github.com/iOfficeAI/aionrs"
+  "name": "alook",
+  "full_name": "alookai/alook",
+  "updated": "2026-07-21T02:27:41Z",
+  "desc": "The collaboration layer for your AI workforce. Run a team of AI agents that coordinate over email, share memory, and get better with every task.",
+  "url": "https://github.com/alookai/alook"
 }
 {
-  "name": "OpenMAIC",
-  "full_name": "THU-MAIC/OpenMAIC",
-  "updated": "2026-07-20T03:25:04Z",
-  "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-  "url": "https://github.com/THU-MAIC/OpenMAIC"
+  "name": "polynoia",
+  "full_name": "JuneQQQ/polynoia",
+  "updated": "2026-07-21T02:26:58Z",
+  "desc": "Polynoia — an IM-style platform for collaborating with multiple AI agents at once. An orchestrator auto-decomposes tasks and dispatches them to agents in parallel. FastAPI + React, runs on web, desktop (Tauri) and mobile (Capacitor).",
+  "url": "https://github.com/JuneQQQ/polynoia"
 }
 {
-  "name": "CowAgent",
-  "full_name": "zhayujie/CowAgent",
-  "updated": "2026-07-20T03:27:17Z",
-  "desc": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-  "url": "https://github.com/zhayujie/CowAgent"
+  "name": "animaworks",
+  "full_name": "xuiltul/animaworks",
+  "updated": "2026-07-21T02:25:23Z",
+  "desc": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/Codex/Gemini/Cursor/Ollama).",
+  "url": "https://github.com/xuiltul/animaworks"
 }
 {
-  "name": "agent-vault",
-  "full_name": "Infisical/agent-vault",
-  "updated": "2026-07-20T03:22:16Z",
-  "desc": "A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.",
-  "url": "https://github.com/Infisical/agent-vault"
+  "name": "jiuwenswarm",
+  "full_name": "openJiuwen-ai/jiuwenswarm",
+  "updated": "2026-07-21T02:23:33Z",
+  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
+  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
 }
