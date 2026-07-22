@@ -1,70 +1,70 @@
 {
-  "name": "mateclaw",
-  "full_name": "mateaix/mateclaw",
-  "updated": "2026-07-21T02:29:07Z",
-  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-  "url": "https://github.com/mateaix/mateclaw"
+  "name": "kody",
+  "full_name": "kentcdodds/kody",
+  "updated": "2026-07-22T02:27:46Z",
+  "desc": "Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.",
+  "url": "https://github.com/kentcdodds/kody"
 }
 {
-  "name": "superserve",
-  "full_name": "superserve-ai/superserve",
-  "updated": "2026-07-21T02:28:39Z",
-  "desc": "Sandbox infrastructure for AI Agents",
-  "url": "https://github.com/superserve-ai/superserve"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-07-22T02:27:22Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "ai-agent-book",
-  "full_name": "bojieli/ai-agent-book",
-  "updated": "2026-07-21T02:29:36Z",
-  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-  "url": "https://github.com/bojieli/ai-agent-book"
+  "name": "agent-core",
+  "full_name": "openJiuwen-ai/agent-core",
+  "updated": "2026-07-22T02:27:21Z",
+  "desc": "openJiuwen agent-core provides a complete set of SDK capabilities related to AI Agent development, running, optimization, and evolution.",
+  "url": "https://github.com/openJiuwen-ai/agent-core"
 }
 {
-  "name": "agent-sandbox",
-  "full_name": "kubernetes-sigs/agent-sandbox",
-  "updated": "2026-07-21T02:28:18Z",
-  "desc": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
-  "url": "https://github.com/kubernetes-sigs/agent-sandbox"
+  "name": "eclipse-chatgpt-plugin",
+  "full_name": "gradusnikov/eclipse-chatgpt-plugin",
+  "updated": "2026-07-22T02:27:11Z",
+  "desc": "Eclipse IDE as an MCP Server for AI Agents",
+  "url": "https://github.com/gradusnikov/eclipse-chatgpt-plugin"
 }
 {
-  "name": "MisakaNet",
-  "full_name": "Ikalus1988/MisakaNet",
-  "updated": "2026-07-21T02:28:07Z",
-  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-  "url": "https://github.com/Ikalus1988/MisakaNet"
+  "name": "mentedb",
+  "full_name": "nambok/mentedb",
+  "updated": "2026-07-22T02:26:58Z",
+  "desc": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and speculative context pre assembly. Not a wrapper, a ground up storage engine that thinks.",
+  "url": "https://github.com/nambok/mentedb"
 }
 {
-  "name": "e2a",
-  "full_name": "tokencanopy/e2a",
-  "updated": "2026-07-21T02:28:05Z",
-  "desc": "Authenticated email gateway for AI agents — SPF/DKIM verified inbound, HMAC-signed delivery, webhook + WebSocket fan-out, CLI + SDKs",
-  "url": "https://github.com/tokencanopy/e2a"
+  "name": "wmux",
+  "full_name": "amirlehmam/wmux",
+  "updated": "2026-07-22T02:26:57Z",
+  "desc": "The original Windows terminal multiplexer for AI agents. Port of cmux.",
+  "url": "https://github.com/amirlehmam/wmux"
 }
 {
-  "name": "alook",
-  "full_name": "alookai/alook",
-  "updated": "2026-07-21T02:27:41Z",
-  "desc": "The collaboration layer for your AI workforce. Run a team of AI agents that coordinate over email, share memory, and get better with every task.",
-  "url": "https://github.com/alookai/alook"
+  "name": "npcsh",
+  "full_name": "NPC-Worldwide/npcsh",
+  "updated": "2026-07-22T02:26:53Z",
+  "desc": "the composable multi-agent shell",
+  "url": "https://github.com/NPC-Worldwide/npcsh"
 }
 {
-  "name": "polynoia",
-  "full_name": "JuneQQQ/polynoia",
-  "updated": "2026-07-21T02:26:58Z",
-  "desc": "Polynoia — an IM-style platform for collaborating with multiple AI agents at once. An orchestrator auto-decomposes tasks and dispatches them to agents in parallel. FastAPI + React, runs on web, desktop (Tauri) and mobile (Capacitor).",
-  "url": "https://github.com/JuneQQQ/polynoia"
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-07-22T02:26:40Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
 }
 {
-  "name": "animaworks",
-  "full_name": "xuiltul/animaworks",
-  "updated": "2026-07-21T02:25:23Z",
-  "desc": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/Codex/Gemini/Cursor/Ollama).",
-  "url": "https://github.com/xuiltul/animaworks"
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-07-22T02:26:25Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "jiuwenswarm",
-  "full_name": "openJiuwen-ai/jiuwenswarm",
-  "updated": "2026-07-21T02:23:33Z",
-  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
-  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
+  "name": "ClaudeCode-Workflow-Lab",
+  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
+  "updated": "2026-07-22T02:24:28Z",
+  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
+  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
