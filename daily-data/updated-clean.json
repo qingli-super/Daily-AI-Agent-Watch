@@ -1,70 +1,70 @@
 {
-  "name": "open-multi-agent",
-  "full_name": "open-multi-agent/open-multi-agent",
-  "updated": "2026-07-23T02:31:56Z",
-  "desc": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepSeek, or local models).",
-  "url": "https://github.com/open-multi-agent/open-multi-agent"
+  "name": "agent-core",
+  "full_name": "openJiuwen-ai/agent-core",
+  "updated": "2026-07-24T02:29:44Z",
+  "desc": "openJiuwen agent-core provides a complete set of SDK capabilities related to AI Agent development, running, optimization, and evolution.",
+  "url": "https://github.com/openJiuwen-ai/agent-core"
 }
 {
-  "name": "deepseek-pp",
-  "full_name": "zhu1090093659/deepseek-pp",
-  "updated": "2026-07-23T02:30:15Z",
-  "desc": "DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automation, web search, and conversation export.",
-  "url": "https://github.com/zhu1090093659/deepseek-pp"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-07-24T02:29:43Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
+}
+{
+  "name": "gaia",
+  "full_name": "amd/gaia",
+  "updated": "2026-07-24T02:29:26Z",
+  "desc": "Build AI agents for your PC",
+  "url": "https://github.com/amd/gaia"
+}
+{
+  "name": "nanobot",
+  "full_name": "HKUDS/nanobot",
+  "updated": "2026-07-24T02:29:23Z",
+  "desc": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+  "url": "https://github.com/HKUDS/nanobot"
+}
+{
+  "name": "sim",
+  "full_name": "simstudioai/sim",
+  "updated": "2026-07-24T02:29:30Z",
+  "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+  "url": "https://github.com/simstudioai/sim"
 }
 {
   "name": "WrenAI",
   "full_name": "Canner/WrenAI",
-  "updated": "2026-07-23T02:29:54Z",
+  "updated": "2026-07-24T02:27:53Z",
   "desc": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
   "url": "https://github.com/Canner/WrenAI"
 }
 {
-  "name": "stash",
-  "full_name": "Fergana-Labs/stash",
-  "updated": "2026-07-23T02:29:40Z",
-  "desc": "Shared memory for your team's coding agents",
-  "url": "https://github.com/Fergana-Labs/stash"
+  "name": "mateclaw",
+  "full_name": "mateaix/mateclaw",
+  "updated": "2026-07-24T02:27:39Z",
+  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+  "url": "https://github.com/mateaix/mateclaw"
 }
 {
-  "name": "pydantic-ai-harness",
-  "full_name": "pydantic/pydantic-ai-harness",
-  "updated": "2026-07-23T02:29:21Z",
-  "desc": "Batteries for your Pydantic AI agent.",
-  "url": "https://github.com/pydantic/pydantic-ai-harness"
+  "name": "rosclaw",
+  "full_name": "ros-claw/rosclaw",
+  "updated": "2026-07-24T02:26:26Z",
+  "desc": "Self-evolving runtime infrastructure for Physical AI and embodied agents. Ground AI agents into robot bodies with e-URDF, sandbox safety, capability routing, praxis capture, physical memory, runtime intervention, and skill evolution.",
+  "url": "https://github.com/ros-claw/rosclaw"
 }
 {
-  "name": "sutando",
-  "full_name": "sonichi/sutando",
-  "updated": "2026-07-23T02:29:00Z",
-  "desc": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-  "url": "https://github.com/sonichi/sutando"
+  "name": "pireel",
+  "full_name": "pireel/pireel",
+  "updated": "2026-07-24T02:23:51Z",
+  "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+  "url": "https://github.com/pireel/pireel"
 }
 {
-  "name": "ai-agent-book",
-  "full_name": "bojieli/ai-agent-book",
-  "updated": "2026-07-23T02:32:05Z",
-  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-  "url": "https://github.com/bojieli/ai-agent-book"
-}
-{
-  "name": "agents",
-  "full_name": "livekit/agents",
-  "updated": "2026-07-23T02:28:23Z",
-  "desc": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
-  "url": "https://github.com/livekit/agents"
-}
-{
-  "name": "kody",
-  "full_name": "kentcdodds/kody",
-  "updated": "2026-07-23T02:27:21Z",
-  "desc": "Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.",
-  "url": "https://github.com/kentcdodds/kody"
-}
-{
-  "name": "edgeever",
-  "full_name": "tianma-if/edgeever",
-  "updated": "2026-07-23T02:27:04Z",
-  "desc": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
-  "url": "https://github.com/tianma-if/edgeever"
+  "name": "signetai",
+  "full_name": "Signet-AI/signetai",
+  "updated": "2026-07-24T02:23:35Z",
+  "desc": "Local-first identity, memory, and secrets for AI agents. Portable state across models and harnesses.",
+  "url": "https://github.com/Signet-AI/signetai"
 }
