@@ -1,70 +1,70 @@
 {
-  "name": "openclaw-operator",
-  "full_name": "paperclipinc/openclaw-operator",
-  "updated": "2026-09-07T02:54:40Z",
-  "desc": "Kubernetes operator for deploying and managing OpenClaw AI agent instances with production-grade security, observability, and lifecycle management.",
-  "url": "https://github.com/paperclipinc/openclaw-operator"
+  "name": "doris",
+  "full_name": "apache/doris",
+  "updated": "2026-09-08T03:04:27Z",
+  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+  "url": "https://github.com/apache/doris"
 }
 {
-  "name": "agent-me",
-  "full_name": "jzjzzzzzzz/agent-me",
-  "updated": "2026-09-07T02:54:39Z",
-  "desc": "Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin.",
-  "url": "https://github.com/jzjzzzzzzz/agent-me"
+  "name": "T3MP3ST",
+  "full_name": "elder-plinius/T3MP3ST",
+  "updated": "2026-09-08T03:04:18Z",
+  "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+  "url": "https://github.com/elder-plinius/T3MP3ST"
 }
 {
-  "name": "Avernet",
-  "full_name": "inclusionAI/Avernet",
-  "updated": "2026-09-07T02:54:34Z",
-  "desc": "Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together.",
-  "url": "https://github.com/inclusionAI/Avernet"
+  "name": "Wake",
+  "full_name": "iAmCorey/Wake",
+  "updated": "2026-09-08T03:04:16Z",
+  "desc": "All your AI agent sessions in one place — browse, search, resume. Rust + GPUI.",
+  "url": "https://github.com/iAmCorey/Wake"
 }
 {
-  "name": "omnigent",
-  "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-09-07T02:54:40Z",
-  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-  "url": "https://github.com/omnigent-ai/omnigent"
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-09-08T03:04:08Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
-  "name": "nanobot",
-  "full_name": "HKUDS/nanobot",
-  "updated": "2026-09-07T02:54:39Z",
-  "desc": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
-  "url": "https://github.com/HKUDS/nanobot"
+  "name": "pydantic-ai",
+  "full_name": "pydantic/pydantic-ai",
+  "updated": "2026-09-08T03:02:58Z",
+  "desc": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+  "url": "https://github.com/pydantic/pydantic-ai"
 }
 {
-  "name": "anneal",
-  "full_name": "mosonlab/anneal",
-  "updated": "2026-09-07T02:54:10Z",
-  "desc": "You write the specs. It clears the board: coding agent chains plan, review, implement, verify and merge unattended on your own machine, on the GPT and Claude subscriptions you already have.",
-  "url": "https://github.com/mosonlab/anneal"
+  "name": "BossConsole",
+  "full_name": "risa-labs-inc/BossConsole",
+  "updated": "2026-09-08T03:02:51Z",
+  "desc": "Open-source, multi-platform harness for AI agents - a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
+  "url": "https://github.com/risa-labs-inc/BossConsole"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-09-07T02:53:56Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "ai-agent-book",
+  "full_name": "bojieli/ai-agent-book",
+  "updated": "2026-09-08T03:04:37Z",
+  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+  "url": "https://github.com/bojieli/ai-agent-book"
 }
 {
-  "name": "awesome-agent-skills",
-  "full_name": "JackyST0/awesome-agent-skills",
-  "updated": "2026-09-07T02:53:36Z",
-  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
-  "url": "https://github.com/JackyST0/awesome-agent-skills"
+  "name": "veritas-kanban",
+  "full_name": "BradGroux/veritas-kanban",
+  "updated": "2026-09-08T03:02:28Z",
+  "desc": "Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands. ",
+  "url": "https://github.com/BradGroux/veritas-kanban"
 }
 {
-  "name": "lade",
-  "full_name": "zifeo/lade",
-  "updated": "2026-09-07T02:53:29Z",
-  "desc": "Give shell commands and AI agents temporary access to secrets, files, and private networks, then clean everything up automatically.",
-  "url": "https://github.com/zifeo/lade"
+  "name": "multica",
+  "full_name": "multica-ai/multica",
+  "updated": "2026-09-08T03:04:15Z",
+  "desc": "Make humans and AI agents work as one team — open-source and self-hostable.",
+  "url": "https://github.com/multica-ai/multica"
 }
 {
-  "name": "hermesd",
-  "full_name": "mudrii/hermesd",
-  "updated": "2026-09-07T02:52:04Z",
-  "desc": "TUI monitoring dashboard for Hermes AI agent",
-  "url": "https://github.com/mudrii/hermesd"
+  "name": "osaurus",
+  "full_name": "osaurus-ai/osaurus",
+  "updated": "2026-09-08T03:01:56Z",
+  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+  "url": "https://github.com/osaurus-ai/osaurus"
 }

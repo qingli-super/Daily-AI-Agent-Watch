@@ -1,70 +1,70 @@
 {
   "name": "awesome-llm-apps",
   "full_name": "Shubhamsaboo/awesome-llm-apps",
-  "stars": 136430,
+  "stars": 136556,
   "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
   "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
 }
 {
   "name": "ponytail",
   "full_name": "DietrichGebert/ponytail",
-  "stars": 129576,
+  "stars": 131119,
   "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
   "url": "https://github.com/DietrichGebert/ponytail"
 }
 {
   "name": "browser-use",
   "full_name": "browser-use/browser-use",
-  "stars": 112759,
+  "stars": 112978,
   "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
   "url": "https://github.com/browser-use/browser-use"
 }
 {
   "name": "gemini-cli",
   "full_name": "google-gemini/gemini-cli",
-  "stars": 106837,
+  "stars": 106856,
   "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
   "url": "https://github.com/google-gemini/gemini-cli"
 }
 {
   "name": "TradingAgents",
   "full_name": "TauricResearch/TradingAgents",
-  "stars": 102754,
+  "stars": 102924,
   "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
   "url": "https://github.com/TauricResearch/TradingAgents"
 }
 {
   "name": "pi",
   "full_name": "earendil-works/pi",
-  "stars": 102459,
+  "stars": 102812,
   "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
   "url": "https://github.com/earendil-works/pi"
 }
 {
   "name": "autoresearch",
   "full_name": "karpathy/autoresearch",
-  "stars": 95327,
+  "stars": 95375,
   "desc": "AI agents running research on single-GPU nanochat training automatically",
   "url": "https://github.com/karpathy/autoresearch"
 }
 {
   "name": "deer-flow",
   "full_name": "bytedance/deer-flow",
-  "stars": 81624,
+  "stars": 81886,
   "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
   "url": "https://github.com/bytedance/deer-flow"
 }
 {
   "name": "Agent-Reach",
   "full_name": "Panniantong/Agent-Reach",
-  "stars": 78461,
+  "stars": 78658,
   "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
   "url": "https://github.com/Panniantong/Agent-Reach"
 }
 {
   "name": "Prompt-Engineering-Guide",
   "full_name": "dair-ai/Prompt-Engineering-Guide",
-  "stars": 78066,
+  "stars": 78096,
   "desc": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
   "url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
 }
