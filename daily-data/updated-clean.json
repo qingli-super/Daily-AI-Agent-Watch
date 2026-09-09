@@ -1,70 +1,70 @@
 {
-  "name": "doris",
-  "full_name": "apache/doris",
-  "updated": "2026-09-08T03:04:27Z",
-  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
-  "url": "https://github.com/apache/doris"
+  "name": "iwe",
+  "full_name": "iwe-org/iwe",
+  "updated": "2026-09-09T03:06:08Z",
+  "desc": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
+  "url": "https://github.com/iwe-org/iwe"
 }
 {
-  "name": "T3MP3ST",
-  "full_name": "elder-plinius/T3MP3ST",
-  "updated": "2026-09-08T03:04:18Z",
-  "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-  "url": "https://github.com/elder-plinius/T3MP3ST"
+  "name": "Claude-of-Tanks",
+  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
+  "updated": "2026-09-09T03:05:22Z",
+  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
+  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
 }
 {
-  "name": "Wake",
-  "full_name": "iAmCorey/Wake",
-  "updated": "2026-09-08T03:04:16Z",
-  "desc": "All your AI agent sessions in one place — browse, search, resume. Rust + GPUI.",
-  "url": "https://github.com/iAmCorey/Wake"
+  "name": "smithers",
+  "full_name": "smithersai/smithers",
+  "updated": "2026-09-09T03:05:10Z",
+  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
+  "url": "https://github.com/smithersai/smithers"
 }
 {
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-09-08T03:04:08Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
+  "name": "mcp-gateway-registry",
+  "full_name": "agentic-community/mcp-gateway-registry",
+  "updated": "2026-09-09T03:04:26Z",
+  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
+  "url": "https://github.com/agentic-community/mcp-gateway-registry"
 }
 {
-  "name": "pydantic-ai",
-  "full_name": "pydantic/pydantic-ai",
-  "updated": "2026-09-08T03:02:58Z",
-  "desc": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
-  "url": "https://github.com/pydantic/pydantic-ai"
+  "name": "agent-framework",
+  "full_name": "microsoft/agent-framework",
+  "updated": "2026-09-09T03:04:39Z",
+  "desc": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+  "url": "https://github.com/microsoft/agent-framework"
 }
 {
-  "name": "BossConsole",
-  "full_name": "risa-labs-inc/BossConsole",
-  "updated": "2026-09-08T03:02:51Z",
-  "desc": "Open-source, multi-platform harness for AI agents - a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
-  "url": "https://github.com/risa-labs-inc/BossConsole"
+  "name": "Lody",
+  "full_name": "LodyAI/Lody",
+  "updated": "2026-09-09T03:03:44Z",
+  "desc": "Share coding agents with your team on phone and desktop",
+  "url": "https://github.com/LodyAI/Lody"
 }
 {
-  "name": "ai-agent-book",
-  "full_name": "bojieli/ai-agent-book",
-  "updated": "2026-09-08T03:04:37Z",
-  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-  "url": "https://github.com/bojieli/ai-agent-book"
+  "name": "Cotal",
+  "full_name": "Cotal-AI/Cotal",
+  "updated": "2026-09-09T03:05:14Z",
+  "desc": "The open standard for agent coordination",
+  "url": "https://github.com/Cotal-AI/Cotal"
 }
 {
-  "name": "veritas-kanban",
-  "full_name": "BradGroux/veritas-kanban",
-  "updated": "2026-09-08T03:02:28Z",
-  "desc": "Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands. ",
-  "url": "https://github.com/BradGroux/veritas-kanban"
+  "name": "reflect-open",
+  "full_name": "team-reflect/reflect-open",
+  "updated": "2026-09-09T03:03:14Z",
+  "desc": "Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app",
+  "url": "https://github.com/team-reflect/reflect-open"
 }
 {
-  "name": "multica",
-  "full_name": "multica-ai/multica",
-  "updated": "2026-09-08T03:04:15Z",
-  "desc": "Make humans and AI agents work as one team — open-source and self-hostable.",
-  "url": "https://github.com/multica-ai/multica"
+  "name": "agentconnect",
+  "full_name": "agentconnect-md/agentconnect",
+  "updated": "2026-09-09T03:03:07Z",
+  "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
+  "url": "https://github.com/agentconnect-md/agentconnect"
 }
 {
-  "name": "osaurus",
-  "full_name": "osaurus-ai/osaurus",
-  "updated": "2026-09-08T03:01:56Z",
-  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
-  "url": "https://github.com/osaurus-ai/osaurus"
+  "name": "OpenViking",
+  "full_name": "volcengine/OpenViking",
+  "updated": "2026-09-09T03:04:36Z",
+  "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "url": "https://github.com/volcengine/OpenViking"
 }
