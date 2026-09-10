@@ -1,70 +1,70 @@
 {
-  "name": "iwe",
-  "full_name": "iwe-org/iwe",
-  "updated": "2026-09-09T03:06:08Z",
-  "desc": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
-  "url": "https://github.com/iwe-org/iwe"
+  "name": "agent-control-standard",
+  "full_name": "GenAI-Security-Project/agent-control-standard",
+  "updated": "2026-09-10T03:06:17Z",
+  "desc": "The open standard for runtime agent control — declarative hooks, policy enforcement, and observability across AI agent frameworks.",
+  "url": "https://github.com/GenAI-Security-Project/agent-control-standard"
 }
 {
-  "name": "Claude-of-Tanks",
-  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
-  "updated": "2026-09-09T03:05:22Z",
-  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
-  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-09-10T03:06:02Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
+}
+{
+  "name": "vibe-investing",
+  "full_name": "gameworkerkim/vibe-investing",
+  "updated": "2026-09-10T03:05:32Z",
+  "desc": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇.",
+  "url": "https://github.com/gameworkerkim/vibe-investing"
 }
 {
   "name": "smithers",
   "full_name": "smithersai/smithers",
-  "updated": "2026-09-09T03:05:10Z",
+  "updated": "2026-09-10T03:05:31Z",
   "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
   "url": "https://github.com/smithersai/smithers"
 }
 {
-  "name": "mcp-gateway-registry",
-  "full_name": "agentic-community/mcp-gateway-registry",
-  "updated": "2026-09-09T03:04:26Z",
-  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
-  "url": "https://github.com/agentic-community/mcp-gateway-registry"
+  "name": "nexent",
+  "full_name": "ModelEngine-Group/nexent",
+  "updated": "2026-09-10T03:05:19Z",
+  "desc": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+  "url": "https://github.com/ModelEngine-Group/nexent"
 }
 {
-  "name": "agent-framework",
-  "full_name": "microsoft/agent-framework",
-  "updated": "2026-09-09T03:04:39Z",
-  "desc": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-  "url": "https://github.com/microsoft/agent-framework"
+  "name": "code-interpreter",
+  "full_name": "LibreChat-AI/code-interpreter",
+  "updated": "2026-09-10T03:05:06Z",
+  "desc": "Sandboxed code execution API for AI agents: powers LibreChat's Code Interpreter",
+  "url": "https://github.com/LibreChat-AI/code-interpreter"
 }
 {
-  "name": "Lody",
-  "full_name": "LodyAI/Lody",
-  "updated": "2026-09-09T03:03:44Z",
-  "desc": "Share coding agents with your team on phone and desktop",
-  "url": "https://github.com/LodyAI/Lody"
+  "name": "adk-python",
+  "full_name": "google/adk-python",
+  "updated": "2026-09-10T03:05:00Z",
+  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "url": "https://github.com/google/adk-python"
 }
 {
-  "name": "Cotal",
-  "full_name": "Cotal-AI/Cotal",
-  "updated": "2026-09-09T03:05:14Z",
-  "desc": "The open standard for agent coordination",
-  "url": "https://github.com/Cotal-AI/Cotal"
+  "name": "Claude-of-Tanks",
+  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
+  "updated": "2026-09-10T03:04:44Z",
+  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
+  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
 }
 {
-  "name": "reflect-open",
-  "full_name": "team-reflect/reflect-open",
-  "updated": "2026-09-09T03:03:14Z",
-  "desc": "Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app",
-  "url": "https://github.com/team-reflect/reflect-open"
+  "name": "Orkas",
+  "full_name": "Orkas-AI/Orkas",
+  "updated": "2026-09-10T03:04:33Z",
+  "desc": "Open-source multi-agent AI desktop client — build and command your AI agent team through conversation. A commander LLM dispatches sub-agents in parallel or in series; agents self-evolve via reflection and skill crystallization. Local-first, BYO LLM keys (Claude · OpenAI · Gemini · DeepSeek · Kimi · GLM · Qwen). macOS / Windows / Linux.",
+  "url": "https://github.com/Orkas-AI/Orkas"
 }
 {
-  "name": "agentconnect",
-  "full_name": "agentconnect-md/agentconnect",
-  "updated": "2026-09-09T03:03:07Z",
-  "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-  "url": "https://github.com/agentconnect-md/agentconnect"
-}
-{
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-09-09T03:04:36Z",
-  "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-  "url": "https://github.com/volcengine/OpenViking"
+  "name": "ai-agent-book",
+  "full_name": "bojieli/ai-agent-book",
+  "updated": "2026-09-10T03:04:22Z",
+  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+  "url": "https://github.com/bojieli/ai-agent-book"
 }
