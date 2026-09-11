@@ -1,70 +1,70 @@
 {
   "name": "awesome-llm-apps",
   "full_name": "Shubhamsaboo/awesome-llm-apps",
-  "stars": 136869,
+  "stars": 136979,
   "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
   "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
 }
 {
   "name": "ponytail",
   "full_name": "DietrichGebert/ponytail",
-  "stars": 133562,
+  "stars": 134869,
   "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
   "url": "https://github.com/DietrichGebert/ponytail"
 }
 {
   "name": "gemini-cli",
   "full_name": "google-gemini/gemini-cli",
-  "stars": 106885,
+  "stars": 106904,
   "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
   "url": "https://github.com/google-gemini/gemini-cli"
 }
 {
   "name": "TradingAgents",
   "full_name": "TauricResearch/TradingAgents",
-  "stars": 104044,
+  "stars": 104521,
   "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
   "url": "https://github.com/TauricResearch/TradingAgents"
 }
 {
   "name": "pi",
   "full_name": "earendil-works/pi",
-  "stars": 103540,
+  "stars": 103889,
   "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
   "url": "https://github.com/earendil-works/pi"
 }
 {
   "name": "autoresearch",
   "full_name": "karpathy/autoresearch",
-  "stars": 95501,
+  "stars": 95568,
   "desc": "AI agents running research on single-GPU nanochat training automatically",
   "url": "https://github.com/karpathy/autoresearch"
 }
 {
   "name": "deer-flow",
   "full_name": "bytedance/deer-flow",
-  "stars": 82150,
+  "stars": 82237,
   "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
   "url": "https://github.com/bytedance/deer-flow"
 }
 {
   "name": "Agent-Reach",
   "full_name": "Panniantong/Agent-Reach",
-  "stars": 79090,
+  "stars": 79303,
   "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
   "url": "https://github.com/Panniantong/Agent-Reach"
 }
 {
   "name": "Prompt-Engineering-Guide",
   "full_name": "dair-ai/Prompt-Engineering-Guide",
-  "stars": 78154,
+  "stars": 78187,
   "desc": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
   "url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
 }
 {
   "name": "ai-agents-for-beginners",
   "full_name": "microsoft/ai-agents-for-beginners",
-  "stars": 74298,
+  "stars": 74386,
   "desc": "18 Lessons to Get Started Building AI Agents",
   "url": "https://github.com/microsoft/ai-agents-for-beginners"
 }

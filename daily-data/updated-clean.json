@@ -1,70 +1,70 @@
 {
-  "name": "agent-control-standard",
-  "full_name": "GenAI-Security-Project/agent-control-standard",
-  "updated": "2026-09-10T03:06:17Z",
-  "desc": "The open standard for runtime agent control — declarative hooks, policy enforcement, and observability across AI agent frameworks.",
-  "url": "https://github.com/GenAI-Security-Project/agent-control-standard"
+  "name": "ClawX",
+  "full_name": "ValueCell-ai/ClawX",
+  "updated": "2026-09-11T03:00:33Z",
+  "desc": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.",
+  "url": "https://github.com/ValueCell-ai/ClawX"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-09-10T03:06:02Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "thClaws",
+  "full_name": "thClaws/thClaws",
+  "updated": "2026-09-11T02:59:54Z",
+  "desc": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
+  "url": "https://github.com/thClaws/thClaws"
 }
 {
-  "name": "vibe-investing",
-  "full_name": "gameworkerkim/vibe-investing",
-  "updated": "2026-09-10T03:05:32Z",
-  "desc": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇.",
-  "url": "https://github.com/gameworkerkim/vibe-investing"
+  "name": "mcp_agent_mail_rust",
+  "full_name": "Dicklesworthstone/mcp_agent_mail_rust",
+  "updated": "2026-09-11T02:59:48Z",
+  "desc": "Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisory file locks, and an interactive TUI console",
+  "url": "https://github.com/Dicklesworthstone/mcp_agent_mail_rust"
 }
 {
-  "name": "smithers",
-  "full_name": "smithersai/smithers",
-  "updated": "2026-09-10T03:05:31Z",
-  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
-  "url": "https://github.com/smithersai/smithers"
+  "name": "AiCode",
+  "full_name": "jieapi/AiCode",
+  "updated": "2026-09-11T02:59:35Z",
+  "desc": "在 Android 上运行的 AI 代码编辑器，内置 Linux 终端、AI Agent 与 MCP 协议。",
+  "url": "https://github.com/jieapi/AiCode"
 }
 {
-  "name": "nexent",
-  "full_name": "ModelEngine-Group/nexent",
-  "updated": "2026-09-10T03:05:19Z",
-  "desc": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
-  "url": "https://github.com/ModelEngine-Group/nexent"
+  "name": "kody",
+  "full_name": "kentcdodds/kody",
+  "updated": "2026-09-11T03:01:16Z",
+  "desc": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.",
+  "url": "https://github.com/kentcdodds/kody"
 }
 {
-  "name": "code-interpreter",
-  "full_name": "LibreChat-AI/code-interpreter",
-  "updated": "2026-09-10T03:05:06Z",
-  "desc": "Sandboxed code execution API for AI agents: powers LibreChat's Code Interpreter",
-  "url": "https://github.com/LibreChat-AI/code-interpreter"
+  "name": "agentconnect",
+  "full_name": "agentconnect-md/agentconnect",
+  "updated": "2026-09-11T02:58:19Z",
+  "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
+  "url": "https://github.com/agentconnect-md/agentconnect"
 }
 {
-  "name": "adk-python",
-  "full_name": "google/adk-python",
-  "updated": "2026-09-10T03:05:00Z",
-  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "url": "https://github.com/google/adk-python"
+  "name": "webcodex",
+  "full_name": "yyjeqhc/webcodex",
+  "updated": "2026-09-11T02:58:05Z",
+  "desc": "Give cloud AI agents a real development environment on your own machines.",
+  "url": "https://github.com/yyjeqhc/webcodex"
 }
 {
-  "name": "Claude-of-Tanks",
-  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
-  "updated": "2026-09-10T03:04:44Z",
-  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
-  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
+  "name": "denova",
+  "full_name": "alfredxw/denova",
+  "updated": "2026-09-11T02:57:58Z",
+  "desc": "An AI creative platform for novel writing and AI generated RPG, with built-in support for AI agents, Skills, subagent workflows, automations, image generation, and version control. 一个面向小说创作与 AI 角色扮演游戏的 AI 创作平台，内置支持 AI Agents、Skills、Subagent Workflows、Automations、图像自动生成与项目版本管理等核心能力",
+  "url": "https://github.com/alfredxw/denova"
 }
 {
-  "name": "Orkas",
-  "full_name": "Orkas-AI/Orkas",
-  "updated": "2026-09-10T03:04:33Z",
-  "desc": "Open-source multi-agent AI desktop client — build and command your AI agent team through conversation. A commander LLM dispatches sub-agents in parallel or in series; agents self-evolve via reflection and skill crystallization. Local-first, BYO LLM keys (Claude · OpenAI · Gemini · DeepSeek · Kimi · GLM · Qwen). macOS / Windows / Linux.",
-  "url": "https://github.com/Orkas-AI/Orkas"
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-09-11T02:57:49Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "ai-agent-book",
-  "full_name": "bojieli/ai-agent-book",
-  "updated": "2026-09-10T03:04:22Z",
-  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-  "url": "https://github.com/bojieli/ai-agent-book"
+  "name": "betterwright",
+  "full_name": "BetterWright/betterwright",
+  "updated": "2026-09-11T02:57:37Z",
+  "desc": "A persistent, policy-guarded Playwright browser for AI agents — network policy, encrypted credential vault, proof screenshots, and CAPTCHA solving. ",
+  "url": "https://github.com/BetterWright/betterwright"
 }
