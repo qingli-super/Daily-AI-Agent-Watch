@@ -1,70 +1,70 @@
 {
-  "name": "ClawX",
-  "full_name": "ValueCell-ai/ClawX",
-  "updated": "2026-09-11T03:00:33Z",
-  "desc": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.",
-  "url": "https://github.com/ValueCell-ai/ClawX"
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-09-12T03:06:47Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
 }
 {
-  "name": "thClaws",
-  "full_name": "thClaws/thClaws",
-  "updated": "2026-09-11T02:59:54Z",
-  "desc": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
-  "url": "https://github.com/thClaws/thClaws"
+  "name": "frankenterm",
+  "full_name": "Dicklesworthstone/frankenterm",
+  "updated": "2026-09-12T03:05:53Z",
+  "desc": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
+  "url": "https://github.com/Dicklesworthstone/frankenterm"
 }
 {
-  "name": "mcp_agent_mail_rust",
-  "full_name": "Dicklesworthstone/mcp_agent_mail_rust",
-  "updated": "2026-09-11T02:59:48Z",
-  "desc": "Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisory file locks, and an interactive TUI console",
-  "url": "https://github.com/Dicklesworthstone/mcp_agent_mail_rust"
+  "name": "LayerX-Network",
+  "full_name": "Sidiora-Labs/LayerX-Network",
+  "updated": "2026-09-12T03:05:43Z",
+  "desc": "LayerX Network is a deterministic execution and accounting network for autonomous agents.",
+  "url": "https://github.com/Sidiora-Labs/LayerX-Network"
 }
 {
-  "name": "AiCode",
-  "full_name": "jieapi/AiCode",
-  "updated": "2026-09-11T02:59:35Z",
-  "desc": "在 Android 上运行的 AI 代码编辑器，内置 Linux 终端、AI Agent 与 MCP 协议。",
-  "url": "https://github.com/jieapi/AiCode"
+  "name": "Zoo-Code",
+  "full_name": "Zoo-Code-Org/Zoo-Code",
+  "updated": "2026-09-12T03:05:05Z",
+  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
+  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
 }
 {
-  "name": "kody",
-  "full_name": "kentcdodds/kody",
-  "updated": "2026-09-11T03:01:16Z",
-  "desc": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.",
-  "url": "https://github.com/kentcdodds/kody"
+  "name": "adk-python",
+  "full_name": "google/adk-python",
+  "updated": "2026-09-12T03:04:32Z",
+  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "url": "https://github.com/google/adk-python"
 }
 {
-  "name": "agentconnect",
-  "full_name": "agentconnect-md/agentconnect",
-  "updated": "2026-09-11T02:58:19Z",
-  "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-  "url": "https://github.com/agentconnect-md/agentconnect"
+  "name": "ai-agent-book",
+  "full_name": "bojieli/ai-agent-book",
+  "updated": "2026-09-12T03:06:36Z",
+  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+  "url": "https://github.com/bojieli/ai-agent-book"
 }
 {
-  "name": "webcodex",
-  "full_name": "yyjeqhc/webcodex",
-  "updated": "2026-09-11T02:58:05Z",
-  "desc": "Give cloud AI agents a real development environment on your own machines.",
-  "url": "https://github.com/yyjeqhc/webcodex"
+  "name": "MisakaNet",
+  "full_name": "Ikalus1988/MisakaNet",
+  "updated": "2026-09-12T03:01:13Z",
+  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+  "url": "https://github.com/Ikalus1988/MisakaNet"
 }
 {
-  "name": "denova",
-  "full_name": "alfredxw/denova",
-  "updated": "2026-09-11T02:57:58Z",
-  "desc": "An AI creative platform for novel writing and AI generated RPG, with built-in support for AI agents, Skills, subagent workflows, automations, image generation, and version control. 一个面向小说创作与 AI 角色扮演游戏的 AI 创作平台，内置支持 AI Agents、Skills、Subagent Workflows、Automations、图像自动生成与项目版本管理等核心能力",
-  "url": "https://github.com/alfredxw/denova"
+  "name": "pipelock",
+  "full_name": "luckyPipewrench/pipelock",
+  "updated": "2026-09-12T03:00:56Z",
+  "desc": "Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action receipts: verifiable audit evidence from outside the agent.",
+  "url": "https://github.com/luckyPipewrench/pipelock"
 }
 {
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-09-11T02:57:49Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  "name": "local-operator",
+  "full_name": "damianvtran/local-operator",
+  "updated": "2026-09-12T03:00:20Z",
+  "desc": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background around the clock, and share your existing AI subscriptions.",
+  "url": "https://github.com/damianvtran/local-operator"
 }
 {
-  "name": "betterwright",
-  "full_name": "BetterWright/betterwright",
-  "updated": "2026-09-11T02:57:37Z",
-  "desc": "A persistent, policy-guarded Playwright browser for AI agents — network policy, encrypted credential vault, proof screenshots, and CAPTCHA solving. ",
-  "url": "https://github.com/BetterWright/betterwright"
+  "name": "deer-flow",
+  "full_name": "bytedance/deer-flow",
+  "updated": "2026-09-12T02:59:36Z",
+  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+  "url": "https://github.com/bytedance/deer-flow"
 }
