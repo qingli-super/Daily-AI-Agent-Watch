@@ -1,70 +1,70 @@
 {
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-09-12T03:06:47Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
+  "name": "hermes-studio",
+  "full_name": "EKKOLearnAI/hermes-studio",
+  "updated": "2026-09-13T03:09:00Z",
+  "desc": "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
+  "url": "https://github.com/EKKOLearnAI/hermes-studio"
 }
 {
-  "name": "frankenterm",
-  "full_name": "Dicklesworthstone/frankenterm",
-  "updated": "2026-09-12T03:05:53Z",
-  "desc": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
-  "url": "https://github.com/Dicklesworthstone/frankenterm"
+  "name": "lumina",
+  "full_name": "Bino5150/lumina",
+  "updated": "2026-09-13T03:08:40Z",
+  "desc": "A full featured, powerful, and efficient AI Agentic Harness/Desktop Agent app designed from the ground up with local inference on consumer hardware in mind. It evolves, grows, and gets smarter as you go. And it REMEMBERS... ",
+  "url": "https://github.com/Bino5150/lumina"
 }
 {
-  "name": "LayerX-Network",
-  "full_name": "Sidiora-Labs/LayerX-Network",
-  "updated": "2026-09-12T03:05:43Z",
-  "desc": "LayerX Network is a deterministic execution and accounting network for autonomous agents.",
-  "url": "https://github.com/Sidiora-Labs/LayerX-Network"
+  "name": "mcpproxy-go",
+  "full_name": "smart-mcp-proxy/mcpproxy-go",
+  "updated": "2026-09-13T03:08:34Z",
+  "desc": "Supercharge AI Agents, Safely",
+  "url": "https://github.com/smart-mcp-proxy/mcpproxy-go"
 }
 {
-  "name": "Zoo-Code",
-  "full_name": "Zoo-Code-Org/Zoo-Code",
-  "updated": "2026-09-12T03:05:05Z",
-  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
-  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
+  "name": "agent-orchestrator",
+  "full_name": "Untrivial-ai/agent-orchestrator",
+  "updated": "2026-09-13T03:08:53Z",
+  "desc": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
+  "url": "https://github.com/Untrivial-ai/agent-orchestrator"
 }
 {
-  "name": "adk-python",
-  "full_name": "google/adk-python",
-  "updated": "2026-09-12T03:04:32Z",
-  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "url": "https://github.com/google/adk-python"
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-09-13T03:06:26Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "ai-agent-book",
-  "full_name": "bojieli/ai-agent-book",
-  "updated": "2026-09-12T03:06:36Z",
-  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-  "url": "https://github.com/bojieli/ai-agent-book"
+  "name": "AiCode",
+  "full_name": "jieapi/AiCode",
+  "updated": "2026-09-13T03:06:14Z",
+  "desc": "在 Android 上运行的 AI 代码编辑器，内置 Linux 终端、AI Agent 与 MCP 协议。",
+  "url": "https://github.com/jieapi/AiCode"
 }
 {
-  "name": "MisakaNet",
-  "full_name": "Ikalus1988/MisakaNet",
-  "updated": "2026-09-12T03:01:13Z",
-  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-  "url": "https://github.com/Ikalus1988/MisakaNet"
+  "name": "From-Zero-to-AGI",
+  "full_name": "AI-mzq/From-Zero-to-AGI",
+  "updated": "2026-09-13T03:05:34Z",
+  "desc": "从零走向AGI之路！！！旨在深入了解通用人工智能（AGI）的发展路径，从最基础的概念起，逐步构建完整的知识体系。涵盖AI Agent、RAG、MCP、具身智能、大语言模型、多模态、数字人、AI绘画、AI视频等！！",
+  "url": "https://github.com/AI-mzq/From-Zero-to-AGI"
 }
 {
-  "name": "pipelock",
-  "full_name": "luckyPipewrench/pipelock",
-  "updated": "2026-09-12T03:00:56Z",
-  "desc": "Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action receipts: verifiable audit evidence from outside the agent.",
-  "url": "https://github.com/luckyPipewrench/pipelock"
+  "name": "cindy",
+  "full_name": "makecindy/cindy",
+  "updated": "2026-09-13T03:09:27Z",
+  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "url": "https://github.com/makecindy/cindy"
 }
 {
-  "name": "local-operator",
-  "full_name": "damianvtran/local-operator",
-  "updated": "2026-09-12T03:00:20Z",
-  "desc": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background around the clock, and share your existing AI subscriptions.",
-  "url": "https://github.com/damianvtran/local-operator"
+  "name": "terminal-bench-science",
+  "full_name": "harbor-framework/terminal-bench-science",
+  "updated": "2026-09-13T03:05:12Z",
+  "desc": "Terminal-Bench-Science: Evaluating AI agents on research workflows across scientific domains",
+  "url": "https://github.com/harbor-framework/terminal-bench-science"
 }
 {
-  "name": "deer-flow",
-  "full_name": "bytedance/deer-flow",
-  "updated": "2026-09-12T02:59:36Z",
-  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-  "url": "https://github.com/bytedance/deer-flow"
+  "name": "Codewhale",
+  "full_name": "Hmbown/Codewhale",
+  "updated": "2026-09-13T03:09:15Z",
+  "desc": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
+  "url": "https://github.com/Hmbown/Codewhale"
 }
