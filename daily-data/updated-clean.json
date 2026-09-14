@@ -1,70 +1,70 @@
 {
-  "name": "hermes-studio",
-  "full_name": "EKKOLearnAI/hermes-studio",
-  "updated": "2026-09-13T03:09:00Z",
-  "desc": "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
-  "url": "https://github.com/EKKOLearnAI/hermes-studio"
+  "name": "local-operator",
+  "full_name": "damianvtran/local-operator",
+  "updated": "2026-09-14T03:23:42Z",
+  "desc": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background around the clock, and share your existing AI subscriptions.",
+  "url": "https://github.com/damianvtran/local-operator"
 }
 {
-  "name": "lumina",
-  "full_name": "Bino5150/lumina",
-  "updated": "2026-09-13T03:08:40Z",
-  "desc": "A full featured, powerful, and efficient AI Agentic Harness/Desktop Agent app designed from the ground up with local inference on consumer hardware in mind. It evolves, grows, and gets smarter as you go. And it REMEMBERS... ",
-  "url": "https://github.com/Bino5150/lumina"
+  "name": "nanobot",
+  "full_name": "HKUDS/nanobot",
+  "updated": "2026-09-14T03:23:08Z",
+  "desc": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+  "url": "https://github.com/HKUDS/nanobot"
 }
 {
-  "name": "mcpproxy-go",
-  "full_name": "smart-mcp-proxy/mcpproxy-go",
-  "updated": "2026-09-13T03:08:34Z",
-  "desc": "Supercharge AI Agents, Safely",
-  "url": "https://github.com/smart-mcp-proxy/mcpproxy-go"
+  "name": "hope-agent",
+  "full_name": "shiwenwen/hope-agent",
+  "updated": "2026-09-14T03:22:44Z",
+  "desc": "🦭 会记忆、能持续推进目标、会动态编排多 Agent 的跨端桌面 AI 助手，也可服务化常驻 NAS / 云端 | A cross-device desktop AI agent with memory, autonomous goals, dynamic workflows, and headless deployment",
+  "url": "https://github.com/shiwenwen/hope-agent"
 }
 {
-  "name": "agent-orchestrator",
-  "full_name": "Untrivial-ai/agent-orchestrator",
-  "updated": "2026-09-13T03:08:53Z",
-  "desc": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
-  "url": "https://github.com/Untrivial-ai/agent-orchestrator"
+  "name": "siyuan",
+  "full_name": "siyuan-note/siyuan",
+  "updated": "2026-09-14T03:23:04Z",
+  "desc": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
+  "url": "https://github.com/siyuan-note/siyuan"
 }
 {
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-09-13T03:06:26Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  "name": "OpenProgram",
+  "full_name": "Fzkuji/OpenProgram",
+  "updated": "2026-09-14T03:22:12Z",
+  "desc": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+  "url": "https://github.com/Fzkuji/OpenProgram"
 }
 {
-  "name": "AiCode",
-  "full_name": "jieapi/AiCode",
-  "updated": "2026-09-13T03:06:14Z",
-  "desc": "在 Android 上运行的 AI 代码编辑器，内置 Linux 终端、AI Agent 与 MCP 协议。",
-  "url": "https://github.com/jieapi/AiCode"
+  "name": "agentscope",
+  "full_name": "agentscope-ai/agentscope",
+  "updated": "2026-09-14T03:22:09Z",
+  "desc": "Build and run agents you can see, understand and trust.",
+  "url": "https://github.com/agentscope-ai/agentscope"
 }
 {
-  "name": "From-Zero-to-AGI",
-  "full_name": "AI-mzq/From-Zero-to-AGI",
-  "updated": "2026-09-13T03:05:34Z",
-  "desc": "从零走向AGI之路！！！旨在深入了解通用人工智能（AGI）的发展路径，从最基础的概念起，逐步构建完整的知识体系。涵盖AI Agent、RAG、MCP、具身智能、大语言模型、多模态、数字人、AI绘画、AI视频等！！",
-  "url": "https://github.com/AI-mzq/From-Zero-to-AGI"
+  "name": "code-interpreter",
+  "full_name": "LibreChat-AI/code-interpreter",
+  "updated": "2026-09-14T03:21:53Z",
+  "desc": "Sandboxed code execution API for AI agents: powers LibreChat's Code Interpreter",
+  "url": "https://github.com/LibreChat-AI/code-interpreter"
 }
 {
-  "name": "cindy",
-  "full_name": "makecindy/cindy",
-  "updated": "2026-09-13T03:09:27Z",
-  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-  "url": "https://github.com/makecindy/cindy"
+  "name": "lobu",
+  "full_name": "lobu-ai/lobu",
+  "updated": "2026-09-14T03:21:46Z",
+  "desc": "Open-source control plane and runtime for organisational agents: shared company context & brain, Glean alternative ",
+  "url": "https://github.com/lobu-ai/lobu"
 }
 {
-  "name": "terminal-bench-science",
-  "full_name": "harbor-framework/terminal-bench-science",
-  "updated": "2026-09-13T03:05:12Z",
-  "desc": "Terminal-Bench-Science: Evaluating AI agents on research workflows across scientific domains",
-  "url": "https://github.com/harbor-framework/terminal-bench-science"
+  "name": "awesome-agent-skills",
+  "full_name": "JackyST0/awesome-agent-skills",
+  "updated": "2026-09-14T03:21:47Z",
+  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
+  "url": "https://github.com/JackyST0/awesome-agent-skills"
 }
 {
-  "name": "Codewhale",
-  "full_name": "Hmbown/Codewhale",
-  "updated": "2026-09-13T03:09:15Z",
-  "desc": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
-  "url": "https://github.com/Hmbown/Codewhale"
+  "name": "uniterm",
+  "full_name": "ys-ll/uniterm",
+  "updated": "2026-09-14T03:21:25Z",
+  "desc": "A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
+  "url": "https://github.com/ys-ll/uniterm"
 }
