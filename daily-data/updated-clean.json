@@ -1,70 +1,70 @@
 {
-  "name": "local-operator",
-  "full_name": "damianvtran/local-operator",
-  "updated": "2026-09-14T03:23:42Z",
-  "desc": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background around the clock, and share your existing AI subscriptions.",
-  "url": "https://github.com/damianvtran/local-operator"
-}
-{
-  "name": "nanobot",
-  "full_name": "HKUDS/nanobot",
-  "updated": "2026-09-14T03:23:08Z",
-  "desc": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
-  "url": "https://github.com/HKUDS/nanobot"
-}
-{
-  "name": "hope-agent",
-  "full_name": "shiwenwen/hope-agent",
-  "updated": "2026-09-14T03:22:44Z",
-  "desc": "🦭 会记忆、能持续推进目标、会动态编排多 Agent 的跨端桌面 AI 助手，也可服务化常驻 NAS / 云端 | A cross-device desktop AI agent with memory, autonomous goals, dynamic workflows, and headless deployment",
-  "url": "https://github.com/shiwenwen/hope-agent"
-}
-{
-  "name": "siyuan",
-  "full_name": "siyuan-note/siyuan",
-  "updated": "2026-09-14T03:23:04Z",
-  "desc": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
-  "url": "https://github.com/siyuan-note/siyuan"
-}
-{
-  "name": "OpenProgram",
-  "full_name": "Fzkuji/OpenProgram",
-  "updated": "2026-09-14T03:22:12Z",
-  "desc": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-  "url": "https://github.com/Fzkuji/OpenProgram"
-}
-{
-  "name": "agentscope",
-  "full_name": "agentscope-ai/agentscope",
-  "updated": "2026-09-14T03:22:09Z",
-  "desc": "Build and run agents you can see, understand and trust.",
-  "url": "https://github.com/agentscope-ai/agentscope"
-}
-{
-  "name": "code-interpreter",
-  "full_name": "LibreChat-AI/code-interpreter",
-  "updated": "2026-09-14T03:21:53Z",
-  "desc": "Sandboxed code execution API for AI agents: powers LibreChat's Code Interpreter",
-  "url": "https://github.com/LibreChat-AI/code-interpreter"
+  "name": "Memoh",
+  "full_name": "felinics/Memoh",
+  "updated": "2026-09-15T03:25:16Z",
+  "desc": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so on.",
+  "url": "https://github.com/felinics/Memoh"
 }
 {
   "name": "lobu",
   "full_name": "lobu-ai/lobu",
-  "updated": "2026-09-14T03:21:46Z",
+  "updated": "2026-09-15T03:25:12Z",
   "desc": "Open-source control plane and runtime for organisational agents: shared company context & brain, Glean alternative ",
   "url": "https://github.com/lobu-ai/lobu"
 }
 {
-  "name": "awesome-agent-skills",
-  "full_name": "JackyST0/awesome-agent-skills",
-  "updated": "2026-09-14T03:21:47Z",
-  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
-  "url": "https://github.com/JackyST0/awesome-agent-skills"
+  "name": "nanobot",
+  "full_name": "HKUDS/nanobot",
+  "updated": "2026-09-15T03:25:07Z",
+  "desc": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+  "url": "https://github.com/HKUDS/nanobot"
 }
 {
-  "name": "uniterm",
-  "full_name": "ys-ll/uniterm",
-  "updated": "2026-09-14T03:21:25Z",
-  "desc": "A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
-  "url": "https://github.com/ys-ll/uniterm"
+  "name": "airbyte",
+  "full_name": "airbytehq/airbyte",
+  "updated": "2026-09-15T03:24:26Z",
+  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
+  "url": "https://github.com/airbytehq/airbyte"
+}
+{
+  "name": "LambChat",
+  "full_name": "Yanyutin753/LambChat",
+  "updated": "2026-09-15T03:24:19Z",
+  "desc": "LambChat — Enterprise Agent Infra for governed AI agents. Skills + MCP powered, Loop Agent ready, multi-tenant by design.",
+  "url": "https://github.com/Yanyutin753/LambChat"
+}
+{
+  "name": "codeg",
+  "full_name": "xintaofei/codeg",
+  "updated": "2026-09-15T03:24:00Z",
+  "desc": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.",
+  "url": "https://github.com/xintaofei/codeg"
+}
+{
+  "name": "DeskcommCRM",
+  "full_name": "melgarafael/DeskcommCRM",
+  "updated": "2026-09-15T03:23:53Z",
+  "desc": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+  "url": "https://github.com/melgarafael/DeskcommCRM"
+}
+{
+  "name": "kody",
+  "full_name": "kentcdodds/kody",
+  "updated": "2026-09-15T03:23:35Z",
+  "desc": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.",
+  "url": "https://github.com/kentcdodds/kody"
+}
+{
+  "name": "genoffice",
+  "full_name": "genspark-ai/genoffice",
+  "updated": "2026-09-15T03:23:18Z",
+  "desc": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
+  "url": "https://github.com/genspark-ai/genoffice"
+}
+{
+  "name": "open-connector",
+  "full_name": "oomol-lab/open-connector",
+  "updated": "2026-09-15T03:23:11Z",
+  "desc": "Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+  "url": "https://github.com/oomol-lab/open-connector"
 }
