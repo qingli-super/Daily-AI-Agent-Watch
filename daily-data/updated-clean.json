@@ -1,70 +1,70 @@
 {
-  "name": "Memoh",
-  "full_name": "felinics/Memoh",
-  "updated": "2026-09-15T03:25:16Z",
-  "desc": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so on.",
-  "url": "https://github.com/felinics/Memoh"
+  "name": "nexus",
+  "full_name": "nexus-research-lab/nexus",
+  "updated": "2026-09-16T03:19:49Z",
+  "desc": "Multi-agent collaboration platform for persistent, proactive AI agents across rooms, workspaces, skills, and external services.",
+  "url": "https://github.com/nexus-research-lab/nexus"
 }
 {
-  "name": "lobu",
-  "full_name": "lobu-ai/lobu",
-  "updated": "2026-09-15T03:25:12Z",
-  "desc": "Open-source control plane and runtime for organisational agents: shared company context & brain, Glean alternative ",
-  "url": "https://github.com/lobu-ai/lobu"
+  "name": "software-agent-sdk",
+  "full_name": "OpenHands/software-agent-sdk",
+  "updated": "2026-09-16T03:19:23Z",
+  "desc": "A clean, modular SDK for building AI agents with OpenHands V1.",
+  "url": "https://github.com/OpenHands/software-agent-sdk"
 }
 {
-  "name": "nanobot",
-  "full_name": "HKUDS/nanobot",
-  "updated": "2026-09-15T03:25:07Z",
-  "desc": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
-  "url": "https://github.com/HKUDS/nanobot"
+  "name": "beancount-io",
+  "full_name": "bex-co/beancount-io",
+  "updated": "2026-09-16T03:19:17Z",
+  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
+  "url": "https://github.com/bex-co/beancount-io"
 }
 {
-  "name": "airbyte",
-  "full_name": "airbytehq/airbyte",
-  "updated": "2026-09-15T03:24:26Z",
-  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
-  "url": "https://github.com/airbytehq/airbyte"
+  "name": "openclacky",
+  "full_name": "clacky-ai/openclacky",
+  "updated": "2026-09-16T03:18:33Z",
+  "desc": "The most Token-efficient open-source AI Agent",
+  "url": "https://github.com/clacky-ai/openclacky"
 }
 {
-  "name": "LambChat",
-  "full_name": "Yanyutin753/LambChat",
-  "updated": "2026-09-15T03:24:19Z",
-  "desc": "LambChat — Enterprise Agent Infra for governed AI agents. Skills + MCP powered, Loop Agent ready, multi-tenant by design.",
-  "url": "https://github.com/Yanyutin753/LambChat"
+  "name": "openDomain",
+  "full_name": "echopath-labs/openDomain",
+  "updated": "2026-09-16T03:18:04Z",
+  "desc": "Git-native, evidence-backed domain semantic layer for AI agents and human maintainers.",
+  "url": "https://github.com/echopath-labs/openDomain"
 }
 {
-  "name": "codeg",
-  "full_name": "xintaofei/codeg",
-  "updated": "2026-09-15T03:24:00Z",
-  "desc": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.",
-  "url": "https://github.com/xintaofei/codeg"
+  "name": "Avernet",
+  "full_name": "inclusionAI/Avernet",
+  "updated": "2026-09-16T03:17:56Z",
+  "desc": "Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together.",
+  "url": "https://github.com/inclusionAI/Avernet"
 }
 {
-  "name": "DeskcommCRM",
-  "full_name": "melgarafael/DeskcommCRM",
-  "updated": "2026-09-15T03:23:53Z",
-  "desc": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-  "url": "https://github.com/melgarafael/DeskcommCRM"
+  "name": "workflow",
+  "full_name": "vercel/workflow",
+  "updated": "2026-09-16T03:17:46Z",
+  "desc": "Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript",
+  "url": "https://github.com/vercel/workflow"
 }
 {
-  "name": "kody",
-  "full_name": "kentcdodds/kody",
-  "updated": "2026-09-15T03:23:35Z",
-  "desc": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.",
-  "url": "https://github.com/kentcdodds/kody"
+  "name": "oc",
+  "full_name": "only-cli/oc",
+  "updated": "2026-09-16T03:17:22Z",
+  "desc": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+  "url": "https://github.com/only-cli/oc"
 }
 {
-  "name": "genoffice",
-  "full_name": "genspark-ai/genoffice",
-  "updated": "2026-09-15T03:23:18Z",
-  "desc": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
-  "url": "https://github.com/genspark-ai/genoffice"
+  "name": "Lody",
+  "full_name": "LodyAI/Lody",
+  "updated": "2026-09-16T03:17:48Z",
+  "desc": "Share coding agents with your team on phone and desktop",
+  "url": "https://github.com/LodyAI/Lody"
 }
 {
-  "name": "open-connector",
-  "full_name": "oomol-lab/open-connector",
-  "updated": "2026-09-15T03:23:11Z",
-  "desc": "Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-  "url": "https://github.com/oomol-lab/open-connector"
+  "name": "agentguard",
+  "full_name": "GoPlusSecurity/agentguard",
+  "updated": "2026-09-16T03:16:02Z",
+  "desc": "Security guard for AI agents — blocks malicious skills, prevents data leaks, protects secrets. 24 detection rules, runtime action evaluation, trust registry.",
+  "url": "https://github.com/GoPlusSecurity/agentguard"
 }
