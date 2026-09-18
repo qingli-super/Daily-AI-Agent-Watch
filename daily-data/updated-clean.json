@@ -1,70 +1,70 @@
 {
-  "name": "jiuwenswarm",
-  "full_name": "openJiuwen-ai/jiuwenswarm",
-  "updated": "2026-09-17T03:26:48Z",
-  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
-  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
+  "name": "build_a_product_agent",
+  "full_name": "ADW-19/build_a_product_agent",
+  "updated": "2026-09-18T03:12:42Z",
+  "desc": "Production-Grade AI Agent Development Full-Chain Guide: Development, Testing, and Base Framework",
+  "url": "https://github.com/ADW-19/build_a_product_agent"
 }
 {
-  "name": "sonarqube-cli",
-  "full_name": "SonarSource/sonarqube-cli",
-  "updated": "2026-09-16T15:40:34Z",
-  "desc": "Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality and security from your terminal.",
-  "url": "https://github.com/SonarSource/sonarqube-cli"
+  "name": "claude-lane-stack",
+  "full_name": "VKirill/claude-lane-stack",
+  "updated": "2026-09-18T03:12:21Z",
+  "desc": "Multi-agent AI coding factory for one person — Claude Code PM + Codex/Qwen/Grok/Kimi/AGY writers, durable conveyor, auto-merge to main",
+  "url": "https://github.com/VKirill/claude-lane-stack"
 }
 {
-  "name": "smithers",
-  "full_name": "smithersai/smithers",
-  "updated": "2026-09-17T03:26:02Z",
-  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
-  "url": "https://github.com/smithersai/smithers"
+  "name": "dsh-memory",
+  "full_name": "FuRongJun-1999/dsh-memory",
+  "updated": "2026-09-18T03:11:27Z",
+  "desc": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
+  "url": "https://github.com/FuRongJun-1999/dsh-memory"
 }
 {
-  "name": "powercontext",
-  "full_name": "oceanbase/powercontext",
-  "updated": "2026-09-17T03:25:33Z",
-  "desc": "Not only memory but a full story.",
-  "url": "https://github.com/oceanbase/powercontext"
+  "name": "CowAgent",
+  "full_name": "zhayujie/CowAgent",
+  "updated": "2026-09-18T03:11:59Z",
+  "desc": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+  "url": "https://github.com/zhayujie/CowAgent"
 }
 {
-  "name": "beancount-io",
-  "full_name": "bex-co/beancount-io",
-  "updated": "2026-09-17T03:25:01Z",
-  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
-  "url": "https://github.com/bex-co/beancount-io"
+  "name": "vibe-investing",
+  "full_name": "gameworkerkim/vibe-investing",
+  "updated": "2026-09-18T03:10:32Z",
+  "desc": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇.",
+  "url": "https://github.com/gameworkerkim/vibe-investing"
 }
 {
-  "name": "doris",
-  "full_name": "apache/doris",
-  "updated": "2026-09-17T03:23:53Z",
-  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
-  "url": "https://github.com/apache/doris"
+  "name": "materialize",
+  "full_name": "MaterializeInc/materialize",
+  "updated": "2026-09-18T03:09:39Z",
+  "desc": "The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL",
+  "url": "https://github.com/MaterializeInc/materialize"
 }
 {
-  "name": "pydantic-ai",
-  "full_name": "pydantic/pydantic-ai",
-  "updated": "2026-09-17T03:23:43Z",
-  "desc": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
-  "url": "https://github.com/pydantic/pydantic-ai"
+  "name": "webcodex",
+  "full_name": "yyjeqhc/webcodex",
+  "updated": "2026-09-18T03:11:01Z",
+  "desc": "Give cloud AI agents a real development environment on your own machines.",
+  "url": "https://github.com/yyjeqhc/webcodex"
 }
 {
-  "name": "Cotal",
-  "full_name": "Cotal-AI/Cotal",
-  "updated": "2026-09-17T03:23:13Z",
-  "desc": "The open standard for agent coordination",
-  "url": "https://github.com/Cotal-AI/Cotal"
+  "name": "ArcReel",
+  "full_name": "ArcReel/ArcReel",
+  "updated": "2026-09-18T03:12:22Z",
+  "desc": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
+  "url": "https://github.com/ArcReel/ArcReel"
 }
 {
-  "name": "cli",
-  "full_name": "larksuite/cli",
-  "updated": "2026-09-17T03:25:30Z",
-  "desc": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
-  "url": "https://github.com/larksuite/cli"
+  "name": "oh-my-claudecode",
+  "full_name": "Yeachan-Heo/oh-my-claudecode",
+  "updated": "2026-09-18T03:12:24Z",
+  "desc": "Teams-first Multi-agent orchestration for Claude Code",
+  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
 }
 {
-  "name": "open-connector",
-  "full_name": "oomol-lab/open-connector",
-  "updated": "2026-09-17T03:25:43Z",
-  "desc": "Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-  "url": "https://github.com/oomol-lab/open-connector"
+  "name": "wayland",
+  "full_name": "FerroxLabs/wayland",
+  "updated": "2026-09-18T03:06:35Z",
+  "desc": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+  "url": "https://github.com/FerroxLabs/wayland"
 }
