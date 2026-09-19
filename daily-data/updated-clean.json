@@ -1,70 +1,70 @@
 {
-  "name": "build_a_product_agent",
-  "full_name": "ADW-19/build_a_product_agent",
-  "updated": "2026-09-18T03:12:42Z",
-  "desc": "Production-Grade AI Agent Development Full-Chain Guide: Development, Testing, and Base Framework",
-  "url": "https://github.com/ADW-19/build_a_product_agent"
+  "name": "doop",
+  "full_name": "kgoedecke/doop",
+  "updated": "2026-09-19T03:09:03Z",
+  "desc": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+  "url": "https://github.com/kgoedecke/doop"
 }
 {
-  "name": "claude-lane-stack",
-  "full_name": "VKirill/claude-lane-stack",
-  "updated": "2026-09-18T03:12:21Z",
-  "desc": "Multi-agent AI coding factory for one person — Claude Code PM + Codex/Qwen/Grok/Kimi/AGY writers, durable conveyor, auto-merge to main",
-  "url": "https://github.com/VKirill/claude-lane-stack"
+  "name": "gaia",
+  "full_name": "amd/gaia",
+  "updated": "2026-09-19T03:08:49Z",
+  "desc": "Build AI agents for your PC",
+  "url": "https://github.com/amd/gaia"
 }
 {
-  "name": "dsh-memory",
-  "full_name": "FuRongJun-1999/dsh-memory",
-  "updated": "2026-09-18T03:11:27Z",
-  "desc": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
-  "url": "https://github.com/FuRongJun-1999/dsh-memory"
+  "name": "smithers",
+  "full_name": "smithersai/smithers",
+  "updated": "2026-09-19T03:08:42Z",
+  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
+  "url": "https://github.com/smithersai/smithers"
 }
 {
-  "name": "CowAgent",
-  "full_name": "zhayujie/CowAgent",
-  "updated": "2026-09-18T03:11:59Z",
-  "desc": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-  "url": "https://github.com/zhayujie/CowAgent"
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-09-19T03:07:41Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
 }
 {
-  "name": "vibe-investing",
-  "full_name": "gameworkerkim/vibe-investing",
-  "updated": "2026-09-18T03:10:32Z",
-  "desc": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇.",
-  "url": "https://github.com/gameworkerkim/vibe-investing"
+  "name": "Agent",
+  "full_name": "AgentiLoop/Agent",
+  "updated": "2026-09-19T03:07:28Z",
+  "desc": "AgentiLoop Agent! An Autonomous Agentic Agent for Mac, and exclusive Apple only harnesss. Supports  automation, scripting, coding, build anything and more. Powered by 21 LLM providers across local and cloud platforms. Dark or Light Mode UI.",
+  "url": "https://github.com/AgentiLoop/Agent"
 }
 {
-  "name": "materialize",
-  "full_name": "MaterializeInc/materialize",
-  "updated": "2026-09-18T03:09:39Z",
-  "desc": "The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL",
-  "url": "https://github.com/MaterializeInc/materialize"
+  "name": "amux",
+  "full_name": "mixpeek/amux",
+  "updated": "2026-09-19T03:07:24Z",
+  "desc": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.",
+  "url": "https://github.com/mixpeek/amux"
+}
+{
+  "name": "free4chat",
+  "full_name": "i365dev/free4chat",
+  "updated": "2026-09-19T03:07:09Z",
+  "desc": "Free4Chat provides the temporary boundary. Participants bring the capabilities.",
+  "url": "https://github.com/i365dev/free4chat"
+}
+{
+  "name": "Claude-of-Tanks",
+  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
+  "updated": "2026-09-19T03:06:37Z",
+  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
+  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
 }
 {
   "name": "webcodex",
   "full_name": "yyjeqhc/webcodex",
-  "updated": "2026-09-18T03:11:01Z",
+  "updated": "2026-09-19T03:07:41Z",
   "desc": "Give cloud AI agents a real development environment on your own machines.",
   "url": "https://github.com/yyjeqhc/webcodex"
 }
 {
-  "name": "ArcReel",
-  "full_name": "ArcReel/ArcReel",
-  "updated": "2026-09-18T03:12:22Z",
-  "desc": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
-  "url": "https://github.com/ArcReel/ArcReel"
-}
-{
-  "name": "oh-my-claudecode",
-  "full_name": "Yeachan-Heo/oh-my-claudecode",
-  "updated": "2026-09-18T03:12:24Z",
-  "desc": "Teams-first Multi-agent orchestration for Claude Code",
-  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
-}
-{
-  "name": "wayland",
-  "full_name": "FerroxLabs/wayland",
-  "updated": "2026-09-18T03:06:35Z",
-  "desc": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-  "url": "https://github.com/FerroxLabs/wayland"
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-09-19T03:05:34Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
