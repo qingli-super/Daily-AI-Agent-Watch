@@ -1,70 +1,70 @@
 {
-  "name": "doop",
-  "full_name": "kgoedecke/doop",
-  "updated": "2026-09-19T03:09:03Z",
-  "desc": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-  "url": "https://github.com/kgoedecke/doop"
+  "name": "mulmoterminal",
+  "full_name": "receptron/mulmoterminal",
+  "updated": "2026-09-20T01:32:27Z",
+  "desc": "Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Local, tmux-backed, MIT.",
+  "url": "https://github.com/receptron/mulmoterminal"
 }
 {
-  "name": "gaia",
-  "full_name": "amd/gaia",
-  "updated": "2026-09-19T03:08:49Z",
-  "desc": "Build AI agents for your PC",
-  "url": "https://github.com/amd/gaia"
+  "name": "genoffice",
+  "full_name": "genspark-ai/genoffice",
+  "updated": "2026-09-20T03:25:42Z",
+  "desc": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
+  "url": "https://github.com/genspark-ai/genoffice"
 }
 {
-  "name": "smithers",
-  "full_name": "smithersai/smithers",
-  "updated": "2026-09-19T03:08:42Z",
-  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
-  "url": "https://github.com/smithersai/smithers"
+  "name": "Pentest-Swarm-AI",
+  "full_name": "Armur-Ai/Pentest-Swarm-AI",
+  "updated": "2026-09-20T03:24:36Z",
+  "desc": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
+  "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI"
 }
 {
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-09-19T03:07:41Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
+  "name": "octo-web",
+  "full_name": "Mininglamp-OSS/octo-web",
+  "updated": "2026-09-20T03:24:37Z",
+  "desc": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.",
+  "url": "https://github.com/Mininglamp-OSS/octo-web"
 }
 {
-  "name": "Agent",
-  "full_name": "AgentiLoop/Agent",
-  "updated": "2026-09-19T03:07:28Z",
-  "desc": "AgentiLoop Agent! An Autonomous Agentic Agent for Mac, and exclusive Apple only harnesss. Supports  automation, scripting, coding, build anything and more. Powered by 21 LLM providers across local and cloud platforms. Dark or Light Mode UI.",
-  "url": "https://github.com/AgentiLoop/Agent"
+  "name": "Boucle-framework",
+  "full_name": "Bande-a-Bonnot/Boucle-framework",
+  "updated": "2026-09-20T03:24:30Z",
+  "desc": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it.",
+  "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
 }
 {
-  "name": "amux",
-  "full_name": "mixpeek/amux",
-  "updated": "2026-09-19T03:07:24Z",
-  "desc": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.",
-  "url": "https://github.com/mixpeek/amux"
+  "name": "openai-agents-python",
+  "full_name": "openai/openai-agents-python",
+  "updated": "2026-09-20T03:24:14Z",
+  "desc": "A lightweight, powerful framework for multi-agent workflows",
+  "url": "https://github.com/openai/openai-agents-python"
 }
 {
-  "name": "free4chat",
-  "full_name": "i365dev/free4chat",
-  "updated": "2026-09-19T03:07:09Z",
-  "desc": "Free4Chat provides the temporary boundary. Participants bring the capabilities.",
-  "url": "https://github.com/i365dev/free4chat"
+  "name": "home-generative-agent",
+  "full_name": "goruck/home-generative-agent",
+  "updated": "2026-09-20T03:23:49Z",
+  "desc": "AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.",
+  "url": "https://github.com/goruck/home-generative-agent"
 }
 {
-  "name": "Claude-of-Tanks",
-  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
-  "updated": "2026-09-19T03:06:37Z",
-  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
-  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
+  "name": "aipack",
+  "full_name": "luoguoxiong/aipack",
+  "updated": "2026-09-20T03:23:39Z",
+  "desc": "aipack 是一个 TypeScript AI Agent 开发框架，自研运行时核心，集成记忆、压缩、可观测性等能力，开箱即用支持 13+ 主流大模型，并提供 CLI、桌面应用和示例应用。",
+  "url": "https://github.com/luoguoxiong/aipack"
 }
 {
-  "name": "webcodex",
-  "full_name": "yyjeqhc/webcodex",
-  "updated": "2026-09-19T03:07:41Z",
-  "desc": "Give cloud AI agents a real development environment on your own machines.",
-  "url": "https://github.com/yyjeqhc/webcodex"
+  "name": "Codewhale",
+  "full_name": "Hmbown/Codewhale",
+  "updated": "2026-09-20T03:23:27Z",
+  "desc": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
+  "url": "https://github.com/Hmbown/Codewhale"
 }
 {
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-09-19T03:05:34Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  "name": "open-connector",
+  "full_name": "oomol-lab/open-connector",
+  "updated": "2026-09-20T03:23:00Z",
+  "desc": "Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+  "url": "https://github.com/oomol-lab/open-connector"
 }
