@@ -1,70 +1,70 @@
 {
-  "name": "mulmoterminal",
-  "full_name": "receptron/mulmoterminal",
-  "updated": "2026-09-20T01:32:27Z",
-  "desc": "Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Local, tmux-backed, MIT.",
-  "url": "https://github.com/receptron/mulmoterminal"
+  "name": "fff",
+  "full_name": "dmtrKovalenko/fff",
+  "updated": "2026-09-21T03:20:14Z",
+  "desc": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS",
+  "url": "https://github.com/dmtrKovalenko/fff"
 }
 {
-  "name": "genoffice",
-  "full_name": "genspark-ai/genoffice",
-  "updated": "2026-09-20T03:25:42Z",
-  "desc": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
-  "url": "https://github.com/genspark-ai/genoffice"
+  "name": "docx-editor",
+  "full_name": "superdoc/docx-editor",
+  "updated": "2026-09-21T03:20:13Z",
+  "desc": "SuperDoc - Build AI agents that work with DOCX (DOCX Editor, DOCX Agent SDK)",
+  "url": "https://github.com/superdoc/docx-editor"
 }
 {
-  "name": "Pentest-Swarm-AI",
-  "full_name": "Armur-Ai/Pentest-Swarm-AI",
-  "updated": "2026-09-20T03:24:36Z",
-  "desc": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
-  "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI"
+  "name": "mcp_agent_mail_rust",
+  "full_name": "Dicklesworthstone/mcp_agent_mail_rust",
+  "updated": "2026-09-21T03:20:06Z",
+  "desc": "Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisory file locks, and an interactive TUI console",
+  "url": "https://github.com/Dicklesworthstone/mcp_agent_mail_rust"
 }
 {
-  "name": "octo-web",
-  "full_name": "Mininglamp-OSS/octo-web",
-  "updated": "2026-09-20T03:24:37Z",
-  "desc": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.",
-  "url": "https://github.com/Mininglamp-OSS/octo-web"
+  "name": "Raven",
+  "full_name": "EverMind-AI/Raven",
+  "updated": "2026-09-21T03:19:31Z",
+  "desc": "The Harness of Harnesses: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration.",
+  "url": "https://github.com/EverMind-AI/Raven"
 }
 {
-  "name": "Boucle-framework",
-  "full_name": "Bande-a-Bonnot/Boucle-framework",
-  "updated": "2026-09-20T03:24:30Z",
-  "desc": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it.",
-  "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  "name": "PhysiClaw",
+  "full_name": "physiclaw/PhysiClaw",
+  "updated": "2026-09-21T03:19:10Z",
+  "desc": "The AI agent that physically operates a phone — the way you do.",
+  "url": "https://github.com/physiclaw/PhysiClaw"
 }
 {
-  "name": "openai-agents-python",
-  "full_name": "openai/openai-agents-python",
-  "updated": "2026-09-20T03:24:14Z",
-  "desc": "A lightweight, powerful framework for multi-agent workflows",
-  "url": "https://github.com/openai/openai-agents-python"
+  "name": "awesome-agent-skills",
+  "full_name": "JackyST0/awesome-agent-skills",
+  "updated": "2026-09-21T03:19:03Z",
+  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
+  "url": "https://github.com/JackyST0/awesome-agent-skills"
 }
 {
-  "name": "home-generative-agent",
-  "full_name": "goruck/home-generative-agent",
-  "updated": "2026-09-20T03:23:49Z",
-  "desc": "AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.",
-  "url": "https://github.com/goruck/home-generative-agent"
+  "name": "OpenViking",
+  "full_name": "volcengine/OpenViking",
+  "updated": "2026-09-21T03:20:25Z",
+  "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "url": "https://github.com/volcengine/OpenViking"
 }
 {
-  "name": "aipack",
-  "full_name": "luoguoxiong/aipack",
-  "updated": "2026-09-20T03:23:39Z",
-  "desc": "aipack 是一个 TypeScript AI Agent 开发框架，自研运行时核心，集成记忆、压缩、可观测性等能力，开箱即用支持 13+ 主流大模型，并提供 CLI、桌面应用和示例应用。",
-  "url": "https://github.com/luoguoxiong/aipack"
+  "name": "animaworks",
+  "full_name": "xuiltul/animaworks",
+  "updated": "2026-09-21T03:18:48Z",
+  "desc": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/Codex/Gemini/Cursor/Ollama).",
+  "url": "https://github.com/xuiltul/animaworks"
 }
 {
-  "name": "Codewhale",
-  "full_name": "Hmbown/Codewhale",
-  "updated": "2026-09-20T03:23:27Z",
-  "desc": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
-  "url": "https://github.com/Hmbown/Codewhale"
+  "name": "OrcaReplay",
+  "full_name": "Continuum-AI-Corp/OrcaReplay",
+  "updated": "2026-09-21T03:18:26Z",
+  "desc": "OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
+  "url": "https://github.com/Continuum-AI-Corp/OrcaReplay"
 }
 {
-  "name": "open-connector",
-  "full_name": "oomol-lab/open-connector",
-  "updated": "2026-09-20T03:23:00Z",
-  "desc": "Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-  "url": "https://github.com/oomol-lab/open-connector"
+  "name": "omnigent",
+  "full_name": "omnigent-ai/omnigent",
+  "updated": "2026-09-21T03:18:27Z",
+  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+  "url": "https://github.com/omnigent-ai/omnigent"
 }
