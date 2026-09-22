@@ -1,70 +1,70 @@
 {
-  "name": "fff",
-  "full_name": "dmtrKovalenko/fff",
-  "updated": "2026-09-21T03:20:14Z",
-  "desc": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS",
-  "url": "https://github.com/dmtrKovalenko/fff"
-}
-{
-  "name": "docx-editor",
-  "full_name": "superdoc/docx-editor",
-  "updated": "2026-09-21T03:20:13Z",
-  "desc": "SuperDoc - Build AI agents that work with DOCX (DOCX Editor, DOCX Agent SDK)",
-  "url": "https://github.com/superdoc/docx-editor"
-}
-{
   "name": "mcp_agent_mail_rust",
   "full_name": "Dicklesworthstone/mcp_agent_mail_rust",
-  "updated": "2026-09-21T03:20:06Z",
+  "updated": "2026-09-22T03:19:13Z",
   "desc": "Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisory file locks, and an interactive TUI console",
   "url": "https://github.com/Dicklesworthstone/mcp_agent_mail_rust"
 }
 {
-  "name": "Raven",
-  "full_name": "EverMind-AI/Raven",
-  "updated": "2026-09-21T03:19:31Z",
-  "desc": "The Harness of Harnesses: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration.",
-  "url": "https://github.com/EverMind-AI/Raven"
+  "name": "Aegis",
+  "full_name": "antropos17/Aegis",
+  "updated": "2026-09-22T03:19:12Z",
+  "desc": "Desktop monitoring and local security reviews for AI agents, with opt-in policy-controlled execution and MCP action tools. Windows primary; macOS/Linux experimental.",
+  "url": "https://github.com/antropos17/Aegis"
 }
 {
-  "name": "PhysiClaw",
-  "full_name": "physiclaw/PhysiClaw",
-  "updated": "2026-09-21T03:19:10Z",
-  "desc": "The AI agent that physically operates a phone — the way you do.",
-  "url": "https://github.com/physiclaw/PhysiClaw"
+  "name": "pydantic-ai",
+  "full_name": "pydantic/pydantic-ai",
+  "updated": "2026-09-22T03:19:12Z",
+  "desc": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+  "url": "https://github.com/pydantic/pydantic-ai"
 }
 {
-  "name": "awesome-agent-skills",
-  "full_name": "JackyST0/awesome-agent-skills",
-  "updated": "2026-09-21T03:19:03Z",
-  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
-  "url": "https://github.com/JackyST0/awesome-agent-skills"
+  "name": "deer-flow",
+  "full_name": "bytedance/deer-flow",
+  "updated": "2026-09-22T03:19:59Z",
+  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+  "url": "https://github.com/bytedance/deer-flow"
 }
 {
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-09-21T03:20:25Z",
-  "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-  "url": "https://github.com/volcengine/OpenViking"
+  "name": "AgenticX",
+  "full_name": "DemonDamon/AgenticX",
+  "updated": "2026-09-22T03:19:02Z",
+  "desc": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
+  "url": "https://github.com/DemonDamon/AgenticX"
 }
 {
-  "name": "animaworks",
-  "full_name": "xuiltul/animaworks",
-  "updated": "2026-09-21T03:18:48Z",
-  "desc": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/Codex/Gemini/Cursor/Ollama).",
-  "url": "https://github.com/xuiltul/animaworks"
+  "name": "Agent",
+  "full_name": "AgentiLoop/Agent",
+  "updated": "2026-09-22T03:18:48Z",
+  "desc": "AgentiLoop Agent! An Autonomous Agentic Agent for Mac, and exclusive Apple only harnesss. Supports  automation, scripting, coding, build anything and more. Powered by 21 LLM providers across local and cloud platforms. Dark or Light Mode UI.",
+  "url": "https://github.com/AgentiLoop/Agent"
 }
 {
-  "name": "OrcaReplay",
-  "full_name": "Continuum-AI-Corp/OrcaReplay",
-  "updated": "2026-09-21T03:18:26Z",
-  "desc": "OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
-  "url": "https://github.com/Continuum-AI-Corp/OrcaReplay"
+  "name": "prismor",
+  "full_name": "PrismorSec/prismor",
+  "updated": "2026-09-22T03:18:38Z",
+  "desc": " Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc in a local dashboard. Agent agnostic (Claude, codex, langchain etc.)",
+  "url": "https://github.com/PrismorSec/prismor"
 }
 {
-  "name": "omnigent",
-  "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-09-21T03:18:27Z",
-  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-  "url": "https://github.com/omnigent-ai/omnigent"
+  "name": "Avernet",
+  "full_name": "inclusionAI/Avernet",
+  "updated": "2026-09-22T03:18:17Z",
+  "desc": "Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together.",
+  "url": "https://github.com/inclusionAI/Avernet"
+}
+{
+  "name": "agentconnect",
+  "full_name": "agentconnect-md/agentconnect",
+  "updated": "2026-09-22T03:16:57Z",
+  "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
+  "url": "https://github.com/agentconnect-md/agentconnect"
+}
+{
+  "name": "Octop",
+  "full_name": "TencentCloud/Octop",
+  "updated": "2026-09-22T03:17:38Z",
+  "desc": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+  "url": "https://github.com/TencentCloud/Octop"
 }
