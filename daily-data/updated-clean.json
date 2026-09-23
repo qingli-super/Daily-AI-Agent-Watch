@@ -1,70 +1,70 @@
 {
-  "name": "mcp_agent_mail_rust",
-  "full_name": "Dicklesworthstone/mcp_agent_mail_rust",
-  "updated": "2026-09-22T03:19:13Z",
-  "desc": "Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisory file locks, and an interactive TUI console",
-  "url": "https://github.com/Dicklesworthstone/mcp_agent_mail_rust"
+  "name": "OpenViking",
+  "full_name": "volcengine/OpenViking",
+  "updated": "2026-09-23T03:20:51Z",
+  "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "url": "https://github.com/volcengine/OpenViking"
 }
 {
-  "name": "Aegis",
-  "full_name": "antropos17/Aegis",
-  "updated": "2026-09-22T03:19:12Z",
-  "desc": "Desktop monitoring and local security reviews for AI agents, with opt-in policy-controlled execution and MCP action tools. Windows primary; macOS/Linux experimental.",
-  "url": "https://github.com/antropos17/Aegis"
+  "name": "Knote",
+  "full_name": "1661169091kiwi/Knote",
+  "updated": "2026-09-23T03:20:48Z",
+  "desc": "本地优先的类飞书 Markdown 编辑器,内置可审改的 AI 助手 | Local-first WYSIWYG Markdown editor with a reviewable AI agent",
+  "url": "https://github.com/1661169091kiwi/Knote"
 }
 {
-  "name": "pydantic-ai",
-  "full_name": "pydantic/pydantic-ai",
-  "updated": "2026-09-22T03:19:12Z",
-  "desc": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
-  "url": "https://github.com/pydantic/pydantic-ai"
+  "name": "homelab-monitor",
+  "full_name": "SikamikanikoBG/homelab-monitor",
+  "updated": "2026-09-23T03:20:40Z",
+  "desc": "Plug-and-play homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, host health. Built-in read-only MCP server so AI agents can explore it too.",
+  "url": "https://github.com/SikamikanikoBG/homelab-monitor"
 }
 {
-  "name": "deer-flow",
-  "full_name": "bytedance/deer-flow",
-  "updated": "2026-09-22T03:19:59Z",
-  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-  "url": "https://github.com/bytedance/deer-flow"
+  "name": "agentao",
+  "full_name": "jin-bo/agentao",
+  "updated": "2026-09-23T03:19:17Z",
+  "desc": "Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, MCP, memory and audit replay built in.",
+  "url": "https://github.com/jin-bo/agentao"
 }
 {
-  "name": "AgenticX",
-  "full_name": "DemonDamon/AgenticX",
-  "updated": "2026-09-22T03:19:02Z",
-  "desc": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
-  "url": "https://github.com/DemonDamon/AgenticX"
-}
-{
-  "name": "Agent",
-  "full_name": "AgentiLoop/Agent",
-  "updated": "2026-09-22T03:18:48Z",
-  "desc": "AgentiLoop Agent! An Autonomous Agentic Agent for Mac, and exclusive Apple only harnesss. Supports  automation, scripting, coding, build anything and more. Powered by 21 LLM providers across local and cloud platforms. Dark or Light Mode UI.",
-  "url": "https://github.com/AgentiLoop/Agent"
-}
-{
-  "name": "prismor",
-  "full_name": "PrismorSec/prismor",
-  "updated": "2026-09-22T03:18:38Z",
-  "desc": " Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc in a local dashboard. Agent agnostic (Claude, codex, langchain etc.)",
-  "url": "https://github.com/PrismorSec/prismor"
-}
-{
-  "name": "Avernet",
-  "full_name": "inclusionAI/Avernet",
-  "updated": "2026-09-22T03:18:17Z",
-  "desc": "Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together.",
-  "url": "https://github.com/inclusionAI/Avernet"
+  "name": "marm-memory",
+  "full_name": "Lyellr88/marm-memory",
+  "updated": "2026-09-23T03:19:04Z",
+  "desc": "Local-first 3-in-1 AI memory layer & MCP server for Claude Code, Codex, Grok, Gemini, VS Code and Cursor. Fuses session history, codebase indexing & concept graphs in SQLite. Enables zero-cloud, privacy-first context & instant recall, supports multi-agent swarms.",
+  "url": "https://github.com/Lyellr88/marm-memory"
 }
 {
   "name": "agentconnect",
   "full_name": "agentconnect-md/agentconnect",
-  "updated": "2026-09-22T03:16:57Z",
+  "updated": "2026-09-23T03:19:01Z",
   "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
   "url": "https://github.com/agentconnect-md/agentconnect"
 }
 {
-  "name": "Octop",
-  "full_name": "TencentCloud/Octop",
-  "updated": "2026-09-22T03:17:38Z",
-  "desc": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-  "url": "https://github.com/TencentCloud/Octop"
+  "name": "agentic_coding_flywheel_setup",
+  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
+  "updated": "2026-09-23T03:19:00Z",
+  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
+  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+}
+{
+  "name": "BrowserSkill",
+  "full_name": "Tencent/BrowserSkill",
+  "updated": "2026-09-23T03:19:44Z",
+  "desc": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+  "url": "https://github.com/Tencent/BrowserSkill"
+}
+{
+  "name": "omk",
+  "full_name": "dmae97/omk",
+  "updated": "2026-09-23T03:18:11Z",
+  "desc": "Evidence-gated runner for Codex, Claude Code, OpenCode, and local coding agents. Routes tasks into scoped DAG lanes with replayable artifacts.",
+  "url": "https://github.com/dmae97/omk"
+}
+{
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-09-23T03:16:49Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
