@@ -1,70 +1,70 @@
 {
-  "name": "Pane",
-  "full_name": "greenfield-inc/Pane",
-  "updated": "2026-09-24T03:08:58Z",
-  "desc": "Terminal-first, open-source AI agent manager for any CLI agent (agent agnostic), any OS (mac, windows, linux). The Open-Source Agentic Development Environment for running multiple coding agents in parallel. Run locally or self-host Remote Pane to manage agents from desktop or phone. Simplify multi-agent orchestration with the runpane CLI.",
-  "url": "https://github.com/greenfield-inc/Pane"
+  "name": "Codewhale",
+  "full_name": "Hmbown/Codewhale",
+  "updated": "2026-09-25T03:27:17Z",
+  "desc": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
+  "url": "https://github.com/Hmbown/Codewhale"
 }
 {
-  "name": "vibe-investing",
-  "full_name": "gameworkerkim/vibe-investing",
-  "updated": "2026-09-24T03:08:54Z",
-  "desc": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇.",
-  "url": "https://github.com/gameworkerkim/vibe-investing"
+  "name": "connectonion",
+  "full_name": "openonion/connectonion",
+  "updated": "2026-09-25T03:27:03Z",
+  "desc": "The Best AI Agent Framework for Agent Collaboration. ",
+  "url": "https://github.com/openonion/connectonion"
 }
 {
-  "name": "Cotal",
-  "full_name": "Cotal-AI/Cotal",
-  "updated": "2026-09-24T03:08:09Z",
-  "desc": "The open standard for agent coordination",
-  "url": "https://github.com/Cotal-AI/Cotal"
+  "name": "genoffice",
+  "full_name": "genspark-ai/genoffice",
+  "updated": "2026-09-25T03:26:51Z",
+  "desc": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
+  "url": "https://github.com/genspark-ai/genoffice"
 }
 {
-  "name": "FCaptcha",
-  "full_name": "WebDecoy/FCaptcha",
-  "updated": "2026-09-24T03:07:54Z",
-  "desc": "Self-hosted, invisible CAPTCHA that detects AI agents driving real browsers. GDPR, WCAG 2.2 AA, and EAA: no cookies, no third-party data sharing, and no visual or audio puzzle. With a false-positive budget enforced in CI. Proof of work, drop-in for Turnstile and reCAPTCHA.",
-  "url": "https://github.com/WebDecoy/FCaptcha"
+  "name": "agentconnect",
+  "full_name": "agentconnect-md/agentconnect",
+  "updated": "2026-09-25T03:26:37Z",
+  "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
+  "url": "https://github.com/agentconnect-md/agentconnect"
 }
 {
-  "name": "dsh-memory",
-  "full_name": "FuRongJun-1999/dsh-memory",
-  "updated": "2026-09-24T03:07:51Z",
-  "desc": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
-  "url": "https://github.com/FuRongJun-1999/dsh-memory"
+  "name": "AstrBot",
+  "full_name": "AstrBotDevs/AstrBot",
+  "updated": "2026-09-25T03:26:18Z",
+  "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+  "url": "https://github.com/AstrBotDevs/AstrBot"
 }
 {
-  "name": "HashCortX",
-  "full_name": "Hash-7777/HashCortX",
-  "updated": "2026-09-24T03:07:14Z",
-  "desc": "A local-first AI workspace — multi-provider chat, an autonomous coding agent, 3D models, ERPs, and multi-agent swarms in one native desktop app. No backend. No telemetry. No account. MIT-licensed.",
-  "url": "https://github.com/Hash-7777/HashCortX"
+  "name": "EvoFlow",
+  "full_name": "EvovexAI/EvoFlow",
+  "updated": "2026-09-25T03:25:45Z",
+  "desc": "原生 Agent Runtime / 智能体员工 / 智能体编排 / 知识库 / 长任务。官网 www.evovexai.com",
+  "url": "https://github.com/EvovexAI/EvoFlow"
 }
 {
-  "name": "awr",
-  "full_name": "originoneai/awr",
-  "updated": "2026-09-24T03:06:25Z",
-  "desc": "Persistent work state and minimal context for long-running AI agents.",
-  "url": "https://github.com/originoneai/awr"
+  "name": "pi-fabric",
+  "full_name": "monotykamary/pi-fabric",
+  "updated": "2026-09-25T03:25:00Z",
+  "desc": "A programmable tool and agent runtime for Pi",
+  "url": "https://github.com/monotykamary/pi-fabric"
 }
 {
-  "name": "Lody",
-  "full_name": "LodyAI/Lody",
-  "updated": "2026-09-24T03:06:11Z",
-  "desc": "Share coding agents with your team on phone and desktop",
-  "url": "https://github.com/LodyAI/Lody"
+  "name": "agentao",
+  "full_name": "jin-bo/agentao",
+  "updated": "2026-09-25T03:24:39Z",
+  "desc": "Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, MCP, memory and audit replay built in.",
+  "url": "https://github.com/jin-bo/agentao"
 }
 {
-  "name": "sim",
-  "full_name": "simstudioai/sim",
-  "updated": "2026-09-24T03:06:56Z",
-  "desc": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-  "url": "https://github.com/simstudioai/sim"
+  "name": "vexjoy-agent",
+  "full_name": "notque/vexjoy-agent",
+  "updated": "2026-09-25T03:24:29Z",
+  "desc": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the work with reviews, tests, and a learning loop.",
+  "url": "https://github.com/notque/vexjoy-agent"
 }
 {
-  "name": "smithers",
-  "full_name": "smithersai/smithers",
-  "updated": "2026-09-24T03:05:11Z",
-  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
-  "url": "https://github.com/smithersai/smithers"
+  "name": "adk-js",
+  "full_name": "google/adk-js",
+  "updated": "2026-09-25T03:24:29Z",
+  "desc": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "url": "https://github.com/google/adk-js"
 }
