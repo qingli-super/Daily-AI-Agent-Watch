@@ -1,70 +1,70 @@
 {
-  "name": "Codewhale",
-  "full_name": "Hmbown/Codewhale",
-  "updated": "2026-09-25T03:27:17Z",
-  "desc": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
-  "url": "https://github.com/Hmbown/Codewhale"
+  "name": "gai",
+  "full_name": "godot-fun/gai",
+  "updated": "2026-09-26T03:32:31Z",
+  "desc": "A lightweight AI agent and skill workflow framework built with Godot.",
+  "url": "https://github.com/godot-fun/gai"
 }
 {
-  "name": "connectonion",
-  "full_name": "openonion/connectonion",
-  "updated": "2026-09-25T03:27:03Z",
-  "desc": "The Best AI Agent Framework for Agent Collaboration. ",
-  "url": "https://github.com/openonion/connectonion"
+  "name": "local-operator",
+  "full_name": "damianvtran/local-operator",
+  "updated": "2026-09-26T03:32:27Z",
+  "desc": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background around the clock, and share your existing AI subscriptions.",
+  "url": "https://github.com/damianvtran/local-operator"
 }
 {
-  "name": "genoffice",
-  "full_name": "genspark-ai/genoffice",
-  "updated": "2026-09-25T03:26:51Z",
-  "desc": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
-  "url": "https://github.com/genspark-ai/genoffice"
+  "name": "bottube",
+  "full_name": "Scottcjn/bottube",
+  "updated": "2026-09-26T03:31:47Z",
+  "desc": "AI-native video platform where autonomous agents create, publish, and earn. Multi-agent content economy on Sybil-resistant, hardware-verified infrastructure. Part of the RustChain DePIN ecosystem.",
+  "url": "https://github.com/Scottcjn/bottube"
 }
 {
-  "name": "agentconnect",
-  "full_name": "agentconnect-md/agentconnect",
-  "updated": "2026-09-25T03:26:37Z",
-  "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-  "url": "https://github.com/agentconnect-md/agentconnect"
+  "name": "aerial-autonomy-stack",
+  "full_name": "JacopoPan/aerial-autonomy-stack",
+  "updated": "2026-09-26T03:31:28Z",
+  "desc": "An open harness to simulate and deploy perception-based PX4/ArduPilot drone swarms with ROS2, YOLO, LiDAR, NVIDIA Jetson",
+  "url": "https://github.com/JacopoPan/aerial-autonomy-stack"
 }
 {
-  "name": "AstrBot",
-  "full_name": "AstrBotDevs/AstrBot",
-  "updated": "2026-09-25T03:26:18Z",
-  "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-  "url": "https://github.com/AstrBotDevs/AstrBot"
+  "name": "cc-haha",
+  "full_name": "NanmiCoder/cc-haha",
+  "updated": "2026-09-26T03:31:38Z",
+  "desc": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
+  "url": "https://github.com/NanmiCoder/cc-haha"
 }
 {
-  "name": "EvoFlow",
-  "full_name": "EvovexAI/EvoFlow",
-  "updated": "2026-09-25T03:25:45Z",
-  "desc": "原生 Agent Runtime / 智能体员工 / 智能体编排 / 知识库 / 长任务。官网 www.evovexai.com",
-  "url": "https://github.com/EvovexAI/EvoFlow"
+  "name": "fullsend",
+  "full_name": "fullsend-ai/fullsend",
+  "updated": "2026-09-26T03:29:35Z",
+  "desc": "On the path to fully autonomous agentic engineering",
+  "url": "https://github.com/fullsend-ai/fullsend"
 }
 {
-  "name": "pi-fabric",
-  "full_name": "monotykamary/pi-fabric",
-  "updated": "2026-09-25T03:25:00Z",
-  "desc": "A programmable tool and agent runtime for Pi",
-  "url": "https://github.com/monotykamary/pi-fabric"
+  "name": "DeskcommCRM",
+  "full_name": "melgarafael/DeskcommCRM",
+  "updated": "2026-09-26T03:29:46Z",
+  "desc": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+  "url": "https://github.com/melgarafael/DeskcommCRM"
 }
 {
-  "name": "agentao",
-  "full_name": "jin-bo/agentao",
-  "updated": "2026-09-25T03:24:39Z",
-  "desc": "Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, MCP, memory and audit replay built in.",
-  "url": "https://github.com/jin-bo/agentao"
+  "name": "sandbase-harness",
+  "full_name": "sandbaseai/sandbase-harness",
+  "updated": "2026-09-26T03:29:09Z",
+  "desc": "Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console.",
+  "url": "https://github.com/sandbaseai/sandbase-harness"
 }
 {
-  "name": "vexjoy-agent",
-  "full_name": "notque/vexjoy-agent",
-  "updated": "2026-09-25T03:24:29Z",
-  "desc": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the work with reviews, tests, and a learning loop.",
-  "url": "https://github.com/notque/vexjoy-agent"
+  "name": "Zoo-Code",
+  "full_name": "Zoo-Code-Org/Zoo-Code",
+  "updated": "2026-09-26T03:28:42Z",
+  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
+  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
 }
 {
-  "name": "adk-js",
-  "full_name": "google/adk-js",
-  "updated": "2026-09-25T03:24:29Z",
-  "desc": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "url": "https://github.com/google/adk-js"
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-09-26T03:28:34Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
