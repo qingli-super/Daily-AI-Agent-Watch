@@ -1,70 +1,70 @@
 {
+  "name": "agents-can-communicate",
+  "full_name": "automatis-tools/agents-can-communicate",
+  "updated": "2026-09-27T03:41:28Z",
+  "desc": "Let your AI coding sessions talk to each other. Coordinate parallel work, exchange reviews, and hand off unfinished work between Claude Code, Codex, and other supported clients. Local-first. Independent sessions.",
+  "url": "https://github.com/automatis-tools/agents-can-communicate"
+}
+{
+  "name": "cindy",
+  "full_name": "makecindy/cindy",
+  "updated": "2026-09-27T03:41:03Z",
+  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "url": "https://github.com/makecindy/cindy"
+}
+{
+  "name": "cf-mailroom",
+  "full_name": "wong2/cf-mailroom",
+  "updated": "2026-09-27T03:41:01Z",
+  "desc": "Self-hosted email for humans and AI agents, on Cloudflare",
+  "url": "https://github.com/wong2/cf-mailroom"
+}
+{
+  "name": "amux",
+  "full_name": "mixpeek/amux",
+  "updated": "2026-09-27T03:40:22Z",
+  "desc": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.",
+  "url": "https://github.com/mixpeek/amux"
+}
+{
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-09-27T03:39:39Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
+  "url": "https://github.com/marcusquinn/aidevops"
+}
+{
   "name": "gai",
   "full_name": "godot-fun/gai",
-  "updated": "2026-09-26T03:32:31Z",
+  "updated": "2026-09-27T03:39:41Z",
   "desc": "A lightweight AI agent and skill workflow framework built with Godot.",
   "url": "https://github.com/godot-fun/gai"
 }
 {
-  "name": "local-operator",
-  "full_name": "damianvtran/local-operator",
-  "updated": "2026-09-26T03:32:27Z",
-  "desc": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background around the clock, and share your existing AI subscriptions.",
-  "url": "https://github.com/damianvtran/local-operator"
+  "name": "BossConsole",
+  "full_name": "risa-labs-inc/BossConsole",
+  "updated": "2026-09-27T03:39:42Z",
+  "desc": "Open-source, multi-platform harness for AI agents - a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
+  "url": "https://github.com/risa-labs-inc/BossConsole"
 }
 {
-  "name": "bottube",
-  "full_name": "Scottcjn/bottube",
-  "updated": "2026-09-26T03:31:47Z",
-  "desc": "AI-native video platform where autonomous agents create, publish, and earn. Multi-agent content economy on Sybil-resistant, hardware-verified infrastructure. Part of the RustChain DePIN ecosystem.",
-  "url": "https://github.com/Scottcjn/bottube"
+  "name": "pipelock",
+  "full_name": "luckyPipewrench/pipelock",
+  "updated": "2026-09-27T03:38:59Z",
+  "desc": "Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action receipts: verifiable audit evidence from outside the agent.",
+  "url": "https://github.com/luckyPipewrench/pipelock"
 }
 {
-  "name": "aerial-autonomy-stack",
-  "full_name": "JacopoPan/aerial-autonomy-stack",
-  "updated": "2026-09-26T03:31:28Z",
-  "desc": "An open harness to simulate and deploy perception-based PX4/ArduPilot drone swarms with ROS2, YOLO, LiDAR, NVIDIA Jetson",
-  "url": "https://github.com/JacopoPan/aerial-autonomy-stack"
+  "name": "Peekaboo",
+  "full_name": "openclaw/Peekaboo",
+  "updated": "2026-09-27T03:38:56Z",
+  "desc": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
+  "url": "https://github.com/openclaw/Peekaboo"
 }
 {
-  "name": "cc-haha",
-  "full_name": "NanmiCoder/cc-haha",
-  "updated": "2026-09-26T03:31:38Z",
-  "desc": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
-  "url": "https://github.com/NanmiCoder/cc-haha"
-}
-{
-  "name": "fullsend",
-  "full_name": "fullsend-ai/fullsend",
-  "updated": "2026-09-26T03:29:35Z",
-  "desc": "On the path to fully autonomous agentic engineering",
-  "url": "https://github.com/fullsend-ai/fullsend"
-}
-{
-  "name": "DeskcommCRM",
-  "full_name": "melgarafael/DeskcommCRM",
-  "updated": "2026-09-26T03:29:46Z",
-  "desc": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-  "url": "https://github.com/melgarafael/DeskcommCRM"
-}
-{
-  "name": "sandbase-harness",
-  "full_name": "sandbaseai/sandbase-harness",
-  "updated": "2026-09-26T03:29:09Z",
-  "desc": "Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console.",
-  "url": "https://github.com/sandbaseai/sandbase-harness"
-}
-{
-  "name": "Zoo-Code",
-  "full_name": "Zoo-Code-Org/Zoo-Code",
-  "updated": "2026-09-26T03:28:42Z",
-  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
-  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
-}
-{
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-09-26T03:28:34Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  "name": "athas",
+  "full_name": "athasdev/athas",
+  "updated": "2026-09-27T03:38:17Z",
+  "desc": "A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.",
+  "url": "https://github.com/athasdev/athas"
 }
