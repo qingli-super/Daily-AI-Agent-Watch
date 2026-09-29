@@ -1,70 +1,70 @@
 {
-  "name": "waku-agent",
-  "full_name": "ShenSeanChen/waku-agent",
-  "updated": "2026-09-28T03:40:27Z",
-  "desc": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.",
-  "url": "https://github.com/ShenSeanChen/waku-agent"
+  "name": "frago",
+  "full_name": "tsaijamey/frago",
+  "updated": "2026-09-29T04:15:28Z",
+  "desc": "Multi-runtime automation infrastructure for AI agents. Native CDP browser control, metadata-driven Recipe system, and persistent Run context management.",
+  "url": "https://github.com/tsaijamey/frago"
 }
 {
-  "name": "pinvou-agent",
-  "full_name": "Pinvou/pinvou-agent",
-  "updated": "2026-09-28T03:40:20Z",
-  "desc": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-  "url": "https://github.com/Pinvou/pinvou-agent"
+  "name": "Cortico",
+  "full_name": "Pal-AI-Lab/Cortico",
+  "updated": "2026-09-29T04:15:00Z",
+  "desc": "Event-stream AI Agent framework for building your persona bot 🍊",
+  "url": "https://github.com/Pal-AI-Lab/Cortico"
 }
 {
-  "name": "cindy",
-  "full_name": "makecindy/cindy",
-  "updated": "2026-09-28T03:39:34Z",
-  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-  "url": "https://github.com/makecindy/cindy"
+  "name": "smithers",
+  "full_name": "smithersai/smithers",
+  "updated": "2026-09-29T04:14:56Z",
+  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
+  "url": "https://github.com/smithersai/smithers"
 }
 {
-  "name": "Lody",
-  "full_name": "LodyAI/Lody",
-  "updated": "2026-09-28T03:39:16Z",
-  "desc": "Share coding agents with your team on phone and desktop",
-  "url": "https://github.com/LodyAI/Lody"
+  "name": "Claude-of-Tanks",
+  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
+  "updated": "2026-09-29T04:14:39Z",
+  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
+  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
 }
 {
-  "name": "agent-orchestrator",
-  "full_name": "Untrivial-ai/agent-orchestrator",
-  "updated": "2026-09-28T03:39:59Z",
-  "desc": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
-  "url": "https://github.com/Untrivial-ai/agent-orchestrator"
+  "name": "oya-browser",
+  "full_name": "OyadotAI/oya-browser",
+  "updated": "2026-09-29T04:14:19Z",
+  "desc": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human takeover.",
+  "url": "https://github.com/OyadotAI/oya-browser"
 }
 {
-  "name": "rovai-ai",
-  "full_name": "murray17/rovai-ai",
-  "updated": "2026-09-28T03:38:52Z",
-  "desc": "Give your AI agents lasting roles, a shared Camp, and a journey together — then let them grow into a team.",
-  "url": "https://github.com/murray17/rovai-ai"
+  "name": "OneBox",
+  "full_name": "wangzhishou/OneBox",
+  "updated": "2026-09-29T04:14:17Z",
+  "desc": "A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱",
+  "url": "https://github.com/wangzhishou/OneBox"
 }
 {
-  "name": "runner",
-  "full_name": "yicheng47/runner",
-  "updated": "2026-09-28T03:38:47Z",
-  "desc": "Where terminal agents work together. Claude Code, Codex, Copilot CLI and pi on the same task, in one mission, each keeping its own TUI in a real terminal.",
-  "url": "https://github.com/yicheng47/runner"
+  "name": "opencode-swarm",
+  "full_name": "ZaxbyHub/opencode-swarm",
+  "updated": "2026-09-29T04:14:10Z",
+  "desc": "  Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
+  "url": "https://github.com/ZaxbyHub/opencode-swarm"
 }
 {
-  "name": "awesome-agent-skills",
-  "full_name": "JackyST0/awesome-agent-skills",
-  "updated": "2026-09-28T03:38:32Z",
-  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
-  "url": "https://github.com/JackyST0/awesome-agent-skills"
+  "name": "airbyte",
+  "full_name": "airbytehq/airbyte",
+  "updated": "2026-09-29T04:14:05Z",
+  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
+  "url": "https://github.com/airbytehq/airbyte"
+}
+{
+  "name": "phil",
+  "full_name": "bennyjo/phil",
+  "updated": "2026-09-29T04:13:38Z",
+  "desc": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet. Paper 24/7 in the cloud; small capped real stakes via Pearl Connect.",
+  "url": "https://github.com/bennyjo/phil"
 }
 {
   "name": "agentscope",
   "full_name": "agentscope-ai/agentscope",
-  "updated": "2026-09-28T03:39:36Z",
+  "updated": "2026-09-29T04:13:15Z",
   "desc": "Build and run agents you can see, understand and trust.",
   "url": "https://github.com/agentscope-ai/agentscope"
-}
-{
-  "name": "uniterm",
-  "full_name": "ys-ll/uniterm",
-  "updated": "2026-09-28T03:37:36Z",
-  "desc": "A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
-  "url": "https://github.com/ys-ll/uniterm"
 }
