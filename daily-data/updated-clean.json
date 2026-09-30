@@ -1,70 +1,70 @@
 {
-  "name": "frago",
-  "full_name": "tsaijamey/frago",
-  "updated": "2026-09-29T04:15:28Z",
-  "desc": "Multi-runtime automation infrastructure for AI agents. Native CDP browser control, metadata-driven Recipe system, and persistent Run context management.",
-  "url": "https://github.com/tsaijamey/frago"
-}
-{
-  "name": "Cortico",
-  "full_name": "Pal-AI-Lab/Cortico",
-  "updated": "2026-09-29T04:15:00Z",
-  "desc": "Event-stream AI Agent framework for building your persona bot 🍊",
-  "url": "https://github.com/Pal-AI-Lab/Cortico"
-}
-{
   "name": "smithers",
   "full_name": "smithersai/smithers",
-  "updated": "2026-09-29T04:14:56Z",
+  "updated": "2026-09-30T03:59:43Z",
   "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
   "url": "https://github.com/smithersai/smithers"
 }
 {
-  "name": "Claude-of-Tanks",
-  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
-  "updated": "2026-09-29T04:14:39Z",
-  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
-  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
+  "name": "animaworks",
+  "full_name": "xuiltul/animaworks",
+  "updated": "2026-09-30T03:59:41Z",
+  "desc": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/Codex/Gemini/Cursor/Ollama).",
+  "url": "https://github.com/xuiltul/animaworks"
 }
 {
-  "name": "oya-browser",
-  "full_name": "OyadotAI/oya-browser",
-  "updated": "2026-09-29T04:14:19Z",
-  "desc": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human takeover.",
-  "url": "https://github.com/OyadotAI/oya-browser"
+  "name": "agentconnect",
+  "full_name": "agentconnect-md/agentconnect",
+  "updated": "2026-09-30T03:59:36Z",
+  "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
+  "url": "https://github.com/agentconnect-md/agentconnect"
 }
 {
-  "name": "OneBox",
-  "full_name": "wangzhishou/OneBox",
-  "updated": "2026-09-29T04:14:17Z",
-  "desc": "A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱",
-  "url": "https://github.com/wangzhishou/OneBox"
+  "name": "free4chat",
+  "full_name": "i365dev/free4chat",
+  "updated": "2026-09-30T03:59:23Z",
+  "desc": "Temporary rooms for Humans and AI Agents — run, supervise and steer Agent Tasks without a permanent workspace.",
+  "url": "https://github.com/i365dev/free4chat"
 }
 {
-  "name": "opencode-swarm",
-  "full_name": "ZaxbyHub/opencode-swarm",
-  "updated": "2026-09-29T04:14:10Z",
-  "desc": "  Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
-  "url": "https://github.com/ZaxbyHub/opencode-swarm"
+  "name": "pipeshub-ai",
+  "full_name": "pipeshub-ai/pipeshub-ai",
+  "updated": "2026-09-30T03:58:30Z",
+  "desc": "PipesHub is an open-source platform for securely connecting enterprise knowledge to AI. Give AI agents trusted context and your team permission-aware search with verified citations across your business systems.",
+  "url": "https://github.com/pipeshub-ai/pipeshub-ai"
 }
 {
-  "name": "airbyte",
-  "full_name": "airbytehq/airbyte",
-  "updated": "2026-09-29T04:14:05Z",
-  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
-  "url": "https://github.com/airbytehq/airbyte"
+  "name": "gai",
+  "full_name": "godot-fun/gai",
+  "updated": "2026-09-30T03:57:41Z",
+  "desc": "A lightweight AI agent and skill workflow framework built with Godot.",
+  "url": "https://github.com/godot-fun/gai"
 }
 {
-  "name": "phil",
-  "full_name": "bennyjo/phil",
-  "updated": "2026-09-29T04:13:38Z",
-  "desc": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet. Paper 24/7 in the cloud; small capped real stakes via Pearl Connect.",
-  "url": "https://github.com/bennyjo/phil"
+  "name": "Lody",
+  "full_name": "LodyAI/Lody",
+  "updated": "2026-09-30T03:56:58Z",
+  "desc": "Share coding agents with your team on phone and desktop",
+  "url": "https://github.com/LodyAI/Lody"
 }
 {
-  "name": "agentscope",
-  "full_name": "agentscope-ai/agentscope",
-  "updated": "2026-09-29T04:13:15Z",
-  "desc": "Build and run agents you can see, understand and trust.",
-  "url": "https://github.com/agentscope-ai/agentscope"
+  "name": "zilla",
+  "full_name": "aklivity/zilla",
+  "updated": "2026-09-30T03:56:57Z",
+  "desc": "🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, schema, and observability.",
+  "url": "https://github.com/aklivity/zilla"
+}
+{
+  "name": "future-os",
+  "full_name": "futuregene/future-os",
+  "updated": "2026-09-30T03:56:37Z",
+  "desc": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+  "url": "https://github.com/futuregene/future-os"
+}
+{
+  "name": "opencrabs",
+  "full_name": "adolfousier/opencrabs",
+  "updated": "2026-09-30T03:56:24Z",
+  "desc": "The all-in-one AI agent living in your terminal. Build landing, mobile apps, backends, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI, CLI and Daemon. Connect to your favorite channels. Zero Telemetry.",
+  "url": "https://github.com/adolfousier/opencrabs"
 }
