@@ -1,70 +1,70 @@
 {
+  "name": "rocketmq-rust",
+  "full_name": "mxsm/rocketmq-rust",
+  "updated": "2026-10-01T04:10:29Z",
+  "desc": "🚀 Apache RocketMQ built in Rust 🦀 — faster, safer, and more memory-efficient. Powering high-performance messaging for the AI era, with AI Agent, MCP, and AI-SRE capabilities.",
+  "url": "https://github.com/mxsm/rocketmq-rust"
+}
+{
+  "name": "Front-End-Checklist",
+  "full_name": "thedaviddias/Front-End-Checklist",
+  "updated": "2026-10-01T04:09:06Z",
+  "desc": "🗂 The essential checklist for modern web development, for humans and AI agents",
+  "url": "https://github.com/thedaviddias/Front-End-Checklist"
+}
+{
+  "name": "openrig",
+  "full_name": "mvschwarz/openrig",
+  "updated": "2026-10-01T04:09:52Z",
+  "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
+  "url": "https://github.com/mvschwarz/openrig"
+}
+{
+  "name": "Zoo-Code",
+  "full_name": "Zoo-Code-Org/Zoo-Code",
+  "updated": "2026-10-01T04:08:47Z",
+  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
+  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
+}
+{
+  "name": "agent-orchestrator",
+  "full_name": "Untrivial-ai/agent-orchestrator",
+  "updated": "2026-10-01T04:08:09Z",
+  "desc": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
+  "url": "https://github.com/Untrivial-ai/agent-orchestrator"
+}
+{
+  "name": "vestige",
+  "full_name": "samvallad33/vestige",
+  "updated": "2026-10-01T04:07:45Z",
+  "desc": "Local-first memory + a deterministic command gate for AI agents, on a signed log.",
+  "url": "https://github.com/samvallad33/vestige"
+}
+{
+  "name": "Agent",
+  "full_name": "AgentiLoop/Agent",
+  "updated": "2026-10-01T04:07:23Z",
+  "desc": "Agent! now supports macOS 14.6 or later, Apple Silicon and Intel (see latest pre-release). The Best AI agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JXA, Swift and SMAppService shell (user/root). 23 LLM providers, local/cloud, plus on-device Apple Intelligence and Jev guard. MCP support.",
+  "url": "https://github.com/AgentiLoop/Agent"
+}
+{
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-10-01T04:06:24Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+}
+{
   "name": "smithers",
   "full_name": "smithersai/smithers",
-  "updated": "2026-09-30T03:59:43Z",
+  "updated": "2026-10-01T04:04:38Z",
   "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
   "url": "https://github.com/smithersai/smithers"
 }
 {
-  "name": "animaworks",
-  "full_name": "xuiltul/animaworks",
-  "updated": "2026-09-30T03:59:41Z",
-  "desc": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/Codex/Gemini/Cursor/Ollama).",
-  "url": "https://github.com/xuiltul/animaworks"
-}
-{
-  "name": "agentconnect",
-  "full_name": "agentconnect-md/agentconnect",
-  "updated": "2026-09-30T03:59:36Z",
-  "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-  "url": "https://github.com/agentconnect-md/agentconnect"
-}
-{
-  "name": "free4chat",
-  "full_name": "i365dev/free4chat",
-  "updated": "2026-09-30T03:59:23Z",
-  "desc": "Temporary rooms for Humans and AI Agents — run, supervise and steer Agent Tasks without a permanent workspace.",
-  "url": "https://github.com/i365dev/free4chat"
-}
-{
   "name": "pipeshub-ai",
   "full_name": "pipeshub-ai/pipeshub-ai",
-  "updated": "2026-09-30T03:58:30Z",
+  "updated": "2026-10-01T04:04:25Z",
   "desc": "PipesHub is an open-source platform for securely connecting enterprise knowledge to AI. Give AI agents trusted context and your team permission-aware search with verified citations across your business systems.",
   "url": "https://github.com/pipeshub-ai/pipeshub-ai"
-}
-{
-  "name": "gai",
-  "full_name": "godot-fun/gai",
-  "updated": "2026-09-30T03:57:41Z",
-  "desc": "A lightweight AI agent and skill workflow framework built with Godot.",
-  "url": "https://github.com/godot-fun/gai"
-}
-{
-  "name": "Lody",
-  "full_name": "LodyAI/Lody",
-  "updated": "2026-09-30T03:56:58Z",
-  "desc": "Share coding agents with your team on phone and desktop",
-  "url": "https://github.com/LodyAI/Lody"
-}
-{
-  "name": "zilla",
-  "full_name": "aklivity/zilla",
-  "updated": "2026-09-30T03:56:57Z",
-  "desc": "🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, schema, and observability.",
-  "url": "https://github.com/aklivity/zilla"
-}
-{
-  "name": "future-os",
-  "full_name": "futuregene/future-os",
-  "updated": "2026-09-30T03:56:37Z",
-  "desc": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
-  "url": "https://github.com/futuregene/future-os"
-}
-{
-  "name": "opencrabs",
-  "full_name": "adolfousier/opencrabs",
-  "updated": "2026-09-30T03:56:24Z",
-  "desc": "The all-in-one AI agent living in your terminal. Build landing, mobile apps, backends, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI, CLI and Daemon. Connect to your favorite channels. Zero Telemetry.",
-  "url": "https://github.com/adolfousier/opencrabs"
 }
