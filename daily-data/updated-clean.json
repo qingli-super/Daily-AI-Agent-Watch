@@ -1,70 +1,70 @@
 {
-  "name": "rocketmq-rust",
-  "full_name": "mxsm/rocketmq-rust",
-  "updated": "2026-10-01T04:10:29Z",
-  "desc": "🚀 Apache RocketMQ built in Rust 🦀 — faster, safer, and more memory-efficient. Powering high-performance messaging for the AI era, with AI Agent, MCP, and AI-SRE capabilities.",
-  "url": "https://github.com/mxsm/rocketmq-rust"
-}
-{
-  "name": "Front-End-Checklist",
-  "full_name": "thedaviddias/Front-End-Checklist",
-  "updated": "2026-10-01T04:09:06Z",
-  "desc": "🗂 The essential checklist for modern web development, for humans and AI agents",
-  "url": "https://github.com/thedaviddias/Front-End-Checklist"
-}
-{
-  "name": "openrig",
-  "full_name": "mvschwarz/openrig",
-  "updated": "2026-10-01T04:09:52Z",
-  "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
-  "url": "https://github.com/mvschwarz/openrig"
-}
-{
-  "name": "Zoo-Code",
-  "full_name": "Zoo-Code-Org/Zoo-Code",
-  "updated": "2026-10-01T04:08:47Z",
-  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
-  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
-}
-{
-  "name": "agent-orchestrator",
-  "full_name": "Untrivial-ai/agent-orchestrator",
-  "updated": "2026-10-01T04:08:09Z",
-  "desc": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
-  "url": "https://github.com/Untrivial-ai/agent-orchestrator"
-}
-{
-  "name": "vestige",
-  "full_name": "samvallad33/vestige",
-  "updated": "2026-10-01T04:07:45Z",
-  "desc": "Local-first memory + a deterministic command gate for AI agents, on a signed log.",
-  "url": "https://github.com/samvallad33/vestige"
-}
-{
-  "name": "Agent",
-  "full_name": "AgentiLoop/Agent",
-  "updated": "2026-10-01T04:07:23Z",
-  "desc": "Agent! now supports macOS 14.6 or later, Apple Silicon and Intel (see latest pre-release). The Best AI agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JXA, Swift and SMAppService shell (user/root). 23 LLM providers, local/cloud, plus on-device Apple Intelligence and Jev guard. MCP support.",
-  "url": "https://github.com/AgentiLoop/Agent"
-}
-{
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-10-01T04:06:24Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  "name": "opencode-manager",
+  "full_name": "chriswritescode-dev/opencode-manager",
+  "updated": "2026-10-02T04:04:36Z",
+  "desc": "Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, and real-time chat in a responsive PWA. Deploy with Docker for instant setup.",
+  "url": "https://github.com/chriswritescode-dev/opencode-manager"
 }
 {
   "name": "smithers",
   "full_name": "smithersai/smithers",
-  "updated": "2026-10-01T04:04:38Z",
+  "updated": "2026-10-02T04:04:32Z",
   "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
   "url": "https://github.com/smithersai/smithers"
 }
 {
-  "name": "pipeshub-ai",
-  "full_name": "pipeshub-ai/pipeshub-ai",
-  "updated": "2026-10-01T04:04:25Z",
-  "desc": "PipesHub is an open-source platform for securely connecting enterprise knowledge to AI. Give AI agents trusted context and your team permission-aware search with verified citations across your business systems.",
-  "url": "https://github.com/pipeshub-ai/pipeshub-ai"
+  "name": "bloks",
+  "full_name": "hamedgitty/bloks",
+  "updated": "2026-10-02T04:04:27Z",
+  "desc": "A local-first desktop workspace for personal AI agents",
+  "url": "https://github.com/hamedgitty/bloks"
+}
+{
+  "name": "project-orchestrator",
+  "full_name": "this-rs/project-orchestrator",
+  "updated": "2026-10-02T04:03:17Z",
+  "desc": "A Rust-based AI agent orchestrator with Neo4j knowledge graph, Meilisearch semantic search, and Tree-sitter code parsing.",
+  "url": "https://github.com/this-rs/project-orchestrator"
+}
+{
+  "name": "Cotal",
+  "full_name": "Cotal-AI/Cotal",
+  "updated": "2026-10-02T04:02:11Z",
+  "desc": "The open standard for agent coordination",
+  "url": "https://github.com/Cotal-AI/Cotal"
+}
+{
+  "name": "OpenShell",
+  "full_name": "NVIDIA/OpenShell",
+  "updated": "2026-10-02T04:04:24Z",
+  "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+  "url": "https://github.com/NVIDIA/OpenShell"
+}
+{
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-10-02T04:01:32Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
+  "url": "https://github.com/marcusquinn/aidevops"
+}
+{
+  "name": "zilla",
+  "full_name": "aklivity/zilla",
+  "updated": "2026-10-02T04:01:16Z",
+  "desc": "🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, schema, and observability.",
+  "url": "https://github.com/aklivity/zilla"
+}
+{
+  "name": "MisakaNet",
+  "full_name": "Ikalus1988/MisakaNet",
+  "updated": "2026-10-02T04:00:36Z",
+  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org",
+  "url": "https://github.com/Ikalus1988/MisakaNet"
+}
+{
+  "name": "MovieClaw",
+  "full_name": "movieclaw/MovieClaw",
+  "updated": "2026-10-02T04:00:35Z",
+  "desc": "Open-source, self-hosted AI media server. One server replaces your entire media stack, with a web app, native iPhone app, and an AI agent that gets things done. Free for personal use, and your data never leaves your hardware.",
+  "url": "https://github.com/movieclaw/MovieClaw"
 }
