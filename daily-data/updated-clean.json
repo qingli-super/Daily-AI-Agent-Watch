@@ -1,70 +1,70 @@
 {
-  "name": "opencode-manager",
-  "full_name": "chriswritescode-dev/opencode-manager",
-  "updated": "2026-10-02T04:04:36Z",
-  "desc": "Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, and real-time chat in a responsive PWA. Deploy with Docker for instant setup.",
-  "url": "https://github.com/chriswritescode-dev/opencode-manager"
+  "name": "clawmetry",
+  "full_name": "vivekchand/clawmetry",
+  "updated": "2026-10-03T03:47:59Z",
+  "desc": "See your agent think. Zero-config observability & governance for 30 AI agent runtimes: Claude Code, OpenAI Codex, Hermes, OpenClaw & 26 more. Live token costs, sessions, tool calls, crons.",
+  "url": "https://github.com/vivekchand/clawmetry"
 }
 {
-  "name": "smithers",
-  "full_name": "smithersai/smithers",
-  "updated": "2026-10-02T04:04:32Z",
-  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
-  "url": "https://github.com/smithersai/smithers"
-}
-{
-  "name": "bloks",
-  "full_name": "hamedgitty/bloks",
-  "updated": "2026-10-02T04:04:27Z",
-  "desc": "A local-first desktop workspace for personal AI agents",
-  "url": "https://github.com/hamedgitty/bloks"
-}
-{
-  "name": "project-orchestrator",
-  "full_name": "this-rs/project-orchestrator",
-  "updated": "2026-10-02T04:03:17Z",
-  "desc": "A Rust-based AI agent orchestrator with Neo4j knowledge graph, Meilisearch semantic search, and Tree-sitter code parsing.",
-  "url": "https://github.com/this-rs/project-orchestrator"
+  "name": "agentrq",
+  "full_name": "agentrq/agentrq",
+  "updated": "2026-10-03T03:47:34Z",
+  "desc": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.",
+  "url": "https://github.com/agentrq/agentrq"
 }
 {
   "name": "Cotal",
   "full_name": "Cotal-AI/Cotal",
-  "updated": "2026-10-02T04:02:11Z",
+  "updated": "2026-10-03T03:46:17Z",
   "desc": "The open standard for agent coordination",
   "url": "https://github.com/Cotal-AI/Cotal"
 }
 {
-  "name": "OpenShell",
-  "full_name": "NVIDIA/OpenShell",
-  "updated": "2026-10-02T04:04:24Z",
-  "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
-  "url": "https://github.com/NVIDIA/OpenShell"
+  "name": "ruflo",
+  "full_name": "ruvnet/ruflo",
+  "updated": "2026-10-03T03:46:17Z",
+  "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+  "url": "https://github.com/ruvnet/ruflo"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-10-02T04:01:32Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "RongxinAI",
+  "full_name": "rongxinzy/RongxinAI",
+  "updated": "2026-10-03T03:46:08Z",
+  "desc": "An all-in-one local AI Agent workspace with a fully self-developed stack",
+  "url": "https://github.com/rongxinzy/RongxinAI"
 }
 {
-  "name": "zilla",
-  "full_name": "aklivity/zilla",
-  "updated": "2026-10-02T04:01:16Z",
-  "desc": "🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, schema, and observability.",
-  "url": "https://github.com/aklivity/zilla"
+  "name": "loki-mode",
+  "full_name": "asklokesh/loki-mode",
+  "updated": "2026-10-03T03:45:56Z",
+  "desc": "Autonomous software factory. Give it a GitHub issue, a spec or a one-line task; get back a pull request with a signed receipt anyone can re-check offline. Runs on your machine with your own keys: Claude, Codex, OpenCode.",
+  "url": "https://github.com/asklokesh/loki-mode"
 }
 {
-  "name": "MisakaNet",
-  "full_name": "Ikalus1988/MisakaNet",
-  "updated": "2026-10-02T04:00:36Z",
-  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org",
-  "url": "https://github.com/Ikalus1988/MisakaNet"
+  "name": "vibesys",
+  "full_name": "uw-syfi/vibesys",
+  "updated": "2026-10-03T03:45:28Z",
+  "desc": "Can AI Agents Build Bespoke Systems?",
+  "url": "https://github.com/uw-syfi/vibesys"
 }
 {
-  "name": "MovieClaw",
-  "full_name": "movieclaw/MovieClaw",
-  "updated": "2026-10-02T04:00:35Z",
-  "desc": "Open-source, self-hosted AI media server. One server replaces your entire media stack, with a web app, native iPhone app, and an AI agent that gets things done. Free for personal use, and your data never leaves your hardware.",
-  "url": "https://github.com/movieclaw/MovieClaw"
+  "name": "agent-beacon",
+  "full_name": "Asymptote-Labs/agent-beacon",
+  "updated": "2026-10-03T03:45:10Z",
+  "desc": "The cross-harness, self-improving memory layer for AI agents.",
+  "url": "https://github.com/Asymptote-Labs/agent-beacon"
+}
+{
+  "name": "apple-rag-mcp",
+  "full_name": "BingoWon/apple-rag-mcp",
+  "updated": "2026-10-03T03:44:59Z",
+  "desc": " MCP server providing AI agents with instant access to Apple developer documentation via RAG",
+  "url": "https://github.com/BingoWon/apple-rag-mcp"
+}
+{
+  "name": "wmux",
+  "full_name": "openwong2kim/wmux",
+  "updated": "2026-10-03T03:44:41Z",
+  "desc": "Run Claude Code, Codex & Gemini in parallel on Windows & macOS — git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions",
+  "url": "https://github.com/openwong2kim/wmux"
 }
