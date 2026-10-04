@@ -1,70 +1,70 @@
 {
-  "name": "clawmetry",
-  "full_name": "vivekchand/clawmetry",
-  "updated": "2026-10-03T03:47:59Z",
-  "desc": "See your agent think. Zero-config observability & governance for 30 AI agent runtimes: Claude Code, OpenAI Codex, Hermes, OpenClaw & 26 more. Live token costs, sessions, tool calls, crons.",
-  "url": "https://github.com/vivekchand/clawmetry"
+  "name": "beancount-io",
+  "full_name": "bex-co/beancount-io",
+  "updated": "2026-10-04T04:20:03Z",
+  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
+  "url": "https://github.com/bex-co/beancount-io"
 }
 {
-  "name": "agentrq",
-  "full_name": "agentrq/agentrq",
-  "updated": "2026-10-03T03:47:34Z",
-  "desc": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.",
-  "url": "https://github.com/agentrq/agentrq"
+  "name": "gai",
+  "full_name": "godot-fun/gai",
+  "updated": "2026-10-04T04:19:32Z",
+  "desc": "A lightweight AI agent and skill workflow framework built with Godot.",
+  "url": "https://github.com/godot-fun/gai"
 }
 {
-  "name": "Cotal",
-  "full_name": "Cotal-AI/Cotal",
-  "updated": "2026-10-03T03:46:17Z",
-  "desc": "The open standard for agent coordination",
-  "url": "https://github.com/Cotal-AI/Cotal"
+  "name": "answer-me-with-html",
+  "full_name": "QingYunA/answer-me-with-html",
+  "updated": "2026-10-04T04:19:45Z",
+  "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+  "url": "https://github.com/QingYunA/answer-me-with-html"
 }
 {
-  "name": "ruflo",
-  "full_name": "ruvnet/ruflo",
-  "updated": "2026-10-03T03:46:17Z",
-  "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-  "url": "https://github.com/ruvnet/ruflo"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-10-04T04:19:04Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "RongxinAI",
-  "full_name": "rongxinzy/RongxinAI",
-  "updated": "2026-10-03T03:46:08Z",
-  "desc": "An all-in-one local AI Agent workspace with a fully self-developed stack",
-  "url": "https://github.com/rongxinzy/RongxinAI"
+  "name": "phil",
+  "full_name": "bennyjo/phil",
+  "updated": "2026-10-04T04:18:54Z",
+  "desc": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet. Paper 24/7 in the cloud; small capped real stakes via Pearl Connect.",
+  "url": "https://github.com/bennyjo/phil"
 }
 {
-  "name": "loki-mode",
-  "full_name": "asklokesh/loki-mode",
-  "updated": "2026-10-03T03:45:56Z",
-  "desc": "Autonomous software factory. Give it a GitHub issue, a spec or a one-line task; get back a pull request with a signed receipt anyone can re-check offline. Runs on your machine with your own keys: Claude, Codex, OpenCode.",
-  "url": "https://github.com/asklokesh/loki-mode"
+  "name": "waku-agent",
+  "full_name": "ShenSeanChen/waku-agent",
+  "updated": "2026-10-04T04:17:11Z",
+  "desc": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.",
+  "url": "https://github.com/ShenSeanChen/waku-agent"
 }
 {
-  "name": "vibesys",
-  "full_name": "uw-syfi/vibesys",
-  "updated": "2026-10-03T03:45:28Z",
-  "desc": "Can AI Agents Build Bespoke Systems?",
-  "url": "https://github.com/uw-syfi/vibesys"
+  "name": "webcodex",
+  "full_name": "yyjeqhc/webcodex",
+  "updated": "2026-10-04T04:16:54Z",
+  "desc": "Give cloud AI agents a real development environment on your own machines.",
+  "url": "https://github.com/yyjeqhc/webcodex"
 }
 {
-  "name": "agent-beacon",
-  "full_name": "Asymptote-Labs/agent-beacon",
-  "updated": "2026-10-03T03:45:10Z",
-  "desc": "The cross-harness, self-improving memory layer for AI agents.",
-  "url": "https://github.com/Asymptote-Labs/agent-beacon"
+  "name": "optio",
+  "full_name": "jonwiggins/optio",
+  "updated": "2026-10-04T04:16:37Z",
+  "desc": "Workflow orchestration for AI agent swarms.",
+  "url": "https://github.com/jonwiggins/optio"
 }
 {
-  "name": "apple-rag-mcp",
-  "full_name": "BingoWon/apple-rag-mcp",
-  "updated": "2026-10-03T03:44:59Z",
-  "desc": " MCP server providing AI agents with instant access to Apple developer documentation via RAG",
-  "url": "https://github.com/BingoWon/apple-rag-mcp"
+  "name": "openrig",
+  "full_name": "mvschwarz/openrig",
+  "updated": "2026-10-04T04:19:40Z",
+  "desc": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+  "url": "https://github.com/mvschwarz/openrig"
 }
 {
-  "name": "wmux",
-  "full_name": "openwong2kim/wmux",
-  "updated": "2026-10-03T03:44:41Z",
-  "desc": "Run Claude Code, Codex & Gemini in parallel on Windows & macOS — git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions",
-  "url": "https://github.com/openwong2kim/wmux"
+  "name": "smithers",
+  "full_name": "smithersai/smithers",
+  "updated": "2026-10-04T04:15:49Z",
+  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
+  "url": "https://github.com/smithersai/smithers"
 }
