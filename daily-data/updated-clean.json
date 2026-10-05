@@ -1,70 +1,70 @@
 {
-  "name": "beancount-io",
-  "full_name": "bex-co/beancount-io",
-  "updated": "2026-10-04T04:20:03Z",
-  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
-  "url": "https://github.com/bex-co/beancount-io"
+  "name": "omnigent",
+  "full_name": "omnigent-ai/omnigent",
+  "updated": "2026-10-05T04:04:42Z",
+  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+  "url": "https://github.com/omnigent-ai/omnigent"
 }
 {
-  "name": "gai",
-  "full_name": "godot-fun/gai",
-  "updated": "2026-10-04T04:19:32Z",
-  "desc": "A lightweight AI agent and skill workflow framework built with Godot.",
-  "url": "https://github.com/godot-fun/gai"
+  "name": "loopx",
+  "full_name": "loopx-project/loopx",
+  "updated": "2026-10-05T04:04:42Z",
+  "desc": "A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.",
+  "url": "https://github.com/loopx-project/loopx"
 }
 {
-  "name": "answer-me-with-html",
-  "full_name": "QingYunA/answer-me-with-html",
-  "updated": "2026-10-04T04:19:45Z",
-  "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-  "url": "https://github.com/QingYunA/answer-me-with-html"
+  "name": "OpenViking",
+  "full_name": "volcengine/OpenViking",
+  "updated": "2026-10-05T04:04:36Z",
+  "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "url": "https://github.com/volcengine/OpenViking"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-10-04T04:19:04Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "Aegis",
+  "full_name": "antropos17/Aegis",
+  "updated": "2026-10-05T04:04:01Z",
+  "desc": "Desktop monitoring and local security reviews for AI agents, with opt-in policy-controlled execution and MCP action tools. Windows primary; macOS/Linux experimental.",
+  "url": "https://github.com/antropos17/Aegis"
 }
 {
-  "name": "phil",
-  "full_name": "bennyjo/phil",
-  "updated": "2026-10-04T04:18:54Z",
-  "desc": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet. Paper 24/7 in the cloud; small capped real stakes via Pearl Connect.",
-  "url": "https://github.com/bennyjo/phil"
+  "name": "HashCortX",
+  "full_name": "Hash-7777/HashCortX",
+  "updated": "2026-10-05T04:03:23Z",
+  "desc": "A local-first AI workspace — multi-provider chat, an autonomous coding agent, 3D models, ERPs, and multi-agent swarms in one native desktop app. No backend. No telemetry. No account. MIT-licensed.",
+  "url": "https://github.com/Hash-7777/HashCortX"
 }
 {
-  "name": "waku-agent",
-  "full_name": "ShenSeanChen/waku-agent",
-  "updated": "2026-10-04T04:17:11Z",
-  "desc": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.",
-  "url": "https://github.com/ShenSeanChen/waku-agent"
+  "name": "awesome-agent-skills",
+  "full_name": "JackyST0/awesome-agent-skills",
+  "updated": "2026-10-05T04:02:50Z",
+  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
+  "url": "https://github.com/JackyST0/awesome-agent-skills"
 }
 {
-  "name": "webcodex",
-  "full_name": "yyjeqhc/webcodex",
-  "updated": "2026-10-04T04:16:54Z",
-  "desc": "Give cloud AI agents a real development environment on your own machines.",
-  "url": "https://github.com/yyjeqhc/webcodex"
+  "name": "agentic_coding_flywheel_setup",
+  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
+  "updated": "2026-10-05T04:01:59Z",
+  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
+  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
 }
 {
-  "name": "optio",
-  "full_name": "jonwiggins/optio",
-  "updated": "2026-10-04T04:16:37Z",
-  "desc": "Workflow orchestration for AI agent swarms.",
-  "url": "https://github.com/jonwiggins/optio"
-}
-{
-  "name": "openrig",
-  "full_name": "mvschwarz/openrig",
-  "updated": "2026-10-04T04:19:40Z",
-  "desc": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-  "url": "https://github.com/mvschwarz/openrig"
+  "name": "PraisonAI",
+  "full_name": "MervinPraison/PraisonAI",
+  "updated": "2026-10-05T04:01:28Z",
+  "desc": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.",
+  "url": "https://github.com/MervinPraison/PraisonAI"
 }
 {
   "name": "smithers",
   "full_name": "smithersai/smithers",
-  "updated": "2026-10-04T04:15:49Z",
+  "updated": "2026-10-05T04:00:33Z",
   "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
   "url": "https://github.com/smithersai/smithers"
+}
+{
+  "name": "waku-agent",
+  "full_name": "ShenSeanChen/waku-agent",
+  "updated": "2026-10-05T03:59:00Z",
+  "desc": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.",
+  "url": "https://github.com/ShenSeanChen/waku-agent"
 }
