@@ -1,70 +1,70 @@
 {
-  "name": "omnigent",
-  "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-10-05T04:04:42Z",
-  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-  "url": "https://github.com/omnigent-ai/omnigent"
+  "name": "airbyte",
+  "full_name": "airbytehq/airbyte",
+  "updated": "2026-10-06T04:53:49Z",
+  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
+  "url": "https://github.com/airbytehq/airbyte"
+}
+{
+  "name": "opencode-swarm",
+  "full_name": "ZaxbyHub/opencode-swarm",
+  "updated": "2026-10-06T04:53:32Z",
+  "desc": "  Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
+  "url": "https://github.com/ZaxbyHub/opencode-swarm"
+}
+{
+  "name": "kody",
+  "full_name": "kentcdodds/kody",
+  "updated": "2026-10-06T04:52:19Z",
+  "desc": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.",
+  "url": "https://github.com/kentcdodds/kody"
+}
+{
+  "name": "OpenShell",
+  "full_name": "NVIDIA/OpenShell",
+  "updated": "2026-10-06T04:52:28Z",
+  "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+  "url": "https://github.com/NVIDIA/OpenShell"
+}
+{
+  "name": "phil",
+  "full_name": "bennyjo/phil",
+  "updated": "2026-10-06T04:52:13Z",
+  "desc": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet. Paper 24/7 in the cloud; small capped real stakes via Pearl Connect.",
+  "url": "https://github.com/bennyjo/phil"
+}
+{
+  "name": "coding-tools-mcp",
+  "full_name": "xyTom/coding-tools-mcp",
+  "updated": "2026-10-06T04:51:51Z",
+  "desc": "Give any AI agent the ability to code",
+  "url": "https://github.com/xyTom/coding-tools-mcp"
 }
 {
   "name": "loopx",
   "full_name": "loopx-project/loopx",
-  "updated": "2026-10-05T04:04:42Z",
+  "updated": "2026-10-06T04:51:33Z",
   "desc": "A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.",
   "url": "https://github.com/loopx-project/loopx"
 }
 {
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-10-05T04:04:36Z",
-  "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-  "url": "https://github.com/volcengine/OpenViking"
+  "name": "future-agi",
+  "full_name": "future-agi/future-agi",
+  "updated": "2026-10-06T04:52:41Z",
+  "desc": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+  "url": "https://github.com/future-agi/future-agi"
 }
 {
-  "name": "Aegis",
-  "full_name": "antropos17/Aegis",
-  "updated": "2026-10-05T04:04:01Z",
-  "desc": "Desktop monitoring and local security reviews for AI agents, with opt-in policy-controlled execution and MCP action tools. Windows primary; macOS/Linux experimental.",
-  "url": "https://github.com/antropos17/Aegis"
+  "name": "agent-orchestrator",
+  "full_name": "OrchestratorInc/agent-orchestrator",
+  "updated": "2026-10-06T04:50:54Z",
+  "desc": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
+  "url": "https://github.com/OrchestratorInc/agent-orchestrator"
 }
 {
-  "name": "HashCortX",
-  "full_name": "Hash-7777/HashCortX",
-  "updated": "2026-10-05T04:03:23Z",
-  "desc": "A local-first AI workspace — multi-provider chat, an autonomous coding agent, 3D models, ERPs, and multi-agent swarms in one native desktop app. No backend. No telemetry. No account. MIT-licensed.",
-  "url": "https://github.com/Hash-7777/HashCortX"
-}
-{
-  "name": "awesome-agent-skills",
-  "full_name": "JackyST0/awesome-agent-skills",
-  "updated": "2026-10-05T04:02:50Z",
-  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
-  "url": "https://github.com/JackyST0/awesome-agent-skills"
-}
-{
-  "name": "agentic_coding_flywheel_setup",
-  "full_name": "Dicklesworthstone/agentic_coding_flywheel_setup",
-  "updated": "2026-10-05T04:01:59Z",
-  "desc": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
-  "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
-}
-{
-  "name": "PraisonAI",
-  "full_name": "MervinPraison/PraisonAI",
-  "updated": "2026-10-05T04:01:28Z",
-  "desc": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.",
-  "url": "https://github.com/MervinPraison/PraisonAI"
-}
-{
-  "name": "smithers",
-  "full_name": "smithersai/smithers",
-  "updated": "2026-10-05T04:00:33Z",
-  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
-  "url": "https://github.com/smithersai/smithers"
-}
-{
-  "name": "waku-agent",
-  "full_name": "ShenSeanChen/waku-agent",
-  "updated": "2026-10-05T03:59:00Z",
-  "desc": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.",
-  "url": "https://github.com/ShenSeanChen/waku-agent"
+  "name": "AstrBot",
+  "full_name": "AstrBotDevs/AstrBot",
+  "updated": "2026-10-06T04:50:42Z",
+  "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+  "url": "https://github.com/AstrBotDevs/AstrBot"
 }
