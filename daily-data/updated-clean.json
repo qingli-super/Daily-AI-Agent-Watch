@@ -1,70 +1,70 @@
 {
-  "name": "airbyte",
-  "full_name": "airbytehq/airbyte",
-  "updated": "2026-10-06T04:53:49Z",
-  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
-  "url": "https://github.com/airbytehq/airbyte"
+  "name": "smithers",
+  "full_name": "smithersai/smithers",
+  "updated": "2026-10-07T04:20:10Z",
+  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
+  "url": "https://github.com/smithersai/smithers"
 }
 {
-  "name": "opencode-swarm",
-  "full_name": "ZaxbyHub/opencode-swarm",
-  "updated": "2026-10-06T04:53:32Z",
-  "desc": "  Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
-  "url": "https://github.com/ZaxbyHub/opencode-swarm"
+  "name": "DeskcommCRM",
+  "full_name": "melgarafael/DeskcommCRM",
+  "updated": "2026-10-07T04:19:37Z",
+  "desc": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+  "url": "https://github.com/melgarafael/DeskcommCRM"
 }
 {
-  "name": "kody",
-  "full_name": "kentcdodds/kody",
-  "updated": "2026-10-06T04:52:19Z",
-  "desc": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.",
-  "url": "https://github.com/kentcdodds/kody"
+  "name": "mycelium",
+  "full_name": "mycelium-io/mycelium",
+  "updated": "2026-10-07T04:19:31Z",
+  "desc": "Multi-agent coordination + persistent memory, semantic negotiation, async rooms, and a shared knowledge graph",
+  "url": "https://github.com/mycelium-io/mycelium"
 }
 {
-  "name": "OpenShell",
-  "full_name": "NVIDIA/OpenShell",
-  "updated": "2026-10-06T04:52:28Z",
-  "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
-  "url": "https://github.com/NVIDIA/OpenShell"
+  "name": "stash",
+  "full_name": "Fergana-Labs/stash",
+  "updated": "2026-10-07T04:19:26Z",
+  "desc": "Open-source infrastructure for agents that learn from experience. Capture production traces and turn lessons into reusable knowledge and skills.",
+  "url": "https://github.com/Fergana-Labs/stash"
 }
 {
-  "name": "phil",
-  "full_name": "bennyjo/phil",
-  "updated": "2026-10-06T04:52:13Z",
-  "desc": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet. Paper 24/7 in the cloud; small capped real stakes via Pearl Connect.",
-  "url": "https://github.com/bennyjo/phil"
+  "name": "caura",
+  "full_name": "caura-ai/caura",
+  "updated": "2026-10-07T04:17:08Z",
+  "desc": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+  "url": "https://github.com/caura-ai/caura"
 }
 {
-  "name": "coding-tools-mcp",
-  "full_name": "xyTom/coding-tools-mcp",
-  "updated": "2026-10-06T04:51:51Z",
-  "desc": "Give any AI agent the ability to code",
-  "url": "https://github.com/xyTom/coding-tools-mcp"
+  "name": "ai-jail",
+  "full_name": "akitaonrails/ai-jail",
+  "updated": "2026-10-07T04:17:08Z",
+  "desc": "Multi-OS sandbox to run AI agents with better constraints (it is not 100% secure, but enough)",
+  "url": "https://github.com/akitaonrails/ai-jail"
 }
 {
-  "name": "loopx",
-  "full_name": "loopx-project/loopx",
-  "updated": "2026-10-06T04:51:33Z",
-  "desc": "A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.",
-  "url": "https://github.com/loopx-project/loopx"
-}
-{
-  "name": "future-agi",
-  "full_name": "future-agi/future-agi",
-  "updated": "2026-10-06T04:52:41Z",
-  "desc": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-  "url": "https://github.com/future-agi/future-agi"
+  "name": "MovieClaw",
+  "full_name": "movieclaw/MovieClaw",
+  "updated": "2026-10-07T04:16:36Z",
+  "desc": "Next-gen AI media server. One container replaces Sonarr, Radarr, Prowlarr, Bazarr, Jellyseerr and Jellyfin, with a web app, a native iPhone app, and an AI agent that gets things done. Free for personal use.",
+  "url": "https://github.com/movieclaw/MovieClaw"
 }
 {
   "name": "agent-orchestrator",
   "full_name": "OrchestratorInc/agent-orchestrator",
-  "updated": "2026-10-06T04:50:54Z",
+  "updated": "2026-10-07T04:15:41Z",
   "desc": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
   "url": "https://github.com/OrchestratorInc/agent-orchestrator"
 }
 {
-  "name": "AstrBot",
-  "full_name": "AstrBotDevs/AstrBot",
-  "updated": "2026-10-06T04:50:42Z",
-  "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-  "url": "https://github.com/AstrBotDevs/AstrBot"
+  "name": "Cotal",
+  "full_name": "Cotal-AI/Cotal",
+  "updated": "2026-10-07T04:15:30Z",
+  "desc": "The open standard for agent coordination",
+  "url": "https://github.com/Cotal-AI/Cotal"
+}
+{
+  "name": "uniterm",
+  "full_name": "ys-ll/uniterm",
+  "updated": "2026-10-07T04:15:28Z",
+  "desc": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
+  "url": "https://github.com/ys-ll/uniterm"
 }
