@@ -1,70 +1,70 @@
 {
-  "name": "rocketmq-rust",
-  "full_name": "mxsm/rocketmq-rust",
-  "updated": "2026-10-09T04:35:07Z",
-  "desc": "🚀 Apache RocketMQ built in Rust 🦀 — faster, safer, and more memory-efficient. Powering high-performance messaging for the AI era, with AI Agent, MCP, and AI-SRE capabilities.",
-  "url": "https://github.com/mxsm/rocketmq-rust"
-}
-{
-  "name": "AstrBot",
-  "full_name": "AstrBotDevs/AstrBot",
-  "updated": "2026-10-09T04:35:04Z",
-  "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-  "url": "https://github.com/AstrBotDevs/AstrBot"
-}
-{
-  "name": "lpm",
-  "full_name": "gug007/lpm",
-  "updated": "2026-10-09T04:35:02Z",
-  "desc": "Start, stop, and duplicate dev projects with one click. The best workspace for running Claude Code, Codex, and other AI agents alongside your services.",
-  "url": "https://github.com/gug007/lpm"
-}
-{
-  "name": "vibesys",
-  "full_name": "uw-syfi/vibesys",
-  "updated": "2026-10-09T04:34:30Z",
-  "desc": "Can AI Agents Build Bespoke Systems?",
-  "url": "https://github.com/uw-syfi/vibesys"
-}
-{
-  "name": "dimos",
-  "full_name": "dimensionalOS/dimos",
-  "updated": "2026-10-09T04:33:53Z",
-  "desc": "Dimensional is the agentic operating system for physical space. Command humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
-  "url": "https://github.com/dimensionalOS/dimos"
-}
-{
-  "name": "mirage",
-  "full_name": "strukto-ai/mirage",
-  "updated": "2026-10-09T04:33:51Z",
-  "desc": "The World's First Virtual Terminal for AI Agents",
-  "url": "https://github.com/strukto-ai/mirage"
-}
-{
   "name": "hol-guard",
   "full_name": "hashgraph-online/hol-guard",
-  "updated": "2026-10-09T04:33:44Z",
+  "updated": "2026-10-10T04:20:20Z",
   "desc": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
   "url": "https://github.com/hashgraph-online/hol-guard"
 }
 {
-  "name": "beancount-io",
-  "full_name": "bex-co/beancount-io",
-  "updated": "2026-10-09T04:33:36Z",
-  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
-  "url": "https://github.com/bex-co/beancount-io"
+  "name": "local-operator",
+  "full_name": "damianvtran/local-operator",
+  "updated": "2026-10-10T04:20:02Z",
+  "desc": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background around the clock, and share your existing AI subscriptions.",
+  "url": "https://github.com/damianvtran/local-operator"
 }
 {
-  "name": "sno-station",
-  "full_name": "sno-ai/sno-station",
-  "updated": "2026-10-09T04:32:44Z",
-  "desc": "Sno Station — your Claude Code and Codex working as one squad on your own machine. Shared encrypted memory, agent-to-agent messaging (Reach), squad skills for handoff and cross-vendor review, and a nightly loop that rewrites the agents' own skills with your approval. Open source, no daemon, no cloud required. Assembled in public.",
-  "url": "https://github.com/sno-ai/sno-station"
+  "name": "runner",
+  "full_name": "yicheng47/runner",
+  "updated": "2026-10-10T04:19:58Z",
+  "desc": "Where terminal agents work together. Claude Code, Codex, Copilot CLI and pi on the same task, in one mission, each keeping its own TUI in a real terminal.",
+  "url": "https://github.com/yicheng47/runner"
 }
 {
-  "name": "switch",
-  "full_name": "sandbox-quantum/switch",
-  "updated": "2026-10-09T04:32:30Z",
-  "desc": "Connect any AI agent to your team in Slack, Teams & Discord. Open-source and self-hostable.",
-  "url": "https://github.com/sandbox-quantum/switch"
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "updated": "2026-10-10T04:20:00Z",
+  "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "url": "https://github.com/DietrichGebert/ponytail"
+}
+{
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-10-10T04:19:22Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
+  "url": "https://github.com/marcusquinn/aidevops"
+}
+{
+  "name": "kody",
+  "full_name": "kentcdodds/kody",
+  "updated": "2026-10-10T04:19:19Z",
+  "desc": "🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host.",
+  "url": "https://github.com/kentcdodds/kody"
+}
+{
+  "name": "phil",
+  "full_name": "bennyjo/phil",
+  "updated": "2026-10-10T04:18:56Z",
+  "desc": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet. Paper 24/7 in the cloud; small capped real stakes via Pearl Connect.",
+  "url": "https://github.com/bennyjo/phil"
+}
+{
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-10-10T04:18:01Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
+}
+{
+  "name": "multica",
+  "full_name": "multica-ai/multica",
+  "updated": "2026-10-10T04:20:24Z",
+  "desc": "Make humans and AI agents work as one team — open-source and self-hostable.",
+  "url": "https://github.com/multica-ai/multica"
+}
+{
+  "name": "smithers",
+  "full_name": "smithersai/smithers",
+  "updated": "2026-10-10T04:17:25Z",
+  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
+  "url": "https://github.com/smithersai/smithers"
 }
