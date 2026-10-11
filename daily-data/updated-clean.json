@@ -1,70 +1,70 @@
 {
-  "name": "hol-guard",
-  "full_name": "hashgraph-online/hol-guard",
-  "updated": "2026-10-10T04:20:20Z",
-  "desc": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
-  "url": "https://github.com/hashgraph-online/hol-guard"
+  "name": "deer-flow",
+  "full_name": "bytedance/deer-flow",
+  "updated": "2026-10-11T04:00:55Z",
+  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+  "url": "https://github.com/bytedance/deer-flow"
 }
 {
-  "name": "local-operator",
-  "full_name": "damianvtran/local-operator",
-  "updated": "2026-10-10T04:20:02Z",
-  "desc": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background around the clock, and share your existing AI subscriptions.",
-  "url": "https://github.com/damianvtran/local-operator"
+  "name": "ZizkaDB",
+  "full_name": "ZIZKA-AI-SL/ZizkaDB",
+  "updated": "2026-10-11T04:00:20Z",
+  "desc": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel debugging to support EU AI Act Article 12 record-keeping. Drift detection, MCP, Python & TypeScript SDKs. Self-host or cloud.",
+  "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
 }
 {
-  "name": "runner",
-  "full_name": "yicheng47/runner",
-  "updated": "2026-10-10T04:19:58Z",
-  "desc": "Where terminal agents work together. Claude Code, Codex, Copilot CLI and pi on the same task, in one mission, each keeping its own TUI in a real terminal.",
-  "url": "https://github.com/yicheng47/runner"
+  "name": "trending-claude-skills",
+  "full_name": "linny006/trending-claude-skills",
+  "updated": "2026-10-11T04:00:19Z",
+  "desc": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+  "url": "https://github.com/linny006/trending-claude-skills"
 }
 {
-  "name": "ponytail",
-  "full_name": "DietrichGebert/ponytail",
-  "updated": "2026-10-10T04:20:00Z",
-  "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-  "url": "https://github.com/DietrichGebert/ponytail"
+  "name": "vibesys",
+  "full_name": "uw-syfi/vibesys",
+  "updated": "2026-10-11T04:00:11Z",
+  "desc": "Can AI Agents Build Bespoke Systems?",
+  "url": "https://github.com/uw-syfi/vibesys"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-10-10T04:19:22Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "mulmoterminal",
+  "full_name": "receptron/mulmoterminal",
+  "updated": "2026-10-11T04:00:09Z",
+  "desc": "Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Local, tmux-backed, MIT.",
+  "url": "https://github.com/receptron/mulmoterminal"
 }
 {
-  "name": "kody",
-  "full_name": "kentcdodds/kody",
-  "updated": "2026-10-10T04:19:19Z",
-  "desc": "🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host.",
-  "url": "https://github.com/kentcdodds/kody"
+  "name": "itsaplan",
+  "full_name": "croffasia/itsaplan",
+  "updated": "2026-10-11T03:59:55Z",
+  "desc": "Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
+  "url": "https://github.com/croffasia/itsaplan"
 }
 {
-  "name": "phil",
-  "full_name": "bennyjo/phil",
-  "updated": "2026-10-10T04:18:56Z",
-  "desc": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet. Paper 24/7 in the cloud; small capped real stakes via Pearl Connect.",
-  "url": "https://github.com/bennyjo/phil"
+  "name": "project-orchestrator",
+  "full_name": "this-rs/project-orchestrator",
+  "updated": "2026-10-11T03:59:51Z",
+  "desc": "A Rust-based AI agent orchestrator with Neo4j knowledge graph, Meilisearch semantic search, and Tree-sitter code parsing.",
+  "url": "https://github.com/this-rs/project-orchestrator"
 }
 {
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-10-10T04:18:01Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
+  "name": "gai",
+  "full_name": "godot-fun/gai",
+  "updated": "2026-10-11T03:59:13Z",
+  "desc": "A lightweight AI agent and skill workflow framework built with Godot.",
+  "url": "https://github.com/godot-fun/gai"
 }
 {
-  "name": "multica",
-  "full_name": "multica-ai/multica",
-  "updated": "2026-10-10T04:20:24Z",
-  "desc": "Make humans and AI agents work as one team — open-source and self-hostable.",
-  "url": "https://github.com/multica-ai/multica"
+  "name": "lpm",
+  "full_name": "gug007/lpm",
+  "updated": "2026-10-11T03:58:08Z",
+  "desc": "Start, stop, and duplicate dev projects with one click. The best workspace for running Claude Code, Codex, and other AI agents alongside your services.",
+  "url": "https://github.com/gug007/lpm"
 }
 {
-  "name": "smithers",
-  "full_name": "smithersai/smithers",
-  "updated": "2026-10-10T04:17:25Z",
-  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
-  "url": "https://github.com/smithersai/smithers"
+  "name": "agents",
+  "full_name": "fazer-ai/agents",
+  "updated": "2026-10-11T03:57:25Z",
+  "desc": "fazer.ai agents. Apache 2.0.",
+  "url": "https://github.com/fazer-ai/agents"
 }
