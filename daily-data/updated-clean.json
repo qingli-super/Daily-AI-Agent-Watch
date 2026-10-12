@@ -1,70 +1,70 @@
 {
-  "name": "deer-flow",
-  "full_name": "bytedance/deer-flow",
-  "updated": "2026-10-11T04:00:55Z",
-  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-  "url": "https://github.com/bytedance/deer-flow"
+  "name": "compozy",
+  "full_name": "compozy/compozy",
+  "updated": "2026-10-12T04:21:03Z",
+  "desc": "An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.",
+  "url": "https://github.com/compozy/compozy"
 }
 {
-  "name": "ZizkaDB",
-  "full_name": "ZIZKA-AI-SL/ZizkaDB",
-  "updated": "2026-10-11T04:00:20Z",
-  "desc": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel debugging to support EU AI Act Article 12 record-keeping. Drift detection, MCP, Python & TypeScript SDKs. Self-host or cloud.",
-  "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
+  "name": "fauxnix",
+  "full_name": "20000419/fauxnix",
+  "updated": "2026-10-12T04:19:44Z",
+  "desc": "Run Linux-style commands on Windows via deterministic bash→PowerShell translation. No VM, no WSL. MCP server + CLI built for AI agents (Claude Code, Codex, OpenCode...). GNU-style output, bash-style errors, UTF-8/GBK handled.",
+  "url": "https://github.com/20000419/fauxnix"
 }
 {
-  "name": "trending-claude-skills",
-  "full_name": "linny006/trending-claude-skills",
-  "updated": "2026-10-11T04:00:19Z",
-  "desc": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-  "url": "https://github.com/linny006/trending-claude-skills"
+  "name": "awesome-agent-skills",
+  "full_name": "JackyST0/awesome-agent-skills",
+  "updated": "2026-10-12T04:19:38Z",
+  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
+  "url": "https://github.com/JackyST0/awesome-agent-skills"
 }
 {
-  "name": "vibesys",
-  "full_name": "uw-syfi/vibesys",
-  "updated": "2026-10-11T04:00:11Z",
-  "desc": "Can AI Agents Build Bespoke Systems?",
-  "url": "https://github.com/uw-syfi/vibesys"
+  "name": "GraphCode",
+  "full_name": "scgopi/GraphCode",
+  "updated": "2026-10-12T04:19:19Z",
+  "desc": "Graph Engineering, simplified — with GraphCode. #graphcode",
+  "url": "https://github.com/scgopi/GraphCode"
 }
 {
-  "name": "mulmoterminal",
-  "full_name": "receptron/mulmoterminal",
-  "updated": "2026-10-11T04:00:09Z",
-  "desc": "Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Local, tmux-backed, MIT.",
-  "url": "https://github.com/receptron/mulmoterminal"
+  "name": "chat-on-steroids",
+  "full_name": "totec448-spec/chat-on-steroids",
+  "updated": "2026-10-12T04:19:19Z",
+  "desc": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+  "url": "https://github.com/totec448-spec/chat-on-steroids"
 }
 {
-  "name": "itsaplan",
-  "full_name": "croffasia/itsaplan",
-  "updated": "2026-10-11T03:59:55Z",
-  "desc": "Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
-  "url": "https://github.com/croffasia/itsaplan"
+  "name": "agentos",
+  "full_name": "framerslab/agentos",
+  "updated": "2026-10-12T04:18:59Z",
+  "desc": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+  "url": "https://github.com/framerslab/agentos"
 }
 {
-  "name": "project-orchestrator",
-  "full_name": "this-rs/project-orchestrator",
-  "updated": "2026-10-11T03:59:51Z",
-  "desc": "A Rust-based AI agent orchestrator with Neo4j knowledge graph, Meilisearch semantic search, and Tree-sitter code parsing.",
-  "url": "https://github.com/this-rs/project-orchestrator"
+  "name": "hope-agent",
+  "full_name": "shiwenwen/hope-agent",
+  "updated": "2026-10-12T04:18:28Z",
+  "desc": "🦭 A cross-device desktop AI agent with memory, autonomous goals, dynamic workflows, and headless deployment | 会记忆、能持续推进目标、会动态编排多 Agent 的跨端桌面 AI 助手，也可服务化常驻 NAS / 云端",
+  "url": "https://github.com/shiwenwen/hope-agent"
 }
 {
-  "name": "gai",
-  "full_name": "godot-fun/gai",
-  "updated": "2026-10-11T03:59:13Z",
-  "desc": "A lightweight AI agent and skill workflow framework built with Godot.",
-  "url": "https://github.com/godot-fun/gai"
+  "name": "multica",
+  "full_name": "multica-ai/multica",
+  "updated": "2026-10-12T04:17:49Z",
+  "desc": "Make humans and AI agents work as one team — open-source and self-hostable.",
+  "url": "https://github.com/multica-ai/multica"
 }
 {
-  "name": "lpm",
-  "full_name": "gug007/lpm",
-  "updated": "2026-10-11T03:58:08Z",
-  "desc": "Start, stop, and duplicate dev projects with one click. The best workspace for running Claude Code, Codex, and other AI agents alongside your services.",
-  "url": "https://github.com/gug007/lpm"
+  "name": "doris",
+  "full_name": "apache/doris",
+  "updated": "2026-10-12T04:17:26Z",
+  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+  "url": "https://github.com/apache/doris"
 }
 {
-  "name": "agents",
-  "full_name": "fazer-ai/agents",
-  "updated": "2026-10-11T03:57:25Z",
-  "desc": "fazer.ai agents. Apache 2.0.",
-  "url": "https://github.com/fazer-ai/agents"
+  "name": "phil",
+  "full_name": "bennyjo/phil",
+  "updated": "2026-10-12T04:16:24Z",
+  "desc": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet. Paper 24/7 in the cloud; small capped real stakes via Pearl Connect.",
+  "url": "https://github.com/bennyjo/phil"
 }
