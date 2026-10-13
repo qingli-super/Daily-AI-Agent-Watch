@@ -1,70 +1,70 @@
 {
-  "name": "compozy",
-  "full_name": "compozy/compozy",
-  "updated": "2026-10-12T04:21:03Z",
-  "desc": "An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.",
-  "url": "https://github.com/compozy/compozy"
+  "name": "open-affiliate",
+  "full_name": "Affitor/open-affiliate",
+  "updated": "2026-10-13T05:29:56Z",
+  "desc": "The open registry of affiliate programs. Built for developers and AI agents.",
+  "url": "https://github.com/Affitor/open-affiliate"
 }
 {
-  "name": "fauxnix",
-  "full_name": "20000419/fauxnix",
-  "updated": "2026-10-12T04:19:44Z",
-  "desc": "Run Linux-style commands on Windows via deterministic bash→PowerShell translation. No VM, no WSL. MCP server + CLI built for AI agents (Claude Code, Codex, OpenCode...). GNU-style output, bash-style errors, UTF-8/GBK handled.",
-  "url": "https://github.com/20000419/fauxnix"
+  "name": "amux",
+  "full_name": "mixpeek/amux",
+  "updated": "2026-10-13T05:29:43Z",
+  "desc": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.",
+  "url": "https://github.com/mixpeek/amux"
 }
 {
-  "name": "awesome-agent-skills",
-  "full_name": "JackyST0/awesome-agent-skills",
-  "updated": "2026-10-12T04:19:38Z",
-  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
-  "url": "https://github.com/JackyST0/awesome-agent-skills"
+  "name": "zen-gate",
+  "full_name": "LAGcomcom/zen-gate",
+  "updated": "2026-10-13T05:29:37Z",
+  "desc": "把 OpenCode Zen 免费模型装进你所有的 AI Agent —— Windows 托盘网关，OpenAI/Anthropic 兼容，自动适配 10+ Agent，限流自动切换",
+  "url": "https://github.com/LAGcomcom/zen-gate"
 }
 {
-  "name": "GraphCode",
-  "full_name": "scgopi/GraphCode",
-  "updated": "2026-10-12T04:19:19Z",
-  "desc": "Graph Engineering, simplified — with GraphCode. #graphcode",
-  "url": "https://github.com/scgopi/GraphCode"
+  "name": "MARS",
+  "full_name": "andrea-magni/MARS",
+  "updated": "2026-10-13T05:29:35Z",
+  "desc": "REST framework for Delphi: JAX-RS style resources and routes, servers and clients, JWT, OpenAPI 3, FireDAC and Devart UniDAC/MyDAC/IBDAC, SSE, MCP servers for AI agents. Windows, Linux, Docker.",
+  "url": "https://github.com/andrea-magni/MARS"
 }
 {
-  "name": "chat-on-steroids",
-  "full_name": "totec448-spec/chat-on-steroids",
-  "updated": "2026-10-12T04:19:19Z",
-  "desc": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
-  "url": "https://github.com/totec448-spec/chat-on-steroids"
+  "name": "agent-manager",
+  "full_name": "wso2/agent-manager",
+  "updated": "2026-10-13T05:29:23Z",
+  "desc": "WSO2 AI Agent Manager is an open control plane designed for enterprises to deploy, manage, and govern AI agents at scale.",
+  "url": "https://github.com/wso2/agent-manager"
 }
 {
-  "name": "agentos",
-  "full_name": "framerslab/agentos",
-  "updated": "2026-10-12T04:18:59Z",
-  "desc": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-  "url": "https://github.com/framerslab/agentos"
+  "name": "airbyte",
+  "full_name": "airbytehq/airbyte",
+  "updated": "2026-10-13T05:29:16Z",
+  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
+  "url": "https://github.com/airbytehq/airbyte"
 }
 {
-  "name": "hope-agent",
-  "full_name": "shiwenwen/hope-agent",
-  "updated": "2026-10-12T04:18:28Z",
-  "desc": "🦭 A cross-device desktop AI agent with memory, autonomous goals, dynamic workflows, and headless deployment | 会记忆、能持续推进目标、会动态编排多 Agent 的跨端桌面 AI 助手，也可服务化常驻 NAS / 云端",
-  "url": "https://github.com/shiwenwen/hope-agent"
+  "name": "paperclip",
+  "full_name": "paperclipai/paperclip",
+  "updated": "2026-10-13T05:28:25Z",
+  "desc": "The open-source app everyone uses to manage agents at work",
+  "url": "https://github.com/paperclipai/paperclip"
 }
 {
   "name": "multica",
   "full_name": "multica-ai/multica",
-  "updated": "2026-10-12T04:17:49Z",
+  "updated": "2026-10-13T05:29:43Z",
   "desc": "Make humans and AI agents work as one team — open-source and self-hostable.",
   "url": "https://github.com/multica-ai/multica"
 }
 {
-  "name": "doris",
-  "full_name": "apache/doris",
-  "updated": "2026-10-12T04:17:26Z",
-  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
-  "url": "https://github.com/apache/doris"
+  "name": "cindy",
+  "full_name": "makecindy/cindy",
+  "updated": "2026-10-13T05:27:38Z",
+  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "url": "https://github.com/makecindy/cindy"
 }
 {
-  "name": "phil",
-  "full_name": "bennyjo/phil",
-  "updated": "2026-10-12T04:16:24Z",
-  "desc": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet. Paper 24/7 in the cloud; small capped real stakes via Pearl Connect.",
-  "url": "https://github.com/bennyjo/phil"
+  "name": "codify",
+  "full_name": "Sidiora-Labs/codify",
+  "updated": "2026-10-13T05:27:37Z",
+  "desc": "The ai agent workflow tool that scales from small, simple projects to large, complex codebases.",
+  "url": "https://github.com/Sidiora-Labs/codify"
 }
