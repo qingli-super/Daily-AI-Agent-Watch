@@ -1,70 +1,70 @@
 {
+  "name": "kander",
+  "full_name": "dualface/kander",
+  "updated": "2026-10-14T03:32:22Z",
+  "desc": "A kanban board for coordinating multiple AI coding agents, with isolated git worktrees and independent reviewer agents.",
+  "url": "https://github.com/dualface/kander"
+}
+{
+  "name": "Operit2",
+  "full_name": "AAswordman/Operit2",
+  "updated": "2026-10-14T03:32:16Z",
+  "desc": "全平台的AI Agent智能体，在各个平台都有极强的适配性，支持跨平台数据同步",
+  "url": "https://github.com/AAswordman/Operit2"
+}
+{
+  "name": "adk-java",
+  "full_name": "google/adk-java",
+  "updated": "2026-10-14T03:32:00Z",
+  "desc": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "url": "https://github.com/google/adk-java"
+}
+{
+  "name": "cc-haha",
+  "full_name": "NanmiCoder/cc-haha",
+  "updated": "2026-10-14T03:32:00Z",
+  "desc": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware desktop pets; remote via WeChat, Feishu, DingTalk, Telegram, WhatsApp & H5.",
+  "url": "https://github.com/NanmiCoder/cc-haha"
+}
+{
+  "name": "dimos",
+  "full_name": "dimensionalOS/dimos",
+  "updated": "2026-10-14T03:31:40Z",
+  "desc": "Dimensional is the agentic operating system for physical space. Command humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
+  "url": "https://github.com/dimensionalOS/dimos"
+}
+{
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-10-14T03:30:59Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
+  "url": "https://github.com/marcusquinn/aidevops"
+}
+{
   "name": "open-affiliate",
   "full_name": "Affitor/open-affiliate",
-  "updated": "2026-10-13T05:29:56Z",
+  "updated": "2026-10-14T03:30:58Z",
   "desc": "The open registry of affiliate programs. Built for developers and AI agents.",
   "url": "https://github.com/Affitor/open-affiliate"
 }
 {
-  "name": "amux",
-  "full_name": "mixpeek/amux",
-  "updated": "2026-10-13T05:29:43Z",
-  "desc": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.",
-  "url": "https://github.com/mixpeek/amux"
+  "name": "agent-orchestrator",
+  "full_name": "OrchestratorInc/agent-orchestrator",
+  "updated": "2026-10-14T03:30:58Z",
+  "desc": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
+  "url": "https://github.com/OrchestratorInc/agent-orchestrator"
 }
 {
-  "name": "zen-gate",
-  "full_name": "LAGcomcom/zen-gate",
-  "updated": "2026-10-13T05:29:37Z",
-  "desc": "把 OpenCode Zen 免费模型装进你所有的 AI Agent —— Windows 托盘网关，OpenAI/Anthropic 兼容，自动适配 10+ Agent，限流自动切换",
-  "url": "https://github.com/LAGcomcom/zen-gate"
+  "name": "ai-platform-engineering",
+  "full_name": "caipe-io/ai-platform-engineering",
+  "updated": "2026-10-14T03:30:31Z",
+  "desc": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
+  "url": "https://github.com/caipe-io/ai-platform-engineering"
 }
 {
-  "name": "MARS",
-  "full_name": "andrea-magni/MARS",
-  "updated": "2026-10-13T05:29:35Z",
-  "desc": "REST framework for Delphi: JAX-RS style resources and routes, servers and clients, JWT, OpenAPI 3, FireDAC and Devart UniDAC/MyDAC/IBDAC, SSE, MCP servers for AI agents. Windows, Linux, Docker.",
-  "url": "https://github.com/andrea-magni/MARS"
-}
-{
-  "name": "agent-manager",
-  "full_name": "wso2/agent-manager",
-  "updated": "2026-10-13T05:29:23Z",
-  "desc": "WSO2 AI Agent Manager is an open control plane designed for enterprises to deploy, manage, and govern AI agents at scale.",
-  "url": "https://github.com/wso2/agent-manager"
-}
-{
-  "name": "airbyte",
-  "full_name": "airbytehq/airbyte",
-  "updated": "2026-10-13T05:29:16Z",
-  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
-  "url": "https://github.com/airbytehq/airbyte"
-}
-{
-  "name": "paperclip",
-  "full_name": "paperclipai/paperclip",
-  "updated": "2026-10-13T05:28:25Z",
-  "desc": "The open-source app everyone uses to manage agents at work",
-  "url": "https://github.com/paperclipai/paperclip"
-}
-{
-  "name": "multica",
-  "full_name": "multica-ai/multica",
-  "updated": "2026-10-13T05:29:43Z",
-  "desc": "Make humans and AI agents work as one team — open-source and self-hostable.",
-  "url": "https://github.com/multica-ai/multica"
-}
-{
-  "name": "cindy",
-  "full_name": "makecindy/cindy",
-  "updated": "2026-10-13T05:27:38Z",
-  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-  "url": "https://github.com/makecindy/cindy"
-}
-{
-  "name": "codify",
-  "full_name": "Sidiora-Labs/codify",
-  "updated": "2026-10-13T05:27:37Z",
-  "desc": "The ai agent workflow tool that scales from small, simple projects to large, complex codebases.",
-  "url": "https://github.com/Sidiora-Labs/codify"
+  "name": "trending-claude-skills",
+  "full_name": "linny006/trending-claude-skills",
+  "updated": "2026-10-14T03:30:21Z",
+  "desc": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+  "url": "https://github.com/linny006/trending-claude-skills"
 }
