@@ -1,70 +1,70 @@
 {
-  "name": "kander",
-  "full_name": "dualface/kander",
-  "updated": "2026-10-14T03:32:22Z",
-  "desc": "A kanban board for coordinating multiple AI coding agents, with isolated git worktrees and independent reviewer agents.",
-  "url": "https://github.com/dualface/kander"
+  "name": "vibesys",
+  "full_name": "uw-syfi/vibesys",
+  "updated": "2026-10-15T03:12:58Z",
+  "desc": "Can AI Agents Build Bespoke Systems?",
+  "url": "https://github.com/uw-syfi/vibesys"
 }
 {
-  "name": "Operit2",
-  "full_name": "AAswordman/Operit2",
-  "updated": "2026-10-14T03:32:16Z",
-  "desc": "全平台的AI Agent智能体，在各个平台都有极强的适配性，支持跨平台数据同步",
-  "url": "https://github.com/AAswordman/Operit2"
+  "name": "ham_home",
+  "full_name": "bingoYB/ham_home",
+  "updated": "2026-10-15T03:12:21Z",
+  "desc": "Open-source, local-first web clipper & tab manager: save pages, text and images, search collections, restore workspaces, and manage supported tasks with an AI Agent. Optional WebDAV sync. | 开源、本地优先的网页收藏与标签页管理扩展：网页、文本与图片剪藏，语义搜索、工作空间恢复、Agent 辅助操作与可选 WebDAV 同步。",
+  "url": "https://github.com/bingoYB/ham_home"
 }
 {
-  "name": "adk-java",
-  "full_name": "google/adk-java",
-  "updated": "2026-10-14T03:32:00Z",
-  "desc": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "url": "https://github.com/google/adk-java"
+  "name": "ai-maestro",
+  "full_name": "23blocks-OS/ai-maestro",
+  "updated": "2026-10-15T03:11:59Z",
+  "desc": "AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude Code, Codex, Grok Build or any AI Agent from one dashboard. Move Agents between computers and locations",
+  "url": "https://github.com/23blocks-OS/ai-maestro"
 }
 {
-  "name": "cc-haha",
-  "full_name": "NanmiCoder/cc-haha",
-  "updated": "2026-10-14T03:32:00Z",
-  "desc": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware desktop pets; remote via WeChat, Feishu, DingTalk, Telegram, WhatsApp & H5.",
-  "url": "https://github.com/NanmiCoder/cc-haha"
+  "name": "uteke",
+  "full_name": "codecoradev/uteke",
+  "updated": "2026-10-15T03:11:54Z",
+  "desc": "🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embeddings. Single Rust binary, zero config, fully offline.",
+  "url": "https://github.com/codecoradev/uteke"
 }
 {
-  "name": "dimos",
-  "full_name": "dimensionalOS/dimos",
-  "updated": "2026-10-14T03:31:40Z",
-  "desc": "Dimensional is the agentic operating system for physical space. Command humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
-  "url": "https://github.com/dimensionalOS/dimos"
+  "name": "agentos",
+  "full_name": "framerslab/agentos",
+  "updated": "2026-10-15T03:11:51Z",
+  "desc": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+  "url": "https://github.com/framerslab/agentos"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-10-14T03:30:59Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "jentic-public-apis",
+  "full_name": "jentic/jentic-public-apis",
+  "updated": "2026-10-15T03:11:44Z",
+  "desc": "Directory of OpenAPI specifications for thousands of public APIs. Every API is machine-readable and scored for AI agents. CC0.",
+  "url": "https://github.com/jentic/jentic-public-apis"
 }
 {
-  "name": "open-affiliate",
-  "full_name": "Affitor/open-affiliate",
-  "updated": "2026-10-14T03:30:58Z",
-  "desc": "The open registry of affiliate programs. Built for developers and AI agents.",
-  "url": "https://github.com/Affitor/open-affiliate"
+  "name": "osaurus",
+  "full_name": "osaurus-ai/osaurus",
+  "updated": "2026-10-15T03:11:44Z",
+  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+  "url": "https://github.com/osaurus-ai/osaurus"
 }
 {
-  "name": "agent-orchestrator",
-  "full_name": "OrchestratorInc/agent-orchestrator",
-  "updated": "2026-10-14T03:30:58Z",
-  "desc": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
-  "url": "https://github.com/OrchestratorInc/agent-orchestrator"
+  "name": "MisakaNet",
+  "full_name": "Ikalus1988/MisakaNet",
+  "updated": "2026-10-15T03:11:41Z",
+  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org",
+  "url": "https://github.com/Ikalus1988/MisakaNet"
 }
 {
-  "name": "ai-platform-engineering",
-  "full_name": "caipe-io/ai-platform-engineering",
-  "updated": "2026-10-14T03:30:31Z",
-  "desc": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
-  "url": "https://github.com/caipe-io/ai-platform-engineering"
+  "name": "smithers",
+  "full_name": "smithersai/smithers",
+  "updated": "2026-10-15T03:11:34Z",
+  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
+  "url": "https://github.com/smithersai/smithers"
 }
 {
-  "name": "trending-claude-skills",
-  "full_name": "linny006/trending-claude-skills",
-  "updated": "2026-10-14T03:30:21Z",
-  "desc": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-  "url": "https://github.com/linny006/trending-claude-skills"
+  "name": "agent-core",
+  "full_name": "openJiuwen-ai/agent-core",
+  "updated": "2026-10-15T03:11:12Z",
+  "desc": "openJiuwen agent-core provides a complete set of SDK capabilities related to AI Agent development, running, optimization, and evolution.",
+  "url": "https://github.com/openJiuwen-ai/agent-core"
 }
