@@ -1,70 +1,70 @@
 {
+  "name": "mulmoterminal",
+  "full_name": "receptron/mulmoterminal",
+  "updated": "2026-10-16T03:08:17Z",
+  "desc": "Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Local, tmux-backed, MIT.",
+  "url": "https://github.com/receptron/mulmoterminal"
+}
+{
+  "name": "lemon",
+  "full_name": "z80dev/lemon",
+  "updated": "2026-10-16T03:08:07Z",
+  "desc": "BEAM-native platform for LLM agents: OTP-supervised per-run processes, pluggable engines and channels, contract-tested extension points, and a deterministic multi-agent sim arena.",
+  "url": "https://github.com/z80dev/lemon"
+}
+{
+  "name": "commonly",
+  "full_name": "Team-Commonly/commonly",
+  "updated": "2026-10-16T03:07:36Z",
+  "desc": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
+  "url": "https://github.com/Team-Commonly/commonly"
+}
+{
+  "name": "traceroot",
+  "full_name": "traceroot-ai/traceroot",
+  "updated": "2026-10-16T03:07:22Z",
+  "desc": "TraceRoot - Open Source AI Agent Improvement Platform YC S25",
+  "url": "https://github.com/traceroot-ai/traceroot"
+}
+{
   "name": "vibesys",
   "full_name": "uw-syfi/vibesys",
-  "updated": "2026-10-15T03:12:58Z",
+  "updated": "2026-10-16T03:07:01Z",
   "desc": "Can AI Agents Build Bespoke Systems?",
   "url": "https://github.com/uw-syfi/vibesys"
 }
 {
-  "name": "ham_home",
-  "full_name": "bingoYB/ham_home",
-  "updated": "2026-10-15T03:12:21Z",
-  "desc": "Open-source, local-first web clipper & tab manager: save pages, text and images, search collections, restore workspaces, and manage supported tasks with an AI Agent. Optional WebDAV sync. | 开源、本地优先的网页收藏与标签页管理扩展：网页、文本与图片剪藏，语义搜索、工作空间恢复、Agent 辅助操作与可选 WebDAV 同步。",
-  "url": "https://github.com/bingoYB/ham_home"
+  "name": "NeMo-Agent-Toolkit",
+  "full_name": "NVIDIA/NeMo-Agent-Toolkit",
+  "updated": "2026-10-16T03:06:54Z",
+  "desc": "The NVIDIA NeMo Agent toolkit is an open-source library for efficiently connecting and optimizing teams of AI agents.",
+  "url": "https://github.com/NVIDIA/NeMo-Agent-Toolkit"
 }
 {
-  "name": "ai-maestro",
-  "full_name": "23blocks-OS/ai-maestro",
-  "updated": "2026-10-15T03:11:59Z",
-  "desc": "AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude Code, Codex, Grok Build or any AI Agent from one dashboard. Move Agents between computers and locations",
-  "url": "https://github.com/23blocks-OS/ai-maestro"
+  "name": "local-operator",
+  "full_name": "damianvtran/local-operator",
+  "updated": "2026-10-16T03:06:53Z",
+  "desc": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background around the clock, and share your existing AI subscriptions.",
+  "url": "https://github.com/damianvtran/local-operator"
 }
 {
-  "name": "uteke",
-  "full_name": "codecoradev/uteke",
-  "updated": "2026-10-15T03:11:54Z",
-  "desc": "🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embeddings. Single Rust binary, zero config, fully offline.",
-  "url": "https://github.com/codecoradev/uteke"
+  "name": "kody",
+  "full_name": "kentcdodds/kody",
+  "updated": "2026-10-16T03:06:39Z",
+  "desc": "🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host.",
+  "url": "https://github.com/kentcdodds/kody"
 }
 {
-  "name": "agentos",
-  "full_name": "framerslab/agentos",
-  "updated": "2026-10-15T03:11:51Z",
-  "desc": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-  "url": "https://github.com/framerslab/agentos"
+  "name": "harness-sdk",
+  "full_name": "strands-agents/harness-sdk",
+  "updated": "2026-10-16T03:06:38Z",
+  "desc": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+  "url": "https://github.com/strands-agents/harness-sdk"
 }
 {
-  "name": "jentic-public-apis",
-  "full_name": "jentic/jentic-public-apis",
-  "updated": "2026-10-15T03:11:44Z",
-  "desc": "Directory of OpenAPI specifications for thousands of public APIs. Every API is machine-readable and scored for AI agents. CC0.",
-  "url": "https://github.com/jentic/jentic-public-apis"
-}
-{
-  "name": "osaurus",
-  "full_name": "osaurus-ai/osaurus",
-  "updated": "2026-10-15T03:11:44Z",
-  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
-  "url": "https://github.com/osaurus-ai/osaurus"
-}
-{
-  "name": "MisakaNet",
-  "full_name": "Ikalus1988/MisakaNet",
-  "updated": "2026-10-15T03:11:41Z",
-  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org",
-  "url": "https://github.com/Ikalus1988/MisakaNet"
-}
-{
-  "name": "smithers",
-  "full_name": "smithersai/smithers",
-  "updated": "2026-10-15T03:11:34Z",
-  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
-  "url": "https://github.com/smithersai/smithers"
-}
-{
-  "name": "agent-core",
-  "full_name": "openJiuwen-ai/agent-core",
-  "updated": "2026-10-15T03:11:12Z",
-  "desc": "openJiuwen agent-core provides a complete set of SDK capabilities related to AI Agent development, running, optimization, and evolution.",
-  "url": "https://github.com/openJiuwen-ai/agent-core"
+  "name": "LambChat",
+  "full_name": "Yanyutin753/LambChat",
+  "updated": "2026-10-16T03:06:33Z",
+  "desc": "LambChat — Enterprise Agent Infra for governed AI agents. Skills + MCP powered, Loop Agent ready, multi-tenant by design.",
+  "url": "https://github.com/Yanyutin753/LambChat"
 }
