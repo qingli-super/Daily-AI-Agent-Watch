@@ -1,70 +1,70 @@
 {
-  "name": "mulmoterminal",
-  "full_name": "receptron/mulmoterminal",
-  "updated": "2026-10-16T03:08:17Z",
-  "desc": "Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Local, tmux-backed, MIT.",
-  "url": "https://github.com/receptron/mulmoterminal"
+  "name": "trending-claude-skills",
+  "full_name": "linny006/trending-claude-skills",
+  "updated": "2026-10-17T03:00:17Z",
+  "desc": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+  "url": "https://github.com/linny006/trending-claude-skills"
 }
 {
-  "name": "lemon",
-  "full_name": "z80dev/lemon",
-  "updated": "2026-10-16T03:08:07Z",
-  "desc": "BEAM-native platform for LLM agents: OTP-supervised per-run processes, pluggable engines and channels, contract-tested extension points, and a deterministic multi-agent sim arena.",
-  "url": "https://github.com/z80dev/lemon"
+  "name": "cindy",
+  "full_name": "makecindy/cindy",
+  "updated": "2026-10-17T02:59:56Z",
+  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "url": "https://github.com/makecindy/cindy"
 }
 {
-  "name": "commonly",
-  "full_name": "Team-Commonly/commonly",
-  "updated": "2026-10-16T03:07:36Z",
-  "desc": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
-  "url": "https://github.com/Team-Commonly/commonly"
+  "name": "beancount-io",
+  "full_name": "bex-co/beancount-io",
+  "updated": "2026-10-17T02:59:10Z",
+  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
+  "url": "https://github.com/bex-co/beancount-io"
 }
 {
-  "name": "traceroot",
-  "full_name": "traceroot-ai/traceroot",
-  "updated": "2026-10-16T03:07:22Z",
-  "desc": "TraceRoot - Open Source AI Agent Improvement Platform YC S25",
-  "url": "https://github.com/traceroot-ai/traceroot"
+  "name": "apra-fleet",
+  "full_name": "Apra-Labs/apra-fleet",
+  "updated": "2026-10-17T02:59:06Z",
+  "desc": "AI agents that write code, review each other's work, and coordinate across your machines",
+  "url": "https://github.com/Apra-Labs/apra-fleet"
 }
 {
-  "name": "vibesys",
-  "full_name": "uw-syfi/vibesys",
-  "updated": "2026-10-16T03:07:01Z",
-  "desc": "Can AI Agents Build Bespoke Systems?",
-  "url": "https://github.com/uw-syfi/vibesys"
+  "name": "jentic-public-apis",
+  "full_name": "jentic/jentic-public-apis",
+  "updated": "2026-10-17T02:58:55Z",
+  "desc": "Directory of OpenAPI specifications for thousands of public APIs. Every API is machine-readable and scored for AI agents. CC0.",
+  "url": "https://github.com/jentic/jentic-public-apis"
 }
 {
-  "name": "NeMo-Agent-Toolkit",
-  "full_name": "NVIDIA/NeMo-Agent-Toolkit",
-  "updated": "2026-10-16T03:06:54Z",
-  "desc": "The NVIDIA NeMo Agent toolkit is an open-source library for efficiently connecting and optimizing teams of AI agents.",
-  "url": "https://github.com/NVIDIA/NeMo-Agent-Toolkit"
+  "name": "Lexora",
+  "full_name": "useLexora/Lexora",
+  "updated": "2026-10-17T02:57:49Z",
+  "desc": "A self-evolved, sovereign desktop AI agent built for real-world action — beyond model wrappers and coding copilots. / 真实实践中自我演化的独立桌面 AI Agent。",
+  "url": "https://github.com/useLexora/Lexora"
 }
 {
-  "name": "local-operator",
-  "full_name": "damianvtran/local-operator",
-  "updated": "2026-10-16T03:06:53Z",
-  "desc": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background around the clock, and share your existing AI subscriptions.",
-  "url": "https://github.com/damianvtran/local-operator"
+  "name": "dsh-memory",
+  "full_name": "FuRongJun-1999/dsh-memory",
+  "updated": "2026-10-17T02:57:38Z",
+  "desc": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
+  "url": "https://github.com/FuRongJun-1999/dsh-memory"
 }
 {
-  "name": "kody",
-  "full_name": "kentcdodds/kody",
-  "updated": "2026-10-16T03:06:39Z",
-  "desc": "🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host.",
-  "url": "https://github.com/kentcdodds/kody"
+  "name": "Oleafly",
+  "full_name": "Oleafly/Oleafly",
+  "updated": "2026-10-17T02:57:36Z",
+  "desc": "A powerful live collaborative LaTeX, Typst & Markdown editor with shared cursors, comments, cloud sync, and AI agents like Claude Code & Codex that help you write your research faster. Self-host the server, import projects from your online LaTeX account, cite from Zotero and keep every version in Git. Free and open source for Mac, Windows & Linux.",
+  "url": "https://github.com/Oleafly/Oleafly"
 }
 {
-  "name": "harness-sdk",
-  "full_name": "strands-agents/harness-sdk",
-  "updated": "2026-10-16T03:06:38Z",
-  "desc": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-  "url": "https://github.com/strands-agents/harness-sdk"
+  "name": "opencrabs",
+  "full_name": "opencrabs/opencrabs",
+  "updated": "2026-10-17T02:57:00Z",
+  "desc": "The all-in-one AI agent. Build mobile apps, frontend, backend, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI, CLI and Daemon. Connect to your favorite channels. Zero Telemetry.",
+  "url": "https://github.com/opencrabs/opencrabs"
 }
 {
-  "name": "LambChat",
-  "full_name": "Yanyutin753/LambChat",
-  "updated": "2026-10-16T03:06:33Z",
-  "desc": "LambChat — Enterprise Agent Infra for governed AI agents. Skills + MCP powered, Loop Agent ready, multi-tenant by design.",
-  "url": "https://github.com/Yanyutin753/LambChat"
+  "name": "adk-python",
+  "full_name": "google/adk-python",
+  "updated": "2026-10-17T02:56:42Z",
+  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "url": "https://github.com/google/adk-python"
 }
