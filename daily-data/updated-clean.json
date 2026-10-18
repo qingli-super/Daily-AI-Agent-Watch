@@ -1,70 +1,70 @@
 {
-  "name": "trending-claude-skills",
-  "full_name": "linny006/trending-claude-skills",
-  "updated": "2026-10-17T03:00:17Z",
-  "desc": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-  "url": "https://github.com/linny006/trending-claude-skills"
-}
-{
-  "name": "cindy",
-  "full_name": "makecindy/cindy",
-  "updated": "2026-10-17T02:59:56Z",
-  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-  "url": "https://github.com/makecindy/cindy"
+  "name": "optio",
+  "full_name": "jonwiggins/optio",
+  "updated": "2026-10-18T03:01:37Z",
+  "desc": "Workflow orchestration for AI agent swarms.",
+  "url": "https://github.com/jonwiggins/optio"
 }
 {
   "name": "beancount-io",
   "full_name": "bex-co/beancount-io",
-  "updated": "2026-10-17T02:59:10Z",
+  "updated": "2026-10-18T03:01:21Z",
   "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
   "url": "https://github.com/bex-co/beancount-io"
 }
 {
-  "name": "apra-fleet",
-  "full_name": "Apra-Labs/apra-fleet",
-  "updated": "2026-10-17T02:59:06Z",
-  "desc": "AI agents that write code, review each other's work, and coordinate across your machines",
-  "url": "https://github.com/Apra-Labs/apra-fleet"
+  "name": "mycelium",
+  "full_name": "mycelium-io/mycelium",
+  "updated": "2026-10-18T03:01:03Z",
+  "desc": "Multi-agent coordination + persistent memory, semantic negotiation, async rooms, and a shared knowledge graph",
+  "url": "https://github.com/mycelium-io/mycelium"
 }
 {
-  "name": "jentic-public-apis",
-  "full_name": "jentic/jentic-public-apis",
-  "updated": "2026-10-17T02:58:55Z",
-  "desc": "Directory of OpenAPI specifications for thousands of public APIs. Every API is machine-readable and scored for AI agents. CC0.",
-  "url": "https://github.com/jentic/jentic-public-apis"
+  "name": "Lody",
+  "full_name": "LodyAI/Lody",
+  "updated": "2026-10-18T03:00:46Z",
+  "desc": "Share coding agents with your team on phone and desktop",
+  "url": "https://github.com/LodyAI/Lody"
 }
 {
-  "name": "Lexora",
-  "full_name": "useLexora/Lexora",
-  "updated": "2026-10-17T02:57:49Z",
-  "desc": "A self-evolved, sovereign desktop AI agent built for real-world action — beyond model wrappers and coding copilots. / 真实实践中自我演化的独立桌面 AI Agent。",
-  "url": "https://github.com/useLexora/Lexora"
+  "name": "trending-claude-skills",
+  "full_name": "linny006/trending-claude-skills",
+  "updated": "2026-10-18T03:00:17Z",
+  "desc": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+  "url": "https://github.com/linny006/trending-claude-skills"
 }
 {
-  "name": "dsh-memory",
-  "full_name": "FuRongJun-1999/dsh-memory",
-  "updated": "2026-10-17T02:57:38Z",
-  "desc": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
-  "url": "https://github.com/FuRongJun-1999/dsh-memory"
+  "name": "agentic-os",
+  "full_name": "KbWen/agentic-os",
+  "updated": "2026-10-18T03:00:07Z",
+  "desc": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) where no step counts as done without evidence. Drop-in rules and guardrails for Claude Code, Codex, Cursor, Copilot, and Antigravity, via AGENTS.md.",
+  "url": "https://github.com/KbWen/agentic-os"
 }
 {
-  "name": "Oleafly",
-  "full_name": "Oleafly/Oleafly",
-  "updated": "2026-10-17T02:57:36Z",
-  "desc": "A powerful live collaborative LaTeX, Typst & Markdown editor with shared cursors, comments, cloud sync, and AI agents like Claude Code & Codex that help you write your research faster. Self-host the server, import projects from your online LaTeX account, cite from Zotero and keep every version in Git. Free and open source for Mac, Windows & Linux.",
-  "url": "https://github.com/Oleafly/Oleafly"
+  "name": "paperclip",
+  "full_name": "paperclipai/paperclip",
+  "updated": "2026-10-18T03:00:06Z",
+  "desc": "The open-source app everyone uses to manage agents at work",
+  "url": "https://github.com/paperclipai/paperclip"
 }
 {
-  "name": "opencrabs",
-  "full_name": "opencrabs/opencrabs",
-  "updated": "2026-10-17T02:57:00Z",
-  "desc": "The all-in-one AI agent. Build mobile apps, frontend, backend, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI, CLI and Daemon. Connect to your favorite channels. Zero Telemetry.",
-  "url": "https://github.com/opencrabs/opencrabs"
+  "name": "agentconnect",
+  "full_name": "agentconnect-md/agentconnect",
+  "updated": "2026-10-18T02:59:03Z",
+  "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
+  "url": "https://github.com/agentconnect-md/agentconnect"
 }
 {
-  "name": "adk-python",
-  "full_name": "google/adk-python",
-  "updated": "2026-10-17T02:56:42Z",
-  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "url": "https://github.com/google/adk-python"
+  "name": "ruflo",
+  "full_name": "ruvnet/ruflo",
+  "updated": "2026-10-18T03:02:12Z",
+  "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+  "url": "https://github.com/ruvnet/ruflo"
+}
+{
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-10-18T02:57:28Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
