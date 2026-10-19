@@ -1,70 +1,70 @@
 {
-  "name": "optio",
-  "full_name": "jonwiggins/optio",
-  "updated": "2026-10-18T03:01:37Z",
-  "desc": "Workflow orchestration for AI agent swarms.",
-  "url": "https://github.com/jonwiggins/optio"
+  "name": "opentax",
+  "full_name": "filedcom/opentax",
+  "updated": "2026-10-19T03:16:19Z",
+  "desc": "Fully open-source US federal tax engine. Single binary cli. Runs on macOS, Linux, and Windows. Built for AI agents using AI agents.",
+  "url": "https://github.com/filedcom/opentax"
+}
+{
+  "name": "webcodex",
+  "full_name": "yyjeqhc/webcodex",
+  "updated": "2026-10-19T03:16:21Z",
+  "desc": "Give cloud AI agents a real development environment on your own machines.",
+  "url": "https://github.com/yyjeqhc/webcodex"
+}
+{
+  "name": "reticle",
+  "full_name": "reticlehq/reticle",
+  "updated": "2026-10-19T03:16:18Z",
+  "desc": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native runtime perception to web & desktop applications.",
+  "url": "https://github.com/reticlehq/reticle"
+}
+{
+  "name": "smithers",
+  "full_name": "smithersai/smithers",
+  "updated": "2026-10-19T03:16:12Z",
+  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
+  "url": "https://github.com/smithersai/smithers"
+}
+{
+  "name": "amux",
+  "full_name": "mixpeek/amux",
+  "updated": "2026-10-19T03:16:02Z",
+  "desc": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.",
+  "url": "https://github.com/mixpeek/amux"
 }
 {
   "name": "beancount-io",
   "full_name": "bex-co/beancount-io",
-  "updated": "2026-10-18T03:01:21Z",
+  "updated": "2026-10-19T03:15:54Z",
   "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
   "url": "https://github.com/bex-co/beancount-io"
 }
 {
-  "name": "mycelium",
-  "full_name": "mycelium-io/mycelium",
-  "updated": "2026-10-18T03:01:03Z",
-  "desc": "Multi-agent coordination + persistent memory, semantic negotiation, async rooms, and a shared knowledge graph",
-  "url": "https://github.com/mycelium-io/mycelium"
+  "name": "opencrabs",
+  "full_name": "opencrabs/opencrabs",
+  "updated": "2026-10-19T03:15:51Z",
+  "desc": "The all-in-one AI agent. Build mobile apps, frontend, backend, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI, CLI and Daemon. Connect to your favorite channels. Zero Telemetry.",
+  "url": "https://github.com/opencrabs/opencrabs"
 }
 {
-  "name": "Lody",
-  "full_name": "LodyAI/Lody",
-  "updated": "2026-10-18T03:00:46Z",
-  "desc": "Share coding agents with your team on phone and desktop",
-  "url": "https://github.com/LodyAI/Lody"
+  "name": "SKiD-SLAM",
+  "full_name": "sparolab/SKiD-SLAM",
+  "updated": "2026-10-19T03:15:41Z",
+  "desc": "SOTA Distributed LiDAR SLAM @IEEE T-FR",
+  "url": "https://github.com/sparolab/SKiD-SLAM"
 }
 {
-  "name": "trending-claude-skills",
-  "full_name": "linny006/trending-claude-skills",
-  "updated": "2026-10-18T03:00:17Z",
-  "desc": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-  "url": "https://github.com/linny006/trending-claude-skills"
+  "name": "kody",
+  "full_name": "kody-hq/kody",
+  "updated": "2026-10-19T03:15:33Z",
+  "desc": "🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host.",
+  "url": "https://github.com/kody-hq/kody"
 }
 {
-  "name": "agentic-os",
-  "full_name": "KbWen/agentic-os",
-  "updated": "2026-10-18T03:00:07Z",
-  "desc": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) where no step counts as done without evidence. Drop-in rules and guardrails for Claude Code, Codex, Cursor, Copilot, and Antigravity, via AGENTS.md.",
-  "url": "https://github.com/KbWen/agentic-os"
-}
-{
-  "name": "paperclip",
-  "full_name": "paperclipai/paperclip",
-  "updated": "2026-10-18T03:00:06Z",
-  "desc": "The open-source app everyone uses to manage agents at work",
-  "url": "https://github.com/paperclipai/paperclip"
-}
-{
-  "name": "agentconnect",
-  "full_name": "agentconnect-md/agentconnect",
-  "updated": "2026-10-18T02:59:03Z",
-  "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-  "url": "https://github.com/agentconnect-md/agentconnect"
-}
-{
-  "name": "ruflo",
-  "full_name": "ruvnet/ruflo",
-  "updated": "2026-10-18T03:02:12Z",
-  "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-  "url": "https://github.com/ruvnet/ruflo"
-}
-{
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-10-18T02:57:28Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "open-affiliate",
+  "full_name": "Affitor/open-affiliate",
+  "updated": "2026-10-19T03:15:32Z",
+  "desc": "The open registry of affiliate programs. Built for developers and AI agents.",
+  "url": "https://github.com/Affitor/open-affiliate"
 }
