@@ -1,70 +1,70 @@
 {
-  "name": "opentax",
-  "full_name": "filedcom/opentax",
-  "updated": "2026-10-19T03:16:19Z",
-  "desc": "Fully open-source US federal tax engine. Single binary cli. Runs on macOS, Linux, and Windows. Built for AI agents using AI agents.",
-  "url": "https://github.com/filedcom/opentax"
+  "name": "agentconnect",
+  "full_name": "agentconnect-md/agentconnect",
+  "updated": "2026-10-20T03:25:07Z",
+  "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
+  "url": "https://github.com/agentconnect-md/agentconnect"
 }
 {
-  "name": "webcodex",
-  "full_name": "yyjeqhc/webcodex",
-  "updated": "2026-10-19T03:16:21Z",
-  "desc": "Give cloud AI agents a real development environment on your own machines.",
-  "url": "https://github.com/yyjeqhc/webcodex"
+  "name": "airbyte",
+  "full_name": "airbytehq/airbyte",
+  "updated": "2026-10-20T03:25:08Z",
+  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
+  "url": "https://github.com/airbytehq/airbyte"
 }
 {
-  "name": "reticle",
-  "full_name": "reticlehq/reticle",
-  "updated": "2026-10-19T03:16:18Z",
-  "desc": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native runtime perception to web & desktop applications.",
-  "url": "https://github.com/reticlehq/reticle"
+  "name": "deer-flow",
+  "full_name": "bytedance/deer-flow",
+  "updated": "2026-10-20T03:25:07Z",
+  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+  "url": "https://github.com/bytedance/deer-flow"
 }
 {
-  "name": "smithers",
-  "full_name": "smithersai/smithers",
-  "updated": "2026-10-19T03:16:12Z",
-  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
-  "url": "https://github.com/smithersai/smithers"
-}
-{
-  "name": "amux",
-  "full_name": "mixpeek/amux",
-  "updated": "2026-10-19T03:16:02Z",
-  "desc": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.",
-  "url": "https://github.com/mixpeek/amux"
-}
-{
-  "name": "beancount-io",
-  "full_name": "bex-co/beancount-io",
-  "updated": "2026-10-19T03:15:54Z",
-  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
-  "url": "https://github.com/bex-co/beancount-io"
-}
-{
-  "name": "opencrabs",
-  "full_name": "opencrabs/opencrabs",
-  "updated": "2026-10-19T03:15:51Z",
-  "desc": "The all-in-one AI agent. Build mobile apps, frontend, backend, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI, CLI and Daemon. Connect to your favorite channels. Zero Telemetry.",
-  "url": "https://github.com/opencrabs/opencrabs"
-}
-{
-  "name": "SKiD-SLAM",
-  "full_name": "sparolab/SKiD-SLAM",
-  "updated": "2026-10-19T03:15:41Z",
-  "desc": "SOTA Distributed LiDAR SLAM @IEEE T-FR",
-  "url": "https://github.com/sparolab/SKiD-SLAM"
+  "name": "aweb",
+  "full_name": "awebai/aweb",
+  "updated": "2026-10-20T03:24:57Z",
+  "desc": "Communication for AI agents: stable identity, durable mail and chat, and wake-up events across sessions, runtimes, machines, and organizations. MIT, self-hostable.",
+  "url": "https://github.com/awebai/aweb"
 }
 {
   "name": "kody",
   "full_name": "kody-hq/kody",
-  "updated": "2026-10-19T03:15:33Z",
+  "updated": "2026-10-20T03:24:37Z",
   "desc": "🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host.",
   "url": "https://github.com/kody-hq/kody"
 }
 {
-  "name": "open-affiliate",
-  "full_name": "Affitor/open-affiliate",
-  "updated": "2026-10-19T03:15:32Z",
-  "desc": "The open registry of affiliate programs. Built for developers and AI agents.",
-  "url": "https://github.com/Affitor/open-affiliate"
+  "name": "hol-guard",
+  "full_name": "hashgraph-online/hol-guard",
+  "updated": "2026-10-20T03:24:17Z",
+  "desc": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
+  "url": "https://github.com/hashgraph-online/hol-guard"
+}
+{
+  "name": "openrig",
+  "full_name": "mvschwarz/openrig",
+  "updated": "2026-10-20T03:24:09Z",
+  "desc": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+  "url": "https://github.com/mvschwarz/openrig"
+}
+{
+  "name": "hermes-agent-orange-book",
+  "full_name": "alchaincyf/hermes-agent-orange-book",
+  "updated": "2026-10-20T03:24:11Z",
+  "desc": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
+  "url": "https://github.com/alchaincyf/hermes-agent-orange-book"
+}
+{
+  "name": "amux",
+  "full_name": "mixpeek/amux",
+  "updated": "2026-10-20T03:23:52Z",
+  "desc": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.",
+  "url": "https://github.com/mixpeek/amux"
+}
+{
+  "name": "genoffice",
+  "full_name": "genspark-ai/genoffice",
+  "updated": "2026-10-20T03:23:43Z",
+  "desc": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
+  "url": "https://github.com/genspark-ai/genoffice"
 }
