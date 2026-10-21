@@ -1,70 +1,70 @@
 {
-  "name": "agentconnect",
-  "full_name": "agentconnect-md/agentconnect",
-  "updated": "2026-10-20T03:25:07Z",
-  "desc": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-  "url": "https://github.com/agentconnect-md/agentconnect"
+  "name": "powercontext",
+  "full_name": "oceanbase/powercontext",
+  "updated": "2026-10-21T03:19:42Z",
+  "desc": "Not only memory but a full story",
+  "url": "https://github.com/oceanbase/powercontext"
 }
 {
-  "name": "airbyte",
-  "full_name": "airbytehq/airbyte",
-  "updated": "2026-10-20T03:25:08Z",
-  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
-  "url": "https://github.com/airbytehq/airbyte"
+  "name": "beancount-io",
+  "full_name": "bex-co/beancount-io",
+  "updated": "2026-10-21T03:19:36Z",
+  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
+  "url": "https://github.com/bex-co/beancount-io"
 }
 {
-  "name": "deer-flow",
-  "full_name": "bytedance/deer-flow",
-  "updated": "2026-10-20T03:25:07Z",
-  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-  "url": "https://github.com/bytedance/deer-flow"
+  "name": "pydantic-ai",
+  "full_name": "pydantic/pydantic-ai",
+  "updated": "2026-10-21T03:19:32Z",
+  "desc": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+  "url": "https://github.com/pydantic/pydantic-ai"
 }
 {
-  "name": "aweb",
-  "full_name": "awebai/aweb",
-  "updated": "2026-10-20T03:24:57Z",
-  "desc": "Communication for AI agents: stable identity, durable mail and chat, and wake-up events across sessions, runtimes, machines, and organizations. MIT, self-hostable.",
-  "url": "https://github.com/awebai/aweb"
+  "name": "dimos",
+  "full_name": "dimensionalOS/dimos",
+  "updated": "2026-10-21T03:19:25Z",
+  "desc": "Dimensional is the agentic operating system for physical space. Command humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
+  "url": "https://github.com/dimensionalOS/dimos"
 }
 {
-  "name": "kody",
-  "full_name": "kody-hq/kody",
-  "updated": "2026-10-20T03:24:37Z",
-  "desc": "🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host.",
-  "url": "https://github.com/kody-hq/kody"
+  "name": "agents",
+  "full_name": "livekit/agents",
+  "updated": "2026-10-21T03:19:36Z",
+  "desc": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
+  "url": "https://github.com/livekit/agents"
 }
 {
-  "name": "hol-guard",
-  "full_name": "hashgraph-online/hol-guard",
-  "updated": "2026-10-20T03:24:17Z",
-  "desc": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
-  "url": "https://github.com/hashgraph-online/hol-guard"
+  "name": "hcom",
+  "full_name": "aannoo/hcom",
+  "updated": "2026-10-21T03:19:10Z",
+  "desc": "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi",
+  "url": "https://github.com/aannoo/hcom"
 }
 {
-  "name": "openrig",
-  "full_name": "mvschwarz/openrig",
-  "updated": "2026-10-20T03:24:09Z",
-  "desc": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-  "url": "https://github.com/mvschwarz/openrig"
+  "name": "mcp_agent_mail_rust",
+  "full_name": "Dicklesworthstone/mcp_agent_mail_rust",
+  "updated": "2026-10-21T03:19:05Z",
+  "desc": "Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisory file locks, and an interactive TUI console",
+  "url": "https://github.com/Dicklesworthstone/mcp_agent_mail_rust"
 }
 {
-  "name": "hermes-agent-orange-book",
-  "full_name": "alchaincyf/hermes-agent-orange-book",
-  "updated": "2026-10-20T03:24:11Z",
-  "desc": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
-  "url": "https://github.com/alchaincyf/hermes-agent-orange-book"
+  "name": "adk-rust",
+  "full_name": "zavora-ai/adk-rust",
+  "updated": "2026-10-21T03:18:59Z",
+  "desc": "Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, tools, memory, realtime voice, and more. ADK-Rust is a flexible framework for developing AI agents with simplicity and power. Model-agnostic, deployment-agnostic, optimized for frontier AI models. Includes support for real-time voice agents.",
+  "url": "https://github.com/zavora-ai/adk-rust"
 }
 {
-  "name": "amux",
-  "full_name": "mixpeek/amux",
-  "updated": "2026-10-20T03:23:52Z",
-  "desc": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.",
-  "url": "https://github.com/mixpeek/amux"
+  "name": "AgentCrew",
+  "full_name": "saigontechnology/AgentCrew",
+  "updated": "2026-10-21T03:18:56Z",
+  "desc": "Chat application with multi-agents system supports multi-models and MCP",
+  "url": "https://github.com/saigontechnology/AgentCrew"
 }
 {
-  "name": "genoffice",
-  "full_name": "genspark-ai/genoffice",
-  "updated": "2026-10-20T03:23:43Z",
-  "desc": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
-  "url": "https://github.com/genspark-ai/genoffice"
+  "name": "OpenViking",
+  "full_name": "volcengine/OpenViking",
+  "updated": "2026-10-21T03:19:29Z",
+  "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "url": "https://github.com/volcengine/OpenViking"
 }

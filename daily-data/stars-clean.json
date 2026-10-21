@@ -1,70 +1,70 @@
 {
   "name": "firecrawl",
   "full_name": "firecrawl/firecrawl",
-  "stars": 193134,
+  "stars": 193519,
   "desc": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
   "url": "https://github.com/firecrawl/firecrawl"
 }
 {
   "name": "ponytail",
   "full_name": "DietrichGebert/ponytail",
-  "stars": 168209,
+  "stars": 169950,
   "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
   "url": "https://github.com/DietrichGebert/ponytail"
 }
 {
   "name": "awesome-llm-apps",
   "full_name": "Shubhamsaboo/awesome-llm-apps",
-  "stars": 142339,
+  "stars": 142446,
   "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
   "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
 }
 {
   "name": "pi",
   "full_name": "earendil-works/pi",
-  "stars": 116458,
+  "stars": 116754,
   "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
   "url": "https://github.com/earendil-works/pi"
 }
 {
   "name": "TradingAgents",
   "full_name": "TauricResearch/TradingAgents",
-  "stars": 112148,
+  "stars": 112379,
   "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
   "url": "https://github.com/TauricResearch/TradingAgents"
 }
 {
   "name": "gemini-cli",
   "full_name": "google-gemini/gemini-cli",
-  "stars": 107458,
+  "stars": 107476,
   "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
   "url": "https://github.com/google-gemini/gemini-cli"
 }
 {
   "name": "paperclip",
   "full_name": "paperclipai/paperclip",
-  "stars": 104812,
+  "stars": 105287,
   "desc": "The open-source app everyone uses to manage agents at work",
   "url": "https://github.com/paperclipai/paperclip"
 }
 {
   "name": "open-design",
   "full_name": "nexu-io/open-design",
-  "stars": 102569,
+  "stars": 102835,
   "desc": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
   "url": "https://github.com/nexu-io/open-design"
 }
 {
   "name": "Agent-Reach",
   "full_name": "Panniantong/Agent-Reach",
-  "stars": 99783,
+  "stars": 100340,
   "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
   "url": "https://github.com/Panniantong/Agent-Reach"
 }
 {
   "name": "autoresearch",
   "full_name": "karpathy/autoresearch",
-  "stars": 98184,
+  "stars": 98251,
   "desc": "AI agents running research on single-GPU nanochat training automatically",
   "url": "https://github.com/karpathy/autoresearch"
 }
