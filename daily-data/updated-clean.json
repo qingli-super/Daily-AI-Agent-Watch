@@ -1,70 +1,70 @@
 {
+  "name": "commonly",
+  "full_name": "Team-Commonly/commonly",
+  "updated": "2026-10-23T03:23:49Z",
+  "desc": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
+  "url": "https://github.com/Team-Commonly/commonly"
+}
+{
+  "name": "niubash",
+  "full_name": "unixwin/niubash",
+  "updated": "2026-10-23T03:23:50Z",
+  "desc": "AI-native bash for humans and AI agents: real bash syntax, real Unix commands (winuxcmd), real git via niu-git (~14 ms startup vs Git Bash's 75-100 ms). Native Windows/Linux/macOS - no WSL, no MSYS, no POSIX emulation.",
+  "url": "https://github.com/unixwin/niubash"
+}
+{
   "name": "beancount-io",
   "full_name": "bex-co/beancount-io",
-  "updated": "2026-10-22T03:18:25Z",
+  "updated": "2026-10-23T03:23:30Z",
   "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
   "url": "https://github.com/bex-co/beancount-io"
 }
 {
-  "name": "openharness",
-  "full_name": "autonomous-ai/openharness",
-  "updated": "2026-10-22T03:17:41Z",
-  "desc": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with code, then follow your curiosity and build across disciplines: CAD, circuits, robots, games and music.",
-  "url": "https://github.com/autonomous-ai/openharness"
+  "name": "Adelie",
+  "full_name": "lmliheng/Adelie",
+  "updated": "2026-10-23T03:23:12Z",
+  "desc": "A local-first multi-agent app development platform, built on PenguinHarness",
+  "url": "https://github.com/lmliheng/Adelie"
 }
 {
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-10-22T03:17:22Z",
-  "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-  "url": "https://github.com/volcengine/OpenViking"
+  "name": "pydantic-ai",
+  "full_name": "pydantic/pydantic-ai",
+  "updated": "2026-10-23T03:22:32Z",
+  "desc": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+  "url": "https://github.com/pydantic/pydantic-ai"
 }
 {
-  "name": "future-agi",
-  "full_name": "future-agi/future-agi",
-  "updated": "2026-10-22T03:17:32Z",
-  "desc": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-  "url": "https://github.com/future-agi/future-agi"
+  "name": "Jarvis",
+  "full_name": "skyfireitdiy/Jarvis",
+  "updated": "2026-10-23T03:22:13Z",
+  "desc": "A multi-agent collaboration framework that lets AI agents work together, operate your computer, and browse the web.",
+  "url": "https://github.com/skyfireitdiy/Jarvis"
 }
 {
-  "name": "Cotal",
-  "full_name": "Cotal-AI/Cotal",
-  "updated": "2026-10-22T03:17:16Z",
-  "desc": "The open standard for agent coordination",
-  "url": "https://github.com/Cotal-AI/Cotal"
+  "name": "open-connector",
+  "full_name": "oomol-lab/open-connector",
+  "updated": "2026-10-23T03:22:11Z",
+  "desc": "Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+  "url": "https://github.com/oomol-lab/open-connector"
 }
 {
-  "name": "echo-agent",
-  "full_name": "fuyuxiang/echo-agent",
-  "updated": "2026-10-22T03:16:56Z",
-  "desc": "面向长期运行与桌面协作的开源 AI Agent，提供常驻 Runtime、桌面 Agent、长期记忆与持续学习能力，可用于个人助理、自动化任务与本地工作流。",
-  "url": "https://github.com/fuyuxiang/echo-agent"
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-10-23T03:22:04Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
 }
 {
-  "name": "Pentest-Swarm-AI",
-  "full_name": "Armur-Ai/Pentest-Swarm-AI",
-  "updated": "2026-10-22T03:16:47Z",
-  "desc": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
-  "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI"
+  "name": "adk-rust",
+  "full_name": "zavora-ai/adk-rust",
+  "updated": "2026-10-23T03:21:58Z",
+  "desc": "Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, tools, memory, realtime voice, and more. ADK-Rust is a flexible framework for developing AI agents with simplicity and power. Model-agnostic, deployment-agnostic, optimized for frontier AI models. Includes support for real-time voice agents.",
+  "url": "https://github.com/zavora-ai/adk-rust"
 }
 {
-  "name": "chat-on-steroids",
-  "full_name": "totec448-spec/chat-on-steroids",
-  "updated": "2026-10-22T03:16:47Z",
-  "desc": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
-  "url": "https://github.com/totec448-spec/chat-on-steroids"
-}
-{
-  "name": "Molio",
-  "full_name": "zhuzhaoyun/Molio",
-  "updated": "2026-10-22T03:15:38Z",
-  "desc": "A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows.",
-  "url": "https://github.com/zhuzhaoyun/Molio"
-}
-{
-  "name": "Lody",
-  "full_name": "LodyAI/Lody",
-  "updated": "2026-10-22T03:15:34Z",
-  "desc": "Share coding agents with your team on phone and desktop",
-  "url": "https://github.com/LodyAI/Lody"
+  "name": "paperclip",
+  "full_name": "paperclipai/paperclip",
+  "updated": "2026-10-23T03:23:00Z",
+  "desc": "The open-source app everyone uses to manage agents at work",
+  "url": "https://github.com/paperclipai/paperclip"
 }
