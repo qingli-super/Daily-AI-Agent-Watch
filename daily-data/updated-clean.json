@@ -1,70 +1,70 @@
 {
-  "name": "commonly",
-  "full_name": "Team-Commonly/commonly",
-  "updated": "2026-10-23T03:23:49Z",
-  "desc": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
-  "url": "https://github.com/Team-Commonly/commonly"
+  "name": "agents-js",
+  "full_name": "livekit/agents-js",
+  "updated": "2026-10-24T03:17:31Z",
+  "desc": "Build realtime multimodal AI agents with Node.js",
+  "url": "https://github.com/livekit/agents-js"
 }
 {
-  "name": "niubash",
-  "full_name": "unixwin/niubash",
-  "updated": "2026-10-23T03:23:50Z",
-  "desc": "AI-native bash for humans and AI agents: real bash syntax, real Unix commands (winuxcmd), real git via niu-git (~14 ms startup vs Git Bash's 75-100 ms). Native Windows/Linux/macOS - no WSL, no MSYS, no POSIX emulation.",
-  "url": "https://github.com/unixwin/niubash"
+  "name": "moai-adk",
+  "full_name": "modu-ai/moai-adk",
+  "updated": "2026-10-24T03:17:24Z",
+  "desc": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
+  "url": "https://github.com/modu-ai/moai-adk"
 }
 {
-  "name": "beancount-io",
-  "full_name": "bex-co/beancount-io",
-  "updated": "2026-10-23T03:23:30Z",
-  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
-  "url": "https://github.com/bex-co/beancount-io"
-}
-{
-  "name": "Adelie",
-  "full_name": "lmliheng/Adelie",
-  "updated": "2026-10-23T03:23:12Z",
-  "desc": "A local-first multi-agent app development platform, built on PenguinHarness",
-  "url": "https://github.com/lmliheng/Adelie"
-}
-{
-  "name": "pydantic-ai",
-  "full_name": "pydantic/pydantic-ai",
-  "updated": "2026-10-23T03:22:32Z",
-  "desc": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
-  "url": "https://github.com/pydantic/pydantic-ai"
-}
-{
-  "name": "Jarvis",
-  "full_name": "skyfireitdiy/Jarvis",
-  "updated": "2026-10-23T03:22:13Z",
-  "desc": "A multi-agent collaboration framework that lets AI agents work together, operate your computer, and browse the web.",
-  "url": "https://github.com/skyfireitdiy/Jarvis"
-}
-{
-  "name": "open-connector",
-  "full_name": "oomol-lab/open-connector",
-  "updated": "2026-10-23T03:22:11Z",
-  "desc": "Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-  "url": "https://github.com/oomol-lab/open-connector"
-}
-{
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-10-23T03:22:04Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
-}
-{
-  "name": "adk-rust",
-  "full_name": "zavora-ai/adk-rust",
-  "updated": "2026-10-23T03:21:58Z",
-  "desc": "Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, tools, memory, realtime voice, and more. ADK-Rust is a flexible framework for developing AI agents with simplicity and power. Model-agnostic, deployment-agnostic, optimized for frontier AI models. Includes support for real-time voice agents.",
-  "url": "https://github.com/zavora-ai/adk-rust"
+  "name": "fullsend",
+  "full_name": "fullsend-ai/fullsend",
+  "updated": "2026-10-24T03:17:16Z",
+  "desc": "On the path to fully autonomous agentic engineering",
+  "url": "https://github.com/fullsend-ai/fullsend"
 }
 {
   "name": "paperclip",
   "full_name": "paperclipai/paperclip",
-  "updated": "2026-10-23T03:23:00Z",
+  "updated": "2026-10-24T03:17:23Z",
   "desc": "The open-source app everyone uses to manage agents at work",
   "url": "https://github.com/paperclipai/paperclip"
+}
+{
+  "name": "beancount-io",
+  "full_name": "bex-co/beancount-io",
+  "updated": "2026-10-24T03:17:13Z",
+  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
+  "url": "https://github.com/bex-co/beancount-io"
+}
+{
+  "name": "AgentPeerChat",
+  "full_name": "AgenticsWorks/AgentPeerChat",
+  "updated": "2026-10-24T03:16:43Z",
+  "desc": "Private messaging for your AI agents. Free to self-host on Cloudflare. Direct chats, groups and a durable inbox.",
+  "url": "https://github.com/AgenticsWorks/AgentPeerChat"
+}
+{
+  "name": "future-os",
+  "full_name": "futuregene/future-os",
+  "updated": "2026-10-24T03:16:27Z",
+  "desc": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+  "url": "https://github.com/futuregene/future-os"
+}
+{
+  "name": "Lody",
+  "full_name": "LodyAI/Lody",
+  "updated": "2026-10-24T03:16:27Z",
+  "desc": "Share coding agents with your team on phone and desktop",
+  "url": "https://github.com/LodyAI/Lody"
+}
+{
+  "name": "frankensonos",
+  "full_name": "Dicklesworthstone/frankensonos",
+  "updated": "2026-10-24T03:16:23Z",
+  "desc": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library classical DJ, and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale.",
+  "url": "https://github.com/Dicklesworthstone/frankensonos"
+}
+{
+  "name": "reflexio",
+  "full_name": "ReflexioAI/reflexio",
+  "updated": "2026-10-24T03:15:44Z",
+  "desc": "Make your agents improve themselves. Reflexio is an AI agent self-improvement harness that enables your AI agents to continuously learn from real user interactions. ",
+  "url": "https://github.com/ReflexioAI/reflexio"
 }
