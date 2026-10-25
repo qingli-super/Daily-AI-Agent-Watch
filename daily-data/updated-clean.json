@@ -1,70 +1,70 @@
 {
-  "name": "agents-js",
-  "full_name": "livekit/agents-js",
-  "updated": "2026-10-24T03:17:31Z",
-  "desc": "Build realtime multimodal AI agents with Node.js",
-  "url": "https://github.com/livekit/agents-js"
-}
-{
-  "name": "moai-adk",
-  "full_name": "modu-ai/moai-adk",
-  "updated": "2026-10-24T03:17:24Z",
-  "desc": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
-  "url": "https://github.com/modu-ai/moai-adk"
-}
-{
-  "name": "fullsend",
-  "full_name": "fullsend-ai/fullsend",
-  "updated": "2026-10-24T03:17:16Z",
-  "desc": "On the path to fully autonomous agentic engineering",
-  "url": "https://github.com/fullsend-ai/fullsend"
-}
-{
-  "name": "paperclip",
-  "full_name": "paperclipai/paperclip",
-  "updated": "2026-10-24T03:17:23Z",
-  "desc": "The open-source app everyone uses to manage agents at work",
-  "url": "https://github.com/paperclipai/paperclip"
-}
-{
   "name": "beancount-io",
   "full_name": "bex-co/beancount-io",
-  "updated": "2026-10-24T03:17:13Z",
+  "updated": "2026-10-25T03:13:10Z",
   "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
   "url": "https://github.com/bex-co/beancount-io"
 }
 {
-  "name": "AgentPeerChat",
-  "full_name": "AgenticsWorks/AgentPeerChat",
-  "updated": "2026-10-24T03:16:43Z",
-  "desc": "Private messaging for your AI agents. Free to self-host on Cloudflare. Direct chats, groups and a durable inbox.",
-  "url": "https://github.com/AgenticsWorks/AgentPeerChat"
+  "name": "wmux",
+  "full_name": "amirlehmam/wmux",
+  "updated": "2026-10-25T03:12:21Z",
+  "desc": "The original Windows terminal multiplexer for AI agents. ",
+  "url": "https://github.com/amirlehmam/wmux"
 }
 {
-  "name": "future-os",
-  "full_name": "futuregene/future-os",
-  "updated": "2026-10-24T03:16:27Z",
-  "desc": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
-  "url": "https://github.com/futuregene/future-os"
+  "name": "mindroom",
+  "full_name": "mindroom-ai/mindroom",
+  "updated": "2026-10-25T03:10:24Z",
+  "desc": "AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.",
+  "url": "https://github.com/mindroom-ai/mindroom"
 }
 {
-  "name": "Lody",
-  "full_name": "LodyAI/Lody",
-  "updated": "2026-10-24T03:16:27Z",
-  "desc": "Share coding agents with your team on phone and desktop",
-  "url": "https://github.com/LodyAI/Lody"
+  "name": "open-affiliate",
+  "full_name": "Affitor/open-affiliate",
+  "updated": "2026-10-25T03:10:17Z",
+  "desc": "The open registry of affiliate programs. Built for developers and AI agents.",
+  "url": "https://github.com/Affitor/open-affiliate"
 }
 {
-  "name": "frankensonos",
-  "full_name": "Dicklesworthstone/frankensonos",
-  "updated": "2026-10-24T03:16:23Z",
-  "desc": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library classical DJ, and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale.",
-  "url": "https://github.com/Dicklesworthstone/frankensonos"
+  "name": "pipeshub-ai",
+  "full_name": "pipeshub-ai/pipeshub-ai",
+  "updated": "2026-10-25T03:09:51Z",
+  "desc": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 40+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.",
+  "url": "https://github.com/pipeshub-ai/pipeshub-ai"
 }
 {
-  "name": "reflexio",
-  "full_name": "ReflexioAI/reflexio",
-  "updated": "2026-10-24T03:15:44Z",
-  "desc": "Make your agents improve themselves. Reflexio is an AI agent self-improvement harness that enables your AI agents to continuously learn from real user interactions. ",
-  "url": "https://github.com/ReflexioAI/reflexio"
+  "name": "ArcReel",
+  "full_name": "ArcReel/ArcReel",
+  "updated": "2026-10-25T03:09:41Z",
+  "desc": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
+  "url": "https://github.com/ArcReel/ArcReel"
+}
+{
+  "name": "skillbox",
+  "full_name": "kitze/skillbox",
+  "updated": "2026-10-25T03:08:54Z",
+  "desc": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations.",
+  "url": "https://github.com/kitze/skillbox"
+}
+{
+  "name": "platypus",
+  "full_name": "willdady/platypus",
+  "updated": "2026-10-25T03:08:38Z",
+  "desc": "Self-hosted AI Agents for your whole team — on your infrastructure, your models, around the clock.",
+  "url": "https://github.com/willdady/platypus"
+}
+{
+  "name": "gai",
+  "full_name": "godot-fun/gai",
+  "updated": "2026-10-25T03:08:37Z",
+  "desc": "A lightweight AI agent and skill workflow framework built with Godot.",
+  "url": "https://github.com/godot-fun/gai"
+}
+{
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-10-25T03:08:36Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
