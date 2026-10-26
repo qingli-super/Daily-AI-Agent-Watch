@@ -1,70 +1,70 @@
 {
+  "name": "genoffice",
+  "full_name": "genspark-ai/genoffice",
+  "updated": "2026-10-26T03:14:07Z",
+  "desc": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
+  "url": "https://github.com/genspark-ai/genoffice"
+}
+{
   "name": "beancount-io",
   "full_name": "bex-co/beancount-io",
-  "updated": "2026-10-25T03:13:10Z",
+  "updated": "2026-10-26T03:14:04Z",
   "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
   "url": "https://github.com/bex-co/beancount-io"
 }
 {
-  "name": "wmux",
-  "full_name": "amirlehmam/wmux",
-  "updated": "2026-10-25T03:12:21Z",
-  "desc": "The original Windows terminal multiplexer for AI agents. ",
-  "url": "https://github.com/amirlehmam/wmux"
+  "name": "pragma",
+  "full_name": "pqpo/pragma",
+  "updated": "2026-10-26T03:13:22Z",
+  "desc": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows — then bring them into Codex, Claude Code, or any AI system you build. 构建跨 harness 和模型的可移植 Agent Team，共享记忆、技能、工具和工作流，一次构建，接入 Codex、Claude Code 或任何 AI 系统。",
+  "url": "https://github.com/pqpo/pragma"
+}
+{
+  "name": "surf-cli",
+  "full_name": "nicobailon/surf-cli",
+  "updated": "2026-10-26T03:13:23Z",
+  "desc": "The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested.",
+  "url": "https://github.com/nicobailon/surf-cli"
 }
 {
   "name": "mindroom",
   "full_name": "mindroom-ai/mindroom",
-  "updated": "2026-10-25T03:10:24Z",
+  "updated": "2026-10-26T03:13:11Z",
   "desc": "AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.",
   "url": "https://github.com/mindroom-ai/mindroom"
 }
 {
-  "name": "open-affiliate",
-  "full_name": "Affitor/open-affiliate",
-  "updated": "2026-10-25T03:10:17Z",
-  "desc": "The open registry of affiliate programs. Built for developers and AI agents.",
-  "url": "https://github.com/Affitor/open-affiliate"
+  "name": "local-operator",
+  "full_name": "damianvtran/local-operator",
+  "updated": "2026-10-26T03:12:56Z",
+  "desc": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background around the clock, and share your existing AI subscriptions.",
+  "url": "https://github.com/damianvtran/local-operator"
 }
 {
-  "name": "pipeshub-ai",
-  "full_name": "pipeshub-ai/pipeshub-ai",
-  "updated": "2026-10-25T03:09:51Z",
-  "desc": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 40+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.",
-  "url": "https://github.com/pipeshub-ai/pipeshub-ai"
+  "name": "answer-me-with-html",
+  "full_name": "QingYunA/answer-me-with-html",
+  "updated": "2026-10-26T03:12:39Z",
+  "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+  "url": "https://github.com/QingYunA/answer-me-with-html"
 }
 {
-  "name": "ArcReel",
-  "full_name": "ArcReel/ArcReel",
-  "updated": "2026-10-25T03:09:41Z",
-  "desc": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
-  "url": "https://github.com/ArcReel/ArcReel"
+  "name": "Operit2",
+  "full_name": "AAswordman/Operit2",
+  "updated": "2026-10-26T03:12:40Z",
+  "desc": "全平台的AI Agent智能体，在各个平台都有极强的适配性，支持跨平台数据同步",
+  "url": "https://github.com/AAswordman/Operit2"
 }
 {
-  "name": "skillbox",
-  "full_name": "kitze/skillbox",
-  "updated": "2026-10-25T03:08:54Z",
-  "desc": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations.",
-  "url": "https://github.com/kitze/skillbox"
+  "name": "awesome-agent-skills",
+  "full_name": "JackyST0/awesome-agent-skills",
+  "updated": "2026-10-26T03:12:12Z",
+  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
+  "url": "https://github.com/JackyST0/awesome-agent-skills"
 }
 {
-  "name": "platypus",
-  "full_name": "willdady/platypus",
-  "updated": "2026-10-25T03:08:38Z",
-  "desc": "Self-hosted AI Agents for your whole team — on your infrastructure, your models, around the clock.",
-  "url": "https://github.com/willdady/platypus"
-}
-{
-  "name": "gai",
-  "full_name": "godot-fun/gai",
-  "updated": "2026-10-25T03:08:37Z",
-  "desc": "A lightweight AI agent and skill workflow framework built with Godot.",
-  "url": "https://github.com/godot-fun/gai"
-}
-{
-  "name": "cherry-studio",
-  "full_name": "CherryHQ/cherry-studio",
-  "updated": "2026-10-25T03:08:36Z",
-  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-  "url": "https://github.com/CherryHQ/cherry-studio"
+  "name": "Sponsio",
+  "full_name": "SponsioLabs/Sponsio",
+  "updated": "2026-10-26T03:11:28Z",
+  "desc": "Deterministic safety solutions for probabilistic AI agents",
+  "url": "https://github.com/SponsioLabs/Sponsio"
 }
