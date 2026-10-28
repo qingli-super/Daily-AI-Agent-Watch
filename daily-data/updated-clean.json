@@ -1,70 +1,70 @@
 {
-  "name": "airbyte",
-  "full_name": "airbytehq/airbyte",
-  "updated": "2026-10-27T03:43:43Z",
-  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
-  "url": "https://github.com/airbytehq/airbyte"
-}
-{
-  "name": "XActions",
-  "full_name": "nirholas/XActions",
-  "updated": "2026-10-27T03:43:40Z",
-  "desc": "⚡ The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open source. Unfollow people who don't follow back. Monitor real-time analytics. Auto follow, like, comment, scrape, without API. Follow Bot. Like bot. Grow your account automatically. ",
-  "url": "https://github.com/nirholas/XActions"
-}
-{
   "name": "loopx",
   "full_name": "loopx-project/loopx",
-  "updated": "2026-10-27T03:43:29Z",
+  "updated": "2026-10-28T03:59:53Z",
   "desc": "Turn long-horizon goals into verifiable results. A local-first semantic control plane and research workbench for long-running agent teams, across sessions and runtimes.",
   "url": "https://github.com/loopx-project/loopx"
 }
 {
-  "name": "mindroom",
-  "full_name": "mindroom-ai/mindroom",
-  "updated": "2026-10-27T03:43:16Z",
-  "desc": "AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.",
-  "url": "https://github.com/mindroom-ai/mindroom"
+  "name": "Sage",
+  "full_name": "ZHangZHengEric/Sage",
+  "updated": "2026-10-28T03:59:40Z",
+  "desc": "An RSI Agent Harness for running, evaluating, and evolving agents—with tools, skills, MCP, stateful execution, and multi-agent workflows.",
+  "url": "https://github.com/ZHangZHengEric/Sage"
 }
 {
-  "name": "Adelie",
-  "full_name": "lmliheng/Adelie",
-  "updated": "2026-10-27T03:43:06Z",
-  "desc": "A local-first multi-agent app development platform, built on PenguinHarness",
-  "url": "https://github.com/lmliheng/Adelie"
+  "name": "beancount-io",
+  "full_name": "bex-co/beancount-io",
+  "updated": "2026-10-28T03:59:30Z",
+  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
+  "url": "https://github.com/bex-co/beancount-io"
 }
 {
-  "name": "hol-guard",
-  "full_name": "hashgraph-online/hol-guard",
-  "updated": "2026-10-27T03:42:38Z",
-  "desc": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
-  "url": "https://github.com/hashgraph-online/hol-guard"
+  "name": "agents-can-communicate",
+  "full_name": "automatis-tools/agents-can-communicate",
+  "updated": "2026-10-28T03:58:42Z",
+  "desc": "Messages between AI coding sessions in different vendors' clients, such as Claude Code and Codex. Local, open source, no lead agent. https://getacc.dev",
+  "url": "https://github.com/automatis-tools/agents-can-communicate"
 }
 {
-  "name": "octo-agent",
-  "full_name": "open-octo/octo-agent",
-  "updated": "2026-10-27T03:42:27Z",
-  "desc": "Open-source, single-binary, self-hosted AI agent — your models and data stay on your machine. A coding agent on par with Claude Code and a personal assistant lighter than OpenClaw, across eight interfaces (TUI, CLI, Web, desktop, IM, VS Code, Obsidian, Mobile), all in one MIT-licensed Go binary running on any model.",
-  "url": "https://github.com/open-octo/octo-agent"
+  "name": "paperclip",
+  "full_name": "paperclipai/paperclip",
+  "updated": "2026-10-28T03:59:46Z",
+  "desc": "The open-source app everyone uses to manage agents at work",
+  "url": "https://github.com/paperclipai/paperclip"
 }
 {
-  "name": "zhin",
-  "full_name": "zhinjs/zhin",
-  "updated": "2026-10-27T03:42:13Z",
-  "desc": "AI-native TypeScript bot framework — one codebase for 20+ chat platforms (QQ, Discord, Telegram, Slack, WeChat…). Opt-in AI agent with MCP, tools & security policies. <10MB core.",
-  "url": "https://github.com/zhinjs/zhin"
+  "name": "jiuwenswarm",
+  "full_name": "openJiuwen-ai/jiuwenswarm",
+  "updated": "2026-10-28T03:58:32Z",
+  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
+  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
 }
 {
-  "name": "GraphCode",
-  "full_name": "scgopi/GraphCode",
-  "updated": "2026-10-27T03:42:09Z",
-  "desc": "Graph Engineering, simplified — with GraphCode. #graphcode",
-  "url": "https://github.com/scgopi/GraphCode"
+  "name": "kicad-mcp-pro",
+  "full_name": "oaslananka/kicad-mcp-pro",
+  "updated": "2026-10-28T03:58:27Z",
+  "desc": "MCP server for KiCad, connecting AI agents to schematic and PCB workflows, ERC/DRC validation, DFM checks, BOM analysis, and manufacturing preparation—with controlled edits and human-gated release workflows.",
+  "url": "https://github.com/oaslananka/kicad-mcp-pro"
 }
 {
-  "name": "walrus-memory",
-  "full_name": "MystenLabs/walrus-memory",
-  "updated": "2026-10-27T03:41:26Z",
-  "desc": "A portable memory layer that makes AI agents reliable across apps and sessions. Persistent, verifiable, and fully under your control.",
-  "url": "https://github.com/MystenLabs/walrus-memory"
+  "name": "Cotal",
+  "full_name": "Cotal-AI/Cotal",
+  "updated": "2026-10-28T03:58:09Z",
+  "desc": "The open standard for agent coordination",
+  "url": "https://github.com/Cotal-AI/Cotal"
+}
+{
+  "name": "openagent",
+  "full_name": "Haohao-end/openagent",
+  "updated": "2026-10-28T03:57:48Z",
+  "desc": "What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation. ",
+  "url": "https://github.com/Haohao-end/openagent"
+}
+{
+  "name": "omnigent",
+  "full_name": "omnigent-ai/omnigent",
+  "updated": "2026-10-28T03:58:11Z",
+  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+  "url": "https://github.com/omnigent-ai/omnigent"
 }
