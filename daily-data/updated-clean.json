@@ -1,70 +1,70 @@
 {
-  "name": "loopx",
-  "full_name": "loopx-project/loopx",
-  "updated": "2026-10-28T03:59:53Z",
-  "desc": "Turn long-horizon goals into verifiable results. A local-first semantic control plane and research workbench for long-running agent teams, across sessions and runtimes.",
-  "url": "https://github.com/loopx-project/loopx"
-}
-{
-  "name": "Sage",
-  "full_name": "ZHangZHengEric/Sage",
-  "updated": "2026-10-28T03:59:40Z",
-  "desc": "An RSI Agent Harness for running, evaluating, and evolving agents—with tools, skills, MCP, stateful execution, and multi-agent workflows.",
-  "url": "https://github.com/ZHangZHengEric/Sage"
+  "name": "wispterm",
+  "full_name": "xuzhougeng/wispterm",
+  "updated": "2026-10-29T04:23:49Z",
+  "desc": "A cross-platform terminal workspace for remote development and AI agent workflows, powered by libghostty-vt",
+  "url": "https://github.com/xuzhougeng/wispterm"
 }
 {
   "name": "beancount-io",
   "full_name": "bex-co/beancount-io",
-  "updated": "2026-10-28T03:59:30Z",
+  "updated": "2026-10-29T04:23:18Z",
   "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
   "url": "https://github.com/bex-co/beancount-io"
 }
 {
-  "name": "agents-can-communicate",
-  "full_name": "automatis-tools/agents-can-communicate",
-  "updated": "2026-10-28T03:58:42Z",
-  "desc": "Messages between AI coding sessions in different vendors' clients, such as Claude Code and Codex. Local, open source, no lead agent. https://getacc.dev",
-  "url": "https://github.com/automatis-tools/agents-can-communicate"
+  "name": "teamclu",
+  "full_name": "different-ai-studio/teamclu",
+  "updated": "2026-10-29T04:23:07Z",
+  "desc": "TeamClu, AI Agent Desktop Workspace",
+  "url": "https://github.com/different-ai-studio/teamclu"
 }
 {
-  "name": "paperclip",
-  "full_name": "paperclipai/paperclip",
-  "updated": "2026-10-28T03:59:46Z",
-  "desc": "The open-source app everyone uses to manage agents at work",
-  "url": "https://github.com/paperclipai/paperclip"
+  "name": "openharness",
+  "full_name": "autonomous-ai/openharness",
+  "updated": "2026-10-29T04:22:19Z",
+  "desc": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with code, then follow your curiosity and build across disciplines: CAD, circuits, robots, games and music.",
+  "url": "https://github.com/autonomous-ai/openharness"
 }
 {
-  "name": "jiuwenswarm",
-  "full_name": "openJiuwen-ai/jiuwenswarm",
-  "updated": "2026-10-28T03:58:32Z",
-  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
-  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
+  "name": "agent-speed",
+  "full_name": "zoefix/agent-speed",
+  "updated": "2026-10-29T04:22:07Z",
+  "desc": "Agent Speed — A lightweight, real-time token speed monitor for Codex and Claude Code. Track tokens per second (TPS), detect slowdowns, and monitor AI agent performance at a glance.",
+  "url": "https://github.com/zoefix/agent-speed"
 }
 {
-  "name": "kicad-mcp-pro",
-  "full_name": "oaslananka/kicad-mcp-pro",
-  "updated": "2026-10-28T03:58:27Z",
-  "desc": "MCP server for KiCad, connecting AI agents to schematic and PCB workflows, ERC/DRC validation, DFM checks, BOM analysis, and manufacturing preparation—with controlled edits and human-gated release workflows.",
-  "url": "https://github.com/oaslananka/kicad-mcp-pro"
+  "name": "walrus-memory",
+  "full_name": "MystenLabs/walrus-memory",
+  "updated": "2026-10-29T04:22:04Z",
+  "desc": "A portable memory layer that makes AI agents reliable across apps and sessions. Persistent, verifiable, and fully under your control.",
+  "url": "https://github.com/MystenLabs/walrus-memory"
 }
 {
-  "name": "Cotal",
-  "full_name": "Cotal-AI/Cotal",
-  "updated": "2026-10-28T03:58:09Z",
-  "desc": "The open standard for agent coordination",
-  "url": "https://github.com/Cotal-AI/Cotal"
+  "name": "niubash",
+  "full_name": "unixwin/niubash",
+  "updated": "2026-10-29T04:21:57Z",
+  "desc": "AI-native bash for humans and AI agents: real bash syntax, real Unix commands (winuxcmd), real git via niu-git. Native Windows/Linux/macOS - no WSL, no MSYS, no POSIX emulation.",
+  "url": "https://github.com/unixwin/niubash"
 }
 {
-  "name": "openagent",
-  "full_name": "Haohao-end/openagent",
-  "updated": "2026-10-28T03:57:48Z",
-  "desc": "What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation. ",
-  "url": "https://github.com/Haohao-end/openagent"
+  "name": "busbar",
+  "full_name": "GetBusbar/busbar",
+  "updated": "2026-10-29T04:22:51Z",
+  "desc": "Mirror of https://git.getbusbar.dev/GetBusbar/busbar. Read-only; contribute on Forgejo. The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream action—while keeping your native protocols intact: six native LLM protocols in, six native LLM protocols out.",
+  "url": "https://github.com/GetBusbar/busbar"
 }
 {
-  "name": "omnigent",
-  "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-10-28T03:58:11Z",
-  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-  "url": "https://github.com/omnigent-ai/omnigent"
+  "name": "Lody",
+  "full_name": "LodyAI/Lody",
+  "updated": "2026-10-29T04:21:34Z",
+  "desc": "Share coding agents with your team on phone and desktop",
+  "url": "https://github.com/LodyAI/Lody"
+}
+{
+  "name": "pydantic-ai",
+  "full_name": "pydantic/pydantic-ai",
+  "updated": "2026-10-29T04:21:29Z",
+  "desc": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+  "url": "https://github.com/pydantic/pydantic-ai"
 }
