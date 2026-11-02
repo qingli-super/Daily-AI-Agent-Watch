@@ -1,70 +1,70 @@
 {
+  "name": "Douyin_TikTok_Download_API",
+  "full_name": "Evil0ctal/Douyin_TikTok_Download_API",
+  "updated": "2026-11-02T04:27:23Z",
+  "desc": "🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agents, CLI and web console, plus offline speech-to-text for downloaded videos. Self-healing identity pool, PostgreSQL archive, one docker compose up.",
+  "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API"
+}
+{
+  "name": "beancount-io",
+  "full_name": "bex-co/beancount-io",
+  "updated": "2026-11-02T04:27:12Z",
+  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
+  "url": "https://github.com/bex-co/beancount-io"
+}
+{
   "name": "commonly",
   "full_name": "Team-Commonly/commonly",
-  "updated": "2026-11-01T04:25:39Z",
+  "updated": "2026-11-02T04:27:04Z",
   "desc": "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source (Apache-2.0), self-hostable.",
   "url": "https://github.com/Team-Commonly/commonly"
 }
 {
-  "name": "ai-native-callcenter",
-  "full_name": "rasonyang/ai-native-callcenter",
-  "updated": "2026-11-01T04:25:38Z",
-  "desc": "Self-hosted API-first AI call center: AI talks, code controls the call. AI agents answer every call; humans take over without dropping it. Runs on FreeSWITCH with your SIP trunk and realtime model (OpenAI, Grok, Qwen, Doubao, or any compatible gateway). ",
-  "url": "https://github.com/rasonyang/ai-native-callcenter"
+  "name": "comanda",
+  "full_name": "kris-hansen/comanda",
+  "updated": "2026-11-02T04:27:04Z",
+  "desc": "The CLI-native orchestrator for AI agent workflows. Run Claude Code, Codex, Gemini CLI & Kimi Code from declarative YAML. Because the terminal is where real work happens.",
+  "url": "https://github.com/kris-hansen/comanda"
 }
 {
-  "name": "osaurus",
-  "full_name": "osaurus-ai/osaurus",
-  "updated": "2026-11-01T04:25:15Z",
-  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
-  "url": "https://github.com/osaurus-ai/osaurus"
+  "name": "gaia",
+  "full_name": "amd/gaia",
+  "updated": "2026-11-02T04:26:53Z",
+  "desc": "Build AI agents for your PC",
+  "url": "https://github.com/amd/gaia"
 }
 {
-  "name": "Kami",
-  "full_name": "tw93/Kami",
-  "updated": "2026-11-01T04:25:17Z",
-  "desc": "👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.",
-  "url": "https://github.com/tw93/Kami"
+  "name": "Deepseek-Harness-Local-Android",
+  "full_name": "Soodok/Deepseek-Harness-Local-Android",
+  "updated": "2026-11-02T04:26:39Z",
+  "desc": "Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included | 手机本地运行 DeepSeek Agent，免 Root 免 Termux",
+  "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
 }
 {
-  "name": "Agent-Reach",
-  "full_name": "Panniantong/Agent-Reach",
-  "updated": "2026-11-01T04:24:46Z",
-  "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-  "url": "https://github.com/Panniantong/Agent-Reach"
+  "name": "akb",
+  "full_name": "dnotitia/akb",
+  "updated": "2026-11-02T04:26:39Z",
+  "desc": "AKB — Agent Knowledgebase. Organizational memory for AI agents: vault-scoped docs / tables / files unified by URI graph, served over MCP.",
+  "url": "https://github.com/dnotitia/akb"
 }
 {
-  "name": "agent-wechat",
-  "full_name": "thisnick/agent-wechat",
-  "updated": "2026-11-01T04:24:36Z",
-  "desc": "A native, open-source WeChat client for desktop, CLI, and AI agents.",
-  "url": "https://github.com/thisnick/agent-wechat"
+  "name": "hol-guard",
+  "full_name": "hashgraph-online/hol-guard",
+  "updated": "2026-11-02T04:26:25Z",
+  "desc": "Open-source antivirus and firewall for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
+  "url": "https://github.com/hashgraph-online/hol-guard"
 }
 {
-  "name": "smithers",
-  "full_name": "smithersai/smithers",
-  "updated": "2026-11-01T04:24:21Z",
-  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
-  "url": "https://github.com/smithersai/smithers"
+  "name": "openclacky",
+  "full_name": "clacky-ai/openclacky",
+  "updated": "2026-11-02T04:26:14Z",
+  "desc": "The most Token-efficient open-source AI Agent",
+  "url": "https://github.com/clacky-ai/openclacky"
 }
 {
-  "name": "agent-network",
-  "full_name": "sleep2agi/agent-network",
-  "updated": "2026-11-01T04:24:14Z",
-  "desc": "助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / OpenAI / xAI / MiniMax / DeepSeek / GLM / Kimi / 书生 / 小米 MiMo），自带 Web Dashboard，Apache 2.0 开源。",
-  "url": "https://github.com/sleep2agi/agent-network"
-}
-{
-  "name": "iphone-use",
-  "full_name": "leeguooooo/iphone-use",
-  "updated": "2026-11-01T04:24:04Z",
-  "desc": "响应快 省Token， Let AI agents (Claude Code, Codex, any MCP client) drive a real iPhone · 让 AI agent 操作真实 iPhone：读屏、点击、输入、滑动，USB 或 Wi-Fi，自有 XCTest runner，可回放的 App flow。Open source, self-hosted on macOS.",
-  "url": "https://github.com/leeguooooo/iphone-use"
-}
-{
-  "name": "paperclip",
-  "full_name": "paperclipai/paperclip",
-  "updated": "2026-11-01T04:25:15Z",
-  "desc": "The open-source app everyone uses to manage agents at work",
-  "url": "https://github.com/paperclipai/paperclip"
+  "name": "bloks",
+  "full_name": "hamedgitty/bloks",
+  "updated": "2026-11-02T04:26:22Z",
+  "desc": "A local-first desktop app for running a team of AI agents on Claude Code, Codex, Cursor, Cline and more, on your own computer.",
+  "url": "https://github.com/hamedgitty/bloks"
 }
