@@ -1,70 +1,70 @@
 {
-  "name": "Douyin_TikTok_Download_API",
-  "full_name": "Evil0ctal/Douyin_TikTok_Download_API",
-  "updated": "2026-11-02T04:27:23Z",
-  "desc": "🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agents, CLI and web console, plus offline speech-to-text for downloaded videos. Self-healing identity pool, PostgreSQL archive, one docker compose up.",
-  "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API"
+  "name": "gai",
+  "full_name": "godot-fun/gai",
+  "updated": "2026-11-03T05:22:01Z",
+  "desc": "A lightweight AI agent and skill workflow framework built with Godot.",
+  "url": "https://github.com/godot-fun/gai"
 }
 {
-  "name": "beancount-io",
-  "full_name": "bex-co/beancount-io",
-  "updated": "2026-11-02T04:27:12Z",
-  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
-  "url": "https://github.com/bex-co/beancount-io"
+  "name": "emisar",
+  "full_name": "AndrewDryga/emisar",
+  "updated": "2026-11-03T05:21:24Z",
+  "desc": "Let AI agents investigate and operate infrastructure through declared actions, bounded by policy and host-side checks. Approvals when required, with an audit trail. By Protectorate.",
+  "url": "https://github.com/AndrewDryga/emisar"
 }
 {
-  "name": "commonly",
-  "full_name": "Team-Commonly/commonly",
-  "updated": "2026-11-02T04:27:04Z",
-  "desc": "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source (Apache-2.0), self-hostable.",
-  "url": "https://github.com/Team-Commonly/commonly"
+  "name": "three.ws",
+  "full_name": "nirholas/three.ws",
+  "updated": "2026-11-03T05:21:24Z",
+  "desc": "Give your AI agent a 3D body: text or a photo to a rigged GLB avatar, an LLM brain, a Solana wallet and a one-tag embed. Keyless MCP server for Claude, Cursor and Codex. 50k+ models forged.",
+  "url": "https://github.com/nirholas/three.ws"
 }
 {
-  "name": "comanda",
-  "full_name": "kris-hansen/comanda",
-  "updated": "2026-11-02T04:27:04Z",
-  "desc": "The CLI-native orchestrator for AI agent workflows. Run Claude Code, Codex, Gemini CLI & Kimi Code from declarative YAML. Because the terminal is where real work happens.",
-  "url": "https://github.com/kris-hansen/comanda"
+  "name": "wmux",
+  "full_name": "openwong2kim/wmux",
+  "updated": "2026-11-03T05:21:15Z",
+  "desc": "The ADE for AI agents. Automate everything else. Do your true work.",
+  "url": "https://github.com/openwong2kim/wmux"
 }
 {
-  "name": "gaia",
-  "full_name": "amd/gaia",
-  "updated": "2026-11-02T04:26:53Z",
-  "desc": "Build AI agents for your PC",
-  "url": "https://github.com/amd/gaia"
+  "name": "retail-shopping-assistant",
+  "full_name": "NVIDIA-AI-Blueprints/retail-shopping-assistant",
+  "updated": "2026-11-03T05:20:56Z",
+  "desc": "The Retail Shopping Assistant is an AI-powered blueprint that provides a comprehensive interface for an intelligent retail shopping advisor. Built with LangGraph for agent orchestration, it features multi-agent architecture, real-time streaming responses, image-based search, and intelligent shopping cart management.",
+  "url": "https://github.com/NVIDIA-AI-Blueprints/retail-shopping-assistant"
 }
 {
-  "name": "Deepseek-Harness-Local-Android",
-  "full_name": "Soodok/Deepseek-Harness-Local-Android",
-  "updated": "2026-11-02T04:26:39Z",
-  "desc": "Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included | 手机本地运行 DeepSeek Agent，免 Root 免 Termux",
-  "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  "name": "Orkas",
+  "full_name": "Orkas-AI/Orkas",
+  "updated": "2026-11-03T05:22:29Z",
+  "desc": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+  "url": "https://github.com/Orkas-AI/Orkas"
 }
 {
-  "name": "akb",
-  "full_name": "dnotitia/akb",
-  "updated": "2026-11-02T04:26:39Z",
-  "desc": "AKB — Agent Knowledgebase. Organizational memory for AI agents: vault-scoped docs / tables / files unified by URI graph, served over MCP.",
-  "url": "https://github.com/dnotitia/akb"
+  "name": "Claude-of-Tanks",
+  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
+  "updated": "2026-11-03T05:20:48Z",
+  "desc": "A World of Tanks-style armored combat simulator built directly with Three.js and Vite: 220 vehicles, 33 destructible battlefields, and 13 modes, with plate-level armor, ballistics, modules, spotting, and physics. Play in your browser on desktop or mobile. Built end-to-end by a multi-agent Claude/Codex pipeline.",
+  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
 }
 {
-  "name": "hol-guard",
-  "full_name": "hashgraph-online/hol-guard",
-  "updated": "2026-11-02T04:26:25Z",
-  "desc": "Open-source antivirus and firewall for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
-  "url": "https://github.com/hashgraph-online/hol-guard"
+  "name": "VenusFactory2",
+  "full_name": "ai4protein/VenusFactory2",
+  "updated": "2026-11-03T05:20:35Z",
+  "desc": "🏭 AI agent platform with skills for protein engineering, the noob-friendly AI tutorial tool for life science professionals. (ACL Demo2025, arXiv 2026)",
+  "url": "https://github.com/ai4protein/VenusFactory2"
 }
 {
-  "name": "openclacky",
-  "full_name": "clacky-ai/openclacky",
-  "updated": "2026-11-02T04:26:14Z",
-  "desc": "The most Token-efficient open-source AI Agent",
-  "url": "https://github.com/clacky-ai/openclacky"
+  "name": "airbyte",
+  "full_name": "airbytehq/airbyte",
+  "updated": "2026-11-03T05:20:24Z",
+  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
+  "url": "https://github.com/airbytehq/airbyte"
 }
 {
-  "name": "bloks",
-  "full_name": "hamedgitty/bloks",
-  "updated": "2026-11-02T04:26:22Z",
-  "desc": "A local-first desktop app for running a team of AI agents on Claude Code, Codex, Cursor, Cline and more, on your own computer.",
-  "url": "https://github.com/hamedgitty/bloks"
+  "name": "ekko-studio",
+  "full_name": "EKKOLearnAI/ekko-studio",
+  "updated": "2026-11-03T05:20:18Z",
+  "desc": "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
+  "url": "https://github.com/EKKOLearnAI/ekko-studio"
 }
