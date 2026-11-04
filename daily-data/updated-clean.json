@@ -1,70 +1,70 @@
 {
-  "name": "gai",
-  "full_name": "godot-fun/gai",
-  "updated": "2026-11-03T05:22:01Z",
-  "desc": "A lightweight AI agent and skill workflow framework built with Godot.",
-  "url": "https://github.com/godot-fun/gai"
+  "name": "smithers",
+  "full_name": "smithersai/smithers",
+  "updated": "2026-11-04T04:51:21Z",
+  "desc": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
+  "url": "https://github.com/smithersai/smithers"
 }
 {
-  "name": "emisar",
-  "full_name": "AndrewDryga/emisar",
-  "updated": "2026-11-03T05:21:24Z",
-  "desc": "Let AI agents investigate and operate infrastructure through declared actions, bounded by policy and host-side checks. Approvals when required, with an audit trail. By Protectorate.",
-  "url": "https://github.com/AndrewDryga/emisar"
+  "name": "opentakeoff",
+  "full_name": "Kentucky-ai/opentakeoff",
+  "updated": "2026-11-04T04:51:02Z",
+  "desc": "Open-source (AGPL-3.0) PDF takeoff for construction & flooring — the first engine an AI agent drives natively over MCP, not bolted on. Rooms measured on the wall faces, symbol sweeps, materials + quantities with full provenance, built for preconstruction. Runs entirely in your browser.",
+  "url": "https://github.com/Kentucky-ai/opentakeoff"
 }
 {
-  "name": "three.ws",
-  "full_name": "nirholas/three.ws",
-  "updated": "2026-11-03T05:21:24Z",
-  "desc": "Give your AI agent a 3D body: text or a photo to a rigged GLB avatar, an LLM brain, a Solana wallet and a one-tag embed. Keyless MCP server for Claude, Cursor and Codex. 50k+ models forged.",
-  "url": "https://github.com/nirholas/three.ws"
+  "name": "paperclip",
+  "full_name": "paperclipai/paperclip",
+  "updated": "2026-11-04T04:51:05Z",
+  "desc": "The open-source app everyone uses to manage agents at work",
+  "url": "https://github.com/paperclipai/paperclip"
 }
 {
-  "name": "wmux",
-  "full_name": "openwong2kim/wmux",
-  "updated": "2026-11-03T05:21:15Z",
-  "desc": "The ADE for AI agents. Automate everything else. Do your true work.",
-  "url": "https://github.com/openwong2kim/wmux"
+  "name": "cli-agent-orchestrator",
+  "full_name": "awslabs/cli-agent-orchestrator",
+  "updated": "2026-11-04T04:50:34Z",
+  "desc": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
+  "url": "https://github.com/awslabs/cli-agent-orchestrator"
 }
 {
-  "name": "retail-shopping-assistant",
-  "full_name": "NVIDIA-AI-Blueprints/retail-shopping-assistant",
-  "updated": "2026-11-03T05:20:56Z",
-  "desc": "The Retail Shopping Assistant is an AI-powered blueprint that provides a comprehensive interface for an intelligent retail shopping advisor. Built with LangGraph for agent orchestration, it features multi-agent architecture, real-time streaming responses, image-based search, and intelligent shopping cart management.",
-  "url": "https://github.com/NVIDIA-AI-Blueprints/retail-shopping-assistant"
+  "name": "floe-agent",
+  "full_name": "JiangNanGenius/floe-agent",
+  "updated": "2026-11-04T04:49:45Z",
+  "desc": "iPad-first, open-source iOS AI Agent with native on-device 3D/CAD editing, iPhone support and Android alpha. On-device Linux, terminal, Python/Node.js, Git and web previews; BYOK AI, Notes, Office, Canvas, voice, Skill Hub and supported local models on iOS. 开源设备端 AI 智能体工作台。",
+  "url": "https://github.com/JiangNanGenius/floe-agent"
 }
 {
-  "name": "Orkas",
-  "full_name": "Orkas-AI/Orkas",
-  "updated": "2026-11-03T05:22:29Z",
-  "desc": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-  "url": "https://github.com/Orkas-AI/Orkas"
+  "name": "coral",
+  "full_name": "subgentic/coral",
+  "updated": "2026-11-04T04:49:35Z",
+  "desc": "Agentic IDE for Claude Code, Codex CLI, Antigravity CLI, and Pi.dev",
+  "url": "https://github.com/subgentic/coral"
 }
 {
-  "name": "Claude-of-Tanks",
-  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
-  "updated": "2026-11-03T05:20:48Z",
-  "desc": "A World of Tanks-style armored combat simulator built directly with Three.js and Vite: 220 vehicles, 33 destructible battlefields, and 13 modes, with plate-level armor, ballistics, modules, spotting, and physics. Play in your browser on desktop or mobile. Built end-to-end by a multi-agent Claude/Codex pipeline.",
-  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
+  "name": "openharness",
+  "full_name": "autonomous-ai/openharness",
+  "updated": "2026-11-04T04:49:16Z",
+  "desc": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with code, then follow your curiosity and build across disciplines: CAD, circuits, robots, games and music.",
+  "url": "https://github.com/autonomous-ai/openharness"
 }
 {
-  "name": "VenusFactory2",
-  "full_name": "ai4protein/VenusFactory2",
-  "updated": "2026-11-03T05:20:35Z",
-  "desc": "🏭 AI agent platform with skills for protein engineering, the noob-friendly AI tutorial tool for life science professionals. (ACL Demo2025, arXiv 2026)",
-  "url": "https://github.com/ai4protein/VenusFactory2"
+  "name": "ZimZilla",
+  "full_name": "Mr-Destroyer/ZimZilla",
+  "updated": "2026-11-04T04:49:05Z",
+  "desc": "THE MOST POWERFUL OFFENSIVE AI AGENT FOR PENTESTING , OSINT , AND ETHICAL HACKING ",
+  "url": "https://github.com/Mr-Destroyer/ZimZilla"
 }
 {
-  "name": "airbyte",
-  "full_name": "airbytehq/airbyte",
-  "updated": "2026-11-03T05:20:24Z",
-  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
-  "url": "https://github.com/airbytehq/airbyte"
+  "name": "agentic-awesome-skills",
+  "full_name": "sickn33/agentic-awesome-skills",
+  "updated": "2026-11-04T04:48:10Z",
+  "desc": "2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
+  "url": "https://github.com/sickn33/agentic-awesome-skills"
 }
 {
-  "name": "ekko-studio",
-  "full_name": "EKKOLearnAI/ekko-studio",
-  "updated": "2026-11-03T05:20:18Z",
-  "desc": "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
-  "url": "https://github.com/EKKOLearnAI/ekko-studio"
+  "name": "awesome-grokbot-playbooks",
+  "full_name": "sit-in/awesome-grokbot-playbooks",
+  "updated": "2026-11-04T04:47:57Z",
+  "desc": "中文 Grok Bot 玩法与可抄配方清单：作战室、雷达 Routine、额度体检… 由 Grok Bot + Claude 协作维护 | Chinese-first Grok Bot playbooks",
+  "url": "https://github.com/sit-in/awesome-grokbot-playbooks"
 }
