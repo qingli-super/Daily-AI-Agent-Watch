@@ -1,70 +1,70 @@
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-11-05T05:07:40Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "Lexora",
+  "full_name": "useLexora/Lexora",
+  "updated": "2026-11-06T05:07:04Z",
+  "desc": "A self-evolved, sovereign desktop AI agent built for real-world action — beyond model wrappers and coding copilots. / 真实实践中自我演化的独立桌面 AI Agent。",
+  "url": "https://github.com/useLexora/Lexora"
 }
 {
-  "name": "Locals",
-  "full_name": "Generated-Computers/Locals",
-  "updated": "2026-11-05T05:07:20Z",
-  "desc": "Run many AI agents at once on your Mac, up to 3x faster.",
-  "url": "https://github.com/Generated-Computers/Locals"
+  "name": "reflexio",
+  "full_name": "ReflexioAI/reflexio",
+  "updated": "2026-11-06T05:06:43Z",
+  "desc": "Make your agents improve themselves. Reflexio is an AI agent self-improvement harness that enables your AI agents to continuously learn from real user interactions. ",
+  "url": "https://github.com/ReflexioAI/reflexio"
 }
 {
-  "name": "ankole",
-  "full_name": "AgentBull/ankole",
-  "updated": "2026-11-05T05:06:06Z",
-  "desc": "The open source Agent Harness with a Company Brain. Self-hosted AI Agents for Slack, Teams, Lark, DingTalk, WeCom, and more. An open source alternative to Claude Tag.",
-  "url": "https://github.com/AgentBull/ankole"
+  "name": "dexto",
+  "full_name": "truffle-ai/dexto",
+  "updated": "2026-11-06T05:06:14Z",
+  "desc": "Agent harness and tookit for building AI agents and agentic applications. CLI and SDKs included",
+  "url": "https://github.com/truffle-ai/dexto"
+}
+{
+  "name": "nanobot",
+  "full_name": "HKUDS/nanobot",
+  "updated": "2026-11-06T05:06:07Z",
+  "desc": "Your lightweight open-source personal agent.",
+  "url": "https://github.com/HKUDS/nanobot"
+}
+{
+  "name": "pi-fabric",
+  "full_name": "fabric-runtime/pi-fabric",
+  "updated": "2026-11-06T05:05:59Z",
+  "desc": "A programmable tool and agent runtime for Pi",
+  "url": "https://github.com/fabric-runtime/pi-fabric"
 }
 {
   "name": "paperclip",
   "full_name": "paperclipai/paperclip",
-  "updated": "2026-11-05T05:07:24Z",
+  "updated": "2026-11-06T05:05:50Z",
   "desc": "The open-source app everyone uses to manage agents at work",
   "url": "https://github.com/paperclipai/paperclip"
 }
 {
-  "name": "fff",
-  "full_name": "dmtrKovalenko/fff",
-  "updated": "2026-11-05T05:05:49Z",
-  "desc": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS",
-  "url": "https://github.com/dmtrKovalenko/fff"
+  "name": "multica",
+  "full_name": "multica-ai/multica",
+  "updated": "2026-11-06T05:05:12Z",
+  "desc": "Make humans and AI agents work as one team — open-source and self-hostable.",
+  "url": "https://github.com/multica-ai/multica"
 }
 {
-  "name": "mcp-github-project-manager",
-  "full_name": "kunwarVivek/mcp-github-project-manager",
-  "updated": "2026-11-05T05:05:12Z",
-  "desc": "MCP server for AI-powered GitHub project management — 20 tools, 169 actions, agent swarm orchestration, GitHub Actions/Releases/Branches, MCP Resources & Prompts, PRD-to-issues pipeline",
-  "url": "https://github.com/kunwarVivek/mcp-github-project-manager"
+  "name": "agent-browser",
+  "full_name": "vercel-labs/agent-browser",
+  "updated": "2026-11-06T05:05:12Z",
+  "desc": "Browser automation CLI for AI agents",
+  "url": "https://github.com/vercel-labs/agent-browser"
 }
 {
-  "name": "Operit2",
-  "full_name": "AAswordman/Operit2",
-  "updated": "2026-11-05T05:05:10Z",
-  "desc": "全平台的AI Agent智能体，在各个平台都有极强的适配性，支持跨平台数据同步",
-  "url": "https://github.com/AAswordman/Operit2"
+  "name": "frankensonos",
+  "full_name": "Dicklesworthstone/frankensonos",
+  "updated": "2026-11-06T05:04:20Z",
+  "desc": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library DJ (classical works play whole), and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale.",
+  "url": "https://github.com/Dicklesworthstone/frankensonos"
 }
 {
-  "name": "awesome-adk-agents",
-  "full_name": "Sri-Krishna-V/awesome-adk-agents",
-  "updated": "2026-11-05T05:05:08Z",
-  "desc": "Curated collection of AI agents built with Google’s Agent Development Kit (ADK): templates, best practices, and production-ready examples for research, business, automation, education, and more.",
-  "url": "https://github.com/Sri-Krishna-V/awesome-adk-agents"
-}
-{
-  "name": "mentedb",
-  "full_name": "nambok/mentedb",
-  "updated": "2026-11-05T05:04:20Z",
-  "desc": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and speculative context pre assembly. Not a wrapper, a ground up storage engine that thinks.",
-  "url": "https://github.com/nambok/mentedb"
-}
-{
-  "name": "omnigent",
-  "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-11-05T05:05:43Z",
-  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-  "url": "https://github.com/omnigent-ai/omnigent"
+  "name": "mcp-debugger",
+  "full_name": "debugmcp/mcp-debugger",
+  "updated": "2026-11-06T05:03:23Z",
+  "desc": "A headless, agentic debugger over MCP — let your AI agents debug running programs in seven languages.",
+  "url": "https://github.com/debugmcp/mcp-debugger"
 }
